@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "weekly",
   "language": "java",
   "count": 20,
@@ -103,7 +103,7 @@
       "description": "Magic tool for pentest from your android device!",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 1315,
+      "stars": 1316,
       "forks": 185,
       "delta_stars": 85,
       "url": "https://github.com/zalexdev/strykerapp"
@@ -259,8 +259,8 @@
       "description": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 6451,
-      "forks": 1578,
+      "stars": 6452,
+      "forks": 1579,
       "delta_stars": 37,
       "url": "https://github.com/00-Evan/shattered-pixel-dungeon"
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "weekly",
   "language": "python",
   "count": 19,
@@ -12,7 +12,7 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 31642,
+      "stars": 31646,
       "forks": 2424,
       "delta_stars": 2444,
       "url": "https://github.com/volcengine/OpenViking"
@@ -25,8 +25,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 113865,
-      "forks": 17277,
+      "stars": 113871,
+      "forks": 17280,
       "delta_stars": 9712,
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
@@ -38,7 +38,7 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 467961,
+      "stars": 467966,
       "forks": 51630,
       "delta_stars": 11259,
       "url": "https://github.com/public-apis/public-apis"
@@ -51,7 +51,7 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 10062,
+      "stars": 10065,
       "forks": 1076,
       "delta_stars": 3674,
       "url": "https://github.com/semantica-agi/semantica"
@@ -64,7 +64,7 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 8330,
+      "stars": 8331,
       "forks": 537,
       "delta_stars": 3409,
       "url": "https://github.com/cactus-compute/needle"
@@ -155,7 +155,7 @@
       "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 2662,
+      "stars": 2663,
       "forks": 394,
       "delta_stars": 1786,
       "url": "https://github.com/MakazhanAlpamys/Soup"
@@ -181,7 +181,7 @@
       "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 13028,
+      "stars": 13027,
       "forks": 2207,
       "delta_stars": 240,
       "url": "https://github.com/microsoft/agent-framework"
@@ -194,7 +194,7 @@
       "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 21324,
+      "stars": 21325,
       "forks": 3432,
       "delta_stars": 724,
       "url": "https://github.com/smicallef/spiderfoot"
@@ -207,7 +207,7 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 56710,
+      "stars": 56711,
       "forks": 6112,
       "delta_stars": 4359,
       "url": "https://github.com/usestrix/strix"
@@ -220,7 +220,7 @@
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 75702,
+      "stars": 75703,
       "forks": 7564,
       "delta_stars": 1783,
       "url": "https://github.com/D4Vinci/Scrapling"

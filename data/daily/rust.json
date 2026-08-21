@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "daily",
   "language": "rust",
   "count": 18,
@@ -12,7 +12,7 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 12883,
+      "stars": 12885,
       "forks": 350,
       "delta_stars": 1372,
       "url": "https://github.com/AprilNEA/OpenLogi"
@@ -25,7 +25,7 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 53186,
+      "stars": 53187,
       "forks": 6065,
       "delta_stars": 127,
       "url": "https://github.com/aaif-goose/goose"
@@ -142,7 +142,7 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 36463,
+      "stars": 36464,
       "forks": 3647,
       "delta_stars": 51,
       "url": "https://github.com/tinyhumansai/openhuman"
@@ -168,8 +168,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 111244,
-      "forks": 17059,
+      "stars": 111247,
+      "forks": 17061,
       "delta_stars": 4156,
       "url": "https://github.com/openai/codex"
     },

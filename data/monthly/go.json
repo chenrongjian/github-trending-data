@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "monthly",
   "language": "go",
   "count": 22,
@@ -64,7 +64,7 @@
       "description": "The Cloud Native Application Proxy",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 64532,
+      "stars": 64533,
       "forks": 6150,
       "delta_stars": 591,
       "url": "https://github.com/traefik/traefik"
@@ -272,7 +272,7 @@
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 35010,
+      "stars": 35011,
       "forks": 2325,
       "delta_stars": 8057,
       "url": "https://github.com/esengine/DeepSeek-Reasonix"
@@ -286,7 +286,7 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stars": 179128,
-      "forks": 17508,
+      "forks": 17507,
       "delta_stars": 3161,
       "url": "https://github.com/ollama/ollama"
     }

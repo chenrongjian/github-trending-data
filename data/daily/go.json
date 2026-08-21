@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "daily",
   "language": "go",
   "count": 23,
@@ -13,7 +13,7 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stars": 110371,
-      "forks": 13740,
+      "forks": 13741,
       "delta_stars": 65,
       "url": "https://github.com/microsoft/TypeScript"
     },
@@ -25,7 +25,7 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 100152,
+      "stars": 100154,
       "forks": 5803,
       "delta_stars": 594,
       "url": "https://github.com/JuliusBrussee/caveman"
@@ -104,7 +104,7 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stars": 7486,
-      "forks": 1086,
+      "forks": 1085,
       "delta_stars": 22,
       "url": "https://github.com/maximhq/bifrost"
     },
@@ -129,7 +129,7 @@
       "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 38537,
+      "stars": 38538,
       "forks": 8003,
       "delta_stars": 689,
       "url": "https://github.com/Wei-Shaw/sub2api"
@@ -233,7 +233,7 @@
       "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 45862,
+      "stars": 45863,
       "forks": 10882,
       "delta_stars": 129,
       "url": "https://github.com/QuantumNous/new-api"

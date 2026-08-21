@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "daily",
   "language": "python",
   "count": 16,
@@ -12,8 +12,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 113865,
-      "forks": 17277,
+      "stars": 113871,
+      "forks": 17280,
       "delta_stars": 1187,
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
@@ -25,7 +25,7 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 38277,
+      "stars": 38279,
       "forks": 3232,
       "delta_stars": 334,
       "url": "https://github.com/PostHog/posthog"
@@ -91,7 +91,7 @@
       "language": "Python",
       "language_color": "#3572A5",
       "stars": 32781,
-      "forks": 11526,
+      "forks": 11527,
       "delta_stars": 225,
       "url": "https://github.com/MadsLorentzen/ai-job-search"
     },
@@ -103,7 +103,7 @@
       "description": "A collection of sample agents built with Agent Development Kit (ADK)",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 10201,
+      "stars": 10202,
       "forks": 2822,
       "delta_stars": 12,
       "url": "https://github.com/google/adk-samples"
@@ -116,7 +116,7 @@
       "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 4621,
+      "stars": 4622,
       "forks": 694,
       "delta_stars": 34,
       "url": "https://github.com/Osmantic/ODS"
@@ -168,7 +168,7 @@
       "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 46463,
+      "stars": 46464,
       "forks": 7681,
       "delta_stars": 167,
       "url": "https://github.com/Alishahryar1/free-claude-code"
@@ -194,7 +194,7 @@
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 75702,
+      "stars": 75703,
       "forks": 7564,
       "delta_stars": 162,
       "url": "https://github.com/D4Vinci/Scrapling"
@@ -207,7 +207,7 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 31642,
+      "stars": 31646,
       "forks": 2424,
       "delta_stars": 659,
       "url": "https://github.com/volcengine/OpenViking"

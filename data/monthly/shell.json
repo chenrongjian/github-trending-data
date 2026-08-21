@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "monthly",
   "language": "shell",
   "count": 16,
@@ -12,7 +12,7 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 27499,
+      "stars": 27503,
       "forks": 2816,
       "delta_stars": 3095,
       "url": "https://github.com/basecamp/omarchy"
@@ -25,7 +25,7 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 229395,
+      "stars": 229402,
       "forks": 19605,
       "delta_stars": 47717,
       "url": "https://github.com/mattpocock/skills"
@@ -38,7 +38,7 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 3901,
+      "stars": 3902,
       "forks": 1279,
       "delta_stars": 2264,
       "url": "https://github.com/kunchenguid/firstmate"
@@ -64,7 +64,7 @@
       "description": "A package build system for Termux.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 16820,
+      "stars": 16821,
       "forks": 4338,
       "delta_stars": 234,
       "url": "https://github.com/termux/termux-packages"
@@ -143,7 +143,7 @@
       "language": "Shell",
       "language_color": "#89e051",
       "stars": 25447,
-      "forks": 2575,
+      "forks": 2576,
       "delta_stars": 568,
       "url": "https://github.com/a2aproject/A2A"
     },
@@ -194,7 +194,7 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 275637,
+      "stars": 275641,
       "forks": 24642,
       "delta_stars": 18453,
       "url": "https://github.com/obra/superpowers"

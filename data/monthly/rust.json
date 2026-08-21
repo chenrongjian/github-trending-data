@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "monthly",
   "language": "rust",
   "count": 22,
@@ -12,8 +12,8 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 29221,
-      "forks": 3692,
+      "stars": 29223,
+      "forks": 3695,
       "delta_stars": 28701,
       "url": "https://github.com/block/buzz"
     },
@@ -38,7 +38,7 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 3939,
+      "stars": 3938,
       "forks": 297,
       "delta_stars": 2407,
       "url": "https://github.com/akitaonrails/ai-memory"
@@ -129,7 +129,7 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 12883,
+      "stars": 12885,
       "forks": 350,
       "delta_stars": 5794,
       "url": "https://github.com/AprilNEA/OpenLogi"
@@ -155,7 +155,7 @@
       "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 5537,
+      "stars": 5538,
       "forks": 490,
       "delta_stars": 1309,
       "url": "https://github.com/ZSeven-W/openpencil"
@@ -181,8 +181,8 @@
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 88956,
-      "forks": 3505,
+      "stars": 88957,
+      "forks": 3506,
       "delta_stars": 1487,
       "url": "https://github.com/astral-sh/uv"
     },

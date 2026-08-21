@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "weekly",
   "language": "go",
   "count": 23,
@@ -25,7 +25,7 @@
       "description": "An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 2639,
+      "stars": 2640,
       "forks": 164,
       "delta_stars": 97,
       "url": "https://github.com/compozy/compozy"
@@ -39,7 +39,7 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stars": 179128,
-      "forks": 17508,
+      "forks": 17507,
       "delta_stars": 831,
       "url": "https://github.com/ollama/ollama"
     },
@@ -90,7 +90,7 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 37546,
+      "stars": 37547,
       "forks": 619,
       "delta_stars": 162,
       "url": "https://github.com/aquasecurity/trivy"
@@ -129,7 +129,7 @@
       "description": "A curated list of awesome Go frameworks, libraries and software",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 181863,
+      "stars": 181864,
       "forks": 13506,
       "delta_stars": 802,
       "url": "https://github.com/avelino/awesome-go"

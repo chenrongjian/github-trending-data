@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "weekly",
   "language": "c",
   "count": 18,
@@ -25,7 +25,7 @@
       "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
       "language": "C",
       "language_color": "#555555",
-      "stars": 3499,
+      "stars": 3500,
       "forks": 1241,
       "delta_stars": 57,
       "url": "https://github.com/meshcore-dev/MeshCore"
@@ -103,7 +103,7 @@
       "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
       "language": "C",
       "language_color": "#555555",
-      "stars": 6381,
+      "stars": 6382,
       "forks": 6243,
       "delta_stars": 146,
       "url": "https://github.com/opa334/Dopamine"

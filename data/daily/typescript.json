@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "daily",
   "language": "typescript",
-  "count": 18,
+  "count": 19,
   "list": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 4385,
+      "stars": 4387,
       "forks": 366,
       "delta_stars": 391,
       "url": "https://github.com/cursor/plugins"
@@ -25,7 +25,7 @@
       "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 68630,
+      "stars": 68633,
       "forks": 8242,
       "delta_stars": 140,
       "url": "https://github.com/ruvnet/ruflo"
@@ -71,19 +71,32 @@
     },
     {
       "rank": 6,
+      "owner": "midudev",
+      "name": "libros-programacion-gratis",
+      "full_name": "midudev/libros-programacion-gratis",
+      "description": "📚 Lista de libros sobre programación en Español y gratis",
+      "language": "TypeScript",
+      "language_color": "#3178c6",
+      "stars": 5762,
+      "forks": 660,
+      "delta_stars": 25,
+      "url": "https://github.com/midudev/libros-programacion-gratis"
+    },
+    {
+      "rank": 7,
       "owner": "diegosouzapw",
       "name": "OmniRoute",
       "full_name": "diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 52682,
-      "forks": 7177,
+      "stars": 52683,
+      "forks": 7180,
       "delta_stars": 769,
       "url": "https://github.com/diegosouzapw/OmniRoute"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "owner": "garrytan",
       "name": "gstack",
       "full_name": "garrytan/gstack",
@@ -96,7 +109,7 @@
       "url": "https://github.com/garrytan/gstack"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "owner": "anthropics",
       "name": "claude-quickstarts",
       "full_name": "anthropics/claude-quickstarts",
@@ -109,7 +122,7 @@
       "url": "https://github.com/anthropics/claude-quickstarts"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "owner": "remnawave",
       "name": "panel",
       "full_name": "remnawave/panel",
@@ -122,7 +135,7 @@
       "url": "https://github.com/remnawave/panel"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "owner": "bookorbit",
       "name": "bookorbit",
       "full_name": "bookorbit/bookorbit",
@@ -135,20 +148,20 @@
       "url": "https://github.com/bookorbit/bookorbit"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "owner": "stablyai",
       "name": "orca",
       "full_name": "stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 50694,
+      "stars": 50696,
       "forks": 3498,
       "delta_stars": 727,
       "url": "https://github.com/stablyai/orca"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "owner": "open-metadata",
       "name": "OpenMetadata",
       "full_name": "open-metadata/OpenMetadata",
@@ -161,7 +174,7 @@
       "url": "https://github.com/open-metadata/OpenMetadata"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "owner": "mksglu",
       "name": "context-mode",
       "full_name": "mksglu/context-mode",
@@ -174,7 +187,7 @@
       "url": "https://github.com/mksglu/context-mode"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "owner": "ahmadrosid",
       "name": "nakama",
       "full_name": "ahmadrosid/nakama",
@@ -187,7 +200,7 @@
       "url": "https://github.com/ahmadrosid/nakama"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "owner": "payloadcms",
       "name": "payload",
       "full_name": "payloadcms/payload",
@@ -200,7 +213,7 @@
       "url": "https://github.com/payloadcms/payload"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "owner": "langfuse",
       "name": "langfuse",
       "full_name": "langfuse/langfuse",
@@ -213,7 +226,7 @@
       "url": "https://github.com/langfuse/langfuse"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "owner": "code-yeongyu",
       "name": "oh-my-openagent",
       "full_name": "code-yeongyu/oh-my-openagent",
@@ -226,7 +239,7 @@
       "url": "https://github.com/code-yeongyu/oh-my-openagent"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "owner": "vitejs",
       "name": "vite",
       "full_name": "vitejs/vite",

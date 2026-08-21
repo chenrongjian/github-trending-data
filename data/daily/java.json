@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "daily",
   "language": "java",
   "count": 22,
@@ -25,7 +25,7 @@
       "description": "Browse media content with your own rules on Android TV",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 32173,
+      "stars": 32174,
       "forks": 1953,
       "delta_stars": 50,
       "url": "https://github.com/yuliskov/SmartTube"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "daily",
   "language": "shell",
   "count": 12,
@@ -12,7 +12,7 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 229394,
+      "stars": 229402,
       "forks": 19605,
       "delta_stars": 3368,
       "url": "https://github.com/mattpocock/skills"
@@ -25,7 +25,7 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 275637,
+      "stars": 275641,
       "forks": 24642,
       "delta_stars": 789,
       "url": "https://github.com/obra/superpowers"
@@ -39,7 +39,7 @@
       "language": "Shell",
       "language_color": "#89e051",
       "stars": 52941,
-      "forks": 4647,
+      "forks": 4648,
       "delta_stars": 24,
       "url": "https://github.com/dockur/windows"
     },

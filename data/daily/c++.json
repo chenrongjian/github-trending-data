@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "daily",
   "language": "c++",
   "count": 24,
@@ -25,7 +25,7 @@
       "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 21427,
+      "stars": 21430,
       "forks": 4148,
       "delta_stars": 5,
       "url": "https://github.com/microsoft/onnxruntime"
@@ -103,7 +103,7 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 125039,
+      "stars": 125041,
       "forks": 21998,
       "delta_stars": 174,
       "url": "https://github.com/ggml-org/llama.cpp"
@@ -246,7 +246,7 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 14568,
+      "stars": 14569,
       "forks": 1090,
       "delta_stars": 13,
       "url": "https://github.com/amnezia-vpn/amnezia-client"

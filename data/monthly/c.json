@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "monthly",
   "language": "c",
   "count": 20,
@@ -25,7 +25,7 @@
       "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
       "language": "C",
       "language_color": "#555555",
-      "stars": 6381,
+      "stars": 6382,
       "forks": 6243,
       "delta_stars": 1016,
       "url": "https://github.com/opa334/Dopamine"
@@ -116,7 +116,7 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 28058,
+      "stars": 28059,
       "forks": 12824,
       "delta_stars": 513,
       "url": "https://github.com/openwrt/openwrt"
@@ -220,7 +220,7 @@
       "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
       "language": "C",
       "language_color": "#555555",
-      "stars": 3499,
+      "stars": 3500,
       "forks": 1241,
       "delta_stars": 229,
       "url": "https://github.com/meshcore-dev/MeshCore"

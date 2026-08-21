@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "weekly",
   "language": "c++",
   "count": 19,
@@ -12,7 +12,7 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 125039,
+      "stars": 125041,
       "forks": 21998,
       "delta_stars": 1239,
       "url": "https://github.com/ggml-org/llama.cpp"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "monthly",
   "language": "all",
   "count": 20,
@@ -12,8 +12,8 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 29221,
-      "forks": 3692,
+      "stars": 29223,
+      "forks": 3695,
       "delta_stars": 28701,
       "url": "https://github.com/block/buzz"
     },
@@ -39,7 +39,7 @@
       "language": "Python",
       "language_color": "#3572A5",
       "stars": 22976,
-      "forks": 1472,
+      "forks": 1473,
       "delta_stars": 18443,
       "url": "https://github.com/ayghri/i-have-adhd"
     },
@@ -51,7 +51,7 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 12515,
+      "stars": 12517,
       "forks": 653,
       "delta_stars": 11627,
       "url": "https://github.com/citrolabs/ego-lite"
@@ -90,8 +90,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 52682,
-      "forks": 7177,
+      "stars": 52683,
+      "forks": 7180,
       "delta_stars": 31270,
       "url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -103,7 +103,7 @@
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
       "language_color": "#DA5B0B",
-      "stars": 66126,
+      "stars": 66127,
       "forks": 12809,
       "delta_stars": 13592,
       "url": "https://github.com/microsoft/AI-For-Beginners"
@@ -116,8 +116,8 @@
       "description": "",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 19951,
-      "forks": 4689,
+      "stars": 19952,
+      "forks": 4690,
       "delta_stars": 5646,
       "url": "https://github.com/pingdotgg/t3code"
     },
@@ -129,7 +129,7 @@
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 23663,
+      "stars": 23664,
       "forks": 2499,
       "delta_stars": 14598,
       "url": "https://github.com/virgiliojr94/book-to-skill"
@@ -142,7 +142,7 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 27499,
+      "stars": 27503,
       "forks": 2816,
       "delta_stars": 3095,
       "url": "https://github.com/basecamp/omarchy"
@@ -168,7 +168,7 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 229395,
+      "stars": 229402,
       "forks": 19605,
       "delta_stars": 47717,
       "url": "https://github.com/mattpocock/skills"
@@ -194,7 +194,7 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 8330,
+      "stars": 8331,
       "forks": 537,
       "delta_stars": 4829,
       "url": "https://github.com/cactus-compute/needle"
@@ -207,7 +207,7 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 31642,
+      "stars": 31646,
       "forks": 2424,
       "delta_stars": 3975,
       "url": "https://github.com/volcengine/OpenViking"
@@ -233,8 +233,8 @@
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "language_color": "#DA5B0B",
-      "stars": 32101,
-      "forks": 3396,
+      "stars": 32102,
+      "forks": 3397,
       "delta_stars": 8160,
       "url": "https://github.com/lyogavin/airllm"
     },

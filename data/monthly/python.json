@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "monthly",
   "language": "python",
   "count": 17,
@@ -13,7 +13,7 @@
       "language": "Python",
       "language_color": "#3572A5",
       "stars": 22976,
-      "forks": 1472,
+      "forks": 1473,
       "delta_stars": 18443,
       "url": "https://github.com/ayghri/i-have-adhd"
     },
@@ -25,7 +25,7 @@
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 23663,
+      "stars": 23664,
       "forks": 2499,
       "delta_stars": 14598,
       "url": "https://github.com/virgiliojr94/book-to-skill"
@@ -38,7 +38,7 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 8330,
+      "stars": 8331,
       "forks": 537,
       "delta_stars": 4829,
       "url": "https://github.com/cactus-compute/needle"
@@ -51,7 +51,7 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 31642,
+      "stars": 31646,
       "forks": 2424,
       "delta_stars": 3975,
       "url": "https://github.com/volcengine/OpenViking"
@@ -90,7 +90,7 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 56710,
+      "stars": 56711,
       "forks": 6112,
       "delta_stars": 13551,
       "url": "https://github.com/usestrix/strix"
@@ -103,7 +103,7 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 467961,
+      "stars": 467966,
       "forks": 51630,
       "delta_stars": 17181,
       "url": "https://github.com/public-apis/public-apis"
@@ -207,7 +207,7 @@
       "description": "Build voice agents with open-source models",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 12745,
+      "stars": 12746,
       "forks": 1573,
       "delta_stars": 6612,
       "url": "https://github.com/huggingface/speech-to-speech"

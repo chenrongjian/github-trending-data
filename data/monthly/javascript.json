@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "monthly",
   "language": "javascript",
   "count": 23,
@@ -12,7 +12,7 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 12515,
+      "stars": 12517,
       "forks": 653,
       "delta_stars": 11627,
       "url": "https://github.com/citrolabs/ego-lite"
@@ -51,7 +51,7 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 61373,
+      "stars": 61376,
       "forks": 3746,
       "delta_stars": 13039,
       "url": "https://github.com/pbakaus/impeccable"
@@ -116,7 +116,7 @@
       "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 67192,
+      "stars": 67193,
       "forks": 4298,
       "delta_stars": 950,
       "url": "https://github.com/gorhill/uBlock"
@@ -142,8 +142,8 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 11628,
-      "forks": 1327,
+      "stars": 11630,
+      "forks": 1328,
       "delta_stars": 2968,
       "url": "https://github.com/freestylefly/awesome-gpt-image-2"
     },
@@ -168,7 +168,7 @@
       "description": "🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 2440,
+      "stars": 2441,
       "forks": 666,
       "delta_stars": 771,
       "url": "https://github.com/darkzOGx/youtube-automation-agent"
@@ -259,7 +259,7 @@
       "description": "Acode - powerful text/code editor for android",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 6630,
+      "stars": 6631,
       "forks": 1464,
       "delta_stars": 547,
       "url": "https://github.com/Acode-Foundation/Acode"
@@ -273,7 +273,7 @@
       "language": "JavaScript",
       "language_color": "#f1e05a",
       "stars": 12821,
-      "forks": 3630,
+      "forks": 3631,
       "delta_stars": 180,
       "url": "https://github.com/projectdiscovery/nuclei-templates"
     },

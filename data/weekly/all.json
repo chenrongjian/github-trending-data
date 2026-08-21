@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "weekly",
   "language": "all",
   "count": 16,
@@ -12,7 +12,7 @@
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 6942,
+      "stars": 6943,
       "forks": 401,
       "delta_stars": 3614,
       "url": "https://github.com/cordiverse/cordis"
@@ -25,7 +25,7 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "language_color": "#e34c26",
-      "stars": 24978,
+      "stars": 24984,
       "forks": 1522,
       "delta_stars": 11325,
       "url": "https://github.com/cathrynlavery/diagram-design"
@@ -38,7 +38,7 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 4385,
+      "stars": 4387,
       "forks": 366,
       "delta_stars": 1273,
       "url": "https://github.com/cursor/plugins"
@@ -51,7 +51,7 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 31642,
+      "stars": 31646,
       "forks": 2424,
       "delta_stars": 2444,
       "url": "https://github.com/volcengine/OpenViking"
@@ -64,7 +64,7 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 27499,
+      "stars": 27503,
       "forks": 2816,
       "delta_stars": 2395,
       "url": "https://github.com/basecamp/omarchy"
@@ -77,7 +77,7 @@
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
       "language_color": "#ff4c1f",
-      "stars": 28671,
+      "stars": 28673,
       "forks": 3053,
       "delta_stars": 744,
       "url": "https://github.com/modular/modular"
@@ -90,8 +90,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 113865,
-      "forks": 17277,
+      "stars": 113871,
+      "forks": 17280,
       "delta_stars": 9712,
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
@@ -103,7 +103,7 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 467961,
+      "stars": 467966,
       "forks": 51630,
       "delta_stars": 11259,
       "url": "https://github.com/public-apis/public-apis"
@@ -116,7 +116,7 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 10062,
+      "stars": 10065,
       "forks": 1076,
       "delta_stars": 3674,
       "url": "https://github.com/semantica-agi/semantica"
@@ -129,7 +129,7 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 12883,
+      "stars": 12885,
       "forks": 350,
       "delta_stars": 2674,
       "url": "https://github.com/AprilNEA/OpenLogi"
@@ -142,7 +142,7 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 8330,
+      "stars": 8331,
       "forks": 537,
       "delta_stars": 3409,
       "url": "https://github.com/cactus-compute/needle"
@@ -155,7 +155,7 @@
       "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 2052,
+      "stars": 2054,
       "forks": 184,
       "delta_stars": 932,
       "url": "https://github.com/NVIDIA-NeMo/Switchyard"

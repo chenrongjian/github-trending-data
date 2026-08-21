@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:21:48.030Z",
+  "generated_at": "2026-08-21T23:30:19.850Z",
   "since": "monthly",
   "language": "typescript",
   "count": 22,
@@ -25,8 +25,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 52682,
-      "forks": 7177,
+      "stars": 52683,
+      "forks": 7180,
       "delta_stars": 31270,
       "url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -39,7 +39,7 @@
       "language": "TypeScript",
       "language_color": "#3178c6",
       "stars": 19952,
-      "forks": 4689,
+      "forks": 4690,
       "delta_stars": 5646,
       "url": "https://github.com/pingdotgg/t3code"
     },
@@ -90,7 +90,7 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 50694,
+      "stars": 50697,
       "forks": 3498,
       "delta_stars": 26968,
       "url": "https://github.com/stablyai/orca"
@@ -103,7 +103,7 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 4385,
+      "stars": 4388,
       "forks": 366,
       "delta_stars": 1566,
       "url": "https://github.com/cursor/plugins"
@@ -155,7 +155,7 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 48195,
+      "stars": 48196,
       "forks": 4770,
       "delta_stars": 5516,
       "url": "https://github.com/moeru-ai/airi"
@@ -220,7 +220,7 @@
       "description": "Build production-ready applications in TypeScript",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 15439,
+      "stars": 15440,
       "forks": 683,
       "delta_stars": 513,
       "url": "https://github.com/Effect-TS/effect"
@@ -246,7 +246,7 @@
       "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 41456,
+      "stars": 41457,
       "forks": 4643,
       "delta_stars": 1683,
       "url": "https://github.com/amruthpillai/reactive-resume"
