@@ -2,8 +2,8 @@ name: Fetch GitHub Trending
 
 on:
   schedule:
-    # 每天 00:30 UTC = 北京时间 08:30
-    - cron: '30 0 * * *'
+    # 每天 16:30 UTC = 北京时间 00:30（凌晨更新）
+    - cron: '30 16 * * *'
   push:
     branches: [main]
   workflow_dispatch:
