@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:04:44.860Z",
+  "generated_at": "2026-08-22T09:06:18.915Z",
   "since": "daily",
   "language": "java",
   "count": 22,
@@ -12,7 +12,7 @@
       "description": "No-root network monitor, firewall and PCAP dumper for Android",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 4569,
+      "stars": 4571,
       "forks": 528,
       "delta_stars": 78,
       "url": "https://github.com/emanuele-f/PCAPdroid"
@@ -25,8 +25,8 @@
       "description": "Browse media content with your own rules on Android TV",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 32177,
-      "forks": 1954,
+      "stars": 32190,
+      "forks": 1959,
       "delta_stars": 48,
       "url": "https://github.com/yuliskov/SmartTube"
     },
@@ -38,7 +38,7 @@
       "description": "a fast, scalable, multi-language and extensible build system",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 25741,
+      "stars": 25743,
       "forks": 4569,
       "delta_stars": 6,
       "url": "https://github.com/bazelbuild/bazel"
@@ -51,8 +51,8 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 36331,
-      "forks": 8837,
+      "stars": 36333,
+      "forks": 8838,
       "delta_stars": 19,
       "url": "https://github.com/keycloak/keycloak"
     },
@@ -64,8 +64,8 @@
       "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 90005,
-      "forks": 8140,
+      "stars": 90019,
+      "forks": 8143,
       "delta_stars": 74,
       "url": "https://github.com/Stirling-Tools/Stirling-PDF"
     },
@@ -78,7 +78,7 @@
       "language": "Java",
       "language_color": "#b07219",
       "stars": 10431,
-      "forks": 1412,
+      "forks": 1413,
       "delta_stars": 8,
       "url": "https://github.com/github/copilot-sdk"
     },
@@ -90,8 +90,8 @@
       "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 38877,
-      "forks": 8407,
+      "stars": 38887,
+      "forks": 8410,
       "delta_stars": 26,
       "url": "https://github.com/YunaiV/ruoyi-vue-pro"
     },
@@ -103,8 +103,8 @@
       "description": "Apache Iceberg",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 9159,
-      "forks": 3464,
+      "stars": 9161,
+      "forks": 3465,
       "delta_stars": 3,
       "url": "https://github.com/apache/iceberg"
     },
@@ -116,7 +116,7 @@
       "description": "Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 13031,
+      "stars": 13033,
       "forks": 3010,
       "delta_stars": 3,
       "url": "https://github.com/debezium/debezium"
@@ -129,7 +129,7 @@
       "description": "Jenkins automation server",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 26480,
+      "stars": 26481,
       "forks": 9801,
       "delta_stars": 2,
       "url": "https://github.com/jenkinsci/jenkins"
@@ -142,8 +142,8 @@
       "description": "Build distributed, production-grade, long-running agents.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 5211,
-      "forks": 1217,
+      "stars": 5215,
+      "forks": 1219,
       "delta_stars": 18,
       "url": "https://github.com/agentscope-ai/agentscope-java"
     },
@@ -155,8 +155,8 @@
       "description": "🔎 Open source distributed and RESTful search engine.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 13558,
-      "forks": 2913,
+      "stars": 13562,
+      "forks": 2915,
       "delta_stars": 7,
       "url": "https://github.com/opensearch-project/OpenSearch"
     },
@@ -168,8 +168,8 @@
       "description": "An Application Framework for AI Engineering",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 9334,
-      "forks": 2840,
+      "stars": 9335,
+      "forks": 2842,
       "delta_stars": 5,
       "url": "https://github.com/spring-projects/spring-ai"
     },
@@ -181,8 +181,8 @@
       "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 81334,
-      "forks": 42095,
+      "stars": 81335,
+      "forks": 42093,
       "delta_stars": 12,
       "url": "https://github.com/spring-projects/spring-boot"
     },
@@ -194,8 +194,8 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 39436,
-      "forks": 3742,
+      "stars": 39441,
+      "forks": 3743,
       "delta_stars": 22,
       "url": "https://github.com/TeamNewPipe/NewPipe"
     },
@@ -208,7 +208,7 @@
       "language": "Java",
       "language_color": "#b07219",
       "stars": 9131,
-      "forks": 2024,
+      "forks": 2026,
       "delta_stars": 7,
       "url": "https://github.com/cabaletta/baritone"
     },
@@ -220,8 +220,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 72638,
-      "forks": 7949,
+      "stars": 72647,
+      "forks": 7948,
       "delta_stars": 49,
       "url": "https://github.com/NationalSecurityAgency/ghidra"
     },
@@ -233,8 +233,8 @@
       "description": "Apache Kafka - A distributed event streaming platform",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 33581,
-      "forks": 15444,
+      "stars": 33583,
+      "forks": 15445,
       "delta_stars": 20,
       "url": "https://github.com/apache/kafka"
     },
@@ -246,8 +246,8 @@
       "description": "【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 47431,
-      "forks": 16154,
+      "stars": 47435,
+      "forks": 16155,
       "delta_stars": 13,
       "url": "https://github.com/jeecgboot/JeecgBoot"
     },
@@ -259,7 +259,7 @@
       "description": "🦎 A high-performance, multi-protocol gateway for Apache Kafka and AI. Securely connect applications, APIs, agents, and devices to real-time data through Kafka, HTTP, SSE, MQTT, gRPC, and MCP.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 1702,
+      "stars": 1705,
       "forks": 143,
       "delta_stars": 46,
       "url": "https://github.com/aklivity/zilla"
@@ -272,7 +272,7 @@
       "description": "Spring Security",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 9605,
+      "stars": 9607,
       "forks": 6326,
       "delta_stars": 1,
       "url": "https://github.com/spring-projects/spring-security"
@@ -285,7 +285,7 @@
       "description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 13170,
+      "stars": 13172,
       "forks": 3741,
       "delta_stars": 5,
       "url": "https://github.com/trinodb/trino"

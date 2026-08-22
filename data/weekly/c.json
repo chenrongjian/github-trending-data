@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:04:44.860Z",
+  "generated_at": "2026-08-22T09:06:18.915Z",
   "since": "weekly",
   "language": "c",
   "count": 18,
@@ -13,7 +13,7 @@
       "language": "C",
       "language_color": "#555555",
       "stars": 614,
-      "forks": 149,
+      "forks": 150,
       "delta_stars": 25,
       "url": "https://github.com/armel/uv-k1-k5v3-firmware-custom"
     },
@@ -26,7 +26,7 @@
       "language": "C",
       "language_color": "#555555",
       "stars": 3500,
-      "forks": 1241,
+      "forks": 1242,
       "delta_stars": 60,
       "url": "https://github.com/meshcore-dev/MeshCore"
     },
@@ -38,7 +38,7 @@
       "description": "Android application for running Windows applications with Wine and Box86/Box64",
       "language": "C",
       "language_color": "#555555",
-      "stars": 18735,
+      "stars": 18736,
       "forks": 1666,
       "delta_stars": 138,
       "url": "https://github.com/brunodev85/winlator"
@@ -64,8 +64,8 @@
       "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 14785,
-      "forks": 2495,
+      "stars": 14790,
+      "forks": 2496,
       "delta_stars": 283,
       "url": "https://github.com/duixcom/Duix-Avatar"
     },
@@ -77,8 +77,8 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "language_color": "#555555",
-      "stars": 42657,
-      "forks": 7313,
+      "stars": 42659,
+      "forks": 7315,
       "delta_stars": 73,
       "url": "https://github.com/curl/curl"
     },
@@ -90,7 +90,7 @@
       "description": "High performance UI layout library in C.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 17953,
+      "stars": 17955,
       "forks": 712,
       "delta_stars": 124,
       "url": "https://github.com/nicbarker/clay"
@@ -103,8 +103,8 @@
       "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
       "language": "C",
       "language_color": "#555555",
-      "stars": 6382,
-      "forks": 6242,
+      "stars": 6383,
+      "forks": 6241,
       "delta_stars": 134,
       "url": "https://github.com/opa334/Dopamine"
     },
@@ -116,8 +116,8 @@
       "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
       "language": "C",
       "language_color": "#555555",
-      "stars": 667,
-      "forks": 179,
+      "stars": 668,
+      "forks": 180,
       "delta_stars": 81,
       "url": "https://github.com/tr4m0ryp/tr4mpass"
     },
@@ -130,7 +130,7 @@
       "language": "C",
       "language_color": "#555555",
       "stars": 1002,
-      "forks": 266,
+      "forks": 267,
       "delta_stars": 22,
       "url": "https://github.com/superturtlee/gbl_root_canoe"
     },
@@ -155,7 +155,7 @@
       "description": "n³ The unorthodox terminal file manager",
       "language": "C",
       "language_color": "#555555",
-      "stars": 21820,
+      "stars": 21821,
       "forks": 815,
       "delta_stars": 41,
       "url": "https://github.com/jarun/nnn"
@@ -168,8 +168,8 @@
       "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 62717,
-      "forks": 28270,
+      "stars": 62732,
+      "forks": 28272,
       "delta_stars": 184,
       "url": "https://github.com/git/git"
     },
@@ -181,7 +181,7 @@
       "description": "The Reliable USB Formatting Utility",
       "language": "C",
       "language_color": "#555555",
-      "stars": 37384,
+      "stars": 37387,
       "forks": 3144,
       "delta_stars": 108,
       "url": "https://github.com/pbatard/rufus"
@@ -194,7 +194,7 @@
       "description": "AIO HEN payload",
       "language": "C",
       "language_color": "#555555",
-      "stars": 654,
+      "stars": 655,
       "forks": 57,
       "delta_stars": 10,
       "url": "https://github.com/etaHEN/etaHEN"
@@ -207,8 +207,8 @@
       "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 76068,
-      "forks": 24758,
+      "stars": 76067,
+      "forks": 24757,
       "delta_stars": 122,
       "url": "https://github.com/redis/redis"
     },
@@ -220,7 +220,7 @@
       "description": "MimiClaw: Harness on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 5717,
+      "stars": 5721,
       "forks": 889,
       "delta_stars": 51,
       "url": "https://github.com/memovai/mimiclaw"
@@ -233,7 +233,7 @@
       "description": "An open and affordable mini quadruped robot based on ESP32.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 4023,
+      "stars": 4028,
       "forks": 550,
       "delta_stars": 88,
       "url": "https://github.com/dorianborian/sesame-robot"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:04:44.860Z",
+  "generated_at": "2026-08-22T09:06:18.915Z",
   "since": "daily",
   "language": "c",
   "count": 21,
@@ -12,7 +12,7 @@
       "description": "QuickJS, the Next Generation: a mighty JavaScript engine",
       "language": "C",
       "language_color": "#555555",
-      "stars": 3627,
+      "stars": 3631,
       "forks": 353,
       "delta_stars": 6,
       "url": "https://github.com/quickjs-ng/quickjs"
@@ -25,8 +25,8 @@
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "C",
       "language_color": "#555555",
-      "stars": 67598,
-      "forks": 4288,
+      "stars": 67639,
+      "forks": 4290,
       "delta_stars": 260,
       "url": "https://github.com/colbymchenry/codegraph"
     },
@@ -39,7 +39,7 @@
       "language": "C",
       "language_color": "#555555",
       "stars": 4429,
-      "forks": 1598,
+      "forks": 1599,
       "delta_stars": 3,
       "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel"
     },
@@ -51,8 +51,8 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 16283,
-      "forks": 9804,
+      "stars": 16287,
+      "forks": 9803,
       "delta_stars": 16,
       "url": "https://github.com/zephyrproject-rtos/zephyr"
     },
@@ -64,8 +64,8 @@
       "description": "General purpose TLS and crypto library",
       "language": "C",
       "language_color": "#555555",
-      "stars": 30671,
-      "forks": 11400,
+      "stars": 30673,
+      "forks": 11402,
       "delta_stars": 8,
       "url": "https://github.com/openssl/openssl"
     },
@@ -77,7 +77,7 @@
       "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 17198,
+      "stars": 17201,
       "forks": 1639,
       "delta_stars": 6,
       "url": "https://github.com/ImageMagick/ImageMagick"
@@ -90,7 +90,7 @@
       "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 6894,
+      "stars": 6896,
       "forks": 2956,
       "delta_stars": 5,
       "url": "https://github.com/Mbed-TLS/mbedtls"
@@ -103,8 +103,8 @@
       "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 14785,
-      "forks": 2495,
+      "stars": 14790,
+      "forks": 2496,
       "delta_stars": 37,
       "url": "https://github.com/duixcom/Duix-Avatar"
     },
@@ -116,7 +116,7 @@
       "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 24439,
+      "stars": 24446,
       "forks": 4309,
       "delta_stars": 8,
       "url": "https://github.com/lvgl/lvgl"
@@ -129,8 +129,8 @@
       "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
       "language_color": "#555555",
-      "stars": 27592,
-      "forks": 2561,
+      "stars": 27596,
+      "forks": 2562,
       "delta_stars": 7,
       "url": "https://github.com/facebook/zstd"
     },
@@ -142,7 +142,7 @@
       "description": "An open and affordable mini quadruped robot based on ESP32.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 4023,
+      "stars": 4028,
       "forks": 550,
       "delta_stars": 3,
       "url": "https://github.com/dorianborian/sesame-robot"
@@ -155,8 +155,8 @@
       "description": "Eclipse Mosquitto - An open source MQTT broker",
       "language": "C",
       "language_color": "#555555",
-      "stars": 11146,
-      "forks": 2629,
+      "stars": 11147,
+      "forks": 2628,
       "delta_stars": 1,
       "url": "https://github.com/eclipse-mosquitto/mosquitto"
     },
@@ -168,7 +168,7 @@
       "description": "mimalloc is a compact general purpose allocator with excellent performance.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 13316,
+      "stars": 13322,
       "forks": 1161,
       "delta_stars": 7,
       "url": "https://github.com/microsoft/mimalloc"
@@ -194,7 +194,7 @@
       "description": "Ultralightweight JSON parser in ANSI C",
       "language": "C",
       "language_color": "#555555",
-      "stars": 12934,
+      "stars": 12935,
       "forks": 3516,
       "delta_stars": 3,
       "url": "https://github.com/DaveGamble/cJSON"
@@ -207,7 +207,7 @@
       "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 5106,
+      "stars": 5107,
       "forks": 1836,
       "delta_stars": 5,
       "url": "https://github.com/signalwire/freeswitch"
@@ -220,8 +220,8 @@
       "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 62717,
-      "forks": 28270,
+      "stars": 62732,
+      "forks": 28272,
       "delta_stars": 31,
       "url": "https://github.com/git/git"
     },
@@ -233,7 +233,7 @@
       "description": "The PHP Interpreter",
       "language": "C",
       "language_color": "#555555",
-      "stars": 40307,
+      "stars": 40309,
       "forks": 8132,
       "delta_stars": 10,
       "url": "https://github.com/php/php-src"
@@ -259,7 +259,7 @@
       "description": "A new bootable USB solution.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 78872,
+      "stars": 78880,
       "forks": 4898,
       "delta_stars": 27,
       "url": "https://github.com/ventoy/Ventoy"
@@ -272,8 +272,8 @@
       "description": "Extremely Fast Compression algorithm",
       "language": "C",
       "language_color": "#555555",
-      "stars": 12018,
-      "forks": 1581,
+      "stars": 12020,
+      "forks": 1582,
       "delta_stars": 2,
       "url": "https://github.com/lz4/lz4"
     }

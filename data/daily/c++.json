@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:04:44.860Z",
+  "generated_at": "2026-08-22T09:06:18.915Z",
   "since": "daily",
   "language": "c++",
   "count": 24,
@@ -12,8 +12,8 @@
       "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 71770,
-      "forks": 16236,
+      "stars": 71796,
+      "forks": 16237,
       "delta_stars": 4,
       "url": "https://github.com/protocolbuffers/protobuf"
     },
@@ -25,8 +25,8 @@
       "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 21451,
-      "forks": 4149,
+      "stars": 21545,
+      "forks": 4152,
       "delta_stars": 5,
       "url": "https://github.com/microsoft/onnxruntime"
     },
@@ -38,7 +38,7 @@
       "description": "FlatBuffers: Memory Efficient Serialization Library",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 26385,
+      "stars": 26389,
       "forks": 3625,
       "delta_stars": 23,
       "url": "https://github.com/google/flatbuffers"
@@ -64,8 +64,8 @@
       "description": "Tesseract Open Source OCR Engine (main repository)",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 76094,
-      "forks": 10766,
+      "stars": 76101,
+      "forks": 10767,
       "delta_stars": 48,
       "url": "https://github.com/tesseract-ocr/tesseract"
     },
@@ -77,8 +77,8 @@
       "description": "Cloud-native high-performance edge/middle/service proxy",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 28808,
-      "forks": 5568,
+      "stars": 28811,
+      "forks": 5569,
       "delta_stars": 3,
       "url": "https://github.com/envoyproxy/envoy"
     },
@@ -90,8 +90,8 @@
       "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 29068,
-      "forks": 6706,
+      "stars": 29075,
+      "forks": 6711,
       "delta_stars": 23,
       "url": "https://github.com/78/xiaozhi-esp32"
     },
@@ -103,8 +103,8 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 125050,
-      "forks": 22001,
+      "stars": 125095,
+      "forks": 22014,
       "delta_stars": 169,
       "url": "https://github.com/ggml-org/llama.cpp"
     },
@@ -117,7 +117,7 @@
       "language": "C++",
       "language_color": "#f34b7d",
       "stars": 10691,
-      "forks": 3328,
+      "forks": 3329,
       "delta_stars": 7,
       "url": "https://github.com/openvinotoolkit/openvino"
     },
@@ -129,7 +129,7 @@
       "description": "OpenHD",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 2631,
+      "stars": 2637,
       "forks": 425,
       "delta_stars": 70,
       "url": "https://github.com/OpenHD/OpenHD"
@@ -155,7 +155,7 @@
       "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 14310,
+      "stars": 14313,
       "forks": 1644,
       "delta_stars": 37,
       "url": "https://github.com/k2-fsa/sherpa-onnx"
@@ -169,7 +169,7 @@
       "language": "C++",
       "language_color": "#f34b7d",
       "stars": 467,
-      "forks": 359,
+      "forks": 360,
       "delta_stars": 1,
       "url": "https://github.com/ROCm/rocm-systems"
     },
@@ -181,8 +181,8 @@
       "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 45239,
-      "forks": 11362,
+      "stars": 45240,
+      "forks": 11364,
       "delta_stars": 11,
       "url": "https://github.com/grpc/grpc"
     },
@@ -194,7 +194,7 @@
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 30462,
+      "stars": 30469,
       "forks": 4307,
       "delta_stars": 29,
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
@@ -207,7 +207,7 @@
       "description": "Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 1784,
+      "stars": 1785,
       "forks": 142,
       "delta_stars": 4,
       "url": "https://github.com/ROCm/FastFlowLM"
@@ -220,8 +220,8 @@
       "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 8172,
-      "forks": 2663,
+      "stars": 8173,
+      "forks": 2665,
       "delta_stars": 6,
       "url": "https://github.com/meshtastic/firmware"
     },
@@ -246,8 +246,8 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 14569,
-      "forks": 1090,
+      "stars": 14578,
+      "forks": 1092,
       "delta_stars": 14,
       "url": "https://github.com/amnezia-vpn/amnezia-client"
     },
@@ -259,8 +259,8 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 115961,
-      "forks": 26431,
+      "stars": 115971,
+      "forks": 26436,
       "delta_stars": 55,
       "url": "https://github.com/godotengine/godot"
     },
@@ -285,8 +285,8 @@
       "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 28686,
-      "forks": 8887,
+      "stars": 28687,
+      "forks": 8888,
       "delta_stars": 7,
       "url": "https://github.com/dmlc/xgboost"
     },
@@ -298,7 +298,7 @@
       "description": "Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 3562,
+      "stars": 3563,
       "forks": 429,
       "delta_stars": 4,
       "url": "https://github.com/MrNeRF/LichtFeld-Studio"
@@ -311,8 +311,8 @@
       "description": "ROCmFPX Family for AMD Hardware and Processors. More quants and special agent quants",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 308,
-      "forks": 46,
+      "stars": 311,
+      "forks": 47,
       "delta_stars": 7,
       "url": "https://github.com/charlie12345/ROCmFPX"
     }

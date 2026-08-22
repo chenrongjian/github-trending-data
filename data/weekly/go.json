@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:04:44.860Z",
+  "generated_at": "2026-08-22T09:06:18.915Z",
   "since": "weekly",
   "language": "go",
   "count": 23,
@@ -12,8 +12,8 @@
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 19384,
-      "forks": 2410,
+      "stars": 19392,
+      "forks": 2411,
       "delta_stars": 257,
       "url": "https://github.com/putyy/res-downloader"
     },
@@ -25,8 +25,8 @@
       "description": "An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 2640,
-      "forks": 164,
+      "stars": 2647,
+      "forks": 166,
       "delta_stars": 75,
       "url": "https://github.com/compozy/compozy"
     },
@@ -38,8 +38,8 @@
       "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 179130,
-      "forks": 17511,
+      "stars": 179151,
+      "forks": 17515,
       "delta_stars": 798,
       "url": "https://github.com/ollama/ollama"
     },
@@ -64,8 +64,8 @@
       "description": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 4665,
-      "forks": 1107,
+      "stars": 4667,
+      "forks": 1109,
       "delta_stars": 125,
       "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice"
     },
@@ -77,8 +77,8 @@
       "description": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 6026,
-      "forks": 530,
+      "stars": 6027,
+      "forks": 531,
       "delta_stars": 196,
       "url": "https://github.com/rorkai/App-Store-Connect-CLI"
     },
@@ -90,7 +90,7 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 37547,
+      "stars": 37550,
       "forks": 619,
       "delta_stars": 153,
       "url": "https://github.com/aquasecurity/trivy"
@@ -103,8 +103,8 @@
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 89000,
-      "forks": 10455,
+      "stars": 89008,
+      "forks": 10457,
       "delta_stars": 689,
       "url": "https://github.com/infiniflow/ragflow"
     },
@@ -116,7 +116,7 @@
       "description": "The coding agent that answers to you, your model, your machine, your rules.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 1611,
+      "stars": 1613,
       "forks": 172,
       "delta_stars": 364,
       "url": "https://github.com/Gitlawb/zero"
@@ -129,8 +129,8 @@
       "description": "A curated list of awesome Go frameworks, libraries and software",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 181875,
-      "forks": 13506,
+      "stars": 181920,
+      "forks": 13508,
       "delta_stars": 863,
       "url": "https://github.com/avelino/awesome-go"
     },
@@ -142,7 +142,7 @@
       "description": "Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 38069,
+      "stars": 38072,
       "forks": 3357,
       "delta_stars": 190,
       "url": "https://github.com/harness/harness"
@@ -155,8 +155,8 @@
       "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 1430,
-      "forks": 129,
+      "stars": 1445,
+      "forks": 130,
       "delta_stars": 292,
       "url": "https://github.com/zzet/gortex"
     },
@@ -168,8 +168,8 @@
       "description": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 14420,
-      "forks": 1936,
+      "stars": 14423,
+      "forks": 1937,
       "delta_stars": 176,
       "url": "https://github.com/shadow1ng/fscan"
     },
@@ -181,7 +181,7 @@
       "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 10992,
+      "stars": 10995,
       "forks": 875,
       "delta_stars": 65,
       "url": "https://github.com/siderolabs/talos"
@@ -208,7 +208,7 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stars": 1586,
-      "forks": 263,
+      "forks": 264,
       "delta_stars": 361,
       "url": "https://github.com/agent-substrate/substrate"
     },
@@ -220,7 +220,7 @@
       "description": "The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 5896,
+      "stars": 5900,
       "forks": 944,
       "delta_stars": 148,
       "url": "https://github.com/Ed1s0nZ/CyberStrikeAI"
@@ -246,8 +246,8 @@
       "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 45074,
-      "forks": 8635,
+      "stars": 45090,
+      "forks": 8644,
       "delta_stars": 460,
       "url": "https://github.com/MHSanaei/3x-ui"
     },
@@ -259,7 +259,7 @@
       "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 14313,
+      "stars": 14317,
       "forks": 3447,
       "delta_stars": 124,
       "url": "https://github.com/fish2018/pansou"
@@ -272,7 +272,7 @@
       "description": "📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 4988,
+      "stars": 4987,
       "forks": 391,
       "delta_stars": 54,
       "url": "https://github.com/entireio/cli"
@@ -285,8 +285,8 @@
       "description": "A node.js version management utility for Windows. Ironically written in Go.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 47426,
-      "forks": 3869,
+      "stars": 47431,
+      "forks": 3870,
       "delta_stars": 125,
       "url": "https://github.com/coreybutler/nvm-windows"
     },
@@ -298,7 +298,7 @@
       "description": "Fast linters runner for Go",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 19288,
+      "stars": 19290,
       "forks": 1618,
       "delta_stars": 44,
       "url": "https://github.com/golangci/golangci-lint"

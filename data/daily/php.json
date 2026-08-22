@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:04:44.860Z",
+  "generated_at": "2026-08-22T09:06:18.915Z",
   "since": "daily",
   "language": "php",
   "count": 19,
@@ -12,7 +12,7 @@
       "description": "EspoCRM – Open Source CRM Application",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 3270,
+      "stars": 3271,
       "forks": 942,
       "delta_stars": 2,
       "url": "https://github.com/espocrm/espocrm"
@@ -38,7 +38,7 @@
       "description": "A free open source IT asset/license management system",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 14857,
+      "stars": 14859,
       "forks": 3967,
       "delta_stars": 11,
       "url": "https://github.com/grokability/snipe-it"
@@ -65,7 +65,7 @@
       "language": "PHP",
       "language_color": "#4F5D95",
       "stars": 7096,
-      "forks": 1711,
+      "forks": 1714,
       "delta_stars": 4,
       "url": "https://github.com/DenverCoder1/github-readme-streak-stats"
     },
@@ -77,8 +77,8 @@
       "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 60855,
-      "forks": 5323,
+      "stars": 60870,
+      "forks": 5326,
       "delta_stars": 43,
       "url": "https://github.com/coollabsio/coolify"
     },
@@ -91,7 +91,7 @@
       "language": "PHP",
       "language_color": "#4F5D95",
       "stars": 6247,
-      "forks": 1780,
+      "forks": 1782,
       "delta_stars": 6,
       "url": "https://github.com/glpi-project/glpi"
     },
@@ -103,7 +103,7 @@
       "description": "Laravel is a web application framework with expressive, elegant syntax.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 34874,
+      "stars": 34875,
       "forks": 11951,
       "delta_stars": 3,
       "url": "https://github.com/laravel/framework"
@@ -155,7 +155,7 @@
       "description": "Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 15647,
+      "stars": 15646,
       "forks": 1416,
       "delta_stars": 3,
       "url": "https://github.com/getgrav/grav"
@@ -168,7 +168,7 @@
       "description": "Firefly III: a personal finances manager",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 24390,
+      "stars": 24391,
       "forks": 2262,
       "delta_stars": 13,
       "url": "https://github.com/firefly-iii/firefly-iii"
@@ -182,7 +182,7 @@
       "language": "PHP",
       "language_color": "#4F5D95",
       "stars": 10468,
-      "forks": 10680,
+      "forks": 10678,
       "delta_stars": 6,
       "url": "https://github.com/woocommerce/woocommerce"
     },
@@ -220,8 +220,8 @@
       "description": "Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 27988,
-      "forks": 3242,
+      "stars": 27987,
+      "forks": 3243,
       "delta_stars": 0,
       "url": "https://github.com/bagisto/bagisto"
     },
@@ -234,7 +234,7 @@
       "language": "PHP",
       "language_color": "#4F5D95",
       "stars": 13523,
-      "forks": 5063,
+      "forks": 5062,
       "delta_stars": 7,
       "url": "https://github.com/digininja/DVWA"
     },
@@ -246,8 +246,8 @@
       "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 72981,
-      "forks": 25091,
+      "stars": 72991,
+      "forks": 25090,
       "delta_stars": 25,
       "url": "https://github.com/danielmiessler/SecLists"
     }

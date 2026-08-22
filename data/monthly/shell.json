@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:04:44.860Z",
+  "generated_at": "2026-08-22T09:06:18.915Z",
   "since": "monthly",
   "language": "shell",
   "count": 16,
@@ -12,8 +12,8 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 27543,
-      "forks": 2817,
+      "stars": 27784,
+      "forks": 2839,
       "delta_stars": 3310,
       "url": "https://github.com/basecamp/omarchy"
     },
@@ -25,8 +25,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 229517,
-      "forks": 19615,
+      "stars": 230381,
+      "forks": 19683,
       "delta_stars": 49607,
       "url": "https://github.com/mattpocock/skills"
     },
@@ -38,8 +38,8 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 3904,
-      "forks": 1283,
+      "stars": 3917,
+      "forks": 1290,
       "delta_stars": 2264,
       "url": "https://github.com/kunchenguid/firstmate"
     },
@@ -51,7 +51,7 @@
       "description": "这是 mattpocock/skills 的简体中文本地化版本。",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 3520,
+      "stars": 3532,
       "forks": 284,
       "delta_stars": 1381,
       "url": "https://github.com/vinvcn/mattpocock-skills-zh-CN"
@@ -64,8 +64,8 @@
       "description": "A package build system for Termux.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 16821,
-      "forks": 4337,
+      "stars": 16822,
+      "forks": 4338,
       "delta_stars": 232,
       "url": "https://github.com/termux/termux-packages"
     },
@@ -77,8 +77,8 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 94674,
-      "forks": 10386,
+      "stars": 94680,
+      "forks": 10389,
       "delta_stars": 625,
       "url": "https://github.com/nvm-sh/nvm"
     },
@@ -116,8 +116,8 @@
       "description": "",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 11521,
-      "forks": 1511,
+      "stars": 11524,
+      "forks": 1512,
       "delta_stars": 261,
       "url": "https://github.com/BtbN/FFmpeg-Builds"
     },
@@ -130,7 +130,7 @@
       "language": "Shell",
       "language_color": "#89e051",
       "stars": 5364,
-      "forks": 3105,
+      "forks": 3106,
       "delta_stars": 55,
       "url": "https://github.com/armbian/build"
     },
@@ -142,8 +142,8 @@
       "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 25447,
-      "forks": 2576,
+      "stars": 25453,
+      "forks": 2578,
       "delta_stars": 562,
       "url": "https://github.com/a2aproject/A2A"
     },
@@ -155,7 +155,7 @@
       "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 52871,
+      "stars": 52872,
       "forks": 2889,
       "delta_stars": 265,
       "url": "https://github.com/sickcodes/Docker-OSX"
@@ -168,7 +168,7 @@
       "description": "Open-source firmware for Ingenic SoC IP cameras",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 2043,
+      "stars": 2044,
       "forks": 291,
       "delta_stars": 251,
       "url": "https://github.com/themactep/thingino-firmware"
@@ -181,7 +181,7 @@
       "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 8999,
+      "stars": 9003,
       "forks": 270,
       "delta_stars": 391,
       "url": "https://github.com/awesome-jellyfin/awesome-jellyfin"
@@ -194,8 +194,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 275662,
-      "forks": 24644,
+      "stars": 275812,
+      "forks": 24660,
       "delta_stars": 18471,
       "url": "https://github.com/obra/superpowers"
     },
@@ -207,8 +207,8 @@
       "description": "Docker configuration for running VLLM on dual DGX Sparks",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 2153,
-      "forks": 366,
+      "stars": 2157,
+      "forks": 367,
       "delta_stars": 296,
       "url": "https://github.com/eugr/spark-vllm-docker"
     }

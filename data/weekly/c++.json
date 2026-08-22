@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22T01:04:44.860Z",
+  "generated_at": "2026-08-22T09:06:18.915Z",
   "since": "weekly",
   "language": "c++",
-  "count": 19,
+  "count": 18,
   "list": [
     {
       "rank": 1,
@@ -12,8 +12,8 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 125050,
-      "forks": 22001,
+      "stars": 125095,
+      "forks": 22014,
       "delta_stars": 1281,
       "url": "https://github.com/ggml-org/llama.cpp"
     },
@@ -38,7 +38,7 @@
       "description": "Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 2818,
+      "stars": 2819,
       "forks": 176,
       "delta_stars": 66,
       "url": "https://github.com/quickshell-mirror/quickshell"
@@ -51,7 +51,7 @@
       "description": "A high-performance distributed file system designed to address the challenges of AI training and inference workloads.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 10154,
+      "stars": 10155,
       "forks": 1083,
       "delta_stars": 38,
       "url": "https://github.com/deepseek-ai/3FS"
@@ -65,7 +65,7 @@
       "language": "C++",
       "language_color": "#f34b7d",
       "stars": 14264,
-      "forks": 3495,
+      "forks": 3496,
       "delta_stars": 49,
       "url": "https://github.com/qgis/QGIS"
     },
@@ -77,7 +77,7 @@
       "description": "static Recomp of AC6 with Rexglue",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 409,
+      "stars": 411,
       "forks": 15,
       "delta_stars": 127,
       "url": "https://github.com/sal063/AC6_recomp"
@@ -90,8 +90,8 @@
       "description": "ROCmFPX Family for AMD Hardware and Processors. More quants and special agent quants",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 308,
-      "forks": 46,
+      "stars": 311,
+      "forks": 47,
       "delta_stars": 112,
       "url": "https://github.com/charlie12345/ROCmFPX"
     },
@@ -103,8 +103,8 @@
       "description": "Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 5883,
-      "forks": 493,
+      "stars": 5887,
+      "forks": 492,
       "delta_stars": 127,
       "url": "https://github.com/cactus-compute/cactus"
     },
@@ -116,52 +116,39 @@
       "description": "Distribute and run LLMs with a single file.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 25668,
+      "stars": 25672,
       "forks": 1568,
       "delta_stars": 114,
       "url": "https://github.com/mozilla-ai/llamafile"
     },
     {
       "rank": 10,
-      "owner": "Kelsidavis",
-      "name": "WoWee",
-      "full_name": "Kelsidavis/WoWee",
-      "description": "World of Warcraft Engine Experiment - a custom opensource client.",
-      "language": "C++",
-      "language_color": "#f34b7d",
-      "stars": 668,
-      "forks": 87,
-      "delta_stars": 60,
-      "url": "https://github.com/Kelsidavis/WoWee"
-    },
-    {
-      "rank": 11,
       "owner": "electron",
       "name": "electron",
       "full_name": "electron/electron",
       "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 122637,
-      "forks": 17428,
+      "stars": 122642,
+      "forks": 17430,
       "delta_stars": 255,
       "url": "https://github.com/electron/electron"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "owner": "ClickHouse",
       "name": "ClickHouse",
       "full_name": "ClickHouse/ClickHouse",
       "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 49386,
-      "forks": 8841,
+      "stars": 49389,
+      "forks": 8844,
       "delta_stars": 147,
       "url": "https://github.com/ClickHouse/ClickHouse"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "owner": "project-chip",
       "name": "connectedhomeip",
       "full_name": "project-chip/connectedhomeip",
@@ -174,7 +161,7 @@
       "url": "https://github.com/project-chip/connectedhomeip"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "owner": "microsoft",
       "name": "winget-cli",
       "full_name": "microsoft/winget-cli",
@@ -187,20 +174,20 @@
       "url": "https://github.com/microsoft/winget-cli"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "owner": "imputnet",
       "name": "helium",
       "full_name": "imputnet/helium",
       "description": "Private, fast, and honest web browser",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 19715,
-      "forks": 536,
+      "stars": 19721,
+      "forks": 538,
       "delta_stars": 374,
       "url": "https://github.com/imputnet/helium"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "owner": "intel",
       "name": "llm-scaler",
       "full_name": "intel/llm-scaler",
@@ -208,12 +195,12 @@
       "language": "C++",
       "language_color": "#f34b7d",
       "stars": 491,
-      "forks": 71,
+      "forks": 72,
       "delta_stars": 20,
       "url": "https://github.com/intel/llm-scaler"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "owner": "PetoiCamp",
       "name": "OpenCat-Quadruped-Robot",
       "full_name": "PetoiCamp/OpenCat-Quadruped-Robot",
@@ -226,27 +213,27 @@
       "url": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "owner": "awalol",
       "name": "DS5Dongle",
       "full_name": "awalol/DS5Dongle",
       "description": "Turn your Pico 2 W into a DualSense 5 dongle.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 2586,
+      "stars": 2588,
       "forks": 170,
       "delta_stars": 71,
       "url": "https://github.com/awalol/DS5Dongle"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "owner": "yuaotian",
       "name": "antigravity-proxy",
       "full_name": "yuaotian/antigravity-proxy",
       "description": "🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. | 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 3669,
+      "stars": 3675,
       "forks": 283,
       "delta_stars": 90,
       "url": "https://github.com/yuaotian/antigravity-proxy"
