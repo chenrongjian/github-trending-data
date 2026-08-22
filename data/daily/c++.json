@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T00:53:37.295Z",
   "since": "daily",
   "language": "c++",
   "count": 24,
@@ -12,7 +12,7 @@
       "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 71763,
+      "stars": 71769,
       "forks": 16236,
       "delta_stars": 4,
       "url": "https://github.com/protocolbuffers/protobuf"
@@ -25,7 +25,7 @@
       "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 21430,
+      "stars": 21450,
       "forks": 4148,
       "delta_stars": 5,
       "url": "https://github.com/microsoft/onnxruntime"
@@ -38,7 +38,7 @@
       "description": "FlatBuffers: Memory Efficient Serialization Library",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 26384,
+      "stars": 26385,
       "forks": 3625,
       "delta_stars": 23,
       "url": "https://github.com/google/flatbuffers"
@@ -51,7 +51,7 @@
       "description": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 11573,
+      "stars": 11574,
       "forks": 5564,
       "delta_stars": 6,
       "url": "https://github.com/esphome/esphome"
@@ -64,9 +64,9 @@
       "description": "Tesseract Open Source OCR Engine (main repository)",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 76092,
+      "stars": 76094,
       "forks": 10766,
-      "delta_stars": 49,
+      "delta_stars": 48,
       "url": "https://github.com/tesseract-ocr/tesseract"
     },
     {
@@ -90,7 +90,7 @@
       "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 29067,
+      "stars": 29068,
       "forks": 6706,
       "delta_stars": 23,
       "url": "https://github.com/78/xiaozhi-esp32"
@@ -103,9 +103,9 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 125041,
-      "forks": 21998,
-      "delta_stars": 174,
+      "stars": 125046,
+      "forks": 22001,
+      "delta_stars": 169,
       "url": "https://github.com/ggml-org/llama.cpp"
     },
     {
@@ -116,7 +116,7 @@
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 10690,
+      "stars": 10691,
       "forks": 3328,
       "delta_stars": 7,
       "url": "https://github.com/openvinotoolkit/openvino"
@@ -129,9 +129,9 @@
       "description": "OpenHD",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 2630,
+      "stars": 2631,
       "forks": 425,
-      "delta_stars": 75,
+      "delta_stars": 70,
       "url": "https://github.com/OpenHD/OpenHD"
     },
     {
@@ -142,7 +142,7 @@
       "description": "Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 2475,
+      "stars": 2476,
       "forks": 315,
       "delta_stars": 10,
       "url": "https://github.com/flyinghead/flycast"
@@ -155,7 +155,7 @@
       "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 14308,
+      "stars": 14310,
       "forks": 1644,
       "delta_stars": 37,
       "url": "https://github.com/k2-fsa/sherpa-onnx"
@@ -168,7 +168,7 @@
       "description": "super repo for rocm systems projects",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 466,
+      "stars": 467,
       "forks": 359,
       "delta_stars": 1,
       "url": "https://github.com/ROCm/rocm-systems"
@@ -194,7 +194,7 @@
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 30461,
+      "stars": 30462,
       "forks": 4307,
       "delta_stars": 29,
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
@@ -220,7 +220,7 @@
       "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 8171,
+      "stars": 8172,
       "forks": 2663,
       "delta_stars": 6,
       "url": "https://github.com/meshtastic/firmware"
@@ -248,7 +248,7 @@
       "language_color": "#f34b7d",
       "stars": 14569,
       "forks": 1090,
-      "delta_stars": 13,
+      "delta_stars": 14,
       "url": "https://github.com/amnezia-vpn/amnezia-client"
     },
     {
@@ -259,8 +259,8 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 115959,
-      "forks": 26430,
+      "stars": 115960,
+      "forks": 26431,
       "delta_stars": 55,
       "url": "https://github.com/godotengine/godot"
     },
@@ -274,7 +274,7 @@
       "language_color": "#f34b7d",
       "stars": 1664,
       "forks": 380,
-      "delta_stars": 1,
+      "delta_stars": 0,
       "url": "https://github.com/YimMenu/YimMenuV2"
     },
     {
@@ -286,7 +286,7 @@
       "language": "C++",
       "language_color": "#f34b7d",
       "stars": 28686,
-      "forks": 8888,
+      "forks": 8887,
       "delta_stars": 7,
       "url": "https://github.com/dmlc/xgboost"
     },
@@ -298,7 +298,7 @@
       "description": "Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 3561,
+      "stars": 3562,
       "forks": 429,
       "delta_stars": 4,
       "url": "https://github.com/MrNeRF/LichtFeld-Studio"

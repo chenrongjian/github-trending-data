@@ -1,0 +1,99 @@
+{
+  "generated_at": "2026-08-22T00:57:23.005Z",
+  "since": "daily",
+  "language": "ai",
+  "count": 7,
+  "list": [
+    {
+      "rank": 1,
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "language_color": "#89e051",
+      "stars": 229515,
+      "forks": 19615,
+      "delta_stars": 3362,
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "rank": 3,
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "stars": 113917,
+      "forks": 17286,
+      "delta_stars": 1201,
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
+      "rank": 5,
+      "owner": "PostHog",
+      "name": "posthog",
+      "full_name": "PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "stars": 38292,
+      "forks": 3233,
+      "delta_stars": 335,
+      "url": "https://github.com/PostHog/posthog"
+    },
+    {
+      "rank": 8,
+      "owner": "santifer",
+      "name": "career-ops",
+      "full_name": "santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "stars": 67448,
+      "forks": 12871,
+      "delta_stars": 921,
+      "url": "https://github.com/santifer/career-ops"
+    },
+    {
+      "rank": 11,
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "stars": 241797,
+      "forks": 36655,
+      "delta_stars": 357,
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "rank": 13,
+      "owner": "ruvnet",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "language_color": "#3178c6",
+      "stars": 68646,
+      "forks": 8244,
+      "delta_stars": 140,
+      "url": "https://github.com/ruvnet/ruflo"
+    },
+    {
+      "rank": 14,
+      "owner": "apache",
+      "name": "maka",
+      "full_name": "apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "language_color": "#3178c6",
+      "stars": 2018,
+      "forks": 240,
+      "delta_stars": 148,
+      "url": "https://github.com/apache/maka"
+    }
+  ]
+}

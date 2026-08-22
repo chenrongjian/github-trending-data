@@ -14,7 +14,7 @@ const path = require('path');
 const SINCES = ['daily', 'weekly', 'monthly'];
 const LANGS = [
   'all', 'javascript', 'python', 'go', 'rust', 'typescript',
-  'java', 'c', 'c++', 'php', 'shell'
+  'java', 'c', 'c++', 'php', 'shell', 'ai'
 ];
 
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36';
@@ -129,6 +129,27 @@ function parseTrending(html) {
   return repos;
 }
 
+// AI 相关仓库过滤：匹配仓库名或描述中的 AI 关键字
+const AI_KEYWORDS = [
+  'gpt', 'llm', 'llms', 'agent', 'agents', 'chatbot', 'copilot',
+  'openai', 'anthropic', 'gemini', 'llama', 'claude', 'mistral', 'deepseek',
+  'machine learning', 'deep learning', 'neural network', 'transformer',
+  'langchain', 'langgraph', 'diffusion', 'stable diffusion',
+  'text-to-image', 'text to image', 'image generation', 'multimodal',
+  'fine-tuning', 'fine tuning', 'ollama', 'vllm', 'aigc',
+  'generative ai', '自然语言', '人工智能', '大模型', '智能体'
+];
+
+function filterAI(repos) {
+  // 'ai' 单独匹配：要求是独立单词（前后为分隔符），避免误匹配 self-driving 等
+  const aiWord = /(^|[^a-z0-9])ai([^a-z0-9]|$)/i;
+  const re = new RegExp(`(^|[^a-z0-9])(${AI_KEYWORDS.join('|')})([^a-z0-9]|$)`, 'i');
+  return repos.filter(r => {
+    const text = `${r.full_name} ${r.description || ''}`;
+    return aiWord.test(text) || re.test(text);
+  });
+}
+
 async function main() {
   const now = new Date();
   const generatedAt = now.toISOString();
@@ -137,12 +158,15 @@ async function main() {
 
   for (const since of SINCES) {
     for (const lang of LANGS) {
-      const url = lang === 'all'
+      // ai 是虚拟维度：抓取全量榜单后按 AI 关键字过滤
+      const isAI = lang === 'ai';
+      const url = (lang === 'all' || isAI)
         ? `https://github.com/trending?since=${since}`
         : `https://github.com/trending/${encodeURIComponent(lang)}?since=${since}`;
       try {
         const html = await get(url);
-        const list = parseTrending(html);
+        let list = parseTrending(html);
+        if (isAI) list = filterAI(list);
         const dir = path.join(__dirname, '..', 'data', since);
         fs.mkdirSync(dir, { recursive: true });
         const out = {

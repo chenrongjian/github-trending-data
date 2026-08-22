@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T00:53:37.295Z",
   "since": "daily",
   "language": "c",
   "count": 21,
@@ -13,7 +13,7 @@
       "language": "C",
       "language_color": "#555555",
       "stars": 3627,
-      "forks": 352,
+      "forks": 353,
       "delta_stars": 6,
       "url": "https://github.com/quickjs-ng/quickjs"
     },
@@ -25,9 +25,9 @@
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "C",
       "language_color": "#555555",
-      "stars": 67594,
+      "stars": 67597,
       "forks": 4288,
-      "delta_stars": 269,
+      "delta_stars": 260,
       "url": "https://github.com/colbymchenry/codegraph"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 16281,
+      "stars": 16283,
       "forks": 9804,
-      "delta_stars": 15,
+      "delta_stars": 16,
       "url": "https://github.com/zephyrproject-rtos/zephyr"
     },
     {
@@ -90,7 +90,7 @@
       "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 6893,
+      "stars": 6894,
       "forks": 2956,
       "delta_stars": 5,
       "url": "https://github.com/Mbed-TLS/mbedtls"
@@ -105,7 +105,7 @@
       "language_color": "#555555",
       "stars": 14785,
       "forks": 2495,
-      "delta_stars": 38,
+      "delta_stars": 37,
       "url": "https://github.com/duixcom/Duix-Avatar"
     },
     {
@@ -116,7 +116,7 @@
       "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 24438,
+      "stars": 24439,
       "forks": 4309,
       "delta_stars": 8,
       "url": "https://github.com/lvgl/lvgl"
@@ -131,7 +131,7 @@
       "language_color": "#555555",
       "stars": 27592,
       "forks": 2561,
-      "delta_stars": 8,
+      "delta_stars": 7,
       "url": "https://github.com/facebook/zstd"
     },
     {
@@ -170,7 +170,7 @@
       "language_color": "#555555",
       "stars": 13316,
       "forks": 1161,
-      "delta_stars": 9,
+      "delta_stars": 7,
       "url": "https://github.com/microsoft/mimalloc"
     },
     {
@@ -235,7 +235,7 @@
       "language_color": "#555555",
       "stars": 40307,
       "forks": 8132,
-      "delta_stars": 11,
+      "delta_stars": 10,
       "url": "https://github.com/php/php-src"
     },
     {
@@ -259,9 +259,9 @@
       "description": "A new bootable USB solution.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 78871,
+      "stars": 78872,
       "forks": 4898,
-      "delta_stars": 28,
+      "delta_stars": 27,
       "url": "https://github.com/ventoy/Ventoy"
     },
     {

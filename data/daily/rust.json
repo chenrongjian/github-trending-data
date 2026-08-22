@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T00:53:37.295Z",
   "since": "daily",
   "language": "rust",
   "count": 18,
@@ -12,9 +12,9 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 12885,
-      "forks": 350,
-      "delta_stars": 1372,
+      "stars": 12937,
+      "forks": 351,
+      "delta_stars": 1380,
       "url": "https://github.com/AprilNEA/OpenLogi"
     },
     {
@@ -25,9 +25,9 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 53187,
-      "forks": 6065,
-      "delta_stars": 127,
+      "stars": 53193,
+      "forks": 6066,
+      "delta_stars": 113,
       "url": "https://github.com/aaif-goose/goose"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 27070,
+      "stars": 27096,
       "forks": 3506,
-      "delta_stars": 310,
+      "delta_stars": 300,
       "url": "https://github.com/nautechsystems/nautilus_trader"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 95554,
+      "stars": 95555,
       "forks": 4986,
-      "delta_stars": 79,
+      "delta_stars": 89,
       "url": "https://github.com/oven-sh/bun"
     },
     {
@@ -77,9 +77,9 @@
       "description": "A Git-compatible VCS that is both simple and powerful",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 31117,
+      "stars": 31118,
       "forks": 1180,
-      "delta_stars": 16,
+      "delta_stars": 15,
       "url": "https://github.com/jj-vcs/jj"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 89013,
-      "forks": 10183,
-      "delta_stars": 57,
+      "stars": 89016,
+      "forks": 10184,
+      "delta_stars": 58,
       "url": "https://github.com/zed-industries/zed"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 3939,
+      "stars": 3943,
       "forks": 297,
-      "delta_stars": 468,
+      "delta_stars": 467,
       "url": "https://github.com/akitaonrails/ai-memory"
     },
     {
@@ -142,7 +142,7 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 36464,
+      "stars": 36466,
       "forks": 3647,
       "delta_stars": 51,
       "url": "https://github.com/tinyhumansai/openhuman"
@@ -155,9 +155,9 @@
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 16201,
+      "stars": 16202,
       "forks": 1402,
-      "delta_stars": 348,
+      "delta_stars": 350,
       "url": "https://github.com/RyanCodrai/turbovec"
     },
     {
@@ -168,9 +168,9 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 111247,
-      "forks": 17061,
-      "delta_stars": 4156,
+      "stars": 111295,
+      "forks": 17075,
+      "delta_stars": 4159,
       "url": "https://github.com/openai/codex"
     },
     {
@@ -194,7 +194,7 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 41098,
+      "stars": 41099,
       "forks": 2737,
       "delta_stars": 74,
       "url": "https://github.com/vercel-labs/agent-browser"
@@ -208,8 +208,8 @@
       "language": "Rust",
       "language_color": "#dea584",
       "stars": 49266,
-      "forks": 2347,
-      "delta_stars": 16,
+      "forks": 2348,
+      "delta_stars": 20,
       "url": "https://github.com/astral-sh/ruff"
     },
     {
@@ -220,9 +220,9 @@
       "description": "⚓ A collection of high-performance JavaScript tools.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 22417,
+      "stars": 22418,
       "forks": 1221,
-      "delta_stars": 27,
+      "delta_stars": 26,
       "url": "https://github.com/oxc-project/oxc"
     },
     {

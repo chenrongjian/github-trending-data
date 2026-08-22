@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T00:57:23.005Z",
   "since": "daily",
   "language": "shell",
   "count": 12,
@@ -12,9 +12,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 229402,
-      "forks": 19605,
-      "delta_stars": 3368,
+      "stars": 229515,
+      "forks": 19615,
+      "delta_stars": 3362,
       "url": "https://github.com/mattpocock/skills"
     },
     {
@@ -25,9 +25,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 275641,
-      "forks": 24642,
-      "delta_stars": 789,
+      "stars": 275661,
+      "forks": 24644,
+      "delta_stars": 790,
       "url": "https://github.com/obra/superpowers"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Windows inside a Docker container.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 52941,
+      "stars": 52946,
       "forks": 4648,
-      "delta_stars": 24,
+      "delta_stars": 29,
       "url": "https://github.com/dockur/windows"
     },
     {
@@ -51,9 +51,9 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 147171,
-      "forks": 23761,
-      "delta_stars": 431,
+      "stars": 147189,
+      "forks": 23762,
+      "delta_stars": 392,
       "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 24388,
+      "stars": 24390,
       "forks": 3486,
-      "delta_stars": 103,
+      "delta_stars": 87,
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     {
@@ -79,7 +79,7 @@
       "language_color": "#89e051",
       "stars": 2157,
       "forks": 511,
-      "delta_stars": 26,
+      "delta_stars": 4,
       "url": "https://github.com/assafdori/bypass-mdm"
     },
     {
@@ -90,8 +90,8 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 94673,
-      "forks": 10387,
+      "stars": 94674,
+      "forks": 10386,
       "delta_stars": 10,
       "url": "https://github.com/nvm-sh/nvm"
     },
@@ -105,7 +105,7 @@
       "language_color": "#89e051",
       "stars": 4093,
       "forks": 693,
-      "delta_stars": 14,
+      "delta_stars": 11,
       "url": "https://github.com/llm-d/llm-d"
     },
     {
@@ -131,7 +131,7 @@
       "language_color": "#89e051",
       "stars": 4286,
       "forks": 152,
-      "delta_stars": 9,
+      "delta_stars": 8,
       "url": "https://github.com/CachyOS/linux-cachyos"
     },
     {
@@ -157,7 +157,7 @@
       "language_color": "#89e051",
       "stars": 5533,
       "forks": 362,
-      "delta_stars": 24,
+      "delta_stars": 23,
       "url": "https://github.com/Dammyjay93/interface-design"
     }
   ]

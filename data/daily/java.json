@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T00:53:37.295Z",
   "since": "daily",
   "language": "java",
   "count": 22,
@@ -12,7 +12,7 @@
       "description": "No-root network monitor, firewall and PCAP dumper for Android",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 4568,
+      "stars": 4569,
       "forks": 528,
       "delta_stars": 78,
       "url": "https://github.com/emanuele-f/PCAPdroid"
@@ -25,9 +25,9 @@
       "description": "Browse media content with your own rules on Android TV",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 32174,
-      "forks": 1953,
-      "delta_stars": 50,
+      "stars": 32177,
+      "forks": 1954,
+      "delta_stars": 48,
       "url": "https://github.com/yuliskov/SmartTube"
     },
     {
@@ -53,7 +53,7 @@
       "language_color": "#b07219",
       "stars": 36331,
       "forks": 8837,
-      "delta_stars": 20,
+      "delta_stars": 19,
       "url": "https://github.com/keycloak/keycloak"
     },
     {
@@ -64,9 +64,9 @@
       "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 90002,
+      "stars": 90005,
       "forks": 8140,
-      "delta_stars": 73,
+      "delta_stars": 74,
       "url": "https://github.com/Stirling-Tools/Stirling-PDF"
     },
     {
@@ -79,7 +79,7 @@
       "language_color": "#b07219",
       "stars": 10430,
       "forks": 1412,
-      "delta_stars": 9,
+      "delta_stars": 8,
       "url": "https://github.com/github/copilot-sdk"
     },
     {
@@ -90,7 +90,7 @@
       "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 38874,
+      "stars": 38875,
       "forks": 8407,
       "delta_stars": 26,
       "url": "https://github.com/YunaiV/ruoyi-vue-pro"
@@ -129,7 +129,7 @@
       "description": "Jenkins automation server",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 26478,
+      "stars": 26480,
       "forks": 9801,
       "delta_stars": 2,
       "url": "https://github.com/jenkinsci/jenkins"
@@ -144,7 +144,7 @@
       "language_color": "#b07219",
       "stars": 5211,
       "forks": 1217,
-      "delta_stars": 17,
+      "delta_stars": 18,
       "url": "https://github.com/agentscope-ai/agentscope-java"
     },
     {
@@ -157,7 +157,7 @@
       "language_color": "#b07219",
       "stars": 13558,
       "forks": 2913,
-      "delta_stars": 6,
+      "delta_stars": 7,
       "url": "https://github.com/opensearch-project/OpenSearch"
     },
     {
@@ -183,7 +183,7 @@
       "language_color": "#b07219",
       "stars": 81334,
       "forks": 42096,
-      "delta_stars": 9,
+      "delta_stars": 12,
       "url": "https://github.com/spring-projects/spring-boot"
     },
     {
@@ -194,9 +194,9 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 39435,
+      "stars": 39436,
       "forks": 3742,
-      "delta_stars": 23,
+      "delta_stars": 22,
       "url": "https://github.com/TeamNewPipe/NewPipe"
     },
     {
@@ -220,9 +220,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 72635,
-      "forks": 7948,
-      "delta_stars": 45,
+      "stars": 72637,
+      "forks": 7949,
+      "delta_stars": 49,
       "url": "https://github.com/NationalSecurityAgency/ghidra"
     },
     {
@@ -233,9 +233,9 @@
       "description": "Apache Kafka - A distributed event streaming platform",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 33580,
+      "stars": 33581,
       "forks": 15444,
-      "delta_stars": 16,
+      "delta_stars": 20,
       "url": "https://github.com/apache/kafka"
     },
     {
@@ -261,7 +261,7 @@
       "language_color": "#b07219",
       "stars": 1702,
       "forks": 143,
-      "delta_stars": 83,
+      "delta_stars": 46,
       "url": "https://github.com/aklivity/zilla"
     },
     {

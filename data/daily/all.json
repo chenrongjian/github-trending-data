@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T00:53:37.295Z",
   "since": "daily",
   "language": "all",
   "count": 17,
@@ -12,9 +12,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 229402,
-      "forks": 19605,
-      "delta_stars": 3368,
+      "stars": 229500,
+      "forks": 19615,
+      "delta_stars": 3362,
       "url": "https://github.com/mattpocock/skills"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Visualize your year in travel using your Google Location History (Timeline) data",
       "language": "Kotlin",
       "language_color": "#A97BFF",
-      "stars": 2206,
-      "forks": 253,
-      "delta_stars": 1040,
+      "stars": 2219,
+      "forks": 254,
+      "delta_stars": 1053,
       "url": "https://github.com/mahlernim/google-timeline-visualizer"
     },
     {
@@ -38,9 +38,9 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 113871,
-      "forks": 17280,
-      "delta_stars": 1187,
+      "stars": 113914,
+      "forks": 17285,
+      "delta_stars": 1201,
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
@@ -51,9 +51,9 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 12885,
-      "forks": 350,
-      "delta_stars": 1372,
+      "stars": 12937,
+      "forks": 351,
+      "delta_stars": 1380,
       "url": "https://github.com/AprilNEA/OpenLogi"
     },
     {
@@ -64,9 +64,9 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 38279,
+      "stars": 38291,
       "forks": 3232,
-      "delta_stars": 334,
+      "delta_stars": 335,
       "url": "https://github.com/PostHog/posthog"
     },
     {
@@ -77,7 +77,7 @@
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 110371,
+      "stars": 110376,
       "forks": 13741,
       "delta_stars": 65,
       "url": "https://github.com/microsoft/TypeScript"
@@ -90,9 +90,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 275641,
-      "forks": 24642,
-      "delta_stars": 789,
+      "stars": 275658,
+      "forks": 24644,
+      "delta_stars": 790,
       "url": "https://github.com/obra/superpowers"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 67425,
-      "forks": 12867,
-      "delta_stars": 918,
+      "stars": 67447,
+      "forks": 12870,
+      "delta_stars": 921,
       "url": "https://github.com/santifer/career-ops"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 4387,
+      "stars": 4402,
       "forks": 366,
-      "delta_stars": 391,
+      "delta_stars": 388,
       "url": "https://github.com/cursor/plugins"
     },
     {
@@ -129,9 +129,9 @@
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
       "language_color": "#ff4c1f",
-      "stars": 28673,
+      "stars": 28685,
       "forks": 3053,
-      "delta_stars": 905,
+      "delta_stars": 913,
       "url": "https://github.com/modular/modular"
     },
     {
@@ -142,9 +142,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 241775,
+      "stars": 241790,
       "forks": 36655,
-      "delta_stars": 348,
+      "delta_stars": 357,
       "url": "https://github.com/affaan-m/ECC"
     },
     {
@@ -155,7 +155,7 @@
       "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 54870,
+      "stars": 54885,
       "forks": 11903,
       "delta_stars": 32,
       "url": "https://github.com/TryGhost/Ghost"
@@ -168,8 +168,8 @@
       "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 68633,
-      "forks": 8242,
+      "stars": 68645,
+      "forks": 8244,
       "delta_stars": 140,
       "url": "https://github.com/ruvnet/ruflo"
     },
@@ -181,9 +181,9 @@
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 2001,
+      "stars": 2016,
       "forks": 240,
-      "delta_stars": 141,
+      "delta_stars": 148,
       "url": "https://github.com/apache/maka"
     },
     {
@@ -194,7 +194,7 @@
       "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 71763,
+      "stars": 71769,
       "forks": 16236,
       "delta_stars": 4,
       "url": "https://github.com/protocolbuffers/protobuf"
@@ -207,7 +207,7 @@
       "description": "OBLITERATE THE CHAINS THAT BIND YOU",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 7767,
+      "stars": 7788,
       "forks": 1432,
       "delta_stars": 63,
       "url": "https://github.com/elder-plinius/OBLITERATUS"
@@ -220,7 +220,7 @@
       "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 21429,
+      "stars": 21449,
       "forks": 4148,
       "delta_stars": 5,
       "url": "https://github.com/microsoft/onnxruntime"
