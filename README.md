@@ -1,6 +1,6 @@
 # github-trending-data 数据仓库
 
-每日自动抓取 GitHub Trending 榜单并生成静态 JSON，供"陈荣健的工具箱"小程序读取。数据完全自主可控，不依赖任何第三方 API 服务。
+每日自动抓取 GitHub Trending 榜单并生成静态 JSON，供微信小程序（工具箱类）读取。数据完全自主可控，不依赖任何第三方 API 服务。
 
 ## 数据流
 
