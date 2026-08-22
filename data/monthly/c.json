@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "monthly",
   "language": "c",
   "count": 20,
@@ -13,8 +13,8 @@
       "language": "C",
       "language_color": "#555555",
       "stars": 75280,
-      "forks": 9817,
-      "delta_stars": 1412,
+      "forks": 9816,
+      "delta_stars": 1414,
       "url": "https://github.com/obsproject/obs-studio"
     },
     {
@@ -26,8 +26,8 @@
       "language": "C",
       "language_color": "#555555",
       "stars": 6382,
-      "forks": 6243,
-      "delta_stars": 1016,
+      "forks": 6242,
+      "delta_stars": 1023,
       "url": "https://github.com/opa334/Dopamine"
     },
     {
@@ -40,7 +40,7 @@
       "language_color": "#555555",
       "stars": 62717,
       "forks": 28270,
-      "delta_stars": 722,
+      "delta_stars": 732,
       "url": "https://github.com/git/git"
     },
     {
@@ -53,7 +53,7 @@
       "language_color": "#555555",
       "stars": 13547,
       "forks": 2183,
-      "delta_stars": 189,
+      "delta_stars": 196,
       "url": "https://github.com/libretro/RetroArch"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Android application for running Windows applications with Wine and Box86/Box64",
       "language": "C",
       "language_color": "#555555",
-      "stars": 18734,
-      "forks": 1665,
-      "delta_stars": 493,
+      "stars": 18735,
+      "forks": 1666,
+      "delta_stars": 489,
       "url": "https://github.com/brunodev85/winlator"
     },
     {
@@ -79,7 +79,7 @@
       "language_color": "#555555",
       "stars": 667,
       "forks": 179,
-      "delta_stars": 287,
+      "delta_stars": 294,
       "url": "https://github.com/tr4m0ryp/tr4mpass"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 16281,
+      "stars": 16283,
       "forks": 9804,
-      "delta_stars": 354,
+      "delta_stars": 359,
       "url": "https://github.com/zephyrproject-rtos/zephyr"
     },
     {
@@ -103,9 +103,9 @@
       "description": "NVIDIA Linux open GPU kernel module source",
       "language": "C",
       "language_color": "#555555",
-      "stars": 17307,
+      "stars": 17306,
       "forks": 1811,
-      "delta_stars": 170,
+      "delta_stars": 169,
       "url": "https://github.com/NVIDIA/open-gpu-kernel-modules"
     },
     {
@@ -116,9 +116,9 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 28059,
-      "forks": 12824,
-      "delta_stars": 513,
+      "stars": 28060,
+      "forks": 12825,
+      "delta_stars": 512,
       "url": "https://github.com/openwrt/openwrt"
     },
     {
@@ -130,8 +130,8 @@
       "language": "C",
       "language_color": "#555555",
       "stars": 4613,
-      "forks": 664,
-      "delta_stars": 212,
+      "forks": 663,
+      "delta_stars": 213,
       "url": "https://github.com/termux/termux-x11"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C",
       "language_color": "#555555",
-      "stars": 137945,
+      "stars": 137949,
       "forks": 8497,
-      "delta_stars": 1682,
+      "delta_stars": 1690,
       "url": "https://github.com/microsoft/PowerToys"
     },
     {
@@ -155,9 +155,9 @@
       "description": "Flipper Zero Unleashed Firmware",
       "language": "C",
       "language_color": "#555555",
-      "stars": 22099,
+      "stars": 22100,
       "forks": 1931,
-      "delta_stars": 270,
+      "delta_stars": 274,
       "url": "https://github.com/DarkFlippers/unleashed-firmware"
     },
     {
@@ -168,9 +168,9 @@
       "description": "🎥 Command line media player",
       "language": "C",
       "language_color": "#555555",
-      "stars": 36616,
+      "stars": 36617,
       "forks": 3484,
-      "delta_stars": 587,
+      "delta_stars": 585,
       "url": "https://github.com/mpv-player/mpv"
     },
     {
@@ -181,9 +181,9 @@
       "description": "Emulator of x86-based machines.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 4710,
+      "stars": 4711,
       "forks": 567,
-      "delta_stars": 317,
+      "delta_stars": 315,
       "url": "https://github.com/86Box/86Box"
     },
     {
@@ -194,9 +194,9 @@
       "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
       "language": "C",
       "language_color": "#555555",
-      "stars": 23394,
-      "forks": 1139,
-      "delta_stars": 269,
+      "stars": 23395,
+      "forks": 1140,
+      "delta_stars": 270,
       "url": "https://github.com/timescale/timescaledb"
     },
     {
@@ -209,7 +209,7 @@
       "language_color": "#555555",
       "stars": 17953,
       "forks": 712,
-      "delta_stars": 322,
+      "delta_stars": 330,
       "url": "https://github.com/nicbarker/clay"
     },
     {
@@ -222,7 +222,7 @@
       "language_color": "#555555",
       "stars": 3500,
       "forks": 1241,
-      "delta_stars": 229,
+      "delta_stars": 226,
       "url": "https://github.com/meshcore-dev/MeshCore"
     },
     {
@@ -235,7 +235,7 @@
       "language_color": "#555555",
       "stars": 5349,
       "forks": 907,
-      "delta_stars": 101,
+      "delta_stars": 104,
       "url": "https://github.com/portapack-mayhem/mayhem-firmware"
     },
     {

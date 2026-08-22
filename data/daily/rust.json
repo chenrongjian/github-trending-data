@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T00:53:37.295Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "daily",
   "language": "rust",
   "count": 18,
@@ -12,7 +12,7 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 12937,
+      "stars": 12943,
       "forks": 351,
       "delta_stars": 1380,
       "url": "https://github.com/AprilNEA/OpenLogi"
@@ -25,7 +25,7 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 53193,
+      "stars": 53194,
       "forks": 6066,
       "delta_stars": 113,
       "url": "https://github.com/aaif-goose/goose"
@@ -38,7 +38,7 @@
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 43522,
+      "stars": 43523,
       "forks": 5100,
       "delta_stars": 9,
       "url": "https://github.com/juspay/hyperswitch"
@@ -51,7 +51,7 @@
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 27096,
+      "stars": 27101,
       "forks": 3506,
       "delta_stars": 300,
       "url": "https://github.com/nautechsystems/nautilus_trader"
@@ -116,7 +116,7 @@
       "description": "Developer Control Plane for your AI Agents",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 5332,
+      "stars": 5333,
       "forks": 1241,
       "delta_stars": 64,
       "url": "https://github.com/Nasiko-Labs/nasiko"
@@ -168,8 +168,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 111295,
-      "forks": 17075,
+      "stars": 111305,
+      "forks": 17077,
       "delta_stars": 4159,
       "url": "https://github.com/openai/codex"
     },

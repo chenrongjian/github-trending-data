@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "weekly",
   "language": "typescript",
   "count": 16,
@@ -12,8 +12,8 @@
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 6943,
-      "forks": 401,
+      "stars": 6957,
+      "forks": 403,
       "delta_stars": 3614,
       "url": "https://github.com/cordiverse/cordis"
     },
@@ -25,9 +25,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 4387,
+      "stars": 4405,
       "forks": 366,
-      "delta_stars": 1273,
+      "delta_stars": 1582,
       "url": "https://github.com/cursor/plugins"
     },
     {
@@ -38,9 +38,9 @@
       "description": "The free coding agent",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 10441,
+      "stars": 10445,
       "forks": 1139,
-      "delta_stars": 1133,
+      "delta_stars": 1123,
       "url": "https://github.com/CodebuffAI/freebuff"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 7122,
+      "stars": 7124,
       "forks": 678,
-      "delta_stars": 1855,
+      "delta_stars": 1379,
       "url": "https://github.com/lightningpixel/modly"
     },
     {
@@ -66,7 +66,7 @@
       "language_color": "#3178c6",
       "stars": 1010,
       "forks": 112,
-      "delta_stars": 409,
+      "delta_stars": 427,
       "url": "https://github.com/eneskirca/nodeterm"
     },
     {
@@ -77,7 +77,7 @@
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 2001,
+      "stars": 2018,
       "forks": 240,
       "delta_stars": 648,
       "url": "https://github.com/apache/maka"
@@ -90,9 +90,9 @@
       "description": "A full-featured download manager.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 54249,
+      "stars": 54256,
       "forks": 4977,
-      "delta_stars": 1773,
+      "delta_stars": 1863,
       "url": "https://github.com/agalwood/Motrix"
     },
     {
@@ -103,9 +103,9 @@
       "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 41457,
-      "forks": 4643,
-      "delta_stars": 991,
+      "stars": 41459,
+      "forks": 4644,
+      "delta_stars": 1124,
       "url": "https://github.com/amruthpillai/reactive-resume"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex), any model, or BYOK. Set up in clicks, not months. Local-first: your data never leaves your machines.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 10588,
+      "stars": 10593,
       "forks": 710,
-      "delta_stars": 4282,
+      "delta_stars": 3645,
       "url": "https://github.com/holaboss-ai/holaOS"
     },
     {
@@ -129,7 +129,7 @@
       "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 72992,
+      "stars": 72994,
       "forks": 9847,
       "delta_stars": 110,
       "url": "https://github.com/strapi/strapi"
@@ -142,9 +142,9 @@
       "description": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 5544,
-      "forks": 327,
-      "delta_stars": 350,
+      "stars": 5545,
+      "forks": 328,
+      "delta_stars": 346,
       "url": "https://github.com/CodeWithCJ/SparkyFitness"
     },
     {
@@ -155,9 +155,9 @@
       "description": "A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 10085,
+      "stars": 10087,
       "forks": 714,
-      "delta_stars": 146,
+      "delta_stars": 162,
       "url": "https://github.com/fluxerapp/fluxer"
     },
     {
@@ -168,9 +168,9 @@
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 85406,
+      "stars": 85411,
       "forks": 8409,
-      "delta_stars": 2718,
+      "delta_stars": 2470,
       "url": "https://github.com/OpenCut-app/OpenCut"
     },
     {
@@ -181,7 +181,7 @@
       "description": "BookOrbit: Your Reading Space",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 2676,
+      "stars": 2677,
       "forks": 187,
       "delta_stars": 501,
       "url": "https://github.com/bookorbit/bookorbit"
@@ -194,7 +194,7 @@
       "description": "Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 19766,
+      "stars": 19765,
       "forks": 651,
       "delta_stars": 417,
       "url": "https://github.com/Nagi-ovo/voyager"

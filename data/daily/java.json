@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T00:53:37.295Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "daily",
   "language": "java",
   "count": 22,
@@ -77,7 +77,7 @@
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 10430,
+      "stars": 10431,
       "forks": 1412,
       "delta_stars": 8,
       "url": "https://github.com/github/copilot-sdk"
@@ -90,7 +90,7 @@
       "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 38875,
+      "stars": 38877,
       "forks": 8407,
       "delta_stars": 26,
       "url": "https://github.com/YunaiV/ruoyi-vue-pro"
@@ -182,7 +182,7 @@
       "language": "Java",
       "language_color": "#b07219",
       "stars": 81334,
-      "forks": 42096,
+      "forks": 42095,
       "delta_stars": 12,
       "url": "https://github.com/spring-projects/spring-boot"
     },
@@ -220,7 +220,7 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 72637,
+      "stars": 72638,
       "forks": 7949,
       "delta_stars": 49,
       "url": "https://github.com/NationalSecurityAgency/ghidra"
@@ -246,7 +246,7 @@
       "description": "【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 47430,
+      "stars": 47431,
       "forks": 16154,
       "delta_stars": 13,
       "url": "https://github.com/jeecgboot/JeecgBoot"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "monthly",
   "language": "shell",
   "count": 16,
@@ -12,9 +12,9 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 27503,
-      "forks": 2816,
-      "delta_stars": 3095,
+      "stars": 27543,
+      "forks": 2817,
+      "delta_stars": 3310,
       "url": "https://github.com/basecamp/omarchy"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 229402,
-      "forks": 19605,
-      "delta_stars": 47717,
+      "stars": 229517,
+      "forks": 19615,
+      "delta_stars": 49607,
       "url": "https://github.com/mattpocock/skills"
     },
     {
@@ -38,8 +38,8 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 3902,
-      "forks": 1279,
+      "stars": 3904,
+      "forks": 1283,
       "delta_stars": 2264,
       "url": "https://github.com/kunchenguid/firstmate"
     },
@@ -51,9 +51,9 @@
       "description": "这是 mattpocock/skills 的简体中文本地化版本。",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 3518,
+      "stars": 3520,
       "forks": 284,
-      "delta_stars": 1389,
+      "delta_stars": 1381,
       "url": "https://github.com/vinvcn/mattpocock-skills-zh-CN"
     },
     {
@@ -65,8 +65,8 @@
       "language": "Shell",
       "language_color": "#89e051",
       "stars": 16821,
-      "forks": 4338,
-      "delta_stars": 234,
+      "forks": 4337,
+      "delta_stars": 232,
       "url": "https://github.com/termux/termux-packages"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 94673,
-      "forks": 10387,
-      "delta_stars": 623,
+      "stars": 94674,
+      "forks": 10386,
+      "delta_stars": 625,
       "url": "https://github.com/nvm-sh/nvm"
     },
     {
@@ -90,9 +90,9 @@
       "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 4227,
+      "stars": 4226,
       "forks": 562,
-      "delta_stars": 492,
+      "delta_stars": 479,
       "url": "https://github.com/Astrosp/Awesome-OSINT-List"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 10791,
+      "stars": 10793,
       "forks": 2144,
-      "delta_stars": 486,
+      "delta_stars": 492,
       "url": "https://github.com/1N3/Sn1per"
     },
     {
@@ -118,7 +118,7 @@
       "language_color": "#89e051",
       "stars": 11521,
       "forks": 1511,
-      "delta_stars": 258,
+      "delta_stars": 261,
       "url": "https://github.com/BtbN/FFmpeg-Builds"
     },
     {
@@ -130,8 +130,8 @@
       "language": "Shell",
       "language_color": "#89e051",
       "stars": 5364,
-      "forks": 3106,
-      "delta_stars": 52,
+      "forks": 3105,
+      "delta_stars": 55,
       "url": "https://github.com/armbian/build"
     },
     {
@@ -144,7 +144,7 @@
       "language_color": "#89e051",
       "stars": 25447,
       "forks": 2576,
-      "delta_stars": 568,
+      "delta_stars": 562,
       "url": "https://github.com/a2aproject/A2A"
     },
     {
@@ -157,7 +157,7 @@
       "language_color": "#89e051",
       "stars": 52871,
       "forks": 2889,
-      "delta_stars": 268,
+      "delta_stars": 265,
       "url": "https://github.com/sickcodes/Docker-OSX"
     },
     {
@@ -170,7 +170,7 @@
       "language_color": "#89e051",
       "stars": 2043,
       "forks": 291,
-      "delta_stars": 253,
+      "delta_stars": 251,
       "url": "https://github.com/themactep/thingino-firmware"
     },
     {
@@ -181,9 +181,9 @@
       "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 8998,
+      "stars": 8999,
       "forks": 270,
-      "delta_stars": 397,
+      "delta_stars": 391,
       "url": "https://github.com/awesome-jellyfin/awesome-jellyfin"
     },
     {
@@ -194,9 +194,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 275641,
-      "forks": 24642,
-      "delta_stars": 18453,
+      "stars": 275662,
+      "forks": 24644,
+      "delta_stars": 18471,
       "url": "https://github.com/obra/superpowers"
     },
     {
@@ -209,7 +209,7 @@
       "language_color": "#89e051",
       "stars": 2153,
       "forks": 366,
-      "delta_stars": 294,
+      "delta_stars": 296,
       "url": "https://github.com/eugr/spark-vllm-docker"
     }
   ]

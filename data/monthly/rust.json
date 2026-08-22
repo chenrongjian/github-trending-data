@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "monthly",
   "language": "rust",
   "count": 22,
@@ -12,9 +12,9 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 29223,
-      "forks": 3695,
-      "delta_stars": 28701,
+      "stars": 29244,
+      "forks": 3701,
+      "delta_stars": 28941,
       "url": "https://github.com/block/buzz"
     },
     {
@@ -25,9 +25,9 @@
       "description": "The most RAM efficient harness",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 18173,
-      "forks": 2038,
-      "delta_stars": 8972,
+      "stars": 18177,
+      "forks": 2040,
+      "delta_stars": 8256,
       "url": "https://github.com/1jehuang/jcode"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 3938,
+      "stars": 3943,
       "forks": 297,
-      "delta_stars": 2407,
+      "delta_stars": 2823,
       "url": "https://github.com/akitaonrails/ai-memory"
     },
     {
@@ -53,7 +53,7 @@
       "language_color": "#dea584",
       "stars": 14662,
       "forks": 576,
-      "delta_stars": 3548,
+      "delta_stars": 3561,
       "url": "https://github.com/Automattic/harper"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 33444,
+      "stars": 33449,
       "forks": 2078,
-      "delta_stars": 3482,
+      "delta_stars": 3468,
       "url": "https://github.com/AlexsJones/llmfit"
     },
     {
@@ -92,7 +92,7 @@
       "language_color": "#dea584",
       "stars": 10841,
       "forks": 743,
-      "delta_stars": 2869,
+      "delta_stars": 2842,
       "url": "https://github.com/Pumpkin-MC/Pumpkin"
     },
     {
@@ -103,9 +103,9 @@
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 30076,
+      "stars": 30079,
       "forks": 2682,
-      "delta_stars": 3072,
+      "delta_stars": 3053,
       "url": "https://github.com/cjpais/Handy"
     },
     {
@@ -116,9 +116,9 @@
       "description": "dev tools, env vars, task runner",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 32800,
-      "forks": 1381,
-      "delta_stars": 1900,
+      "stars": 32802,
+      "forks": 1382,
+      "delta_stars": 1887,
       "url": "https://github.com/jdx/mise"
     },
     {
@@ -129,9 +129,9 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 12885,
-      "forks": 350,
-      "delta_stars": 5794,
+      "stars": 12943,
+      "forks": 351,
+      "delta_stars": 5813,
       "url": "https://github.com/AprilNEA/OpenLogi"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 65768,
-      "forks": 3121,
-      "delta_stars": 1848,
+      "stars": 65773,
+      "forks": 3122,
+      "delta_stars": 1853,
       "url": "https://github.com/dani-garcia/vaultwarden"
     },
     {
@@ -155,9 +155,9 @@
       "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 5538,
+      "stars": 5541,
       "forks": 490,
-      "delta_stars": 1309,
+      "delta_stars": 1269,
       "url": "https://github.com/ZSeven-W/openpencil"
     },
     {
@@ -168,9 +168,9 @@
       "description": "The programming language for agents",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 9057,
+      "stars": 9059,
       "forks": 486,
-      "delta_stars": 505,
+      "delta_stars": 496,
       "url": "https://github.com/BoundaryML/baml"
     },
     {
@@ -183,7 +183,7 @@
       "language_color": "#dea584",
       "stars": 88957,
       "forks": 3506,
-      "delta_stars": 1487,
+      "delta_stars": 1475,
       "url": "https://github.com/astral-sh/uv"
     },
     {
@@ -194,9 +194,9 @@
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 27070,
+      "stars": 27101,
       "forks": 3506,
-      "delta_stars": 1926,
+      "delta_stars": 2227,
       "url": "https://github.com/nautechsystems/nautilus_trader"
     },
     {
@@ -207,9 +207,9 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 121439,
+      "stars": 121440,
       "forks": 18596,
-      "delta_stars": 3124,
+      "delta_stars": 3137,
       "url": "https://github.com/rustdesk/rustdesk"
     },
     {
@@ -222,7 +222,7 @@
       "language_color": "#dea584",
       "stars": 7819,
       "forks": 1472,
-      "delta_stars": 285,
+      "delta_stars": 283,
       "url": "https://github.com/ai-dynamo/dynamo"
     },
     {
@@ -235,7 +235,7 @@
       "language_color": "#dea584",
       "stars": 3828,
       "forks": 617,
-      "delta_stars": 180,
+      "delta_stars": 184,
       "url": "https://github.com/modelcontextprotocol/rust-sdk"
     },
     {
@@ -248,7 +248,7 @@
       "language_color": "#dea584",
       "stars": 12026,
       "forks": 391,
-      "delta_stars": 375,
+      "delta_stars": 379,
       "url": "https://github.com/moghtech/komodo"
     },
     {
@@ -259,9 +259,9 @@
       "description": "A high-performance observability data pipeline.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 22429,
+      "stars": 22430,
       "forks": 2263,
-      "delta_stars": 255,
+      "delta_stars": 259,
       "url": "https://github.com/vectordotdev/vector"
     },
     {
@@ -274,7 +274,7 @@
       "language_color": "#dea584",
       "stars": 31286,
       "forks": 1398,
-      "delta_stars": 1319,
+      "delta_stars": 1314,
       "url": "https://github.com/rustfs/rustfs"
     },
     {
@@ -285,7 +285,7 @@
       "description": "a code review TUI with vim keybindings",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 2835,
+      "stars": 2836,
       "forks": 234,
       "delta_stars": 1694,
       "url": "https://github.com/agavra/tuicr"

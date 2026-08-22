@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T00:53:37.295Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "daily",
   "language": "python",
   "count": 16,
@@ -12,8 +12,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 113914,
-      "forks": 17285,
+      "stars": 113918,
+      "forks": 17286,
       "delta_stars": 1201,
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
@@ -25,8 +25,8 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 38291,
-      "forks": 3233,
+      "stars": 38293,
+      "forks": 3232,
       "delta_stars": 335,
       "url": "https://github.com/PostHog/posthog"
     },
@@ -64,7 +64,7 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 142297,
+      "stars": 142298,
       "forks": 22817,
       "delta_stars": 170,
       "url": "https://github.com/anthropics/claude-code"
@@ -77,7 +77,7 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 30520,
+      "stars": 30521,
       "forks": 3628,
       "delta_stars": 243,
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
@@ -90,7 +90,7 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 32785,
+      "stars": 32786,
       "forks": 11529,
       "delta_stars": 223,
       "url": "https://github.com/MadsLorentzen/ai-job-search"
@@ -168,7 +168,7 @@
       "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 46469,
+      "stars": 46470,
       "forks": 7683,
       "delta_stars": 166,
       "url": "https://github.com/Alishahryar1/free-claude-code"
@@ -194,7 +194,7 @@
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 75710,
+      "stars": 75711,
       "forks": 7565,
       "delta_stars": 163,
       "url": "https://github.com/D4Vinci/Scrapling"
@@ -207,7 +207,7 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 31659,
+      "stars": 31664,
       "forks": 2424,
       "delta_stars": 654,
       "url": "https://github.com/volcengine/OpenViking"

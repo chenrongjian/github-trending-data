@@ -1,35 +1,9 @@
 {
   "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "monthly",
-  "language": "all",
-  "count": 20,
+  "language": "ai",
+  "count": 11,
   "list": [
-    {
-      "rank": 1,
-      "owner": "block",
-      "name": "buzz",
-      "full_name": "block/buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "language_color": "#dea584",
-      "stars": 29244,
-      "forks": 3701,
-      "delta_stars": 28941,
-      "url": "https://github.com/block/buzz"
-    },
-    {
-      "rank": 2,
-      "owner": "permissionlesstech",
-      "name": "bitchat",
-      "full_name": "permissionlesstech/bitchat",
-      "description": "bluetooth mesh chat, IRC vibes",
-      "language": "Swift",
-      "language_color": "#F05138",
-      "stars": 35764,
-      "forks": 5679,
-      "delta_stars": 9730,
-      "url": "https://github.com/permissionlesstech/bitchat"
-    },
     {
       "rank": 3,
       "owner": "ayghri",
@@ -109,19 +83,6 @@
       "url": "https://github.com/microsoft/AI-For-Beginners"
     },
     {
-      "rank": 9,
-      "owner": "pingdotgg",
-      "name": "t3code",
-      "full_name": "pingdotgg/t3code",
-      "description": "",
-      "language": "TypeScript",
-      "language_color": "#3178c6",
-      "stars": 19958,
-      "forks": 4693,
-      "delta_stars": 5814,
-      "url": "https://github.com/pingdotgg/t3code"
-    },
-    {
       "rank": 10,
       "owner": "virgiliojr94",
       "name": "book-to-skill",
@@ -133,32 +94,6 @@
       "forks": 2500,
       "delta_stars": 14523,
       "url": "https://github.com/virgiliojr94/book-to-skill"
-    },
-    {
-      "rank": 11,
-      "owner": "basecamp",
-      "name": "omarchy",
-      "full_name": "basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "language_color": "#89e051",
-      "stars": 27543,
-      "forks": 2817,
-      "delta_stars": 3310,
-      "url": "https://github.com/basecamp/omarchy"
-    },
-    {
-      "rank": 12,
-      "owner": "1jehuang",
-      "name": "jcode",
-      "full_name": "1jehuang/jcode",
-      "description": "The most RAM efficient harness",
-      "language": "Rust",
-      "language_color": "#dea584",
-      "stars": 18177,
-      "forks": 2040,
-      "delta_stars": 8256,
-      "url": "https://github.com/1jehuang/jcode"
     },
     {
       "rank": 13,
@@ -187,19 +122,6 @@
       "url": "https://github.com/earendil-works/pi"
     },
     {
-      "rank": 15,
-      "owner": "cactus-compute",
-      "name": "needle",
-      "full_name": "cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "language": "Python",
-      "language_color": "#3572A5",
-      "stars": 8342,
-      "forks": 537,
-      "delta_stars": 5043,
-      "url": "https://github.com/cactus-compute/needle"
-    },
-    {
       "rank": 16,
       "owner": "volcengine",
       "name": "OpenViking",
@@ -213,32 +135,6 @@
       "url": "https://github.com/volcengine/OpenViking"
     },
     {
-      "rank": 17,
-      "owner": "megadose",
-      "name": "holehe",
-      "full_name": "megadose/holehe",
-      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-      "language": "Python",
-      "language_color": "#3572A5",
-      "stars": 13929,
-      "forks": 1810,
-      "delta_stars": 2186,
-      "url": "https://github.com/megadose/holehe"
-    },
-    {
-      "rank": 18,
-      "owner": "lyogavin",
-      "name": "airllm",
-      "full_name": "lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "language": "Jupyter Notebook",
-      "language_color": "#DA5B0B",
-      "stars": 32107,
-      "forks": 3397,
-      "delta_stars": 8352,
-      "url": "https://github.com/lyogavin/airllm"
-    },
-    {
       "rank": 19,
       "owner": "different-ai",
       "name": "openwork",
@@ -250,19 +146,6 @@
       "forks": 2261,
       "delta_stars": 6084,
       "url": "https://github.com/different-ai/openwork"
-    },
-    {
-      "rank": 20,
-      "owner": "opengeos",
-      "name": "GeoLibre",
-      "full_name": "opengeos/GeoLibre",
-      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-      "language": "TypeScript",
-      "language_color": "#3178c6",
-      "stars": 6544,
-      "forks": 653,
-      "delta_stars": 4746,
-      "url": "https://github.com/opengeos/GeoLibre"
     }
   ]
 }

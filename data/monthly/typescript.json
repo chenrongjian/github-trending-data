@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "monthly",
   "language": "typescript",
   "count": 22,
@@ -12,9 +12,9 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 23665,
+      "stars": 23671,
       "forks": 2186,
-      "delta_stars": 14407,
+      "delta_stars": 14568,
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 52683,
-      "forks": 7180,
-      "delta_stars": 31270,
+      "stars": 52708,
+      "forks": 7184,
+      "delta_stars": 29957,
       "url": "https://github.com/diegosouzapw/OmniRoute"
     },
     {
@@ -38,9 +38,9 @@
       "description": "",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 19952,
-      "forks": 4690,
-      "delta_stars": 5646,
+      "stars": 19958,
+      "forks": 4693,
+      "delta_stars": 5814,
       "url": "https://github.com/pingdotgg/t3code"
     },
     {
@@ -51,9 +51,9 @@
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 95040,
+      "stars": 95055,
       "forks": 11764,
-      "delta_stars": 21507,
+      "delta_stars": 20935,
       "url": "https://github.com/earendil-works/pi"
     },
     {
@@ -64,9 +64,9 @@
       "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 22896,
+      "stars": 22898,
       "forks": 2261,
-      "delta_stars": 6006,
+      "delta_stars": 6084,
       "url": "https://github.com/different-ai/openwork"
     },
     {
@@ -77,9 +77,9 @@
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 6541,
-      "forks": 652,
-      "delta_stars": 4733,
+      "stars": 6545,
+      "forks": 653,
+      "delta_stars": 4746,
       "url": "https://github.com/opengeos/GeoLibre"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 50697,
-      "forks": 3498,
-      "delta_stars": 26968,
+      "stars": 50721,
+      "forks": 3501,
+      "delta_stars": 26342,
       "url": "https://github.com/stablyai/orca"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 4388,
+      "stars": 4405,
       "forks": 366,
-      "delta_stars": 1566,
+      "delta_stars": 1938,
       "url": "https://github.com/cursor/plugins"
     },
     {
@@ -118,7 +118,7 @@
       "language_color": "#3178c6",
       "stars": 8164,
       "forks": 748,
-      "delta_stars": 4614,
+      "delta_stars": 4612,
       "url": "https://github.com/CoreBunch/Instatic"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 13016,
+      "stars": 13021,
       "forks": 1480,
-      "delta_stars": 7395,
+      "delta_stars": 6768,
       "url": "https://github.com/every-app/open-seo"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 83678,
-      "forks": 12465,
-      "delta_stars": 21742,
+      "stars": 83683,
+      "forks": 12469,
+      "delta_stars": 20563,
       "url": "https://github.com/koala73/worldmonitor"
     },
     {
@@ -155,9 +155,9 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 48196,
+      "stars": 48199,
       "forks": 4770,
-      "delta_stars": 5516,
+      "delta_stars": 5495,
       "url": "https://github.com/moeru-ai/airi"
     },
     {
@@ -168,9 +168,9 @@
       "description": "The free coding agent",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 10441,
+      "stars": 10445,
       "forks": 1139,
-      "delta_stars": 2461,
+      "delta_stars": 2627,
       "url": "https://github.com/CodebuffAI/freebuff"
     },
     {
@@ -181,9 +181,9 @@
       "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 3887,
+      "stars": 3886,
       "forks": 266,
-      "delta_stars": 2627,
+      "delta_stars": 2361,
       "url": "https://github.com/UditAkhourii/adhd"
     },
     {
@@ -196,7 +196,7 @@
       "language_color": "#3178c6",
       "stars": 21619,
       "forks": 2774,
-      "delta_stars": 4184,
+      "delta_stars": 4191,
       "url": "https://github.com/pascalorg/editor"
     },
     {
@@ -207,9 +207,9 @@
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 26309,
-      "forks": 2560,
-      "delta_stars": 7656,
+      "stars": 26319,
+      "forks": 2562,
+      "delta_stars": 7556,
       "url": "https://github.com/can1357/oh-my-pi"
     },
     {
@@ -233,9 +233,9 @@
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 50885,
-      "forks": 4836,
-      "delta_stars": 2350,
+      "stars": 50887,
+      "forks": 4838,
+      "delta_stars": 2348,
       "url": "https://github.com/CherryHQ/cherry-studio"
     },
     {
@@ -246,9 +246,9 @@
       "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 41457,
-      "forks": 4643,
-      "delta_stars": 1683,
+      "stars": 41459,
+      "forks": 4644,
+      "delta_stars": 1814,
       "url": "https://github.com/amruthpillai/reactive-resume"
     },
     {
@@ -259,9 +259,9 @@
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 2001,
+      "stars": 2018,
       "forks": 240,
-      "delta_stars": 1162,
+      "delta_stars": 1165,
       "url": "https://github.com/apache/maka"
     },
     {
@@ -272,9 +272,9 @@
       "description": "Web UI for the pi coding agent",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 5002,
+      "stars": 5003,
       "forks": 677,
-      "delta_stars": 3576,
+      "delta_stars": 3383,
       "url": "https://github.com/agegr/pi-web"
     },
     {
@@ -286,7 +286,7 @@
       "language": "TypeScript",
       "language_color": "#3178c6",
       "stars": 19117,
-      "forks": 5679,
+      "forks": 5681,
       "delta_stars": 392,
       "url": "https://github.com/elizaOS/eliza"
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "monthly",
   "language": "c++",
   "count": 23,
@@ -14,7 +14,7 @@
       "language_color": "#f34b7d",
       "stars": 122637,
       "forks": 17428,
-      "delta_stars": 802,
+      "delta_stars": 819,
       "url": "https://github.com/electron/electron"
     },
     {
@@ -27,7 +27,7 @@
       "language_color": "#f34b7d",
       "stars": 197210,
       "forks": 76086,
-      "delta_stars": 1265,
+      "delta_stars": 1360,
       "url": "https://github.com/tensorflow/tensorflow"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 16629,
+      "stars": 16630,
       "forks": 2452,
-      "delta_stars": 422,
+      "delta_stars": 420,
       "url": "https://github.com/wazuh/wazuh"
     },
     {
@@ -51,9 +51,9 @@
       "description": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 7900,
+      "stars": 7901,
       "forks": 887,
-      "delta_stars": 139,
+      "delta_stars": 141,
       "url": "https://github.com/microsoft/microsoft-ui-xaml"
     },
     {
@@ -64,9 +64,9 @@
       "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 8621,
+      "stars": 8622,
       "forks": 707,
-      "delta_stars": 223,
+      "delta_stars": 227,
       "url": "https://github.com/cloudflare/workerd"
     },
     {
@@ -77,9 +77,9 @@
       "description": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 11573,
+      "stars": 11574,
       "forks": 5564,
-      "delta_stars": 161,
+      "delta_stars": 167,
       "url": "https://github.com/esphome/esphome"
     },
     {
@@ -90,9 +90,9 @@
       "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 18344,
+      "stars": 18347,
       "forks": 1249,
-      "delta_stars": 421,
+      "delta_stars": 414,
       "url": "https://github.com/moonlight-stream/moonlight-qt"
     },
     {
@@ -103,9 +103,9 @@
       "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 21430,
-      "forks": 4148,
-      "delta_stars": 303,
+      "stars": 21451,
+      "forks": 4149,
+      "delta_stars": 300,
       "url": "https://github.com/microsoft/onnxruntime"
     },
     {
@@ -118,7 +118,7 @@
       "language_color": "#f34b7d",
       "stars": 14569,
       "forks": 1090,
-      "delta_stars": 1644,
+      "delta_stars": 1651,
       "url": "https://github.com/amnezia-vpn/amnezia-client"
     },
     {
@@ -129,9 +129,9 @@
       "description": "JSON for Modern C++",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 50423,
+      "stars": 50424,
       "forks": 7471,
-      "delta_stars": 323,
+      "delta_stars": 320,
       "url": "https://github.com/nlohmann/json"
     },
     {
@@ -142,9 +142,9 @@
       "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 8171,
+      "stars": 8172,
       "forks": 2663,
-      "delta_stars": 232,
+      "delta_stars": 236,
       "url": "https://github.com/meshtastic/firmware"
     },
     {
@@ -157,7 +157,7 @@
       "language_color": "#f34b7d",
       "stars": 49386,
       "forks": 8841,
-      "delta_stars": 683,
+      "delta_stars": 689,
       "url": "https://github.com/ClickHouse/ClickHouse"
     },
     {
@@ -168,9 +168,9 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 22685,
+      "stars": 22686,
       "forks": 2800,
-      "delta_stars": 745,
+      "delta_stars": 730,
       "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights"
     },
     {
@@ -181,9 +181,9 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 5535,
+      "stars": 5536,
       "forks": 453,
-      "delta_stars": 1199,
+      "delta_stars": 1200,
       "url": "https://github.com/geo-tp/ESP32-Bit-Pirate"
     },
     {
@@ -196,7 +196,7 @@
       "language_color": "#f34b7d",
       "stars": 3808,
       "forks": 525,
-      "delta_stars": 397,
+      "delta_stars": 401,
       "url": "https://github.com/cifertech/ESP32-DIV"
     },
     {
@@ -209,7 +209,7 @@
       "language_color": "#f34b7d",
       "stars": 38891,
       "forks": 8720,
-      "delta_stars": 738,
+      "delta_stars": 724,
       "url": "https://github.com/aseprite/aseprite"
     },
     {
@@ -222,7 +222,7 @@
       "language_color": "#f34b7d",
       "stars": 5883,
       "forks": 493,
-      "delta_stars": 373,
+      "delta_stars": 374,
       "url": "https://github.com/cactus-compute/cactus"
     },
     {
@@ -235,7 +235,7 @@
       "language_color": "#f34b7d",
       "stars": 21011,
       "forks": 1823,
-      "delta_stars": 459,
+      "delta_stars": 467,
       "url": "https://github.com/k4yt3x/video2x"
     },
     {
@@ -248,7 +248,7 @@
       "language_color": "#f34b7d",
       "stars": 9043,
       "forks": 2143,
-      "delta_stars": 104,
+      "delta_stars": 107,
       "url": "https://github.com/tdlib/td"
     },
     {
@@ -259,9 +259,9 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 125041,
-      "forks": 21998,
-      "delta_stars": 4339,
+      "stars": 125050,
+      "forks": 22001,
+      "delta_stars": 4366,
       "url": "https://github.com/ggml-org/llama.cpp"
     },
     {
@@ -272,9 +272,9 @@
       "description": "Truly independent web browser",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 65777,
-      "forks": 3132,
-      "delta_stars": 1322,
+      "stars": 65779,
+      "forks": 3133,
+      "delta_stars": 1320,
       "url": "https://github.com/LadybirdBrowser/ladybird"
     },
     {
@@ -285,9 +285,9 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 115959,
-      "forks": 26430,
-      "delta_stars": 1922,
+      "stars": 115961,
+      "forks": 26431,
+      "delta_stars": 1921,
       "url": "https://github.com/godotengine/godot"
     },
     {
@@ -300,7 +300,7 @@
       "language_color": "#f34b7d",
       "stars": 7870,
       "forks": 328,
-      "delta_stars": 172,
+      "delta_stars": 170,
       "url": "https://github.com/FEX-Emu/FEX"
     }
   ]

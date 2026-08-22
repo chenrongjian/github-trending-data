@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "monthly",
   "language": "java",
   "count": 19,
@@ -12,9 +12,9 @@
       "description": "Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 28007,
+      "stars": 28008,
       "forks": 3013,
-      "delta_stars": 2228,
+      "delta_stars": 2224,
       "url": "https://github.com/OtterMind/Chat2DB"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 59544,
+      "stars": 59545,
       "forks": 7277,
-      "delta_stars": 1831,
+      "delta_stars": 1813,
       "url": "https://github.com/termux/termux-app"
     },
     {
@@ -40,7 +40,7 @@
       "language_color": "#b07219",
       "stars": 2469,
       "forks": 1089,
-      "delta_stars": 122,
+      "delta_stars": 119,
       "url": "https://github.com/RikkaApps/Shizuku-API"
     },
     {
@@ -53,7 +53,7 @@
       "language_color": "#b07219",
       "stars": 1316,
       "forks": 185,
-      "delta_stars": 253,
+      "delta_stars": 259,
       "url": "https://github.com/zalexdev/strykerapp"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Jenkins automation server",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 26478,
+      "stars": 26480,
       "forks": 9801,
-      "delta_stars": 948,
+      "delta_stars": 941,
       "url": "https://github.com/jenkinsci/jenkins"
     },
     {
@@ -78,8 +78,8 @@
       "language": "Java",
       "language_color": "#b07219",
       "stars": 94600,
-      "forks": 27398,
-      "delta_stars": 498,
+      "forks": 27397,
+      "delta_stars": 505,
       "url": "https://github.com/iluwatar/java-design-patterns"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 72635,
-      "forks": 7948,
-      "delta_stars": 1611,
+      "stars": 72638,
+      "forks": 7949,
+      "delta_stars": 1609,
       "url": "https://github.com/NationalSecurityAgency/ghidra"
     },
     {
@@ -105,7 +105,7 @@
       "language_color": "#b07219",
       "stars": 23257,
       "forks": 6427,
-      "delta_stars": 173,
+      "delta_stars": 169,
       "url": "https://github.com/openjdk/jdk"
     },
     {
@@ -118,7 +118,7 @@
       "language_color": "#b07219",
       "stars": 13364,
       "forks": 1633,
-      "delta_stars": 262,
+      "delta_stars": 258,
       "url": "https://github.com/LawnchairLauncher/lawnchair"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Browse media content with your own rules on Android TV",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 32174,
-      "forks": 1953,
-      "delta_stars": 774,
+      "stars": 32177,
+      "forks": 1954,
+      "delta_stars": 799,
       "url": "https://github.com/yuliskov/SmartTube"
     },
     {
@@ -144,7 +144,7 @@
       "language_color": "#b07219",
       "stars": 12028,
       "forks": 2539,
-      "delta_stars": 128,
+      "delta_stars": 127,
       "url": "https://github.com/StarRocks/starrocks"
     },
     {
@@ -155,9 +155,9 @@
       "description": "Google core libraries for Java",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 51888,
+      "stars": 51889,
       "forks": 11191,
-      "delta_stars": 474,
+      "delta_stars": 471,
       "url": "https://github.com/google/guava"
     },
     {
@@ -170,7 +170,7 @@
       "language_color": "#b07219",
       "stars": 27880,
       "forks": 2931,
-      "delta_stars": 545,
+      "delta_stars": 531,
       "url": "https://github.com/kestra-io/kestra"
     },
     {
@@ -181,9 +181,9 @@
       "description": "No-root network monitor, firewall and PCAP dumper for Android",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 4568,
+      "stars": 4569,
       "forks": 528,
-      "delta_stars": 226,
+      "delta_stars": 313,
       "url": "https://github.com/emanuele-f/PCAPdroid"
     },
     {
@@ -209,7 +209,7 @@
       "language_color": "#b07219",
       "stars": 29742,
       "forks": 9940,
-      "delta_stars": 229,
+      "delta_stars": 228,
       "url": "https://github.com/DrKLO/Telegram"
     },
     {
@@ -233,9 +233,9 @@
       "description": "Free universal database tool and SQL client",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 51499,
-      "forks": 4344,
-      "delta_stars": 520,
+      "stars": 51498,
+      "forks": 4345,
+      "delta_stars": 521,
       "url": "https://github.com/dbeaver/dbeaver"
     },
     {

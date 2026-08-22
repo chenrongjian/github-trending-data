@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T00:57:23.005Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "daily",
   "language": "ai",
   "count": 7,
@@ -12,7 +12,7 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 229515,
+      "stars": 229517,
       "forks": 19615,
       "delta_stars": 3362,
       "url": "https://github.com/mattpocock/skills"
@@ -25,7 +25,7 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 113917,
+      "stars": 113918,
       "forks": 17286,
       "delta_stars": 1201,
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
@@ -38,8 +38,8 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 38292,
-      "forks": 3233,
+      "stars": 38293,
+      "forks": 3232,
       "delta_stars": 335,
       "url": "https://github.com/PostHog/posthog"
     },
@@ -51,8 +51,8 @@
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 67448,
-      "forks": 12871,
+      "stars": 67449,
+      "forks": 12872,
       "delta_stars": 921,
       "url": "https://github.com/santifer/career-ops"
     },
@@ -64,7 +64,7 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 241797,
+      "stars": 241798,
       "forks": 36655,
       "delta_stars": 357,
       "url": "https://github.com/affaan-m/ECC"
@@ -78,7 +78,7 @@
       "language": "TypeScript",
       "language_color": "#3178c6",
       "stars": 68646,
-      "forks": 8244,
+      "forks": 8246,
       "delta_stars": 140,
       "url": "https://github.com/ruvnet/ruflo"
     },

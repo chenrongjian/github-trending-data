@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "weekly",
   "language": "shell",
   "count": 17,
@@ -12,9 +12,9 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 27503,
-      "forks": 2816,
-      "delta_stars": 2395,
+      "stars": 27543,
+      "forks": 2817,
+      "delta_stars": 2565,
       "url": "https://github.com/basecamp/omarchy"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 24388,
+      "stars": 24390,
       "forks": 3486,
-      "delta_stars": 478,
+      "delta_stars": 539,
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Proxmox VE Helper-Scripts (Community Edition)",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 29354,
+      "stars": 29355,
       "forks": 2840,
-      "delta_stars": 101,
+      "delta_stars": 96,
       "url": "https://github.com/community-scripts/ProxmoxVE"
     },
     {
@@ -53,7 +53,7 @@
       "language_color": "#89e051",
       "stars": 18769,
       "forks": 2041,
-      "delta_stars": 77,
+      "delta_stars": 75,
       "url": "https://github.com/docker-mailserver/docker-mailserver"
     },
     {
@@ -65,8 +65,8 @@
       "language": "Shell",
       "language_color": "#89e051",
       "stars": 4481,
-      "forks": 924,
-      "delta_stars": 22,
+      "forks": 925,
+      "delta_stars": 15,
       "url": "https://github.com/hestiacp/hestiacp"
     },
     {
@@ -79,7 +79,7 @@
       "language_color": "#89e051",
       "stars": 2153,
       "forks": 366,
-      "delta_stars": 61,
+      "delta_stars": 63,
       "url": "https://github.com/eugr/spark-vllm-docker"
     },
     {
@@ -117,8 +117,8 @@
       "language": "Shell",
       "language_color": "#89e051",
       "stars": 16821,
-      "forks": 4338,
-      "delta_stars": 52,
+      "forks": 4337,
+      "delta_stars": 46,
       "url": "https://github.com/termux/termux-packages"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 94673,
-      "forks": 10387,
-      "delta_stars": 139,
+      "stars": 94674,
+      "forks": 10386,
+      "delta_stars": 126,
       "url": "https://github.com/nvm-sh/nvm"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 229402,
-      "forks": 19605,
-      "delta_stars": 12106,
+      "stars": 229517,
+      "forks": 19615,
+      "delta_stars": 12226,
       "url": "https://github.com/mattpocock/skills"
     },
     {
@@ -157,7 +157,7 @@
       "language_color": "#89e051",
       "stars": 1727,
       "forks": 73,
-      "delta_stars": 33,
+      "delta_stars": 32,
       "url": "https://github.com/StressOzz/Zapret-Manager"
     },
     {
@@ -183,7 +183,7 @@
       "language_color": "#89e051",
       "stars": 2049,
       "forks": 1407,
-      "delta_stars": 29,
+      "delta_stars": 31,
       "url": "https://github.com/aditya-shri/VPN"
     },
     {
@@ -196,7 +196,7 @@
       "language_color": "#89e051",
       "stars": 263,
       "forks": 37,
-      "delta_stars": 54,
+      "delta_stars": 55,
       "url": "https://github.com/pwnerblu/surrealra1n"
     },
     {
@@ -207,9 +207,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 275641,
-      "forks": 24642,
-      "delta_stars": 3844,
+      "stars": 275662,
+      "forks": 24644,
+      "delta_stars": 3869,
       "url": "https://github.com/obra/superpowers"
     },
     {
@@ -222,7 +222,7 @@
       "language_color": "#89e051",
       "stars": 2194,
       "forks": 931,
-      "delta_stars": 26,
+      "delta_stars": 27,
       "url": "https://github.com/sabamdarif/termux-desktop"
     }
   ]

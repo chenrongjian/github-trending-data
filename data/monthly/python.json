@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "monthly",
   "language": "python",
   "count": 17,
@@ -12,9 +12,9 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 22976,
-      "forks": 1473,
-      "delta_stars": 18443,
+      "stars": 22988,
+      "forks": 1474,
+      "delta_stars": 16937,
       "url": "https://github.com/ayghri/i-have-adhd"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 23664,
-      "forks": 2499,
-      "delta_stars": 14598,
+      "stars": 23673,
+      "forks": 2500,
+      "delta_stars": 14523,
       "url": "https://github.com/virgiliojr94/book-to-skill"
     },
     {
@@ -38,9 +38,9 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 8331,
+      "stars": 8342,
       "forks": 537,
-      "delta_stars": 4829,
+      "delta_stars": 5043,
       "url": "https://github.com/cactus-compute/needle"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 31646,
+      "stars": 31664,
       "forks": 2424,
-      "delta_stars": 3975,
+      "delta_stars": 4607,
       "url": "https://github.com/volcengine/OpenViking"
     },
     {
@@ -64,9 +64,9 @@
       "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 13919,
-      "forks": 1809,
-      "delta_stars": 2109,
+      "stars": 13929,
+      "forks": 1810,
+      "delta_stars": 2186,
       "url": "https://github.com/megadose/holehe"
     },
     {
@@ -77,9 +77,9 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 36923,
+      "stars": 36936,
       "forks": 4632,
-      "delta_stars": 8578,
+      "delta_stars": 8328,
       "url": "https://github.com/HKUDS/DeepTutor"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 56711,
-      "forks": 6112,
-      "delta_stars": 13551,
+      "stars": 56735,
+      "forks": 6113,
+      "delta_stars": 13825,
       "url": "https://github.com/usestrix/strix"
     },
     {
@@ -103,9 +103,9 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 467966,
-      "forks": 51630,
-      "delta_stars": 17181,
+      "stars": 468009,
+      "forks": 51632,
+      "delta_stars": 17186,
       "url": "https://github.com/public-apis/public-apis"
     },
     {
@@ -116,9 +116,9 @@
       "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 8559,
+      "stars": 8560,
       "forks": 1014,
-      "delta_stars": 4467,
+      "delta_stars": 4391,
       "url": "https://github.com/kangarooking/cangjie-skill"
     },
     {
@@ -129,9 +129,9 @@
       "description": "The authentication glue you need.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 25062,
+      "stars": 25065,
       "forks": 1954,
-      "delta_stars": 2701,
+      "delta_stars": 2719,
       "url": "https://github.com/goauthentik/authentik"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 15969,
-      "forks": 1569,
-      "delta_stars": 6659,
+      "stars": 15971,
+      "forks": 1570,
+      "delta_stars": 6561,
       "url": "https://github.com/bradautomates/claude-video"
     },
     {
@@ -155,9 +155,9 @@
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 37053,
+      "stars": 37058,
       "forks": 3278,
-      "delta_stars": 6937,
+      "delta_stars": 6993,
       "url": "https://github.com/blader/humanizer"
     },
     {
@@ -168,9 +168,9 @@
       "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 365309,
-      "forks": 57992,
-      "delta_stars": 7380,
+      "stars": 365311,
+      "forks": 57993,
+      "delta_stars": 7381,
       "url": "https://github.com/donnemartin/system-design-primer"
     },
     {
@@ -181,9 +181,9 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 18588,
+      "stars": 18587,
       "forks": 1482,
-      "delta_stars": 3680,
+      "delta_stars": 3687,
       "url": "https://github.com/google/skills"
     },
     {
@@ -194,9 +194,9 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 74259,
+      "stars": 74274,
       "forks": 6713,
-      "delta_stars": 5793,
+      "delta_stars": 5795,
       "url": "https://github.com/unslothai/unsloth"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Build voice agents with open-source models",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 12746,
-      "forks": 1573,
-      "delta_stars": 6612,
+      "stars": 12748,
+      "forks": 1574,
+      "delta_stars": 6601,
       "url": "https://github.com/huggingface/speech-to-speech"
     },
     {
@@ -220,9 +220,9 @@
       "description": "Animation engine for explanatory math videos",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 91842,
+      "stars": 91846,
       "forks": 7576,
-      "delta_stars": 3171,
+      "delta_stars": 3197,
       "url": "https://github.com/3b1b/manim"
     }
   ]

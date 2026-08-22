@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T00:53:37.295Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "daily",
   "language": "typescript",
   "count": 19,
@@ -12,7 +12,7 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 4403,
+      "stars": 4405,
       "forks": 366,
       "delta_stars": 388,
       "url": "https://github.com/cursor/plugins"
@@ -26,7 +26,7 @@
       "language": "TypeScript",
       "language_color": "#3178c6",
       "stars": 68646,
-      "forks": 8244,
+      "forks": 8246,
       "delta_stars": 140,
       "url": "https://github.com/ruvnet/ruflo"
     },
@@ -38,7 +38,7 @@
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 2016,
+      "stars": 2018,
       "forks": 240,
       "delta_stars": 148,
       "url": "https://github.com/apache/maka"
@@ -64,7 +64,7 @@
       "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 56980,
+      "stars": 56981,
       "forks": 5426,
       "delta_stars": 579,
       "url": "https://github.com/makeplane/plane"
@@ -90,7 +90,7 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 52701,
+      "stars": 52708,
       "forks": 7184,
       "delta_stars": 768,
       "url": "https://github.com/diegosouzapw/OmniRoute"
@@ -103,7 +103,7 @@
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 129081,
+      "stars": 129082,
       "forks": 19429,
       "delta_stars": 192,
       "url": "https://github.com/garrytan/gstack"
@@ -117,7 +117,7 @@
       "language": "TypeScript",
       "language_color": "#3178c6",
       "stars": 17508,
-      "forks": 3019,
+      "forks": 3018,
       "delta_stars": 18,
       "url": "https://github.com/anthropics/claude-quickstarts"
     },
@@ -155,8 +155,8 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 50720,
-      "forks": 3499,
+      "stars": 50721,
+      "forks": 3501,
       "delta_stars": 724,
       "url": "https://github.com/stablyai/orca"
     },
@@ -181,7 +181,7 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 20059,
+      "stars": 20060,
       "forks": 1448,
       "delta_stars": 43,
       "url": "https://github.com/mksglu/context-mode"

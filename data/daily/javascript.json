@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T00:53:37.295Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "daily",
   "language": "javascript",
   "count": 17,
@@ -12,8 +12,8 @@
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 67447,
-      "forks": 12870,
+      "stars": 67449,
+      "forks": 12872,
       "delta_stars": 921,
       "url": "https://github.com/santifer/career-ops"
     },
@@ -25,7 +25,7 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 241791,
+      "stars": 241798,
       "forks": 36655,
       "delta_stars": 357,
       "url": "https://github.com/affaan-m/ECC"
@@ -38,7 +38,7 @@
       "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 54885,
+      "stars": 54888,
       "forks": 11903,
       "delta_stars": 32,
       "url": "https://github.com/TryGhost/Ghost"
@@ -64,8 +64,8 @@
       "description": "An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 60363,
-      "forks": 6136,
+      "stars": 60368,
+      "forks": 6137,
       "delta_stars": 129,
       "url": "https://github.com/byoungd/up"
     },
@@ -116,7 +116,7 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 107512,
+      "stars": 107515,
       "forks": 5940,
       "delta_stars": 756,
       "url": "https://github.com/DietrichGebert/ponytail"
@@ -129,8 +129,8 @@
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 79008,
-      "forks": 5396,
+      "stars": 79010,
+      "forks": 5397,
       "delta_stars": 403,
       "url": "https://github.com/Leonxlnx/taste-skill"
     },
@@ -220,7 +220,7 @@
       "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 8764,
+      "stars": 8765,
       "forks": 936,
       "delta_stars": 22,
       "url": "https://github.com/jo-inc/camofox-browser"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "weekly",
   "language": "rust",
   "count": 16,
@@ -12,9 +12,9 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 12885,
-      "forks": 350,
-      "delta_stars": 2674,
+      "stars": 12943,
+      "forks": 351,
+      "delta_stars": 4054,
       "url": "https://github.com/AprilNEA/OpenLogi"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 2054,
-      "forks": 184,
-      "delta_stars": 932,
+      "stars": 2064,
+      "forks": 185,
+      "delta_stars": 642,
       "url": "https://github.com/NVIDIA-NeMo/Switchyard"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 3938,
+      "stars": 3943,
       "forks": 297,
-      "delta_stars": 1952,
+      "delta_stars": 2404,
       "url": "https://github.com/akitaonrails/ai-memory"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 33444,
+      "stars": 33449,
       "forks": 2078,
-      "delta_stars": 1842,
+      "delta_stars": 1991,
       "url": "https://github.com/AlexsJones/llmfit"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 27070,
+      "stars": 27101,
       "forks": 3506,
-      "delta_stars": 1253,
+      "delta_stars": 1500,
       "url": "https://github.com/nautechsystems/nautilus_trader"
     },
     {
@@ -79,7 +79,7 @@
       "language_color": "#dea584",
       "stars": 5343,
       "forks": 351,
-      "delta_stars": 251,
+      "delta_stars": 210,
       "url": "https://github.com/mayocream/koharu"
     },
     {
@@ -90,9 +90,9 @@
       "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 5538,
+      "stars": 5541,
       "forks": 490,
-      "delta_stars": 635,
+      "delta_stars": 651,
       "url": "https://github.com/ZSeven-W/openpencil"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 3940,
+      "stars": 3944,
       "forks": 374,
-      "delta_stars": 1456,
+      "delta_stars": 1098,
       "url": "https://github.com/macro-inc/macro"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 13306,
+      "stars": 13307,
       "forks": 798,
-      "delta_stars": 613,
+      "delta_stars": 516,
       "url": "https://github.com/longbridge/gpui-component"
     },
     {
@@ -129,9 +129,9 @@
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 16201,
+      "stars": 16202,
       "forks": 1402,
-      "delta_stars": 1110,
+      "delta_stars": 1395,
       "url": "https://github.com/RyanCodrai/turbovec"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 5623,
+      "stars": 5624,
       "forks": 465,
-      "delta_stars": 118,
+      "delta_stars": 124,
       "url": "https://github.com/EFForg/rayhunter"
     },
     {
@@ -157,7 +157,7 @@
       "language_color": "#dea584",
       "stars": 7850,
       "forks": 413,
-      "delta_stars": 425,
+      "delta_stars": 358,
       "url": "https://github.com/superradcompany/microsandbox"
     },
     {
@@ -168,7 +168,7 @@
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 30583,
+      "stars": 30582,
       "forks": 3305,
       "delta_stars": 255,
       "url": "https://github.com/lbjlaq/Antigravity-Manager"
@@ -194,9 +194,9 @@
       "description": "The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C, Python, Bun and NodeJS",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 10119,
+      "stars": 10120,
       "forks": 421,
-      "delta_stars": 174,
+      "delta_stars": 184,
       "url": "https://github.com/dmtrKovalenko/fff"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 89013,
-      "forks": 10183,
-      "delta_stars": 484,
+      "stars": 89016,
+      "forks": 10184,
+      "delta_stars": 470,
       "url": "https://github.com/zed-industries/zed"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T00:53:37.295Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "daily",
   "language": "c",
   "count": 21,
@@ -25,7 +25,7 @@
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "C",
       "language_color": "#555555",
-      "stars": 67597,
+      "stars": 67598,
       "forks": 4288,
       "delta_stars": 260,
       "url": "https://github.com/colbymchenry/codegraph"
@@ -38,7 +38,7 @@
       "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 4428,
+      "stars": 4429,
       "forks": 1598,
       "delta_stars": 3,
       "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel"

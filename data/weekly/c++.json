@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "weekly",
   "language": "c++",
   "count": 19,
@@ -12,9 +12,9 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 125041,
-      "forks": 21998,
-      "delta_stars": 1239,
+      "stars": 125050,
+      "forks": 22001,
+      "delta_stars": 1281,
       "url": "https://github.com/ggml-org/llama.cpp"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 2475,
+      "stars": 2476,
       "forks": 315,
-      "delta_stars": 28,
+      "delta_stars": 35,
       "url": "https://github.com/flyinghead/flycast"
     },
     {
@@ -38,7 +38,7 @@
       "description": "Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 2817,
+      "stars": 2818,
       "forks": 176,
       "delta_stars": 66,
       "url": "https://github.com/quickshell-mirror/quickshell"
@@ -53,7 +53,7 @@
       "language_color": "#f34b7d",
       "stars": 10154,
       "forks": 1083,
-      "delta_stars": 40,
+      "delta_stars": 38,
       "url": "https://github.com/deepseek-ai/3FS"
     },
     {
@@ -64,9 +64,9 @@
       "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 14263,
+      "stars": 14264,
       "forks": 3495,
-      "delta_stars": 47,
+      "delta_stars": 49,
       "url": "https://github.com/qgis/QGIS"
     },
     {
@@ -79,7 +79,7 @@
       "language_color": "#f34b7d",
       "stars": 409,
       "forks": 15,
-      "delta_stars": 119,
+      "delta_stars": 127,
       "url": "https://github.com/sal063/AC6_recomp"
     },
     {
@@ -92,7 +92,7 @@
       "language_color": "#f34b7d",
       "stars": 308,
       "forks": 46,
-      "delta_stars": 105,
+      "delta_stars": 112,
       "url": "https://github.com/charlie12345/ROCmFPX"
     },
     {
@@ -105,7 +105,7 @@
       "language_color": "#f34b7d",
       "stars": 5883,
       "forks": 493,
-      "delta_stars": 136,
+      "delta_stars": 127,
       "url": "https://github.com/cactus-compute/cactus"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Distribute and run LLMs with a single file.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 25667,
+      "stars": 25668,
       "forks": 1568,
-      "delta_stars": 125,
+      "delta_stars": 114,
       "url": "https://github.com/mozilla-ai/llamafile"
     },
     {
@@ -129,9 +129,9 @@
       "description": "World of Warcraft Engine Experiment - a custom opensource client.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 667,
-      "forks": 86,
-      "delta_stars": 54,
+      "stars": 668,
+      "forks": 87,
+      "delta_stars": 60,
       "url": "https://github.com/Kelsidavis/WoWee"
     },
     {
@@ -144,7 +144,7 @@
       "language_color": "#f34b7d",
       "stars": 122637,
       "forks": 17428,
-      "delta_stars": 231,
+      "delta_stars": 255,
       "url": "https://github.com/electron/electron"
     },
     {
@@ -194,7 +194,7 @@
       "description": "Private, fast, and honest web browser",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 19711,
+      "stars": 19715,
       "forks": 536,
       "delta_stars": 374,
       "url": "https://github.com/imputnet/helium"
@@ -246,9 +246,9 @@
       "description": "🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. | 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 3668,
+      "stars": 3669,
       "forks": 283,
-      "delta_stars": 91,
+      "delta_stars": 90,
       "url": "https://github.com/yuaotian/antigravity-proxy"
     }
   ]

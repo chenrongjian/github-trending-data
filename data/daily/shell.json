@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T00:57:23.005Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "daily",
   "language": "shell",
   "count": 12,
@@ -12,7 +12,7 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 229515,
+      "stars": 229517,
       "forks": 19615,
       "delta_stars": 3362,
       "url": "https://github.com/mattpocock/skills"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "weekly",
   "language": "go",
   "count": 23,
@@ -14,7 +14,7 @@
       "language_color": "#00ADD8",
       "stars": 19384,
       "forks": 2410,
-      "delta_stars": 254,
+      "delta_stars": 257,
       "url": "https://github.com/putyy/res-downloader"
     },
     {
@@ -27,7 +27,7 @@
       "language_color": "#00ADD8",
       "stars": 2640,
       "forks": 164,
-      "delta_stars": 97,
+      "delta_stars": 75,
       "url": "https://github.com/compozy/compozy"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 179128,
-      "forks": 17507,
-      "delta_stars": 831,
+      "stars": 179130,
+      "forks": 17511,
+      "delta_stars": 798,
       "url": "https://github.com/ollama/ollama"
     },
     {
@@ -51,7 +51,7 @@
       "description": "AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 11249,
+      "stars": 11250,
       "forks": 1074,
       "delta_stars": 229,
       "url": "https://github.com/krillinai/KrillinAI"
@@ -66,7 +66,7 @@
       "language_color": "#00ADD8",
       "stars": 4665,
       "forks": 1107,
-      "delta_stars": 126,
+      "delta_stars": 125,
       "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice"
     },
     {
@@ -79,7 +79,7 @@
       "language_color": "#00ADD8",
       "stars": 6026,
       "forks": 530,
-      "delta_stars": 215,
+      "delta_stars": 196,
       "url": "https://github.com/rorkai/App-Store-Connect-CLI"
     },
     {
@@ -92,7 +92,7 @@
       "language_color": "#00ADD8",
       "stars": 37547,
       "forks": 619,
-      "delta_stars": 162,
+      "delta_stars": 153,
       "url": "https://github.com/aquasecurity/trivy"
     },
     {
@@ -103,9 +103,9 @@
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 88998,
+      "stars": 89000,
       "forks": 10455,
-      "delta_stars": 1134,
+      "delta_stars": 689,
       "url": "https://github.com/infiniflow/ragflow"
     },
     {
@@ -116,9 +116,9 @@
       "description": "The coding agent that answers to you, your model, your machine, your rules.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 1605,
-      "forks": 170,
-      "delta_stars": 361,
+      "stars": 1611,
+      "forks": 172,
+      "delta_stars": 364,
       "url": "https://github.com/Gitlawb/zero"
     },
     {
@@ -129,9 +129,9 @@
       "description": "A curated list of awesome Go frameworks, libraries and software",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 181864,
+      "stars": 181875,
       "forks": 13506,
-      "delta_stars": 802,
+      "delta_stars": 863,
       "url": "https://github.com/avelino/awesome-go"
     },
     {
@@ -143,8 +143,8 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stars": 38069,
-      "forks": 3356,
-      "delta_stars": 275,
+      "forks": 3357,
+      "delta_stars": 190,
       "url": "https://github.com/harness/harness"
     },
     {
@@ -157,7 +157,7 @@
       "language_color": "#00ADD8",
       "stars": 1430,
       "forks": 129,
-      "delta_stars": 219,
+      "delta_stars": 292,
       "url": "https://github.com/zzet/gortex"
     },
     {
@@ -170,7 +170,7 @@
       "language_color": "#00ADD8",
       "stars": 14420,
       "forks": 1936,
-      "delta_stars": 167,
+      "delta_stars": 176,
       "url": "https://github.com/shadow1ng/fscan"
     },
     {
@@ -196,7 +196,7 @@
       "language_color": "#00ADD8",
       "stars": 711,
       "forks": 110,
-      "delta_stars": 146,
+      "delta_stars": 140,
       "url": "https://github.com/Mininglamp-OSS/octo-server"
     },
     {
@@ -207,7 +207,7 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 1584,
+      "stars": 1586,
       "forks": 263,
       "delta_stars": 361,
       "url": "https://github.com/agent-substrate/substrate"
@@ -246,9 +246,9 @@
       "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 45071,
-      "forks": 8633,
-      "delta_stars": 491,
+      "stars": 45074,
+      "forks": 8635,
+      "delta_stars": 460,
       "url": "https://github.com/MHSanaei/3x-ui"
     },
     {
@@ -274,7 +274,7 @@
       "language_color": "#00ADD8",
       "stars": 4988,
       "forks": 391,
-      "delta_stars": 51,
+      "delta_stars": 54,
       "url": "https://github.com/entireio/cli"
     },
     {
@@ -285,7 +285,7 @@
       "description": "A node.js version management utility for Windows. Ironically written in Go.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 47425,
+      "stars": 47426,
       "forks": 3869,
       "delta_stars": 125,
       "url": "https://github.com/coreybutler/nvm-windows"
@@ -300,7 +300,7 @@
       "language_color": "#00ADD8",
       "stars": 19288,
       "forks": 1618,
-      "delta_stars": 40,
+      "delta_stars": 44,
       "url": "https://github.com/golangci/golangci-lint"
     }
   ]

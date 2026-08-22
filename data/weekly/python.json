@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "weekly",
   "language": "python",
   "count": 19,
@@ -12,9 +12,9 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 31646,
+      "stars": 31664,
       "forks": 2424,
-      "delta_stars": 2444,
+      "delta_stars": 3033,
       "url": "https://github.com/volcengine/OpenViking"
     },
     {
@@ -25,9 +25,9 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 113871,
-      "forks": 17280,
-      "delta_stars": 9712,
+      "stars": 113918,
+      "forks": 17286,
+      "delta_stars": 10470,
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
@@ -38,9 +38,9 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 467966,
-      "forks": 51630,
-      "delta_stars": 11259,
+      "stars": 468009,
+      "forks": 51632,
+      "delta_stars": 10990,
       "url": "https://github.com/public-apis/public-apis"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 10065,
-      "forks": 1076,
-      "delta_stars": 3674,
+      "stars": 10081,
+      "forks": 1078,
+      "delta_stars": 2755,
       "url": "https://github.com/semantica-agi/semantica"
     },
     {
@@ -64,9 +64,9 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 8331,
+      "stars": 8342,
       "forks": 537,
-      "delta_stars": 3409,
+      "delta_stars": 2985,
       "url": "https://github.com/cactus-compute/needle"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 74259,
+      "stars": 74274,
       "forks": 6713,
-      "delta_stars": 3300,
+      "delta_stars": 2987,
       "url": "https://github.com/unslothai/unsloth"
     },
     {
@@ -90,9 +90,9 @@
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 20218,
+      "stars": 20225,
       "forks": 1716,
-      "delta_stars": 1388,
+      "delta_stars": 1536,
       "url": "https://github.com/jundot/omlx"
     },
     {
@@ -103,9 +103,9 @@
       "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 13919,
-      "forks": 1809,
-      "delta_stars": 1632,
+      "stars": 13929,
+      "forks": 1810,
+      "delta_stars": 1300,
       "url": "https://github.com/megadose/holehe"
     },
     {
@@ -116,9 +116,9 @@
       "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 5334,
-      "forks": 510,
-      "delta_stars": 359,
+      "stars": 5339,
+      "forks": 511,
+      "delta_stars": 745,
       "url": "https://github.com/Tencent/AI-Infra-Guard"
     },
     {
@@ -155,9 +155,9 @@
       "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 2663,
-      "forks": 394,
-      "delta_stars": 1786,
+      "stars": 2670,
+      "forks": 396,
+      "delta_stars": 1434,
       "url": "https://github.com/MakazhanAlpamys/Soup"
     },
     {
@@ -168,9 +168,9 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 30519,
+      "stars": 30521,
       "forks": 3628,
-      "delta_stars": 2622,
+      "delta_stars": 2794,
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
     },
     {
@@ -181,9 +181,9 @@
       "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 13027,
+      "stars": 13028,
       "forks": 2207,
-      "delta_stars": 240,
+      "delta_stars": 235,
       "url": "https://github.com/microsoft/agent-framework"
     },
     {
@@ -196,7 +196,7 @@
       "language_color": "#3572A5",
       "stars": 21325,
       "forks": 3432,
-      "delta_stars": 724,
+      "delta_stars": 514,
       "url": "https://github.com/smicallef/spiderfoot"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 56711,
-      "forks": 6112,
-      "delta_stars": 4359,
+      "stars": 56735,
+      "forks": 6113,
+      "delta_stars": 4624,
       "url": "https://github.com/usestrix/strix"
     },
     {
@@ -220,9 +220,9 @@
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 75703,
-      "forks": 7564,
-      "delta_stars": 1783,
+      "stars": 75711,
+      "forks": 7565,
+      "delta_stars": 1786,
       "url": "https://github.com/D4Vinci/Scrapling"
     },
     {
@@ -233,9 +233,9 @@
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 130690,
-      "forks": 11734,
-      "delta_stars": 3535,
+      "stars": 130697,
+      "forks": 11735,
+      "delta_stars": 2695,
       "url": "https://github.com/github/spec-kit"
     },
     {
@@ -246,9 +246,9 @@
       "description": "OBLITERATE THE CHAINS THAT BIND YOU",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 7767,
+      "stars": 7788,
       "forks": 1432,
-      "delta_stars": 335,
+      "delta_stars": 336,
       "url": "https://github.com/elder-plinius/OBLITERATUS"
     }
   ]

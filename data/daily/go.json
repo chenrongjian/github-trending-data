@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T00:53:37.295Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "daily",
   "language": "go",
   "count": 23,
@@ -12,7 +12,7 @@
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 110376,
+      "stars": 110377,
       "forks": 13741,
       "delta_stars": 65,
       "url": "https://github.com/microsoft/TypeScript"
@@ -38,7 +38,7 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 21076,
+      "stars": 21078,
       "forks": 1529,
       "delta_stars": 102,
       "url": "https://github.com/alibaba/open-code-review"
@@ -129,8 +129,8 @@
       "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 38547,
-      "forks": 8006,
+      "stars": 38550,
+      "forks": 8008,
       "delta_stars": 673,
       "url": "https://github.com/Wei-Shaw/sub2api"
     },
@@ -233,7 +233,7 @@
       "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 45868,
+      "stars": 45869,
       "forks": 10883,
       "delta_stars": 131,
       "url": "https://github.com/QuantumNous/new-api"

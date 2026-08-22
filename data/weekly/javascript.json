@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T00:57:23.005Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "weekly",
   "language": "javascript",
   "count": 17,
@@ -38,7 +38,7 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 11682,
+      "stars": 11683,
       "forks": 1332,
       "delta_stars": 1334,
       "url": "https://github.com/freestylefly/awesome-gpt-image-2"
@@ -51,8 +51,8 @@
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 67448,
-      "forks": 12871,
+      "stars": 67449,
+      "forks": 12872,
       "delta_stars": 3613,
       "url": "https://github.com/santifer/career-ops"
     },
@@ -78,7 +78,7 @@
       "language": "JavaScript",
       "language_color": "#f1e05a",
       "stars": 60368,
-      "forks": 6136,
+      "forks": 6137,
       "delta_stars": 1831,
       "url": "https://github.com/byoungd/up"
     },

@@ -1,22 +1,9 @@
 {
   "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "weekly",
-  "language": "all",
-  "count": 16,
+  "language": "ai",
+  "count": 8,
   "list": [
-    {
-      "rank": 1,
-      "owner": "cordiverse",
-      "name": "cordis",
-      "full_name": "cordiverse/cordis",
-      "description": "Meta-Framework of Spatiotemporal Composability",
-      "language": "TypeScript",
-      "language_color": "#3178c6",
-      "stars": 6957,
-      "forks": 403,
-      "delta_stars": 3614,
-      "url": "https://github.com/cordiverse/cordis"
-    },
     {
       "rank": 2,
       "owner": "cathrynlavery",
@@ -29,19 +16,6 @@
       "forks": 1523,
       "delta_stars": 8457,
       "url": "https://github.com/cathrynlavery/diagram-design"
-    },
-    {
-      "rank": 3,
-      "owner": "cursor",
-      "name": "plugins",
-      "full_name": "cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "language_color": "#3178c6",
-      "stars": 4405,
-      "forks": 366,
-      "delta_stars": 1582,
-      "url": "https://github.com/cursor/plugins"
     },
     {
       "rank": 4,
@@ -57,32 +31,6 @@
       "url": "https://github.com/volcengine/OpenViking"
     },
     {
-      "rank": 5,
-      "owner": "basecamp",
-      "name": "omarchy",
-      "full_name": "basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "language_color": "#89e051",
-      "stars": 27542,
-      "forks": 2817,
-      "delta_stars": 2565,
-      "url": "https://github.com/basecamp/omarchy"
-    },
-    {
-      "rank": 6,
-      "owner": "modular",
-      "name": "modular",
-      "full_name": "modular/modular",
-      "description": "The Modular Platform (includes MAX & Mojo)",
-      "language": "Mojo",
-      "language_color": "#ff4c1f",
-      "stars": 28686,
-      "forks": 3053,
-      "delta_stars": 1643,
-      "url": "https://github.com/modular/modular"
-    },
-    {
       "rank": 7,
       "owner": "harry0703",
       "name": "MoneyPrinterTurbo",
@@ -96,19 +44,6 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
-      "rank": 8,
-      "owner": "public-apis",
-      "name": "public-apis",
-      "full_name": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "language": "Python",
-      "language_color": "#3572A5",
-      "stars": 468009,
-      "forks": 51632,
-      "delta_stars": 10990,
-      "url": "https://github.com/public-apis/public-apis"
-    },
-    {
       "rank": 9,
       "owner": "semantica-agi",
       "name": "semantica",
@@ -120,32 +55,6 @@
       "forks": 1078,
       "delta_stars": 2755,
       "url": "https://github.com/semantica-agi/semantica"
-    },
-    {
-      "rank": 10,
-      "owner": "AprilNEA",
-      "name": "OpenLogi",
-      "full_name": "AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "language": "Rust",
-      "language_color": "#dea584",
-      "stars": 12943,
-      "forks": 351,
-      "delta_stars": 4054,
-      "url": "https://github.com/AprilNEA/OpenLogi"
-    },
-    {
-      "rank": 11,
-      "owner": "cactus-compute",
-      "name": "needle",
-      "full_name": "cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "language": "Python",
-      "language_color": "#3572A5",
-      "stars": 8342,
-      "forks": 537,
-      "delta_stars": 2985,
-      "url": "https://github.com/cactus-compute/needle"
     },
     {
       "rank": 12,
@@ -172,19 +81,6 @@
       "forks": 297,
       "delta_stars": 2404,
       "url": "https://github.com/akitaonrails/ai-memory"
-    },
-    {
-      "rank": 14,
-      "owner": "AlexsJones",
-      "name": "llmfit",
-      "full_name": "AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "language_color": "#dea584",
-      "stars": 33449,
-      "forks": 2078,
-      "delta_stars": 1991,
-      "url": "https://github.com/AlexsJones/llmfit"
     },
     {
       "rank": 15,

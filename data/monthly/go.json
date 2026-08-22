@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:30:19.850Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "monthly",
   "language": "go",
   "count": 22,
@@ -12,9 +12,9 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 21072,
+      "stars": 21078,
       "forks": 1529,
-      "delta_stars": 10362,
+      "delta_stars": 10405,
       "url": "https://github.com/alibaba/open-code-review"
     },
     {
@@ -27,7 +27,7 @@
       "language_color": "#00ADD8",
       "stars": 5419,
       "forks": 588,
-      "delta_stars": 1352,
+      "delta_stars": 1289,
       "url": "https://github.com/superplanehq/superplane"
     },
     {
@@ -38,9 +38,9 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 45925,
+      "stars": 45926,
       "forks": 8898,
-      "delta_stars": 707,
+      "delta_stars": 710,
       "url": "https://github.com/cli/cli"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 26508,
-      "forks": 1783,
-      "delta_stars": 1130,
+      "stars": 26510,
+      "forks": 1784,
+      "delta_stars": 1134,
       "url": "https://github.com/gastownhall/beads"
     },
     {
@@ -66,7 +66,7 @@
       "language_color": "#00ADD8",
       "stars": 64533,
       "forks": 6150,
-      "delta_stars": 591,
+      "delta_stars": 597,
       "url": "https://github.com/traefik/traefik"
     },
     {
@@ -78,8 +78,8 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stars": 17584,
-      "forks": 5636,
-      "delta_stars": 538,
+      "forks": 5637,
+      "delta_stars": 532,
       "url": "https://github.com/sundowndev/phoneinfoga"
     },
     {
@@ -91,7 +91,7 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stars": 14285,
-      "forks": 398,
+      "forks": 399,
       "delta_stars": 350,
       "url": "https://github.com/benbjohnson/litestream"
     },
@@ -103,9 +103,9 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 1584,
+      "stars": 1586,
       "forks": 263,
-      "delta_stars": 511,
+      "delta_stars": 716,
       "url": "https://github.com/agent-substrate/substrate"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 75087,
+      "stars": 75090,
       "forks": 4900,
-      "delta_stars": 974,
+      "delta_stars": 978,
       "url": "https://github.com/caddyserver/caddy"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Find secrets with Gitleaks 🔑",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 28891,
-      "forks": 2204,
-      "delta_stars": 686,
+      "stars": 28892,
+      "forks": 2205,
+      "delta_stars": 698,
       "url": "https://github.com/gitleaks/gitleaks"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 21625,
+      "stars": 21626,
       "forks": 755,
-      "delta_stars": 3389,
+      "delta_stars": 3416,
       "url": "https://github.com/pranshuparmar/witr"
     },
     {
@@ -170,7 +170,7 @@
       "language_color": "#00ADD8",
       "stars": 14013,
       "forks": 1274,
-      "delta_stars": 517,
+      "delta_stars": 518,
       "url": "https://github.com/AlexxIT/go2rtc"
     },
     {
@@ -181,9 +181,9 @@
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 35419,
-      "forks": 3098,
-      "delta_stars": 1387,
+      "stars": 35420,
+      "forks": 3099,
+      "delta_stars": 1368,
       "url": "https://github.com/tailscale/tailscale"
     },
     {
@@ -196,7 +196,7 @@
       "language_color": "#00ADD8",
       "stars": 7503,
       "forks": 2260,
-      "delta_stars": 1174,
+      "delta_stars": 1130,
       "url": "https://github.com/chenyme/grok2api"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Pretty fancy and modern terminal file manager",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 22705,
+      "stars": 22708,
       "forks": 826,
-      "delta_stars": 4080,
+      "delta_stars": 4102,
       "url": "https://github.com/yorukot/superfile"
     },
     {
@@ -220,9 +220,9 @@
       "description": "The Kubernetes Package Manager",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 30162,
+      "stars": 30163,
       "forks": 7758,
-      "delta_stars": 204,
+      "delta_stars": 205,
       "url": "https://github.com/helm/helm"
     },
     {
@@ -233,9 +233,9 @@
       "description": "Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 47220,
-      "forks": 6043,
-      "delta_stars": 6124,
+      "stars": 47226,
+      "forks": 6044,
+      "delta_stars": 6073,
       "url": "https://github.com/multica-ai/multica"
     },
     {
@@ -246,9 +246,9 @@
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 88998,
+      "stars": 89000,
       "forks": 10455,
-      "delta_stars": 3698,
+      "delta_stars": 3654,
       "url": "https://github.com/infiniflow/ragflow"
     },
     {
@@ -259,9 +259,9 @@
       "description": "Podman: A tool for managing OCI containers and pods.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 32659,
+      "stars": 32660,
       "forks": 3343,
-      "delta_stars": 389,
+      "delta_stars": 404,
       "url": "https://github.com/podman-container-tools/podman"
     },
     {
@@ -272,7 +272,7 @@
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 35011,
+      "stars": 35013,
       "forks": 2325,
       "delta_stars": 8057,
       "url": "https://github.com/esengine/DeepSeek-Reasonix"
@@ -285,9 +285,9 @@
       "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 179128,
-      "forks": 17507,
-      "delta_stars": 3161,
+      "stars": 179130,
+      "forks": 17511,
+      "delta_stars": 3166,
       "url": "https://github.com/ollama/ollama"
     }
   ]

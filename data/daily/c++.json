@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T00:53:37.295Z",
+  "generated_at": "2026-08-22T01:04:44.860Z",
   "since": "daily",
   "language": "c++",
   "count": 24,
@@ -12,7 +12,7 @@
       "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 71769,
+      "stars": 71770,
       "forks": 16236,
       "delta_stars": 4,
       "url": "https://github.com/protocolbuffers/protobuf"
@@ -25,8 +25,8 @@
       "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 21450,
-      "forks": 4148,
+      "stars": 21451,
+      "forks": 4149,
       "delta_stars": 5,
       "url": "https://github.com/microsoft/onnxruntime"
     },
@@ -103,7 +103,7 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 125046,
+      "stars": 125050,
       "forks": 22001,
       "delta_stars": 169,
       "url": "https://github.com/ggml-org/llama.cpp"
@@ -259,7 +259,7 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 115960,
+      "stars": 115961,
       "forks": 26431,
       "delta_stars": 55,
       "url": "https://github.com/godotengine/godot"
