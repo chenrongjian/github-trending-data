@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-29T00:36:12.761Z",
+  "generated_at": "2026-08-29T19:26:32.009Z",
   "since": "weekly",
   "language": "shell",
   "count": 18,
   "list": [
     {
       "rank": 1,
-      "owner": "basecamp",
+      "owner": "omacom",
       "name": "omarchy",
-      "full_name": "basecamp/omarchy",
+      "full_name": "omacom/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 33486,
-      "forks": 3469,
+      "stars": 34614,
+      "forks": 3557,
       "delta_stars": 5942,
-      "url": "https://github.com/basecamp/omarchy"
+      "url": "https://github.com/omacom/omarchy"
     },
     {
       "rank": 2,
@@ -25,8 +25,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 240218,
-      "forks": 20426,
+      "stars": 240887,
+      "forks": 20483,
       "delta_stars": 11475,
       "url": "https://github.com/mattpocock/skills"
     },
@@ -38,8 +38,8 @@
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 7419,
-      "forks": 828,
+      "stars": 7492,
+      "forks": 838,
       "delta_stars": 571,
       "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
     },
@@ -51,8 +51,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 279060,
-      "forks": 24990,
+      "stars": 279338,
+      "forks": 25014,
       "delta_stars": 3787,
       "url": "https://github.com/obra/superpowers"
     },
@@ -64,8 +64,8 @@
       "description": "Windows inside a Docker container.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 53075,
-      "forks": 4689,
+      "stars": 53078,
+      "forks": 4695,
       "delta_stars": 158,
       "url": "https://github.com/dockur/windows"
     },
@@ -77,8 +77,8 @@
       "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 4306,
-      "forks": 725,
+      "stars": 4322,
+      "forks": 727,
       "delta_stars": 214,
       "url": "https://github.com/llm-d/llm-d"
     },
@@ -90,8 +90,8 @@
       "description": "Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 5620,
-      "forks": 367,
+      "stars": 5624,
+      "forks": 366,
       "delta_stars": 99,
       "url": "https://github.com/Dammyjay93/interface-design"
     },
@@ -103,8 +103,8 @@
       "description": "Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 11160,
-      "forks": 2185,
+      "stars": 11165,
+      "forks": 2187,
       "delta_stars": 378,
       "url": "https://github.com/1N3/Sn1per"
     },
@@ -116,8 +116,8 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 24641,
-      "forks": 3527,
+      "stars": 24655,
+      "forks": 3531,
       "delta_stars": 267,
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     },
@@ -142,7 +142,7 @@
       "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 113575,
+      "stars": 113577,
       "forks": 22672,
       "delta_stars": 87,
       "url": "https://github.com/d3/d3"
@@ -155,8 +155,8 @@
       "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 62306,
-      "forks": 12308,
+      "stars": 62315,
+      "forks": 12307,
       "delta_stars": 89,
       "url": "https://github.com/youngyangyang04/leetcode-master"
     },
@@ -168,8 +168,8 @@
       "description": "Proxmox VE Helper-Scripts (Community Edition)",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 29421,
-      "forks": 2853,
+      "stars": 29427,
+      "forks": 2855,
       "delta_stars": 88,
       "url": "https://github.com/community-scripts/ProxmoxVE"
     },
@@ -181,8 +181,8 @@
       "description": "Official agent plugin providing skills and MCP server configurations for Azure scenarios.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 1430,
-      "forks": 239,
+      "stars": 1431,
+      "forks": 240,
       "delta_stars": 25,
       "url": "https://github.com/microsoft/azure-skills"
     },
@@ -194,7 +194,7 @@
       "description": "Linux Kernel for Surface Devices",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 7638,
+      "stars": 7643,
       "forks": 360,
       "delta_stars": 41,
       "url": "https://github.com/linux-surface/linux-surface"
@@ -220,8 +220,8 @@
       "description": "Secure open-source Android browser with support for extensions",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 2216,
-      "forks": 88,
+      "stars": 2227,
+      "forks": 90,
       "delta_stars": 155,
       "url": "https://github.com/jqssun/android-titanium-browser"
     },
@@ -233,8 +233,8 @@
       "description": "Supports running OpenWrt on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 2999,
-      "forks": 2485,
+      "stars": 3002,
+      "forks": 2484,
       "delta_stars": 20,
       "url": "https://github.com/ophub/amlogic-s9xxx-openwrt"
     }

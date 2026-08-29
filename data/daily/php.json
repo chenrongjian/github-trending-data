@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:36:12.761Z",
+  "generated_at": "2026-08-29T19:26:32.009Z",
   "since": "daily",
   "language": "php",
   "count": 23,
@@ -12,9 +12,9 @@
       "description": "Compile PHP to Native Binaries",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 806,
-      "forks": 38,
-      "delta_stars": 188,
+      "stars": 938,
+      "forks": 44,
+      "delta_stars": 166,
       "url": "https://github.com/swoole/typephp"
     },
     {
@@ -25,9 +25,9 @@
       "description": "The most popular open source electronic health records and medical practice management solution.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 5402,
+      "stars": 5404,
       "forks": 3018,
-      "delta_stars": 3,
+      "delta_stars": 4,
       "url": "https://github.com/openemr/openemr"
     },
     {
@@ -38,9 +38,9 @@
       "description": "A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 31917,
-      "forks": 4193,
-      "delta_stars": 13,
+      "stars": 31923,
+      "forks": 4194,
+      "delta_stars": 5,
       "url": "https://github.com/filamentphp/filament"
     },
     {
@@ -52,8 +52,8 @@
       "language": "PHP",
       "language_color": "#4F5D95",
       "stars": 3424,
-      "forks": 3649,
-      "delta_stars": 5,
+      "forks": 3648,
+      "delta_stars": 0,
       "url": "https://github.com/WordPress/wordpress-develop"
     },
     {
@@ -65,7 +65,7 @@
       "language": "PHP",
       "language_color": "#4F5D95",
       "stars": 9187,
-      "forks": 2663,
+      "forks": 2662,
       "delta_stars": 1,
       "url": "https://github.com/pterodactyl/panel"
     },
@@ -77,9 +77,9 @@
       "description": "Dependency Manager for PHP",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 29505,
-      "forks": 4830,
-      "delta_stars": 2,
+      "stars": 29507,
+      "forks": 4829,
+      "delta_stars": 4,
       "url": "https://github.com/composer/composer"
     },
     {
@@ -92,7 +92,7 @@
       "language_color": "#4F5D95",
       "stars": 10100,
       "forks": 2972,
-      "delta_stars": 4,
+      "delta_stars": 3,
       "url": "https://github.com/akaunting/akaunting"
     },
     {
@@ -104,8 +104,8 @@
       "language": "PHP",
       "language_color": "#4F5D95",
       "stars": 7138,
-      "forks": 1776,
-      "delta_stars": 5,
+      "forks": 1778,
+      "delta_stars": 2,
       "url": "https://github.com/roundcube/roundcubemail"
     },
     {
@@ -116,9 +116,9 @@
       "description": "A free open source IT asset/license management system",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 14885,
-      "forks": 3980,
-      "delta_stars": 7,
+      "stars": 14888,
+      "forks": 3979,
+      "delta_stars": 4,
       "url": "https://github.com/grokability/snipe-it"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 23751,
-      "forks": 1603,
-      "delta_stars": 13,
+      "stars": 23767,
+      "forks": 1604,
+      "delta_stars": 18,
       "url": "https://github.com/krayin/laravel-crm"
     },
     {
@@ -155,9 +155,9 @@
       "description": "Firefly III: a personal finances manager",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 24446,
-      "forks": 2272,
-      "delta_stars": 13,
+      "stars": 24454,
+      "forks": 2271,
+      "delta_stars": 11,
       "url": "https://github.com/firefly-iii/firefly-iii"
     },
     {
@@ -168,9 +168,9 @@
       "description": "A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 10475,
+      "stars": 10477,
       "forks": 10679,
-      "delta_stars": 0,
+      "delta_stars": 2,
       "url": "https://github.com/woocommerce/woocommerce"
     },
     {
@@ -181,9 +181,9 @@
       "description": "Damn Vulnerable Web Application (DVWA)",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 13558,
-      "forks": 5069,
-      "delta_stars": 2,
+      "stars": 13567,
+      "forks": 5070,
+      "delta_stars": 9,
       "url": "https://github.com/digininja/DVWA"
     },
     {
@@ -196,7 +196,7 @@
       "language_color": "#4F5D95",
       "stars": 34888,
       "forks": 11962,
-      "delta_stars": 7,
+      "delta_stars": 3,
       "url": "https://github.com/laravel/framework"
     },
     {
@@ -207,8 +207,8 @@
       "description": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 12169,
-      "forks": 9352,
+      "stars": 12171,
+      "forks": 9354,
       "delta_stars": 2,
       "url": "https://github.com/magento/magento2"
     },
@@ -220,9 +220,9 @@
       "description": "A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 4011,
+      "stars": 4014,
       "forks": 745,
-      "delta_stars": 1,
+      "delta_stars": 5,
       "url": "https://github.com/AzuraCast/AzuraCast"
     },
     {
@@ -233,9 +233,9 @@
       "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 21825,
+      "stars": 21827,
       "forks": 2894,
-      "delta_stars": 17,
+      "delta_stars": 3,
       "url": "https://github.com/matomo-org/matomo"
     },
     {
@@ -246,9 +246,9 @@
       "description": "The Symfony PHP framework",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 31137,
-      "forks": 9856,
-      "delta_stars": 2,
+      "stars": 31138,
+      "forks": 9858,
+      "delta_stars": 6,
       "url": "https://github.com/symfony/symfony"
     },
     {
@@ -259,9 +259,9 @@
       "description": "Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 28028,
-      "forks": 3258,
-      "delta_stars": 11,
+      "stars": 28044,
+      "forks": 3261,
+      "delta_stars": 18,
       "url": "https://github.com/bagisto/bagisto"
     },
     {
@@ -272,9 +272,9 @@
       "description": "Mautic: Open Source Marketing Automation Software.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 10412,
+      "stars": 10415,
       "forks": 3428,
-      "delta_stars": 9,
+      "delta_stars": 8,
       "url": "https://github.com/mautic/mautic"
     },
     {
@@ -285,9 +285,9 @@
       "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 25129,
-      "forks": 2597,
-      "delta_stars": 12,
+      "stars": 25135,
+      "forks": 2598,
+      "delta_stars": 6,
       "url": "https://github.com/monicahq/monica"
     },
     {
@@ -298,9 +298,9 @@
       "description": "Free and Open Source ERP platform",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 11827,
+      "stars": 11842,
       "forks": 545,
-      "delta_stars": 11,
+      "delta_stars": 16,
       "url": "https://github.com/aureuserp/aureuserp"
     }
   ]

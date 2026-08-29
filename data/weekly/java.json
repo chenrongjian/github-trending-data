@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:36:12.761Z",
+  "generated_at": "2026-08-29T19:26:32.009Z",
   "since": "weekly",
   "language": "java",
   "count": 19,
@@ -12,8 +12,8 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 36474,
-      "forks": 8860,
+      "stars": 36480,
+      "forks": 8863,
       "delta_stars": 148,
       "url": "https://github.com/keycloak/keycloak"
     },
@@ -25,7 +25,7 @@
       "description": "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 5043,
+      "stars": 5046,
       "forks": 1628,
       "delta_stars": 33,
       "url": "https://github.com/karma9874/AndroRAT"
@@ -38,8 +38,8 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 39517,
-      "forks": 3759,
+      "stars": 39523,
+      "forks": 3760,
       "delta_stars": 110,
       "url": "https://github.com/TeamNewPipe/NewPipe"
     },
@@ -51,7 +51,7 @@
       "description": "morphe patches for twitter and instagram",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 4944,
+      "stars": 4963,
       "forks": 185,
       "delta_stars": 151,
       "url": "https://github.com/crimera/piko"
@@ -64,8 +64,8 @@
       "description": "Telegram for Android source",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 29793,
-      "forks": 9990,
+      "stars": 29796,
+      "forks": 9992,
       "delta_stars": 60,
       "url": "https://github.com/DrKLO/Telegram"
     },
@@ -77,7 +77,7 @@
       "description": "一款真正的 AI 报表诞生了！JimuChatBI —— 首款免费开源对话式智能数据分析产品（Chat2BI）。 一句话生成报表和数据大屏，支持对话式 AI 修改优化；类 Excel 在线报表设计，兼容国产信创数据源。 对着 AI 说句话，报表就出来了——表格、图表、分组汇总自动生成，复杂报表场景轻松应对。想做数据大屏？同样一句话搞定，让数据分析进入 AI 时代。",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 8264,
+      "stars": 8280,
       "forks": 1873,
       "delta_stars": 57,
       "url": "https://github.com/jeecgboot/jimureport"
@@ -91,7 +91,7 @@
       "language": "Java",
       "language_color": "#b07219",
       "stars": 8824,
-      "forks": 1087,
+      "forks": 1088,
       "delta_stars": 13,
       "url": "https://github.com/aeron-io/aeron"
     },
@@ -103,8 +103,8 @@
       "description": "Free universal database tool and SQL client",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 51575,
-      "forks": 4360,
+      "stars": 51586,
+      "forks": 4363,
       "delta_stars": 92,
       "url": "https://github.com/dbeaver/dbeaver"
     },
@@ -116,8 +116,8 @@
       "description": "一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 11124,
-      "forks": 1276,
+      "stars": 11125,
+      "forks": 1275,
       "delta_stars": 61,
       "url": "https://github.com/ZCShou/GoGoGo"
     },
@@ -129,7 +129,7 @@
       "description": "BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 996,
+      "stars": 1001,
       "forks": 75,
       "delta_stars": 125,
       "url": "https://github.com/booklore-app/booklore"
@@ -142,7 +142,7 @@
       "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 33318,
+      "stars": 33321,
       "forks": 13284,
       "delta_stars": 38,
       "url": "https://github.com/alibaba/nacos"
@@ -155,7 +155,7 @@
       "description": "Automated mass refactoring of source code.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 3682,
+      "stars": 3683,
       "forks": 565,
       "delta_stars": 19,
       "url": "https://github.com/openrewrite/rewrite"
@@ -169,7 +169,7 @@
       "language": "Java",
       "language_color": "#b07219",
       "stars": 26302,
-      "forks": 14013,
+      "forks": 14014,
       "delta_stars": 35,
       "url": "https://github.com/apache/flink"
     },
@@ -181,8 +181,8 @@
       "description": "NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 2172,
-      "forks": 120,
+      "stars": 2189,
+      "forks": 121,
       "delta_stars": 81,
       "url": "https://github.com/7723mod/NPatch"
     },
@@ -194,7 +194,7 @@
       "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 28851,
+      "stars": 28856,
       "forks": 2755,
       "delta_stars": 227,
       "url": "https://github.com/opendataloader-project/opendataloader-pdf"
@@ -207,8 +207,8 @@
       "description": "Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 3590,
-      "forks": 116,
+      "stars": 3599,
+      "forks": 115,
       "delta_stars": 192,
       "url": "https://github.com/bethington/ghidra-mcp"
     },
@@ -220,8 +220,8 @@
       "description": "Browse media content with your own rules on Android TV",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 32399,
-      "forks": 1973,
+      "stars": 32423,
+      "forks": 1977,
       "delta_stars": 257,
       "url": "https://github.com/yuliskov/SmartTube"
     },
@@ -233,8 +233,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 73334,
-      "forks": 8012,
+      "stars": 73608,
+      "forks": 8032,
       "delta_stars": 563,
       "url": "https://github.com/NationalSecurityAgency/ghidra"
     },
@@ -246,8 +246,8 @@
       "description": "【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 47522,
-      "forks": 16171,
+      "stars": 47539,
+      "forks": 16172,
       "delta_stars": 113,
       "url": "https://github.com/jeecgboot/JeecgBoot"
     }

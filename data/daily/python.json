@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:36:12.761Z",
+  "generated_at": "2026-08-29T19:26:32.009Z",
   "since": "daily",
   "language": "python",
   "count": 18,
@@ -9,12 +9,12 @@
       "owner": "K-Dense-AI",
       "name": "scientific-agent-skills",
       "full_name": "K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 36588,
-      "forks": 3478,
-      "delta_stars": 720,
+      "stars": 37805,
+      "forks": 3566,
+      "delta_stars": 1604,
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 35028,
-      "forks": 3936,
-      "delta_stars": 457,
+      "stars": 35326,
+      "forks": 3957,
+      "delta_stars": 356,
       "url": "https://github.com/anthropics/claude-plugins-official"
     },
     {
@@ -38,9 +38,9 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 53303,
-      "forks": 6647,
-      "delta_stars": 1144,
+      "stars": 53940,
+      "forks": 6707,
+      "delta_stars": 809,
       "url": "https://github.com/calesthio/OpenMontage"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 75552,
-      "forks": 9218,
-      "delta_stars": 326,
+      "stars": 75965,
+      "forks": 9254,
+      "delta_stars": 558,
       "url": "https://github.com/abi/screenshot-to-code"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Open-source framework for the research and development of foundation models.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 2894,
-      "forks": 239,
-      "delta_stars": 236,
+      "stars": 3012,
+      "forks": 244,
+      "delta_stars": 163,
       "url": "https://github.com/marin-community/marin"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 50615,
-      "forks": 8780,
-      "delta_stars": 703,
+      "stars": 50938,
+      "forks": 8815,
+      "delta_stars": 359,
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
@@ -90,9 +90,9 @@
       "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 13336,
-      "forks": 3630,
-      "delta_stars": 22,
+      "stars": 13553,
+      "forks": 3646,
+      "delta_stars": 256,
       "url": "https://github.com/livekit/agents"
     },
     {
@@ -103,9 +103,9 @@
       "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 21779,
-      "forks": 3314,
-      "delta_stars": 154,
+      "stars": 21828,
+      "forks": 3323,
+      "delta_stars": 82,
       "url": "https://github.com/HKUDS/AI-Trader"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 112011,
-      "forks": 10886,
-      "delta_stars": 514,
+      "stars": 112242,
+      "forks": 10920,
+      "delta_stars": 376,
       "url": "https://github.com/Graphify-Labs/graphify"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Python toolkit for quantitative finance",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 12782,
-      "forks": 1725,
-      "delta_stars": 19,
+      "stars": 12812,
+      "forks": 1730,
+      "delta_stars": 34,
       "url": "https://github.com/goldmansachs/gs-quant"
     },
     {
@@ -142,9 +142,9 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 73814,
-      "forks": 8455,
-      "delta_stars": 343,
+      "stars": 73869,
+      "forks": 8466,
+      "delta_stars": 74,
       "url": "https://github.com/ComposioHQ/awesome-claude-skills"
     },
     {
@@ -155,9 +155,9 @@
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 31977,
-      "forks": 5220,
-      "delta_stars": 88,
+      "stars": 32049,
+      "forks": 5229,
+      "delta_stars": 80,
       "url": "https://github.com/HKUDS/Vibe-Trading"
     },
     {
@@ -168,9 +168,9 @@
       "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 3482,
-      "forks": 537,
-      "delta_stars": 141,
+      "stars": 3571,
+      "forks": 551,
+      "delta_stars": 122,
       "url": "https://github.com/MakazhanAlpamys/Soup"
     },
     {
@@ -181,9 +181,9 @@
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 3007,
-      "forks": 564,
-      "delta_stars": 9,
+      "stars": 3013,
+      "forks": 568,
+      "delta_stars": 12,
       "url": "https://github.com/music-assistant/server"
     },
     {
@@ -194,9 +194,9 @@
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 164579,
-      "forks": 34400,
-      "delta_stars": 62,
+      "stars": 164608,
+      "forks": 34385,
+      "delta_stars": 50,
       "url": "https://github.com/huggingface/transformers"
     },
     {
@@ -207,9 +207,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 59929,
-      "forks": 5241,
-      "delta_stars": 394,
+      "stars": 60172,
+      "forks": 5274,
+      "delta_stars": 282,
       "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
@@ -220,9 +220,9 @@
       "description": "🚀 Efficient implementations for emerging model architectures",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 5653,
-      "forks": 681,
-      "delta_stars": 14,
+      "stars": 5660,
+      "forks": 682,
+      "delta_stars": 10,
       "url": "https://github.com/fla-org/flash-linear-attention"
     },
     {
@@ -233,9 +233,9 @@
       "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of GitHub Copilot",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 1385,
-      "forks": 276,
-      "delta_stars": 7,
+      "stars": 1400,
+      "forks": 278,
+      "delta_stars": 22,
       "url": "https://github.com/microsoft/hve-core"
     }
   ]

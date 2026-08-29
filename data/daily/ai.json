@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:36:12.761Z",
+  "generated_at": "2026-08-29T19:26:32.009Z",
   "since": "daily",
   "language": "ai",
   "count": 12,
@@ -12,9 +12,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 27372,
-      "forks": 1737,
-      "delta_stars": 4562,
+      "stars": 30586,
+      "forks": 1906,
+      "delta_stars": 3927,
       "url": "https://github.com/tt-a1i/archify"
     },
     {
@@ -22,12 +22,12 @@
       "owner": "K-Dense-AI",
       "name": "scientific-agent-skills",
       "full_name": "K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 36588,
-      "forks": 3478,
-      "delta_stars": 720,
+      "stars": 37805,
+      "forks": 3566,
+      "delta_stars": 1604,
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 35028,
-      "forks": 3936,
-      "delta_stars": 457,
+      "stars": 35326,
+      "forks": 3957,
+      "delta_stars": 356,
       "url": "https://github.com/anthropics/claude-plugins-official"
     },
     {
@@ -51,9 +51,9 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 46156,
-      "forks": 5101,
-      "delta_stars": 202,
+      "stars": 46371,
+      "forks": 5112,
+      "delta_stars": 273,
       "url": "https://github.com/abhigyanpatwari/GitNexus"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Help AI coding agents write modern Go",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 2595,
-      "forks": 78,
-      "delta_stars": 574,
+      "stars": 2830,
+      "forks": 81,
+      "delta_stars": 294,
       "url": "https://github.com/JetBrains/go-modern-guidelines"
     },
     {
@@ -77,9 +77,9 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 53303,
-      "forks": 6647,
-      "delta_stars": 1144,
+      "stars": 53940,
+      "forks": 6707,
+      "delta_stars": 809,
       "url": "https://github.com/calesthio/OpenMontage"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 24233,
-      "forks": 2394,
-      "delta_stars": 1687,
+      "stars": 25014,
+      "forks": 2453,
+      "delta_stars": 767,
       "url": "https://github.com/freestylefly/awesome-gpt-image-2"
     },
     {
@@ -103,9 +103,9 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 21609,
-      "forks": 3060,
-      "delta_stars": 433,
+      "stars": 22162,
+      "forks": 3102,
+      "delta_stars": 612,
       "url": "https://github.com/tashfeenahmed/freellmapi"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 49966,
-      "forks": 3502,
-      "delta_stars": 67,
+      "stars": 50150,
+      "forks": 3517,
+      "delta_stars": 215,
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 50615,
-      "forks": 8780,
-      "delta_stars": 703,
+      "stars": 50938,
+      "forks": 8814,
+      "delta_stars": 359,
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 115361,
-      "forks": 6310,
-      "delta_stars": 1396,
+      "stars": 116314,
+      "forks": 6349,
+      "delta_stars": 1171,
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
@@ -155,9 +155,9 @@
       "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 13336,
-      "forks": 3630,
-      "delta_stars": 22,
+      "stars": 13553,
+      "forks": 3646,
+      "delta_stars": 256,
       "url": "https://github.com/livekit/agents"
     }
   ]

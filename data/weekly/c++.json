@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:36:12.761Z",
+  "generated_at": "2026-08-29T19:26:32.009Z",
   "since": "weekly",
   "language": "c++",
   "count": 22,
@@ -12,8 +12,8 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 39174,
-      "forks": 10872,
+      "stars": 39290,
+      "forks": 10877,
       "delta_stars": 233,
       "url": "https://github.com/google/googletest"
     },
@@ -25,8 +25,8 @@
       "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 1119,
-      "forks": 202,
+      "stars": 1145,
+      "forks": 209,
       "delta_stars": 234,
       "url": "https://github.com/Neroued/ninfer"
     },
@@ -38,8 +38,8 @@
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 197767,
-      "forks": 76168,
+      "stars": 198014,
+      "forks": 76182,
       "delta_stars": 621,
       "url": "https://github.com/tensorflow/tensorflow"
     },
@@ -51,8 +51,8 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 126109,
-      "forks": 22355,
+      "stars": 126234,
+      "forks": 22423,
       "delta_stars": 1193,
       "url": "https://github.com/ggml-org/llama.cpp"
     },
@@ -65,7 +65,7 @@
       "language": "C++",
       "language_color": "#f34b7d",
       "stars": 8152,
-      "forks": 2088,
+      "forks": 2089,
       "delta_stars": 38,
       "url": "https://github.com/MariaDB/server"
     },
@@ -77,8 +77,8 @@
       "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 40778,
-      "forks": 3652,
+      "stars": 40795,
+      "forks": 3655,
       "delta_stars": 275,
       "url": "https://github.com/duckdb/duckdb"
     },
@@ -90,8 +90,8 @@
       "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 21408,
-      "forks": 1855,
+      "stars": 21418,
+      "forks": 1856,
       "delta_stars": 411,
       "url": "https://github.com/k4yt3x/video2x"
     },
@@ -103,7 +103,7 @@
       "description": "A focused launcher for your desktop - native, fast, extensible",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 9209,
+      "stars": 9226,
       "forks": 279,
       "delta_stars": 213,
       "url": "https://github.com/vicinaehq/vicinae"
@@ -116,7 +116,7 @@
       "description": "Official inference framework for 1-bit LLMs",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 40212,
+      "stars": 40217,
       "forks": 3723,
       "delta_stars": 120,
       "url": "https://github.com/microsoft/BitNet"
@@ -129,7 +129,7 @@
       "description": "Automatic quad remeshing tool",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 3387,
+      "stars": 3395,
       "forks": 229,
       "delta_stars": 111,
       "url": "https://github.com/huxingyi/autoremesher"
@@ -142,7 +142,7 @@
       "description": "Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 2897,
+      "stars": 2900,
       "forks": 185,
       "delta_stars": 90,
       "url": "https://github.com/quickshell-mirror/quickshell"
@@ -155,8 +155,8 @@
       "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 38240,
-      "forks": 1954,
+      "stars": 38264,
+      "forks": 1957,
       "delta_stars": 256,
       "url": "https://github.com/hyprwm/Hyprland"
     },
@@ -168,8 +168,8 @@
       "description": "MLX: An array framework for Apple silicon",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 28207,
-      "forks": 2193,
+      "stars": 28212,
+      "forks": 2198,
       "delta_stars": 119,
       "url": "https://github.com/ml-explore/mlx"
     },
@@ -181,8 +181,8 @@
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 10757,
-      "forks": 3342,
+      "stars": 10762,
+      "forks": 3343,
       "delta_stars": 67,
       "url": "https://github.com/openvinotoolkit/openvino"
     },
@@ -194,8 +194,8 @@
       "description": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 7959,
-      "forks": 896,
+      "stars": 8048,
+      "forks": 900,
       "delta_stars": 38,
       "url": "https://github.com/microsoft/microsoft-ui-xaml"
     },
@@ -207,7 +207,7 @@
       "description": "A framework for building native applications using React",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 126443,
+      "stars": 126453,
       "forks": 25234,
       "delta_stars": 86,
       "url": "https://github.com/react/react-native"
@@ -220,8 +220,8 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 32759,
-      "forks": 7140,
+      "stars": 32768,
+      "forks": 7145,
       "delta_stars": 113,
       "url": "https://github.com/telegramdesktop/tdesktop"
     },
@@ -233,8 +233,8 @@
       "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 20414,
-      "forks": 2241,
+      "stars": 20415,
+      "forks": 2242,
       "delta_stars": 30,
       "url": "https://github.com/google/filament"
     },
@@ -246,8 +246,8 @@
       "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 71829,
-      "forks": 16258,
+      "stars": 71831,
+      "forks": 16262,
       "delta_stars": 88,
       "url": "https://github.com/protocolbuffers/protobuf"
     },
@@ -259,8 +259,8 @@
       "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 21670,
-      "forks": 4183,
+      "stars": 21675,
+      "forks": 4186,
       "delta_stars": 262,
       "url": "https://github.com/microsoft/onnxruntime"
     },
@@ -272,8 +272,8 @@
       "description": "Compatibility tool for Steam Play based on Wine and additional components",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 32676,
-      "forks": 1583,
+      "stars": 32677,
+      "forks": 1584,
       "delta_stars": 97,
       "url": "https://github.com/ValveSoftware/Proton"
     },
@@ -285,8 +285,8 @@
       "description": "Playstation 2 Static Recompiler & Runtime Tool to make native PC ports",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 3208,
-      "forks": 124,
+      "stars": 3210,
+      "forks": 125,
       "delta_stars": 26,
       "url": "https://github.com/ran-j/PS2Recomp"
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:36:12.761Z",
+  "generated_at": "2026-08-29T19:26:32.009Z",
   "since": "monthly",
   "language": "c",
   "count": 21,
@@ -12,8 +12,8 @@
       "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
       "language": "C",
       "language_color": "#555555",
-      "stars": 6476,
-      "forks": 6255,
+      "stars": 6489,
+      "forks": 6257,
       "delta_stars": 1076,
       "url": "https://github.com/opa334/Dopamine"
     },
@@ -25,8 +25,8 @@
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "language_color": "#555555",
-      "stars": 75559,
-      "forks": 9921,
+      "stars": 75593,
+      "forks": 9939,
       "delta_stars": 1474,
       "url": "https://github.com/obsproject/obs-studio"
     },
@@ -38,8 +38,8 @@
       "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
       "language": "C",
       "language_color": "#555555",
-      "stars": 726,
-      "forks": 200,
+      "stars": 738,
+      "forks": 201,
       "delta_stars": 312,
       "url": "https://github.com/tr4m0ryp/tr4mpass"
     },
@@ -51,8 +51,8 @@
       "description": "Android application for running Windows applications with Wine and Box86/Box64",
       "language": "C",
       "language_color": "#555555",
-      "stars": 18822,
-      "forks": 1688,
+      "stars": 18833,
+      "forks": 1691,
       "delta_stars": 505,
       "url": "https://github.com/brunodev85/winlator"
     },
@@ -64,8 +64,8 @@
       "description": "High performance UI layout library in C.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 18014,
-      "forks": 716,
+      "stars": 18025,
+      "forks": 715,
       "delta_stars": 339,
       "url": "https://github.com/nicbarker/clay"
     },
@@ -77,8 +77,8 @@
       "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 14917,
-      "forks": 2514,
+      "stars": 14927,
+      "forks": 2512,
       "delta_stars": 723,
       "url": "https://github.com/duixcom/Duix-Avatar"
     },
@@ -90,8 +90,8 @@
       "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 62853,
-      "forks": 28318,
+      "stars": 62867,
+      "forks": 28322,
       "delta_stars": 739,
       "url": "https://github.com/git/git"
     },
@@ -103,8 +103,8 @@
       "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 13693,
-      "forks": 2192,
+      "stars": 13712,
+      "forks": 2193,
       "delta_stars": 294,
       "url": "https://github.com/libretro/RetroArch"
     },
@@ -116,8 +116,8 @@
       "description": "Termux X-server add-on.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 4667,
-      "forks": 672,
+      "stars": 4671,
+      "forks": 671,
       "delta_stars": 226,
       "url": "https://github.com/termux/termux-x11"
     },
@@ -129,8 +129,8 @@
       "description": "🎥 Command line media player",
       "language": "C",
       "language_color": "#555555",
-      "stars": 36721,
-      "forks": 3502,
+      "stars": 36740,
+      "forks": 3506,
       "delta_stars": 562,
       "url": "https://github.com/mpv-player/mpv"
     },
@@ -142,7 +142,7 @@
       "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
       "language": "C",
       "language_color": "#555555",
-      "stars": 23437,
+      "stars": 23440,
       "forks": 1141,
       "delta_stars": 267,
       "url": "https://github.com/timescale/timescaledb"
@@ -155,7 +155,7 @@
       "description": "Iceman Fork - Proxmark3",
       "language": "C",
       "language_color": "#555555",
-      "stars": 5992,
+      "stars": 5994,
       "forks": 1416,
       "delta_stars": 142,
       "url": "https://github.com/RfidResearchGroup/proxmark3"
@@ -168,7 +168,7 @@
       "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
       "language": "C",
       "language_color": "#555555",
-      "stars": 3553,
+      "stars": 3557,
       "forks": 1264,
       "delta_stars": 229,
       "url": "https://github.com/meshcore-dev/MeshCore"
@@ -181,7 +181,7 @@
       "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 13476,
+      "stars": 13484,
       "forks": 2892,
       "delta_stars": 232,
       "url": "https://github.com/nmap/nmap"
@@ -194,7 +194,7 @@
       "description": "Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy",
       "language": "C",
       "language_color": "#555555",
-      "stars": 6186,
+      "stars": 6196,
       "forks": 374,
       "delta_stars": 620,
       "url": "https://github.com/InterceptSuite/ProxyBridge"
@@ -207,8 +207,8 @@
       "description": "Flipper Zero Unleashed Firmware",
       "language": "C",
       "language_color": "#555555",
-      "stars": 22132,
-      "forks": 1935,
+      "stars": 22138,
+      "forks": 1936,
       "delta_stars": 247,
       "url": "https://github.com/DarkFlippers/unleashed-firmware"
     },
@@ -220,8 +220,8 @@
       "description": "Open Source Flight Controller Firmware",
       "language": "C",
       "language_color": "#555555",
-      "stars": 11473,
-      "forks": 3999,
+      "stars": 11478,
+      "forks": 4001,
       "delta_stars": 217,
       "url": "https://github.com/betaflight/betaflight"
     },
@@ -233,8 +233,8 @@
       "description": "General purpose TLS and crypto library",
       "language": "C",
       "language_color": "#555555",
-      "stars": 30712,
-      "forks": 11420,
+      "stars": 30717,
+      "forks": 11423,
       "delta_stars": 228,
       "url": "https://github.com/openssl/openssl"
     },
@@ -246,7 +246,7 @@
       "description": "Disk encryption with strong security based on TrueCrypt",
       "language": "C",
       "language_color": "#555555",
-      "stars": 11473,
+      "stars": 11482,
       "forks": 1325,
       "delta_stars": 624,
       "url": "https://github.com/veracrypt/VeraCrypt"
@@ -272,8 +272,8 @@
       "description": "Audio playback and capture library written in C, in a single source file.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 7198,
-      "forks": 600,
+      "stars": 7205,
+      "forks": 599,
       "delta_stars": 152,
       "url": "https://github.com/mackron/miniaudio"
     }

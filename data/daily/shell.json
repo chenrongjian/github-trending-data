@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:36:12.761Z",
+  "generated_at": "2026-08-29T19:26:32.009Z",
   "since": "daily",
   "language": "shell",
   "count": 15,
@@ -12,9 +12,9 @@
       "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 4306,
-      "forks": 725,
-      "delta_stars": 114,
+      "stars": 4322,
+      "forks": 727,
+      "delta_stars": 23,
       "url": "https://github.com/llm-d/llm-d"
     },
     {
@@ -25,9 +25,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 279060,
-      "forks": 24990,
-      "delta_stars": 487,
+      "stars": 279338,
+      "forks": 25014,
+      "delta_stars": 358,
       "url": "https://github.com/obra/superpowers"
     },
     {
@@ -38,33 +38,33 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 240218,
-      "forks": 20426,
-      "delta_stars": 1218,
+      "stars": 240887,
+      "forks": 20483,
+      "delta_stars": 859,
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "rank": 4,
-      "owner": "basecamp",
+      "owner": "omacom",
       "name": "omarchy",
-      "full_name": "basecamp/omarchy",
+      "full_name": "omacom/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 33485,
-      "forks": 3469,
-      "delta_stars": 561,
-      "url": "https://github.com/basecamp/omarchy"
+      "stars": 34614,
+      "forks": 3557,
+      "delta_stars": 1443,
+      "url": "https://github.com/omacom/omarchy"
     },
     {
       "rank": 5,
       "owner": "StressOzz",
       "name": "Zapret-Manager",
       "full_name": "StressOzz/Zapret-Manager",
-      "description": "Универсальный менеджер для обхода блокировок на OpenWrt",
+      "description": "Универсальный менеджер для обхода блокировок на OpenWrt https://t.me/stressozz_manager",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 1755,
+      "stars": 1764,
       "forks": 74,
       "delta_stars": 10,
       "url": "https://github.com/StressOzz/Zapret-Manager"
@@ -77,9 +77,9 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 94771,
-      "forks": 10398,
-      "delta_stars": 13,
+      "stars": 94776,
+      "forks": 10400,
+      "delta_stars": 12,
       "url": "https://github.com/nvm-sh/nvm"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 11160,
-      "forks": 2185,
-      "delta_stars": 65,
+      "stars": 11165,
+      "forks": 2187,
+      "delta_stars": 10,
       "url": "https://github.com/1N3/Sn1per"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Official agent plugin providing skills and MCP server configurations for Azure scenarios.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 1430,
-      "forks": 239,
-      "delta_stars": 9,
+      "stars": 1431,
+      "forks": 240,
+      "delta_stars": 3,
       "url": "https://github.com/microsoft/azure-skills"
     },
     {
@@ -116,9 +116,9 @@
       "description": "🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 52 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 20047,
-      "forks": 3251,
-      "delta_stars": 35,
+      "stars": 20078,
+      "forks": 3254,
+      "delta_stars": 33,
       "url": "https://github.com/jnMetaCode/agency-agents-zh"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Padrões de commits",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 9643,
-      "forks": 1402,
-      "delta_stars": 5,
+      "stars": 9646,
+      "forks": 1401,
+      "delta_stars": 3,
       "url": "https://github.com/iuricode/padroes-de-commits"
     },
     {
@@ -142,8 +142,8 @@
       "description": "Burpsuite Professional Latest Version 2026",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 2987,
-      "forks": 706,
+      "stars": 2998,
+      "forks": 708,
       "delta_stars": 10,
       "url": "https://github.com/xiv3r/Burpsuite-Professional"
     },
@@ -155,9 +155,9 @@
       "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 25532,
+      "stars": 25542,
       "forks": 2590,
-      "delta_stars": 14,
+      "delta_stars": 11,
       "url": "https://github.com/a2aproject/A2A"
     },
     {
@@ -168,9 +168,9 @@
       "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 62306,
-      "forks": 12308,
-      "delta_stars": 11,
+      "stars": 62315,
+      "forks": 12307,
+      "delta_stars": 10,
       "url": "https://github.com/youngyangyang04/leetcode-master"
     },
     {
@@ -181,8 +181,8 @@
       "description": "binary releases of VS Code without MS branding/telemetry/licensing",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 33008,
-      "forks": 1854,
+      "stars": 33018,
+      "forks": 1853,
       "delta_stars": 10,
       "url": "https://github.com/VSCodium/vscodium"
     },
@@ -194,9 +194,9 @@
       "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 6714,
-      "forks": 811,
-      "delta_stars": 14,
+      "stars": 6724,
+      "forks": 812,
+      "delta_stars": 13,
       "url": "https://github.com/deanpeters/Product-Manager-Skills"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:36:12.761Z",
+  "generated_at": "2026-08-29T19:26:32.009Z",
   "since": "monthly",
   "language": "php",
   "count": 24,
@@ -25,8 +25,8 @@
       "description": "Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 4950,
-      "forks": 838,
+      "stars": 4952,
+      "forks": 839,
       "delta_stars": 110,
       "url": "https://github.com/kimai/kimai"
     },
@@ -38,7 +38,7 @@
       "description": "EspoCRM – Open Source CRM Application",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 3305,
+      "stars": 3310,
       "forks": 959,
       "delta_stars": 138,
       "url": "https://github.com/espocrm/espocrm"
@@ -51,8 +51,8 @@
       "description": "Firefly III: a personal finances manager",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 24446,
-      "forks": 2272,
+      "stars": 24454,
+      "forks": 2271,
       "delta_stars": 344,
       "url": "https://github.com/firefly-iii/firefly-iii"
     },
@@ -65,7 +65,7 @@
       "language": "PHP",
       "language_color": "#4F5D95",
       "stars": 9187,
-      "forks": 2663,
+      "forks": 2662,
       "delta_stars": 130,
       "url": "https://github.com/pterodactyl/panel"
     },
@@ -77,8 +77,8 @@
       "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 73140,
-      "forks": 25103,
+      "stars": 73153,
+      "forks": 25104,
       "delta_stars": 802,
       "url": "https://github.com/danielmiessler/SecLists"
     },
@@ -90,8 +90,8 @@
       "description": "The Symfony PHP framework",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 31137,
-      "forks": 9856,
+      "stars": 31138,
+      "forks": 9858,
       "delta_stars": 61,
       "url": "https://github.com/symfony/symfony"
     },
@@ -103,7 +103,7 @@
       "description": "A free, self-hostable news aggregator…",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 15860,
+      "stars": 15872,
       "forks": 1260,
       "delta_stars": 269,
       "url": "https://github.com/FreshRSS/FreshRSS"
@@ -116,7 +116,7 @@
       "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 6273,
+      "stars": 6275,
       "forks": 1789,
       "delta_stars": 112,
       "url": "https://github.com/glpi-project/glpi"
@@ -129,8 +129,8 @@
       "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 25129,
-      "forks": 2597,
+      "stars": 25135,
+      "forks": 2598,
       "delta_stars": 246,
       "url": "https://github.com/monicahq/monica"
     },
@@ -142,7 +142,7 @@
       "description": "《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 16690,
+      "stars": 16696,
       "forks": 1898,
       "delta_stars": 432,
       "url": "https://github.com/easychen/opc-methodology"
@@ -155,8 +155,8 @@
       "description": "SuiteCRM - Open source CRM for the world",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 5703,
-      "forks": 2411,
+      "stars": 5704,
+      "forks": 2412,
       "delta_stars": 113,
       "url": "https://github.com/SuiteCRM/SuiteCRM"
     },
@@ -194,7 +194,7 @@
       "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 21825,
+      "stars": 21827,
       "forks": 2894,
       "delta_stars": 133,
       "url": "https://github.com/matomo-org/matomo"
@@ -207,7 +207,7 @@
       "description": "A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 8573,
+      "stars": 8576,
       "forks": 1029,
       "delta_stars": 103,
       "url": "https://github.com/PrivateBin/PrivateBin"
@@ -221,7 +221,7 @@
       "language": "PHP",
       "language_color": "#4F5D95",
       "stars": 3424,
-      "forks": 3649,
+      "forks": 3648,
       "delta_stars": 41,
       "url": "https://github.com/WordPress/wordpress-develop"
     },
@@ -233,8 +233,8 @@
       "description": "The elegant testing framework for PHP developers and AI agents.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 11691,
-      "forks": 528,
+      "stars": 11692,
+      "forks": 529,
       "delta_stars": 104,
       "url": "https://github.com/pestphp/pest"
     },
@@ -246,8 +246,8 @@
       "description": "☁️ Nextcloud server, a safe home for all your data",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 36610,
-      "forks": 5143,
+      "stars": 36625,
+      "forks": 5145,
       "delta_stars": 406,
       "url": "https://github.com/nextcloud/server"
     },
@@ -260,7 +260,7 @@
       "language": "PHP",
       "language_color": "#4F5D95",
       "stars": 7138,
-      "forks": 1776,
+      "forks": 1778,
       "delta_stars": 54,
       "url": "https://github.com/roundcube/roundcubemail"
     },
@@ -273,7 +273,7 @@
       "language": "PHP",
       "language_color": "#4F5D95",
       "stars": 3500,
-      "forks": 888,
+      "forks": 889,
       "delta_stars": 35,
       "url": "https://github.com/danog/MadelineProto"
     },
@@ -285,8 +285,8 @@
       "description": "Dependency Manager for PHP",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 29505,
-      "forks": 4830,
+      "stars": 29507,
+      "forks": 4829,
       "delta_stars": 36,
       "url": "https://github.com/composer/composer"
     },
@@ -298,7 +298,7 @@
       "description": "A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 4011,
+      "stars": 4014,
       "forks": 745,
       "delta_stars": 58,
       "url": "https://github.com/AzuraCast/AzuraCast"

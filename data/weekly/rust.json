@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:36:12.761Z",
+  "generated_at": "2026-08-29T19:26:32.009Z",
   "since": "weekly",
   "language": "rust",
   "count": 16,
@@ -12,8 +12,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 119564,
-      "forks": 18252,
+      "stars": 119783,
+      "forks": 18301,
       "delta_stars": 9109,
       "url": "https://github.com/openai/codex"
     },
@@ -25,8 +25,8 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 17410,
-      "forks": 499,
+      "stars": 17598,
+      "forks": 509,
       "delta_stars": 4825,
       "url": "https://github.com/AprilNEA/OpenLogi"
     },
@@ -38,8 +38,8 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 38724,
-      "forks": 3802,
+      "stars": 38829,
+      "forks": 3814,
       "delta_stars": 2353,
       "url": "https://github.com/tinyhumansai/openhuman"
     },
@@ -51,8 +51,8 @@
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 28030,
-      "forks": 3619,
+      "stars": 28089,
+      "forks": 3628,
       "delta_stars": 1100,
       "url": "https://github.com/nautechsystems/nautilus_trader"
     },
@@ -64,8 +64,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 5082,
-      "forks": 353,
+      "stars": 5118,
+      "forks": 354,
       "delta_stars": 1223,
       "url": "https://github.com/akitaonrails/ai-memory"
     },
@@ -77,8 +77,8 @@
       "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 4180,
-      "forks": 360,
+      "stars": 4203,
+      "forks": 362,
       "delta_stars": 271,
       "url": "https://github.com/xingkongliang/skills-manager"
     },
@@ -90,8 +90,8 @@
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 34456,
-      "forks": 2155,
+      "stars": 34491,
+      "forks": 2160,
       "delta_stars": 1063,
       "url": "https://github.com/AlexsJones/llmfit"
     },
@@ -103,8 +103,8 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 66433,
-      "forks": 3161,
+      "stars": 66468,
+      "forks": 3163,
       "delta_stars": 698,
       "url": "https://github.com/dani-garcia/vaultwarden"
     },
@@ -116,7 +116,7 @@
       "description": "An idiomatic, lean, fast & safe pure Rust implementation of Git",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 11884,
+      "stars": 11891,
       "forks": 538,
       "delta_stars": 90,
       "url": "https://github.com/GitoxideLabs/gitoxide"
@@ -129,8 +129,8 @@
       "description": "⚓ A collection of high-performance JavaScript tools.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 22542,
-      "forks": 1245,
+      "stars": 22549,
+      "forks": 1248,
       "delta_stars": 138,
       "url": "https://github.com/oxc-project/oxc"
     },
@@ -142,7 +142,7 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 13586,
+      "stars": 13595,
       "forks": 822,
       "delta_stars": 293,
       "url": "https://github.com/longbridge/gpui-component"
@@ -155,7 +155,7 @@
       "description": "⭐️ A friendly language for building type-safe, scalable systems!",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 21833,
+      "stars": 21839,
       "forks": 1009,
       "delta_stars": 84,
       "url": "https://github.com/gleam-lang/gleam"
@@ -168,8 +168,8 @@
       "description": "RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 4464,
-      "forks": 590,
+      "stars": 4467,
+      "forks": 591,
       "delta_stars": 25,
       "url": "https://github.com/ruvnet/RuVector"
     },
@@ -181,7 +181,7 @@
       "description": "Immersive AI-driven Galgame chat with emotional expressions, desktop pet, scheduling, and interactive story modules. / 一款沉浸式 AI-Galgame 聊天软件，附带桌宠，日程，剧情功能",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 1967,
+      "stars": 1989,
       "forks": 118,
       "delta_stars": 261,
       "url": "https://github.com/SlimeBoyOwO/LingChat"
@@ -194,7 +194,7 @@
       "description": "cursor-byok is a local implementation of Cursor's backend. https://docs.leokun.cn/",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 2576,
+      "stars": 2593,
       "forks": 405,
       "delta_stars": 147,
       "url": "https://github.com/leookun/cursor-byok"
@@ -207,7 +207,7 @@
       "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 11307,
+      "stars": 11313,
       "forks": 1032,
       "delta_stars": 78,
       "url": "https://github.com/lancedb/lancedb"

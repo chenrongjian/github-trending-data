@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:36:12.761Z",
+  "generated_at": "2026-08-29T19:26:32.009Z",
   "since": "daily",
   "language": "java",
   "count": 24,
@@ -12,9 +12,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 73334,
-      "forks": 8012,
-      "delta_stars": 191,
+      "stars": 73608,
+      "forks": 8032,
+      "delta_stars": 375,
       "url": "https://github.com/NationalSecurityAgency/ghidra"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Telegram for Android source",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 29793,
-      "forks": 9990,
-      "delta_stars": 6,
+      "stars": 29796,
+      "forks": 9992,
+      "delta_stars": 5,
       "url": "https://github.com/DrKLO/Telegram"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 77877,
-      "forks": 26065,
-      "delta_stars": 9,
+      "stars": 77876,
+      "forks": 26064,
+      "delta_stars": 5,
       "url": "https://github.com/elastic/elasticsearch"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 3590,
-      "forks": 116,
-      "delta_stars": 23,
+      "stars": 3599,
+      "forks": 115,
+      "delta_stars": 9,
       "url": "https://github.com/bethington/ghidra-mcp"
     },
     {
@@ -64,9 +64,9 @@
       "description": "A browser automation framework and ecosystem.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 34416,
-      "forks": 8718,
-      "delta_stars": 7,
+      "stars": 34423,
+      "forks": 8719,
+      "delta_stars": 14,
       "url": "https://github.com/SeleniumHQ/selenium"
     },
     {
@@ -77,9 +77,9 @@
       "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 26696,
+      "stars": 26701,
       "forks": 7667,
-      "delta_stars": 2,
+      "delta_stars": 11,
       "url": "https://github.com/OpenAPITools/openapi-generator"
     },
     {
@@ -90,9 +90,9 @@
       "description": "morphe patches for twitter and instagram",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 4944,
+      "stars": 4963,
       "forks": 185,
-      "delta_stars": 19,
+      "delta_stars": 20,
       "url": "https://github.com/crimera/piko"
     },
     {
@@ -103,9 +103,9 @@
       "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 90857,
-      "forks": 8238,
-      "delta_stars": 141,
+      "stars": 90899,
+      "forks": 8242,
+      "delta_stars": 63,
       "url": "https://github.com/Stirling-Tools/Stirling-PDF"
     },
     {
@@ -116,8 +116,8 @@
       "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 27944,
-      "forks": 2952,
+      "stars": 27951,
+      "forks": 2953,
       "delta_stars": 8,
       "url": "https://github.com/kestra-io/kestra"
     },
@@ -129,9 +129,9 @@
       "description": "OpenRefine is a free, open source power tool for working with messy data and improving it",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 11968,
+      "stars": 11976,
       "forks": 2165,
-      "delta_stars": 5,
+      "delta_stars": 15,
       "url": "https://github.com/OpenRefine/OpenRefine"
     },
     {
@@ -143,8 +143,8 @@
       "language": "Java",
       "language_color": "#b07219",
       "stars": 26302,
-      "forks": 14013,
-      "delta_stars": 7,
+      "forks": 14014,
+      "delta_stars": 2,
       "url": "https://github.com/apache/flink"
     },
     {
@@ -155,9 +155,9 @@
       "description": "【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 47522,
-      "forks": 16171,
-      "delta_stars": 32,
+      "stars": 47539,
+      "forks": 16172,
+      "delta_stars": 20,
       "url": "https://github.com/jeecgboot/JeecgBoot"
     },
     {
@@ -168,9 +168,9 @@
       "description": "一款真正的 AI 报表诞生了！JimuChatBI —— 首款免费开源对话式智能数据分析产品（Chat2BI）。 一句话生成报表和数据大屏，支持对话式 AI 修改优化；类 Excel 在线报表设计，兼容国产信创数据源。 对着 AI 说句话，报表就出来了——表格、图表、分组汇总自动生成，复杂报表场景轻松应对。想做数据大屏？同样一句话搞定，让数据分析进入 AI 时代。",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 8264,
+      "stars": 8280,
       "forks": 1873,
-      "delta_stars": 17,
+      "delta_stars": 12,
       "url": "https://github.com/jeecgboot/jimureport"
     },
     {
@@ -181,9 +181,9 @@
       "description": "Google core libraries for Java",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 51896,
+      "stars": 51895,
       "forks": 11194,
-      "delta_stars": 4,
+      "delta_stars": 2,
       "url": "https://github.com/google/guava"
     },
     {
@@ -194,9 +194,9 @@
       "description": "Agentic AI Framework for Java Developers",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 10739,
+      "stars": 10742,
       "forks": 2380,
-      "delta_stars": 13,
+      "delta_stars": 6,
       "url": "https://github.com/alibaba/spring-ai-alibaba"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 37503,
+      "stars": 37502,
       "forks": 7644,
-      "delta_stars": 4,
+      "delta_stars": 0,
       "url": "https://github.com/alibaba/arthas"
     },
     {
@@ -220,9 +220,9 @@
       "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 4911,
+      "stars": 4917,
       "forks": 802,
-      "delta_stars": 18,
+      "delta_stars": 9,
       "url": "https://github.com/iflytek/skillhub"
     },
     {
@@ -233,9 +233,9 @@
       "description": "An Application Framework for AI Engineering",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 9373,
+      "stars": 9375,
       "forks": 2860,
-      "delta_stars": 5,
+      "delta_stars": 3,
       "url": "https://github.com/spring-projects/spring-ai"
     },
     {
@@ -246,9 +246,9 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 41011,
-      "forks": 8692,
-      "delta_stars": 24,
+      "stars": 41030,
+      "forks": 8691,
+      "delta_stars": 23,
       "url": "https://github.com/ashishps1/awesome-system-design-resources"
     },
     {
@@ -259,9 +259,9 @@
       "description": "Jetbrains Claude Code and Codex GUI Plugin",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 5643,
-      "forks": 631,
-      "delta_stars": 12,
+      "stars": 5648,
+      "forks": 632,
+      "delta_stars": 6,
       "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui"
     },
     {
@@ -272,9 +272,9 @@
       "description": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 12050,
-      "forks": 2550,
-      "delta_stars": 5,
+      "stars": 12056,
+      "forks": 2551,
+      "delta_stars": 6,
       "url": "https://github.com/StarRocks/starrocks"
     },
     {
@@ -285,9 +285,9 @@
       "description": "Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 22571,
-      "forks": 11995,
-      "delta_stars": 1,
+      "stars": 22573,
+      "forks": 11996,
+      "delta_stars": 2,
       "url": "https://github.com/apache/rocketmq"
     },
     {
@@ -300,7 +300,7 @@
       "language_color": "#b07219",
       "stars": 48208,
       "forks": 7591,
-      "delta_stars": 1,
+      "delta_stars": 2,
       "url": "https://github.com/ReactiveX/RxJava"
     },
     {
@@ -311,9 +311,9 @@
       "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 33318,
+      "stars": 33321,
       "forks": 13284,
-      "delta_stars": 5,
+      "delta_stars": 3,
       "url": "https://github.com/alibaba/nacos"
     }
   ]

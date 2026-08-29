@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:36:12.761Z",
+  "generated_at": "2026-08-29T19:26:32.009Z",
   "since": "daily",
   "language": "typescript",
   "count": 18,
@@ -12,9 +12,9 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 46156,
-      "forks": 5101,
-      "delta_stars": 202,
+      "stars": 46371,
+      "forks": 5112,
+      "delta_stars": 273,
       "url": "https://github.com/abhigyanpatwari/GitNexus"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 5954,
-      "forks": 478,
-      "delta_stars": 246,
+      "stars": 6136,
+      "forks": 485,
+      "delta_stars": 257,
       "url": "https://github.com/cursor/plugins"
     },
     {
@@ -38,9 +38,9 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 21609,
-      "forks": 3060,
-      "delta_stars": 433,
+      "stars": 22162,
+      "forks": 3102,
+      "delta_stars": 612,
       "url": "https://github.com/tashfeenahmed/freellmapi"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 49966,
-      "forks": 3502,
-      "delta_stars": 67,
+      "stars": 50150,
+      "forks": 3517,
+      "delta_stars": 215,
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
     {
@@ -64,9 +64,9 @@
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 55805,
-      "forks": 8790,
-      "delta_stars": 103,
+      "stars": 55846,
+      "forks": 8810,
+      "delta_stars": 58,
       "url": "https://github.com/twentyhq/twenty"
     },
     {
@@ -77,9 +77,9 @@
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 87772,
-      "forks": 8660,
-      "delta_stars": 512,
+      "stars": 87883,
+      "forks": 8666,
+      "delta_stars": 157,
       "url": "https://github.com/OpenCut-app/OpenCut"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 365786,
-      "forks": 44876,
-      "delta_stars": 134,
+      "stars": 365850,
+      "forks": 44880,
+      "delta_stars": 79,
       "url": "https://github.com/nilbuild/developer-roadmap"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 84695,
-      "forks": 12716,
-      "delta_stars": 151,
+      "stars": 84869,
+      "forks": 12752,
+      "delta_stars": 168,
       "url": "https://github.com/koala73/worldmonitor"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Action for checking out a repo",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 8776,
-      "forks": 2752,
-      "delta_stars": 104,
+      "stars": 8779,
+      "forks": 2754,
+      "delta_stars": 5,
       "url": "https://github.com/actions/checkout"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 24654,
-      "forks": 2028,
-      "delta_stars": 49,
+      "stars": 24670,
+      "forks": 2031,
+      "delta_stars": 26,
       "url": "https://github.com/EveryInc/compound-engineering-plugin"
     },
     {
@@ -142,9 +142,9 @@
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 85473,
-      "forks": 11180,
-      "delta_stars": 166,
+      "stars": 85562,
+      "forks": 11201,
+      "delta_stars": 122,
       "url": "https://github.com/OpenHands/OpenHands"
     },
     {
@@ -155,9 +155,9 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 57553,
-      "forks": 7923,
-      "delta_stars": 656,
+      "stars": 58002,
+      "forks": 8005,
+      "delta_stars": 565,
       "url": "https://github.com/diegosouzapw/OmniRoute"
     },
     {
@@ -168,9 +168,9 @@
       "description": "Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source alternative.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 1468,
-      "forks": 153,
-      "delta_stars": 39,
+      "stars": 1482,
+      "forks": 154,
+      "delta_stars": 26,
       "url": "https://github.com/NeoLabHQ/context-engineering-kit"
     },
     {
@@ -181,9 +181,9 @@
       "description": "Self-hostable CRM template for WhatsApp — shared inbox, contacts, sales pipelines, broadcasts, and no-code automations. Fork it, brand it, host it.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 2138,
-      "forks": 5575,
-      "delta_stars": 43,
+      "stars": 2152,
+      "forks": 5601,
+      "delta_stars": 17,
       "url": "https://github.com/ArnasDon/wacrm"
     },
     {
@@ -194,9 +194,9 @@
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 27681,
-      "forks": 2385,
-      "delta_stars": 77,
+      "stars": 27728,
+      "forks": 2392,
+      "delta_stars": 60,
       "url": "https://github.com/rohitg00/agentmemory"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Agenta is a workspace where you and your team build agents and automations.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 4624,
+      "stars": 4643,
       "forks": 649,
-      "delta_stars": 18,
+      "delta_stars": 63,
       "url": "https://github.com/Agenta-AI/agenta"
     },
     {
@@ -220,9 +220,9 @@
       "description": "Where people and agents build in tune.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 3580,
-      "forks": 360,
-      "delta_stars": 75,
+      "stars": 3610,
+      "forks": 364,
+      "delta_stars": 36,
       "url": "https://github.com/tutti-os/tutti"
     },
     {
@@ -233,9 +233,9 @@
       "description": "A slide framework built for agents.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 7251,
-      "forks": 514,
-      "delta_stars": 75,
+      "stars": 7289,
+      "forks": 517,
+      "delta_stars": 45,
       "url": "https://github.com/1weiho/open-slide"
     }
   ]

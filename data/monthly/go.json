@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:36:12.761Z",
+  "generated_at": "2026-08-29T19:26:32.009Z",
   "since": "monthly",
   "language": "go",
   "count": 22,
@@ -12,8 +12,8 @@
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 35235,
-      "forks": 2355,
+      "stars": 35241,
+      "forks": 2356,
       "delta_stars": 7918,
       "url": "https://github.com/esengine/DeepSeek-Reasonix"
     },
@@ -25,7 +25,7 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 1641,
+      "stars": 1643,
       "forks": 278,
       "delta_stars": 761,
       "url": "https://github.com/agent-substrate/substrate"
@@ -38,8 +38,8 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 26688,
-      "forks": 1801,
+      "stars": 26705,
+      "forks": 1802,
       "delta_stars": 1064,
       "url": "https://github.com/gastownhall/beads"
     },
@@ -51,8 +51,8 @@
       "description": "The open source control plane for agentic engineering.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 5551,
-      "forks": 617,
+      "stars": 5579,
+      "forks": 620,
       "delta_stars": 1306,
       "url": "https://github.com/superplanehq/superplane"
     },
@@ -64,8 +64,8 @@
       "description": "The Cloud Native Application Proxy",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 64636,
-      "forks": 6169,
+      "stars": 64652,
+      "forks": 6173,
       "delta_stars": 601,
       "url": "https://github.com/traefik/traefik"
     },
@@ -77,8 +77,8 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 46049,
-      "forks": 8927,
+      "stars": 46063,
+      "forks": 8930,
       "delta_stars": 705,
       "url": "https://github.com/cli/cli"
     },
@@ -90,8 +90,8 @@
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 75296,
-      "forks": 4921,
+      "stars": 75319,
+      "forks": 4927,
       "delta_stars": 998,
       "url": "https://github.com/caddyserver/caddy"
     },
@@ -103,8 +103,8 @@
       "description": "Information gathering framework for phone numbers",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 17674,
-      "forks": 5685,
+      "stars": 17686,
+      "forks": 5693,
       "delta_stars": 535,
       "url": "https://github.com/sundowndev/phoneinfoga"
     },
@@ -116,8 +116,8 @@
       "description": "Find secrets with Gitleaks 🔑",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 28997,
-      "forks": 2221,
+      "stars": 29008,
+      "forks": 2225,
       "delta_stars": 695,
       "url": "https://github.com/gitleaks/gitleaks"
     },
@@ -129,7 +129,7 @@
       "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 11700,
+      "stars": 11703,
       "forks": 1015,
       "delta_stars": 156,
       "url": "https://github.com/kubescape/kubescape"
@@ -142,7 +142,7 @@
       "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 24805,
+      "stars": 24826,
       "forks": 979,
       "delta_stars": 1046,
       "url": "https://github.com/henrygd/beszel"
@@ -155,7 +155,7 @@
       "description": "Workflow Engine for Kubernetes",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 16945,
+      "stars": 16944,
       "forks": 3633,
       "delta_stars": 101,
       "url": "https://github.com/argoproj/argo-workflows"
@@ -168,7 +168,7 @@
       "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 28732,
+      "stars": 28740,
       "forks": 1474,
       "delta_stars": 383,
       "url": "https://github.com/authelia/authelia"
@@ -181,8 +181,8 @@
       "description": "A fast, cross-platform build tool inspired by Make, designed for modern workflows.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 16068,
-      "forks": 895,
+      "stars": 16070,
+      "forks": 894,
       "delta_stars": 202,
       "url": "https://github.com/go-task/task"
     },
@@ -194,7 +194,7 @@
       "description": "VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 15322,
+      "stars": 15333,
       "forks": 613,
       "delta_stars": 358,
       "url": "https://github.com/passteque/gluetun"
@@ -207,8 +207,8 @@
       "description": "Your own search engine",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 3186,
-      "forks": 145,
+      "stars": 3267,
+      "forks": 150,
       "delta_stars": 1505,
       "url": "https://github.com/asciimoo/hister"
     },
@@ -220,7 +220,7 @@
       "description": "📂 Web File Browser",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 7933,
+      "stars": 7934,
       "forks": 422,
       "delta_stars": 413,
       "url": "https://github.com/gtsteffaniak/filebrowser"
@@ -233,8 +233,8 @@
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 48136,
-      "forks": 6181,
+      "stars": 48231,
+      "forks": 6198,
       "delta_stars": 6017,
       "url": "https://github.com/multica-ai/multica"
     },
@@ -246,8 +246,8 @@
       "description": "Ultimate camera streaming application",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 14059,
-      "forks": 1287,
+      "stars": 14061,
+      "forks": 1288,
       "delta_stars": 521,
       "url": "https://github.com/AlexxIT/go2rtc"
     },
@@ -259,8 +259,8 @@
       "description": "Kubernetes-native Job Queueing",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 2914,
-      "forks": 771,
+      "stars": 2916,
+      "forks": 770,
       "delta_stars": 162,
       "url": "https://github.com/kubernetes-sigs/kueue"
     },
@@ -272,7 +272,7 @@
       "description": "Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 7304,
+      "stars": 7311,
       "forks": 879,
       "delta_stars": 153,
       "url": "https://github.com/flyteorg/flyte"
@@ -285,8 +285,8 @@
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 89535,
-      "forks": 10546,
+      "stars": 89589,
+      "forks": 10560,
       "delta_stars": 3498,
       "url": "https://github.com/infiniflow/ragflow"
     }

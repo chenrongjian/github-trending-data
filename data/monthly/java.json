@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:36:12.761Z",
+  "generated_at": "2026-08-29T19:26:32.009Z",
   "since": "monthly",
   "language": "java",
   "count": 20,
@@ -12,8 +12,8 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 59941,
-      "forks": 7347,
+      "stars": 59974,
+      "forks": 7355,
       "delta_stars": 1848,
       "url": "https://github.com/termux/termux-app"
     },
@@ -25,8 +25,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 73334,
-      "forks": 8012,
+      "stars": 73608,
+      "forks": 8032,
       "delta_stars": 1804,
       "url": "https://github.com/NationalSecurityAgency/ghidra"
     },
@@ -38,7 +38,7 @@
       "description": "Magic tool for pentest from your android device!",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 1377,
+      "stars": 1382,
       "forks": 199,
       "delta_stars": 304,
       "url": "https://github.com/zalexdev/strykerapp"
@@ -51,8 +51,8 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 39517,
-      "forks": 3759,
+      "stars": 39523,
+      "forks": 3760,
       "delta_stars": 458,
       "url": "https://github.com/TeamNewPipe/NewPipe"
     },
@@ -64,8 +64,8 @@
       "description": "The API and the developer guide for Shizuku and Sui.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 2492,
-      "forks": 1109,
+      "stars": 2494,
+      "forks": 1111,
       "delta_stars": 120,
       "url": "https://github.com/RikkaApps/Shizuku-API"
     },
@@ -77,8 +77,8 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 36474,
-      "forks": 8860,
+      "stars": 36480,
+      "forks": 8863,
       "delta_stars": 639,
       "url": "https://github.com/keycloak/keycloak"
     },
@@ -90,7 +90,7 @@
       "description": "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 5043,
+      "stars": 5046,
       "forks": 1628,
       "delta_stars": 132,
       "url": "https://github.com/karma9874/AndroRAT"
@@ -103,8 +103,8 @@
       "description": "No-root network monitor, firewall and PCAP dumper for Android",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 4619,
-      "forks": 534,
+      "stars": 4621,
+      "forks": 536,
       "delta_stars": 334,
       "url": "https://github.com/emanuele-f/PCAPdroid"
     },
@@ -116,8 +116,8 @@
       "description": "Telegram for Android source",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 29793,
-      "forks": 9990,
+      "stars": 29796,
+      "forks": 9992,
       "delta_stars": 246,
       "url": "https://github.com/DrKLO/Telegram"
     },
@@ -142,8 +142,8 @@
       "description": "JDK main-line development https://openjdk.org/projects/jdk",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 23278,
-      "forks": 6430,
+      "stars": 23280,
+      "forks": 6432,
       "delta_stars": 164,
       "url": "https://github.com/openjdk/jdk"
     },
@@ -155,7 +155,7 @@
       "description": "morphe patches for twitter and instagram",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 4944,
+      "stars": 4963,
       "forks": 185,
       "delta_stars": 498,
       "url": "https://github.com/crimera/piko"
@@ -181,8 +181,8 @@
       "description": "Free universal database tool and SQL client",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 51575,
-      "forks": 4360,
+      "stars": 51586,
+      "forks": 4363,
       "delta_stars": 501,
       "url": "https://github.com/dbeaver/dbeaver"
     },
@@ -194,7 +194,7 @@
       "description": "a fast, scalable, multi-language and extensible build system",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 25773,
+      "stars": 25775,
       "forks": 4584,
       "delta_stars": 143,
       "url": "https://github.com/bazelbuild/bazel"
@@ -207,8 +207,8 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 41011,
-      "forks": 8692,
+      "stars": 41030,
+      "forks": 8691,
       "delta_stars": 1081,
       "url": "https://github.com/ashishps1/awesome-system-design-resources"
     },
@@ -220,8 +220,8 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 26450,
-      "forks": 6416,
+      "stars": 26468,
+      "forks": 6420,
       "delta_stars": 765,
       "url": "https://github.com/ashishps1/awesome-low-level-design"
     },
@@ -233,7 +233,7 @@
       "description": "BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 996,
+      "stars": 1001,
       "forks": 75,
       "delta_stars": 335,
       "url": "https://github.com/booklore-app/booklore"
@@ -247,7 +247,7 @@
       "language": "Java",
       "language_color": "#b07219",
       "stars": 3074,
-      "forks": 625,
+      "forks": 626,
       "delta_stars": 58,
       "url": "https://github.com/AndroidIDEOfficial/AndroidIDE"
     },
@@ -259,8 +259,8 @@
       "description": "Apache Kafka - A distributed event streaming platform",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 33639,
-      "forks": 15464,
+      "stars": 33640,
+      "forks": 15468,
       "delta_stars": 430,
       "url": "https://github.com/apache/kafka"
     }

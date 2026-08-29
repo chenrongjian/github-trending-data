@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:36:12.761Z",
+  "generated_at": "2026-08-29T19:26:32.009Z",
   "since": "daily",
   "language": "go",
   "count": 19,
@@ -12,9 +12,9 @@
       "description": "Help AI coding agents write modern Go",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 2595,
-      "forks": 78,
-      "delta_stars": 574,
+      "stars": 2830,
+      "forks": 81,
+      "delta_stars": 294,
       "url": "https://github.com/JetBrains/go-modern-guidelines"
     },
     {
@@ -25,9 +25,9 @@
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 2691,
-      "forks": 71,
-      "delta_stars": 965,
+      "stars": 3379,
+      "forks": 96,
+      "delta_stars": 790,
       "url": "https://github.com/tailscale/tailcat"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 2441,
-      "forks": 72,
-      "delta_stars": 693,
+      "stars": 2598,
+      "forks": 75,
+      "delta_stars": 284,
       "url": "https://github.com/workweave/router"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 22132,
-      "forks": 2946,
-      "delta_stars": 68,
+      "stars": 22166,
+      "forks": 2951,
+      "delta_stars": 45,
       "url": "https://github.com/vxcontrol/pentagi"
     },
     {
@@ -64,9 +64,9 @@
       "description": "OpenTelemetry Collector distribution with programmable pipelines",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 3481,
-      "forks": 695,
-      "delta_stars": 4,
+      "stars": 3486,
+      "forks": 696,
+      "delta_stars": 6,
       "url": "https://github.com/grafana/alloy"
     },
     {
@@ -77,9 +77,9 @@
       "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 5386,
-      "forks": 851,
-      "delta_stars": 41,
+      "stars": 5405,
+      "forks": 853,
+      "delta_stars": 27,
       "url": "https://github.com/vllm-project/semantic-router"
     },
     {
@@ -90,9 +90,9 @@
       "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 46701,
-      "forks": 11093,
-      "delta_stars": 110,
+      "stars": 46743,
+      "forks": 11117,
+      "delta_stars": 50,
       "url": "https://github.com/QuantumNous/new-api"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 45853,
-      "forks": 4206,
-      "delta_stars": 26,
+      "stars": 45874,
+      "forks": 4210,
+      "delta_stars": 24,
       "url": "https://github.com/milvus-io/milvus"
     },
     {
@@ -116,9 +116,9 @@
       "description": "The Cloud Native Application Proxy",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 64636,
-      "forks": 6169,
-      "delta_stars": 15,
+      "stars": 64652,
+      "forks": 6173,
+      "delta_stars": 16,
       "url": "https://github.com/traefik/traefik"
     },
     {
@@ -129,9 +129,9 @@
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 35710,
-      "forks": 3121,
-      "delta_stars": 44,
+      "stars": 35766,
+      "forks": 3128,
+      "delta_stars": 64,
       "url": "https://github.com/tailscale/tailscale"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Application Kernel for Containers",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 19184,
-      "forks": 1947,
-      "delta_stars": 14,
+      "stars": 19189,
+      "forks": 1951,
+      "delta_stars": 9,
       "url": "https://github.com/google/gvisor"
     },
     {
@@ -155,9 +155,9 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 37678,
-      "forks": 636,
-      "delta_stars": 22,
+      "stars": 37690,
+      "forks": 639,
+      "delta_stars": 16,
       "url": "https://github.com/aquasecurity/trivy"
     },
     {
@@ -168,9 +168,9 @@
       "description": "A self-hosted dashboard that puts all your feeds in one place",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 36680,
-      "forks": 1440,
-      "delta_stars": 22,
+      "stars": 36709,
+      "forks": 1439,
+      "delta_stars": 28,
       "url": "https://github.com/glanceapp/glance"
     },
     {
@@ -181,9 +181,9 @@
       "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 20625,
-      "forks": 1919,
-      "delta_stars": 11,
+      "stars": 20629,
+      "forks": 1924,
+      "delta_stars": 4,
       "url": "https://github.com/nats-io/nats-server"
     },
     {
@@ -194,9 +194,9 @@
       "description": "Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 7304,
+      "stars": 7311,
       "forks": 879,
-      "delta_stars": 36,
+      "delta_stars": 16,
       "url": "https://github.com/flyteorg/flyte"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Terraform Pull Request Automation",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 9261,
-      "forks": 1329,
-      "delta_stars": 5,
+      "stars": 9266,
+      "forks": 1330,
+      "delta_stars": 4,
       "url": "https://github.com/runatlantis/atlantis"
     },
     {
@@ -220,9 +220,9 @@
       "description": "Powerful system container and virtual machine manager",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 6053,
+      "stars": 6086,
       "forks": 484,
-      "delta_stars": 8,
+      "delta_stars": 47,
       "url": "https://github.com/lxc/incus"
     },
     {
@@ -233,9 +233,9 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 20862,
-      "forks": 3000,
-      "delta_stars": 78,
+      "stars": 20898,
+      "forks": 3006,
+      "delta_stars": 43,
       "url": "https://github.com/Tencent/WeKnora"
     },
     {
@@ -246,9 +246,9 @@
       "description": "An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 2694,
-      "forks": 170,
-      "delta_stars": 3,
+      "stars": 2701,
+      "forks": 171,
+      "delta_stars": 7,
       "url": "https://github.com/compozy/compozy"
     }
   ]

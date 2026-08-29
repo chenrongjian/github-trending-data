@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-29T00:36:12.761Z",
+  "generated_at": "2026-08-29T19:26:32.009Z",
   "since": "monthly",
   "language": "shell",
   "count": 14,
   "list": [
     {
       "rank": 1,
-      "owner": "basecamp",
+      "owner": "omacom",
       "name": "omarchy",
-      "full_name": "basecamp/omarchy",
+      "full_name": "omacom/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 33486,
-      "forks": 3469,
+      "stars": 34614,
+      "forks": 3557,
       "delta_stars": 9083,
-      "url": "https://github.com/basecamp/omarchy"
+      "url": "https://github.com/omacom/omarchy"
     },
     {
       "rank": 2,
@@ -25,8 +25,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 240218,
-      "forks": 20426,
+      "stars": 240887,
+      "forks": 20483,
       "delta_stars": 48510,
       "url": "https://github.com/mattpocock/skills"
     },
@@ -38,8 +38,8 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 4293,
-      "forks": 1426,
+      "stars": 4346,
+      "forks": 1445,
       "delta_stars": 2152,
       "url": "https://github.com/kunchenguid/firstmate"
     },
@@ -51,7 +51,7 @@
       "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 113575,
+      "stars": 113577,
       "forks": 22672,
       "delta_stars": 435,
       "url": "https://github.com/d3/d3"
@@ -64,8 +64,8 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 94771,
-      "forks": 10398,
+      "stars": 94776,
+      "forks": 10400,
       "delta_stars": 630,
       "url": "https://github.com/nvm-sh/nvm"
     },
@@ -77,8 +77,8 @@
       "description": "A package build system for Termux.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 16865,
-      "forks": 4338,
+      "stars": 16864,
+      "forks": 4339,
       "delta_stars": 226,
       "url": "https://github.com/termux/termux-packages"
     },
@@ -90,8 +90,8 @@
       "description": "",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 11568,
-      "forks": 1518,
+      "stars": 11576,
+      "forks": 1520,
       "delta_stars": 258,
       "url": "https://github.com/BtbN/FFmpeg-Builds"
     },
@@ -103,8 +103,8 @@
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 7419,
-      "forks": 828,
+      "stars": 7492,
+      "forks": 838,
       "delta_stars": 871,
       "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
     },
@@ -116,7 +116,7 @@
       "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 4319,
+      "stars": 4321,
       "forks": 573,
       "delta_stars": 424,
       "url": "https://github.com/Astrosp/Awesome-OSINT-List"
@@ -129,7 +129,7 @@
       "description": "Open-source firmware for Ingenic SoC IP cameras",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 2097,
+      "stars": 2101,
       "forks": 296,
       "delta_stars": 270,
       "url": "https://github.com/themactep/thingino-firmware"
@@ -142,8 +142,8 @@
       "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 5383,
-      "forks": 3110,
+      "stars": 5385,
+      "forks": 3109,
       "delta_stars": 65,
       "url": "https://github.com/armbian/build"
     },
@@ -155,7 +155,7 @@
       "description": "Tethered downgrade tool for macOS/Linux (A7-A13, iOS 7.0-17.6.1). Some restores may utilize seprmvr64 by Mineek.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 274,
+      "stars": 278,
       "forks": 39,
       "delta_stars": 111,
       "url": "https://github.com/pwnerblu/surrealra1n"
@@ -168,8 +168,8 @@
       "description": "Docker configuration for running VLLM on dual DGX Sparks",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 2197,
-      "forks": 371,
+      "stars": 2199,
+      "forks": 373,
       "delta_stars": 303,
       "url": "https://github.com/eugr/spark-vllm-docker"
     },
@@ -181,7 +181,7 @@
       "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 9081,
+      "stars": 9088,
       "forks": 278,
       "delta_stars": 374,
       "url": "https://github.com/awesome-jellyfin/awesome-jellyfin"

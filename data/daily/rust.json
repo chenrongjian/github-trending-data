@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:36:12.761Z",
+  "generated_at": "2026-08-29T19:26:32.009Z",
   "since": "daily",
   "language": "rust",
   "count": 20,
@@ -12,9 +12,9 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 38724,
-      "forks": 3802,
-      "delta_stars": 206,
+      "stars": 38829,
+      "forks": 3814,
+      "delta_stars": 137,
       "url": "https://github.com/tinyhumansai/openhuman"
     },
     {
@@ -25,9 +25,9 @@
       "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 17277,
-      "forks": 1686,
-      "delta_stars": 420,
+      "stars": 17400,
+      "forks": 1696,
+      "delta_stars": 120,
       "url": "https://github.com/t8y2/dbx"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Comfortably monitor your network traffic 🕵️‍♂️",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 40924,
+      "stars": 40938,
       "forks": 1954,
-      "delta_stars": 56,
+      "delta_stars": 21,
       "url": "https://github.com/GyulyVGC/sniffnet"
     },
     {
@@ -51,9 +51,9 @@
       "description": "A post-modern modal text editor.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 45972,
-      "forks": 3705,
-      "delta_stars": 23,
+      "stars": 45998,
+      "forks": 3710,
+      "delta_stars": 38,
       "url": "https://github.com/helix-editor/helix"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 6989,
+      "stars": 6996,
       "forks": 826,
-      "delta_stars": 5,
+      "delta_stars": 12,
       "url": "https://github.com/lance-format/lance"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 6731,
+      "stars": 6744,
       "forks": 239,
-      "delta_stars": 47,
+      "delta_stars": 23,
       "url": "https://github.com/max-sixty/worktrunk"
     },
     {
@@ -90,9 +90,9 @@
       "description": "cursor-byok is a local implementation of Cursor's backend. https://docs.leokun.cn/",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 2576,
+      "stars": 2593,
       "forks": 405,
-      "delta_stars": 14,
+      "delta_stars": 13,
       "url": "https://github.com/leookun/cursor-byok"
     },
     {
@@ -103,9 +103,9 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 973,
-      "forks": 114,
-      "delta_stars": 26,
+      "stars": 989,
+      "forks": 113,
+      "delta_stars": 14,
       "url": "https://github.com/HakanSeven12/OpenCADStudio"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Scalable CLI",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 433,
+      "stars": 435,
       "forks": 12,
-      "delta_stars": 19,
+      "delta_stars": 5,
       "url": "https://github.com/ScalableCapital/scalable-cli"
     },
     {
@@ -129,9 +129,9 @@
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 77743,
-      "forks": 4902,
-      "delta_stars": 130,
+      "stars": 77811,
+      "forks": 4906,
+      "delta_stars": 93,
       "url": "https://github.com/rtk-ai/rtk"
     },
     {
@@ -142,9 +142,9 @@
       "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 7895,
-      "forks": 1509,
-      "delta_stars": 7,
+      "stars": 7908,
+      "forks": 1512,
+      "delta_stars": 16,
       "url": "https://github.com/ai-dynamo/dynamo"
     },
     {
@@ -155,9 +155,9 @@
       "description": "A smarter cd command. Supports all major shells.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 38993,
+      "stars": 39021,
       "forks": 880,
-      "delta_stars": 54,
+      "delta_stars": 32,
       "url": "https://github.com/ajeetdsouza/zoxide"
     },
     {
@@ -168,9 +168,9 @@
       "description": "🕳 bore is a simple CLI tool for making tunnels to localhost",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 11462,
-      "forks": 521,
-      "delta_stars": 11,
+      "stars": 11471,
+      "forks": 523,
+      "delta_stars": 14,
       "url": "https://github.com/ekzhang/bore"
     },
     {
@@ -181,9 +181,9 @@
       "description": "Apache OpenDAL: One Layer, All Storage.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 5356,
+      "stars": 5358,
       "forks": 820,
-      "delta_stars": 14,
+      "delta_stars": 3,
       "url": "https://github.com/apache/opendal"
     },
     {
@@ -194,9 +194,9 @@
       "description": "A high-performance observability data pipeline.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 22474,
+      "stars": 22487,
       "forks": 2271,
-      "delta_stars": 2,
+      "delta_stars": 17,
       "url": "https://github.com/vectordotdev/vector"
     },
     {
@@ -207,9 +207,9 @@
       "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 13710,
-      "forks": 2530,
-      "delta_stars": 4,
+      "stars": 13722,
+      "forks": 2532,
+      "delta_stars": 13,
       "url": "https://github.com/dbt-labs/dbt-core"
     },
     {
@@ -220,9 +220,9 @@
       "description": "Apache DataFusion SQL Query Engine",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 9217,
-      "forks": 2353,
-      "delta_stars": 7,
+      "stars": 9247,
+      "forks": 2358,
+      "delta_stars": 32,
       "url": "https://github.com/apache/datafusion"
     },
     {
@@ -233,9 +233,9 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 89379,
-      "forks": 10302,
-      "delta_stars": 69,
+      "stars": 89425,
+      "forks": 10323,
+      "delta_stars": 53,
       "url": "https://github.com/zed-industries/zed"
     },
     {
@@ -246,9 +246,9 @@
       "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 34249,
-      "forks": 2623,
-      "delta_stars": 22,
+      "stars": 34258,
+      "forks": 2626,
+      "delta_stars": 15,
       "url": "https://github.com/qdrant/qdrant"
     },
     {
@@ -259,9 +259,9 @@
       "description": "A refreshingly simple data-driven game engine built in Rust",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 47943,
-      "forks": 4790,
-      "delta_stars": 33,
+      "stars": 47957,
+      "forks": 4792,
+      "delta_stars": 22,
       "url": "https://github.com/bevyengine/bevy"
     }
   ]
