@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-04T19:01:38.586Z",
+  "generated_at": "2026-09-05T18:26:49.280Z",
   "since": "weekly",
   "language": "ai",
-  "count": 6,
+  "count": 7,
   "list": [
     {
       "rank": 1,
@@ -12,9 +12,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 47766,
-      "forks": 3078,
-      "delta_stars": 24227,
+      "stars": 49193,
+      "forks": 3187,
+      "delta_stars": 21896,
       "url": "https://github.com/tt-a1i/archify"
     },
     {
@@ -25,22 +25,22 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 31426,
-      "forks": 5177,
-      "delta_stars": 10023,
+      "stars": 31865,
+      "forks": 5229,
+      "delta_stars": 10274,
       "url": "https://github.com/THU-MAIC/OpenMAIC"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "owner": "jingyaogong",
       "name": "minimind",
       "full_name": "jingyaogong/minimind",
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 58477,
-      "forks": 7599,
-      "delta_stars": 3122,
+      "stars": 58740,
+      "forks": 7630,
+      "delta_stars": 3390,
       "url": "https://github.com/jingyaogong/minimind"
     },
     {
@@ -51,36 +51,49 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 42591,
-      "forks": 3894,
-      "delta_stars": 7370,
+      "stars": 42902,
+      "forks": 3922,
+      "delta_stars": 6898,
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
     },
     {
-      "rank": 17,
+      "rank": 12,
+      "owner": "magnitudedev",
+      "name": "magnitude",
+      "full_name": "magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "language": "TypeScript",
+      "language_color": "#3178c6",
+      "stars": 3065,
+      "forks": 221,
+      "delta_stars": 740,
+      "url": "https://github.com/magnitudedev/magnitude"
+    },
+    {
+      "rank": 18,
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "stars": 249549,
+      "forks": 37581,
+      "delta_stars": 4815,
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "rank": 19,
       "owner": "ChromeDevTools",
       "name": "chrome-devtools-mcp",
       "full_name": "ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 50913,
-      "forks": 3571,
-      "delta_stars": 1058,
+      "stars": 51034,
+      "forks": 3577,
+      "delta_stars": 1067,
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
-    },
-    {
-      "rank": 19,
-      "owner": "MakazhanAlpamys",
-      "name": "Soup",
-      "full_name": "MakazhanAlpamys/Soup",
-      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-      "language": "Python",
-      "language_color": "#3572A5",
-      "stars": 5257,
-      "forks": 784,
-      "delta_stars": 1812,
-      "url": "https://github.com/MakazhanAlpamys/Soup"
     }
   ]
 }
