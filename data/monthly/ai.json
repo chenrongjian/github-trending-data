@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-14T20:21:40.937Z",
+  "generated_at": "2026-09-15T19:44:11.049Z",
   "since": "monthly",
   "language": "ai",
-  "count": 10,
+  "count": 9,
   "list": [
     {
       "rank": 2,
@@ -12,9 +12,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 62050,
-      "forks": 4096,
-      "delta_stars": 48808,
+      "stars": 63362,
+      "forks": 4209,
+      "delta_stars": 49900,
       "url": "https://github.com/tt-a1i/archify"
     },
     {
@@ -25,23 +25,23 @@
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 4007,
-      "forks": 295,
-      "delta_stars": 3635,
+      "stars": 4078,
+      "forks": 299,
+      "delta_stars": 3715,
       "url": "https://github.com/anthropics/claude-plugins-community"
     },
     {
       "rank": 6,
-      "owner": "volcengine",
-      "name": "OpenViking",
-      "full_name": "volcengine/OpenViking",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "language": "Python",
-      "language_color": "#3572A5",
-      "stars": 37213,
-      "forks": 2862,
-      "delta_stars": 8745,
-      "url": "https://github.com/volcengine/OpenViking"
+      "owner": "THU-MAIC",
+      "name": "OpenMAIC",
+      "full_name": "THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "language_color": "#3178c6",
+      "stars": 37079,
+      "forks": 5849,
+      "delta_stars": 16207,
+      "url": "https://github.com/THU-MAIC/OpenMAIC"
     },
     {
       "rank": 7,
@@ -51,9 +51,9 @@
       "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 31856,
-      "forks": 3073,
-      "delta_stars": 21897,
+      "stars": 32080,
+      "forks": 3086,
+      "delta_stars": 22081,
       "url": "https://github.com/freestylefly/awesome-gpt-image-2"
     },
     {
@@ -64,48 +64,48 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "language_color": "#e34c26",
-      "stars": 39731,
-      "forks": 2522,
-      "delta_stars": 26213,
+      "stars": 40165,
+      "forks": 2555,
+      "delta_stars": 23268,
       "url": "https://github.com/cathrynlavery/diagram-design"
     },
     {
       "rank": 9,
-      "owner": "THU-MAIC",
-      "name": "OpenMAIC",
-      "full_name": "THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "language": "TypeScript",
-      "language_color": "#3178c6",
-      "stars": 36787,
-      "forks": 5816,
-      "delta_stars": 15888,
-      "url": "https://github.com/THU-MAIC/OpenMAIC"
-    },
-    {
-      "rank": 10,
       "owner": "ayghri",
       "name": "i-have-adhd",
       "full_name": "ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 45308,
-      "forks": 2626,
-      "delta_stars": 24025,
+      "stars": 46147,
+      "forks": 2679,
+      "delta_stars": 24963,
       "url": "https://github.com/ayghri/i-have-adhd"
     },
     {
-      "rank": 14,
+      "rank": 12,
+      "owner": "volcengine",
+      "name": "OpenViking",
+      "full_name": "volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "stars": 37507,
+      "forks": 2889,
+      "delta_stars": 8921,
+      "url": "https://github.com/volcengine/OpenViking"
+    },
+    {
+      "rank": 15,
       "owner": "akitaonrails",
       "name": "ai-memory",
       "full_name": "akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 6802,
-      "forks": 458,
-      "delta_stars": 5269,
+      "stars": 6905,
+      "forks": 462,
+      "delta_stars": 5351,
       "url": "https://github.com/akitaonrails/ai-memory"
     },
     {
@@ -116,23 +116,10 @@
       "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 5395,
-      "forks": 500,
-      "delta_stars": 4056,
+      "stars": 5455,
+      "forks": 507,
+      "delta_stars": 4111,
       "url": "https://github.com/apache/maka"
-    },
-    {
-      "rank": 17,
-      "owner": "microsoft",
-      "name": "data-formulator",
-      "full_name": "microsoft/data-formulator",
-      "description": "🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.",
-      "language": "Python",
-      "language_color": "#3572A5",
-      "stars": 17161,
-      "forks": 1672,
-      "delta_stars": 1141,
-      "url": "https://github.com/microsoft/data-formulator"
     }
   ]
 }
