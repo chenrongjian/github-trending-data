@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:39:54.439Z",
+  "generated_at": "2026-09-20T18:55:03.224Z",
   "since": "monthly",
   "language": "javascript",
   "count": 18,
@@ -12,9 +12,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 67328,
-      "forks": 4501,
-      "delta_stars": 52955,
+      "stars": 68144,
+      "forks": 4556,
+      "delta_stars": 53311,
       "url": "https://github.com/tt-a1i/archify"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 32801,
-      "forks": 3167,
-      "delta_stars": 21890,
+      "stars": 32986,
+      "forks": 3180,
+      "delta_stars": 21920,
       "url": "https://github.com/freestylefly/awesome-gpt-image-2"
     },
     {
@@ -38,9 +38,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 15866,
-      "forks": 865,
-      "delta_stars": 9661,
+      "stars": 17811,
+      "forks": 990,
+      "delta_stars": 12420,
       "url": "https://github.com/cloudflare/security-audit-skill"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 8366,
-      "forks": 1030,
-      "delta_stars": 2849,
+      "stars": 8392,
+      "forks": 1031,
+      "delta_stars": 2852,
       "url": "https://github.com/OpenWhispr/openwhispr"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 3288,
-      "forks": 515,
-      "delta_stars": 1843,
+      "stars": 3362,
+      "forks": 521,
+      "delta_stars": 1897,
       "url": "https://github.com/WorldFlowAI/everything-claude-code"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 11097,
+      "stars": 11114,
       "forks": 1098,
-      "delta_stars": 2467,
+      "delta_stars": 2450,
       "url": "https://github.com/jo-inc/camofox-browser"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Modular logistics and supply chain operating system (LSOS)",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 3762,
-      "forks": 1016,
-      "delta_stars": 1476,
+      "stars": 3803,
+      "forks": 1023,
+      "delta_stars": 1517,
       "url": "https://github.com/fleetbase/fleetbase"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Stremio - Freedom to Stream",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 13919,
-      "forks": 1587,
-      "delta_stars": 1297,
+      "stars": 13926,
+      "forks": 1588,
+      "delta_stars": 1300,
       "url": "https://github.com/Stremio/stremio-web"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 11334,
-      "forks": 29927,
-      "delta_stars": 366,
+      "stars": 11339,
+      "forks": 30029,
+      "delta_stars": 359,
       "url": "https://github.com/is-a-dev/register"
     },
     {
@@ -129,9 +129,9 @@
       "description": "</> htmx - high power tools for HTML",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 49484,
+      "stars": 49487,
       "forks": 1661,
-      "delta_stars": 589,
+      "delta_stars": 587,
       "url": "https://github.com/bigskysoftware/htmx"
     },
     {
@@ -142,9 +142,9 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 91565,
-      "forks": 8440,
-      "delta_stars": 1389,
+      "stars": 91606,
+      "forks": 8447,
+      "delta_stars": 1384,
       "url": "https://github.com/louislam/uptime-kuma"
     },
     {
@@ -155,36 +155,36 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 262760,
-      "forks": 39317,
-      "delta_stars": 22503,
+      "stars": 263543,
+      "forks": 39439,
+      "delta_stars": 23089,
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "rank": 13,
-      "owner": "spicetify",
-      "name": "cli",
-      "full_name": "spicetify/cli",
-      "description": "Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.",
-      "language": "JavaScript",
-      "language_color": "#f1e05a",
-      "stars": 24562,
-      "forks": 941,
-      "delta_stars": 516,
-      "url": "https://github.com/spicetify/cli"
-    },
-    {
-      "rank": 14,
       "owner": "playcanvas",
       "name": "engine",
       "full_name": "playcanvas/engine",
       "description": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 16827,
+      "stars": 16831,
       "forks": 1992,
-      "delta_stars": 360,
+      "delta_stars": 359,
       "url": "https://github.com/playcanvas/engine"
+    },
+    {
+      "rank": 14,
+      "owner": "spicetify",
+      "name": "cli",
+      "full_name": "spicetify/cli",
+      "description": "Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "stars": 24571,
+      "forks": 941,
+      "delta_stars": 517,
+      "url": "https://github.com/spicetify/cli"
     },
     {
       "rank": 15,
@@ -194,49 +194,49 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 142450,
-      "forks": 7640,
-      "delta_stars": 37377,
+      "stars": 142968,
+      "forks": 7669,
+      "delta_stars": 37328,
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "rank": 16,
-      "owner": "darkzOGx",
-      "name": "youtube-automation-agent",
-      "full_name": "darkzOGx/youtube-automation-agent",
-      "description": "🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!",
-      "language": "JavaScript",
-      "language_color": "#f1e05a",
-      "stars": 3565,
-      "forks": 1050,
-      "delta_stars": 1559,
-      "url": "https://github.com/darkzOGx/youtube-automation-agent"
-    },
-    {
-      "rank": 17,
       "owner": "conorbronsdon",
       "name": "avoid-ai-writing",
       "full_name": "conorbronsdon/avoid-ai-writing",
       "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 4512,
-      "forks": 395,
-      "delta_stars": 1393,
+      "stars": 4570,
+      "forks": 399,
+      "delta_stars": 1407,
       "url": "https://github.com/conorbronsdon/avoid-ai-writing"
     },
     {
-      "rank": 18,
-      "owner": "poteto",
-      "name": "hiring-without-whiteboards",
-      "full_name": "poteto/hiring-without-whiteboards",
-      "description": "⭐️ Companies that don't have a broken hiring process",
+      "rank": 17,
+      "owner": "darkzOGx",
+      "name": "youtube-automation-agent",
+      "full_name": "darkzOGx/youtube-automation-agent",
+      "description": "🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 52152,
-      "forks": 3938,
-      "delta_stars": 827,
-      "url": "https://github.com/poteto/hiring-without-whiteboards"
+      "stars": 3592,
+      "forks": 1067,
+      "delta_stars": 1511,
+      "url": "https://github.com/darkzOGx/youtube-automation-agent"
+    },
+    {
+      "rank": 18,
+      "owner": "gchq",
+      "name": "CyberChef",
+      "full_name": "gchq/CyberChef",
+      "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "stars": 35893,
+      "forks": 4152,
+      "delta_stars": 311,
+      "url": "https://github.com/gchq/CyberChef"
     }
   ]
 }
