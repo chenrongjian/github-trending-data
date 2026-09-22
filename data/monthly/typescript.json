@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-21T20:28:52.087Z",
+  "generated_at": "2026-09-22T19:47:52.412Z",
   "since": "monthly",
   "language": "typescript",
-  "count": 17,
+  "count": 16,
   "list": [
     {
       "rank": 1,
@@ -12,9 +12,9 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 38420,
-      "forks": 6020,
-      "delta_stars": 17511,
+      "stars": 38588,
+      "forks": 6038,
+      "delta_stars": 17721,
       "url": "https://github.com/THU-MAIC/OpenMAIC"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 8299,
-      "forks": 772,
-      "delta_stars": 4521,
+      "stars": 8403,
+      "forks": 782,
+      "delta_stars": 4224,
       "url": "https://github.com/cursor/plugins"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 4758,
-      "forks": 367,
-      "delta_stars": 3298,
+      "stars": 4833,
+      "forks": 369,
+      "delta_stars": 3303,
       "url": "https://github.com/magnitudedev/magnitude"
     },
     {
@@ -51,9 +51,9 @@
       "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 6594,
-      "forks": 543,
-      "delta_stars": 1604,
+      "stars": 6655,
+      "forks": 549,
+      "delta_stars": 1658,
       "url": "https://github.com/tech-leads-club/agent-skills"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 6314,
-      "forks": 458,
-      "delta_stars": 4797,
+      "stars": 6584,
+      "forks": 487,
+      "delta_stars": 5066,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 19858,
-      "forks": 2556,
-      "delta_stars": 6976,
+      "stars": 20009,
+      "forks": 2578,
+      "delta_stars": 6955,
       "url": "https://github.com/every-app/open-seo"
     },
     {
@@ -90,9 +90,9 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 27849,
-      "forks": 3807,
-      "delta_stars": 8781,
+      "stars": 28047,
+      "forks": 3844,
+      "delta_stars": 8746,
       "url": "https://github.com/tashfeenahmed/freellmapi"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 3412,
-      "forks": 831,
-      "delta_stars": 2923,
+      "stars": 3484,
+      "forks": 858,
+      "delta_stars": 2968,
       "url": "https://github.com/melgarafael/DeskcommCRM"
     },
     {
@@ -116,23 +116,23 @@
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 7827,
-      "forks": 1164,
-      "delta_stars": 3708,
+      "stars": 7840,
+      "forks": 1171,
+      "delta_stars": 3727,
       "url": "https://github.com/ever-co/ever-gauzy"
     },
     {
       "rank": 10,
-      "owner": "apache",
-      "name": "maka",
-      "full_name": "apache/maka",
-      "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
+      "owner": "vercel-labs",
+      "name": "json-render",
+      "full_name": "vercel-labs/json-render",
+      "description": "The Generative UI framework",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 5610,
-      "forks": 518,
-      "delta_stars": 3827,
-      "url": "https://github.com/apache/maka"
+      "stars": 18082,
+      "forks": 945,
+      "delta_stars": 1906,
+      "url": "https://github.com/vercel-labs/json-render"
     },
     {
       "rank": 11,
@@ -142,9 +142,9 @@
       "description": "The open source AI research agent.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 9727,
-      "forks": 1085,
-      "delta_stars": 1233,
+      "stars": 9744,
+      "forks": 1084,
+      "delta_stars": 1232,
       "url": "https://github.com/Companion-Inc/feynman"
     },
     {
@@ -155,9 +155,9 @@
       "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 35322,
-      "forks": 4121,
-      "delta_stars": 2113,
+      "stars": 35452,
+      "forks": 4131,
+      "delta_stars": 2204,
       "url": "https://github.com/linshenkx/prompt-optimizer"
     },
     {
@@ -168,62 +168,49 @@
       "description": "runs anywhere. uses anything",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 33472,
+      "stars": 33487,
       "forks": 9099,
-      "delta_stars": 2858,
+      "delta_stars": 2864,
       "url": "https://github.com/Gitlawb/openclaude"
     },
     {
       "rank": 14,
-      "owner": "vercel-labs",
-      "name": "json-render",
-      "full_name": "vercel-labs/json-render",
-      "description": "The Generative UI framework",
-      "language": "TypeScript",
-      "language_color": "#3178c6",
-      "stars": 17907,
-      "forks": 938,
-      "delta_stars": 1182,
-      "url": "https://github.com/vercel-labs/json-render"
-    },
-    {
-      "rank": 15,
-      "owner": "maotoumao",
-      "name": "MusicFree",
-      "full_name": "maotoumao/MusicFree",
-      "description": "插件化、定制化、无广告的免费音乐播放器",
-      "language": "TypeScript",
-      "language_color": "#3178c6",
-      "stars": 27031,
-      "forks": 1936,
-      "delta_stars": 911,
-      "url": "https://github.com/maotoumao/MusicFree"
-    },
-    {
-      "rank": 16,
-      "owner": "chaitanyagiri",
-      "name": "munder-difflin",
-      "full_name": "chaitanyagiri/munder-difflin",
-      "description": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
-      "language": "TypeScript",
-      "language_color": "#3178c6",
-      "stars": 7783,
-      "forks": 1024,
-      "delta_stars": 4739,
-      "url": "https://github.com/chaitanyagiri/munder-difflin"
-    },
-    {
-      "rank": 17,
       "owner": "heygen-com",
       "name": "hyperframes",
       "full_name": "heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 52148,
-      "forks": 4755,
-      "delta_stars": 10271,
+      "stars": 52345,
+      "forks": 4777,
+      "delta_stars": 10417,
       "url": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+      "rank": 15,
+      "owner": "chaitanyagiri",
+      "name": "munder-difflin",
+      "full_name": "chaitanyagiri/munder-difflin",
+      "description": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
+      "language": "TypeScript",
+      "language_color": "#3178c6",
+      "stars": 7829,
+      "forks": 1030,
+      "delta_stars": 4502,
+      "url": "https://github.com/chaitanyagiri/munder-difflin"
+    },
+    {
+      "rank": 16,
+      "owner": "solidjs",
+      "name": "solid",
+      "full_name": "solidjs/solid",
+      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+      "language": "TypeScript",
+      "language_color": "#3178c6",
+      "stars": 36067,
+      "forks": 1117,
+      "delta_stars": 231,
+      "url": "https://github.com/solidjs/solid"
     }
   ]
 }
