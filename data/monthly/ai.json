@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-24T20:02:30.464Z",
+  "generated_at": "2026-09-25T20:04:03.312Z",
   "since": "monthly",
   "language": "ai",
-  "count": 13,
+  "count": 12,
   "list": [
     {
       "rank": 2,
@@ -12,9 +12,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 21271,
-      "forks": 1223,
-      "delta_stars": 17893,
+      "stars": 21585,
+      "forks": 1247,
+      "delta_stars": 18441,
       "url": "https://github.com/cloudflare/security-audit-skill"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 71161,
-      "forks": 4785,
-      "delta_stars": 55857,
+      "stars": 71628,
+      "forks": 4823,
+      "delta_stars": 56351,
       "url": "https://github.com/tt-a1i/archify"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 38925,
-      "forks": 6072,
-      "delta_stars": 18072,
+      "stars": 39024,
+      "forks": 6080,
+      "delta_stars": 18202,
       "url": "https://github.com/THU-MAIC/OpenMAIC"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 40710,
-      "forks": 2927,
-      "delta_stars": 19196,
+      "stars": 41266,
+      "forks": 2966,
+      "delta_stars": 19583,
       "url": "https://github.com/alibaba/open-code-review"
     },
     {
@@ -64,9 +64,9 @@
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 3098,
-      "forks": 259,
-      "delta_stars": 2356,
+      "stars": 3354,
+      "forks": 274,
+      "delta_stars": 2413,
       "url": "https://github.com/superdesigndev/treg"
     },
     {
@@ -77,49 +77,36 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 50936,
-      "forks": 2941,
-      "delta_stars": 27477,
+      "stars": 51175,
+      "forks": 2948,
+      "delta_stars": 27473,
       "url": "https://github.com/ayghri/i-have-adhd"
     },
     {
-      "rank": 12,
-      "owner": "JetBrains",
-      "name": "go-modern-guidelines",
-      "full_name": "JetBrains/go-modern-guidelines",
-      "description": "Help AI coding agents write modern Go",
-      "language": "Go",
-      "language_color": "#00ADD8",
-      "stars": 3690,
-      "forks": 122,
-      "delta_stars": 2850,
-      "url": "https://github.com/JetBrains/go-modern-guidelines"
-    },
-    {
-      "rank": 13,
-      "owner": "Tencent",
-      "name": "WeKnora",
-      "full_name": "Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "language_color": "#00ADD8",
-      "stars": 29681,
-      "forks": 3994,
-      "delta_stars": 9078,
-      "url": "https://github.com/Tencent/WeKnora"
-    },
-    {
-      "rank": 14,
+      "rank": 11,
       "owner": "tech-leads-club",
       "name": "agent-skills",
       "full_name": "tech-leads-club/agent-skills",
       "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 6762,
-      "forks": 549,
-      "delta_stars": 1759,
+      "stars": 6805,
+      "forks": 551,
+      "delta_stars": 1821,
       "url": "https://github.com/tech-leads-club/agent-skills"
+    },
+    {
+      "rank": 14,
+      "owner": "Tencent",
+      "name": "WeKnora",
+      "full_name": "Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "language_color": "#00ADD8",
+      "stars": 30032,
+      "forks": 4030,
+      "delta_stars": 9356,
+      "url": "https://github.com/Tencent/WeKnora"
     },
     {
       "rank": 17,
@@ -129,9 +116,9 @@
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 62470,
-      "forks": 8124,
-      "delta_stars": 7561,
+      "stars": 62563,
+      "forks": 8131,
+      "delta_stars": 7689,
       "url": "https://github.com/jingyaogong/minimind"
     },
     {
@@ -142,9 +129,9 @@
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 7103,
-      "forks": 512,
-      "delta_stars": 5647,
+      "stars": 7219,
+      "forks": 520,
+      "delta_stars": 5854,
       "url": "https://github.com/Tencent/BrowserSkill"
     },
     {
@@ -155,23 +142,23 @@
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 3696,
-      "forks": 923,
-      "delta_stars": 3113,
+      "stars": 3833,
+      "forks": 950,
+      "delta_stars": 3225,
       "url": "https://github.com/melgarafael/DeskcommCRM"
     },
     {
-      "rank": 22,
-      "owner": "K-Dense-AI",
-      "name": "scientific-agent-skills",
-      "full_name": "K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "language_color": "#3572A5",
-      "stars": 46514,
-      "forks": 4205,
-      "delta_stars": 12304,
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+      "rank": 20,
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "stars": 145937,
+      "forks": 7825,
+      "delta_stars": 36592,
+      "url": "https://github.com/DietrichGebert/ponytail"
     }
   ]
 }
