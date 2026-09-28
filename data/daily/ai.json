@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-09-27T19:48:38.371Z",
+  "generated_at": "2026-09-28T22:10:18.996Z",
   "since": "daily",
   "language": "ai",
   "count": 5,
   "list": [
     {
-      "rank": 1,
+      "rank": 2,
       "owner": "paperclipai",
       "name": "paperclip",
       "full_name": "paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 89401,
-      "forks": 15616,
-      "delta_stars": 2527,
+      "stars": 92619,
+      "forks": 15871,
+      "delta_stars": 3185,
       "url": "https://github.com/paperclipai/paperclip"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "owner": "vectorize-io",
       "name": "hindsight",
       "full_name": "vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 36949,
-      "forks": 4817,
-      "delta_stars": 4463,
+      "stars": 40857,
+      "forks": 5523,
+      "delta_stars": 4413,
       "url": "https://github.com/vectorize-io/hindsight"
     },
     {
-      "rank": 4,
-      "owner": "rohitg00",
-      "name": "ai-engineering-from-scratch",
-      "full_name": "rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "language_color": "#3572A5",
-      "stars": 59109,
-      "forks": 10215,
-      "delta_stars": 848,
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+      "rank": 6,
+      "owner": "byoungd",
+      "name": "up",
+      "full_name": "byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "stars": 64612,
+      "forks": 6509,
+      "delta_stars": 310,
+      "url": "https://github.com/byoungd/up"
     },
     {
       "rank": 7,
@@ -51,9 +51,9 @@
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 849,
-      "forks": 92,
-      "delta_stars": 114,
+      "stars": 1650,
+      "forks": 133,
+      "delta_stars": 781,
       "url": "https://github.com/mvschwarz/openrig"
     },
     {
@@ -64,9 +64,9 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 20071,
-      "forks": 1701,
-      "delta_stars": 920,
+      "stars": 21186,
+      "forks": 1796,
+      "delta_stars": 1105,
       "url": "https://github.com/dream-num/univer"
     }
   ]
