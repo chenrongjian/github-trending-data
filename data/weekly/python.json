@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T20:50:03.253Z",
+  "generated_at": "2026-10-03T19:18:51.935Z",
   "since": "weekly",
   "language": "python",
-  "count": 14,
+  "count": 11,
   "list": [
     {
       "rank": 1,
@@ -12,9 +12,9 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 44633,
-      "forks": 5865,
-      "delta_stars": 17403,
+      "stars": 45015,
+      "forks": 5891,
+      "delta_stars": 16183,
       "url": "https://github.com/vectorize-io/hindsight"
     },
     {
@@ -25,9 +25,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 51814,
-      "forks": 5764,
-      "delta_stars": 16114,
+      "stars": 52464,
+      "forks": 5850,
+      "delta_stars": 16475,
       "url": "https://github.com/debpalash/VoiceStudio"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 62666,
-      "forks": 10706,
-      "delta_stars": 6469,
+      "stars": 63035,
+      "forks": 10783,
+      "delta_stars": 5600,
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
@@ -51,36 +51,36 @@
       "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 27278,
-      "forks": 3848,
-      "delta_stars": 743,
+      "stars": 27455,
+      "forks": 3869,
+      "delta_stars": 832,
       "url": "https://github.com/alirezarezvani/claude-skills"
     },
     {
       "rank": 5,
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "stars": 89646,
+      "forks": 7880,
+      "delta_stars": 3959,
+      "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "rank": 6,
       "owner": "TencentCloud",
       "name": "Octop",
       "full_name": "TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 6372,
-      "forks": 788,
-      "delta_stars": 1360,
+      "stars": 6554,
+      "forks": 810,
+      "delta_stars": 1425,
       "url": "https://github.com/TencentCloud/Octop"
-    },
-    {
-      "rank": 6,
-      "owner": "anthropics",
-      "name": "financial-services",
-      "full_name": "anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "language_color": "#3572A5",
-      "stars": 38527,
-      "forks": 5535,
-      "delta_stars": 1270,
-      "url": "https://github.com/anthropics/financial-services"
     },
     {
       "rank": 7,
@@ -90,9 +90,9 @@
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 8236,
-      "forks": 829,
-      "delta_stars": 481,
+      "stars": 8284,
+      "forks": 834,
+      "delta_stars": 732,
       "url": "https://github.com/tile-ai/tilelang"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 103621,
-      "forks": 31117,
-      "delta_stars": 376,
+      "stars": 103668,
+      "forks": 31201,
+      "delta_stars": 369,
       "url": "https://github.com/pytorch/pytorch"
     },
     {
@@ -116,75 +116,36 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 128068,
-      "forks": 20029,
-      "delta_stars": 2548,
+      "stars": 128230,
+      "forks": 20061,
+      "delta_stars": 2533,
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
       "rank": 10,
-      "owner": "VectifyAI",
-      "name": "PageIndex",
-      "full_name": "VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "language": "Python",
-      "language_color": "#3572A5",
-      "stars": 38512,
-      "forks": 3339,
-      "delta_stars": 2550,
-      "url": "https://github.com/VectifyAI/PageIndex"
-    },
-    {
-      "rank": 11,
       "owner": "HunxByts",
       "name": "GhostTrack",
       "full_name": "HunxByts/GhostTrack",
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 16682,
-      "forks": 2277,
-      "delta_stars": 1045,
+      "stars": 16815,
+      "forks": 2299,
+      "delta_stars": 1536,
       "url": "https://github.com/HunxByts/GhostTrack"
     },
     {
-      "rank": 12,
-      "owner": "qbittorrent",
-      "name": "search-plugins",
-      "full_name": "qbittorrent/search-plugins",
-      "description": "Search plugins for qBittorrent search feature",
+      "rank": 11,
+      "owner": "VectifyAI",
+      "name": "PageIndex",
+      "full_name": "VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 7088,
-      "forks": 609,
-      "delta_stars": 476,
-      "url": "https://github.com/qbittorrent/search-plugins"
-    },
-    {
-      "rank": 13,
-      "owner": "NVIDIA",
-      "name": "Model-Optimizer",
-      "full_name": "NVIDIA/Model-Optimizer",
-      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "language": "Python",
-      "language_color": "#3572A5",
-      "stars": 5166,
-      "forks": 721,
-      "delta_stars": 1225,
-      "url": "https://github.com/NVIDIA/Model-Optimizer"
-    },
-    {
-      "rank": 14,
-      "owner": "derv82",
-      "name": "wifit3",
-      "full_name": "derv82/wifit3",
-      "description": "Wifite but USB-only & cross-platform.",
-      "language": "Python",
-      "language_color": "#3572A5",
-      "stars": 1661,
-      "forks": 141,
-      "delta_stars": 1101,
-      "url": "https://github.com/derv82/wifit3"
+      "stars": 38571,
+      "forks": 3341,
+      "delta_stars": 2715,
+      "url": "https://github.com/VectifyAI/PageIndex"
     }
   ]
 }
