@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T19:18:51.935Z",
+  "generated_at": "2026-10-04T19:43:22.629Z",
   "since": "weekly",
   "language": "javascript",
   "count": 11,
@@ -12,9 +12,9 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 75074,
-      "forks": 4506,
-      "delta_stars": 3124,
+      "stars": 76145,
+      "forks": 4544,
+      "delta_stars": 3311,
       "url": "https://github.com/pbakaus/impeccable"
     },
     {
@@ -25,9 +25,9 @@
       "description": "The React Framework",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 143064,
-      "forks": 33736,
-      "delta_stars": 658,
+      "stars": 143164,
+      "forks": 33898,
+      "delta_stars": 678,
       "url": "https://github.com/vercel/next.js"
     },
     {
@@ -38,9 +38,9 @@
       "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 66925,
-      "forks": 6662,
-      "delta_stars": 3120,
+      "stars": 67134,
+      "forks": 6668,
+      "delta_stars": 3203,
       "url": "https://github.com/byoungd/up"
     },
     {
@@ -51,9 +51,9 @@
       "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 1004,
-      "forks": 181,
-      "delta_stars": 618,
+      "stars": 1056,
+      "forks": 188,
+      "delta_stars": 400,
       "url": "https://github.com/androoAGI/starnet"
     },
     {
@@ -64,8 +64,8 @@
       "description": "A script allowing you to download images and videos from Telegram web even if the group restricts downloading.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 5963,
-      "forks": 588,
+      "stars": 5974,
+      "forks": 589,
       "delta_stars": 414,
       "url": "https://github.com/Neet-Nestor/Telegram-Media-Downloader"
     },
@@ -77,9 +77,9 @@
       "description": "List of Permanent Free LLM API (API Keys)",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 9099,
-      "forks": 939,
-      "delta_stars": 661,
+      "stars": 9172,
+      "forks": 954,
+      "delta_stars": 721,
       "url": "https://github.com/mnfst/awesome-free-llm-apis"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 31879,
-      "forks": 2792,
-      "delta_stars": 340,
+      "stars": 31926,
+      "forks": 2799,
+      "delta_stars": 334,
       "url": "https://github.com/vercel-labs/agent-skills"
     },
     {
@@ -103,49 +103,49 @@
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 92288,
-      "forks": 6264,
-      "delta_stars": 2037,
+      "stars": 92565,
+      "forks": 6278,
+      "delta_stars": 2072,
       "url": "https://github.com/Leonxlnx/taste-skill"
     },
     {
       "rank": 9,
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "stars": 154663,
+      "forks": 8316,
+      "delta_stars": 7729,
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "rank": 10,
       "owner": "qist",
       "name": "tvbox",
       "full_name": "qist/tvbox",
       "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 11647,
-      "forks": 4151,
-      "delta_stars": 165,
+      "stars": 11671,
+      "forks": 4160,
+      "delta_stars": 169,
       "url": "https://github.com/qist/tvbox"
     },
     {
-      "rank": 10,
-      "owner": "mrdoob",
-      "name": "three.js",
-      "full_name": "mrdoob/three.js",
-      "description": "JavaScript 3D Library.",
-      "language": "JavaScript",
-      "language_color": "#f1e05a",
-      "stars": 116191,
-      "forks": 36606,
-      "delta_stars": 304,
-      "url": "https://github.com/mrdoob/three.js"
-    },
-    {
       "rank": 11,
-      "owner": "nodejs",
-      "name": "node",
-      "full_name": "nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "owner": "DuarteSantos8",
+      "name": "openGym",
+      "full_name": "DuarteSantos8/openGym",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 122252,
-      "forks": 38615,
-      "delta_stars": 203,
-      "url": "https://github.com/nodejs/node"
+      "stars": 2655,
+      "forks": 508,
+      "delta_stars": 562,
+      "url": "https://github.com/DuarteSantos8/openGym"
     }
   ]
 }
