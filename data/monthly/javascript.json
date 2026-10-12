@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T20:25:00.896Z",
+  "generated_at": "2026-10-12T23:05:45.536Z",
   "since": "monthly",
   "language": "javascript",
-  "count": 19,
+  "count": 18,
   "list": [
     {
       "rank": 1,
@@ -12,9 +12,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 277104,
-      "forks": 41337,
-      "delta_stars": 22474,
+      "stars": 277874,
+      "forks": 41432,
+      "delta_stars": 22438,
       "url": "https://github.com/affaan-m/ECC"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 104922,
-      "forks": 10950,
-      "delta_stars": 11706,
+      "stars": 105603,
+      "forks": 11014,
+      "delta_stars": 11891,
       "url": "https://github.com/addyosmani/agent-skills"
     },
     {
@@ -38,9 +38,9 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 51386,
-      "forks": 10330,
-      "delta_stars": 27862,
+      "stars": 53571,
+      "forks": 10596,
+      "delta_stars": 25143,
       "url": "https://github.com/bilawalsidhu/gods-eye-view"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 161025,
-      "forks": 8687,
-      "delta_stars": 26935,
+      "stars": 161851,
+      "forks": 8733,
+      "delta_stars": 26417,
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
@@ -64,9 +64,9 @@
       "description": "The React Framework",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 143138,
-      "forks": 34607,
-      "delta_stars": 1872,
+      "stars": 143151,
+      "forks": 34677,
+      "delta_stars": 1882,
       "url": "https://github.com/vercel/next.js"
     },
     {
@@ -77,9 +77,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 28279,
-      "forks": 1685,
-      "delta_stars": 24471,
+      "stars": 28782,
+      "forks": 1729,
+      "delta_stars": 25358,
       "url": "https://github.com/cloudflare/security-audit-skill"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Modular logistics and supply chain operating system (LSOS)",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 4289,
-      "forks": 1122,
-      "delta_stars": 1983,
+      "stars": 4309,
+      "forks": 1126,
+      "delta_stars": 1980,
       "url": "https://github.com/fleetbase/fleetbase"
     },
     {
@@ -103,9 +103,9 @@
       "description": "List of Permanent Free LLM API (API Keys)",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 9871,
-      "forks": 1052,
-      "delta_stars": 2279,
+      "stars": 9983,
+      "forks": 1071,
+      "delta_stars": 2404,
       "url": "https://github.com/mnfst/awesome-free-llm-apis"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 32232,
-      "forks": 2822,
-      "delta_stars": 1229,
+      "stars": 32297,
+      "forks": 2824,
+      "delta_stars": 1253,
       "url": "https://github.com/vercel-labs/agent-skills"
     },
     {
@@ -129,9 +129,9 @@
       "description": "A novel-writing tool created by a novelist.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 1406,
-      "forks": 179,
-      "delta_stars": 968,
+      "stars": 1420,
+      "forks": 183,
+      "delta_stars": 980,
       "url": "https://github.com/hughhowey/neo"
     },
     {
@@ -139,39 +139,39 @@
       "owner": "byoungd",
       "name": "up",
       "full_name": "byoungd/up",
-      "description": "韩先凯的人生进阶指南 人生进阶指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。",
+      "description": "韩先凯的人生进阶指南 人生进阶指南 AI时代生存指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 68279,
-      "forks": 6780,
-      "delta_stars": 5894,
+      "stars": 68476,
+      "forks": 6802,
+      "delta_stars": 5960,
       "url": "https://github.com/byoungd/up"
     },
     {
       "rank": 12,
-      "owner": "laoma528",
-      "name": "awesome-zhuiju-free",
-      "full_name": "laoma528/awesome-zhuiju-free",
-      "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
-      "language": "JavaScript",
-      "language_color": "#f1e05a",
-      "stars": 11780,
-      "forks": 812,
-      "delta_stars": 3585,
-      "url": "https://github.com/laoma528/awesome-zhuiju-free"
-    },
-    {
-      "rank": 13,
       "owner": "pbakaus",
       "name": "impeccable",
       "full_name": "pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 79833,
-      "forks": 4748,
-      "delta_stars": 12591,
+      "stars": 80284,
+      "forks": 4782,
+      "delta_stars": 12873,
       "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "rank": 13,
+      "owner": "laoma528",
+      "name": "awesome-zhuiju-free",
+      "full_name": "laoma528/awesome-zhuiju-free",
+      "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "stars": 11849,
+      "forks": 816,
+      "delta_stars": 3668,
+      "url": "https://github.com/laoma528/awesome-zhuiju-free"
     },
     {
       "rank": 14,
@@ -181,49 +181,49 @@
       "description": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 10228,
-      "forks": 2248,
-      "delta_stars": 158,
+      "stars": 10229,
+      "forks": 2252,
+      "delta_stars": 157,
       "url": "https://github.com/WebKit/WebKit"
     },
     {
       "rank": 15,
-      "owner": "WorldFlowAI",
-      "name": "everything-claude-code",
-      "full_name": "WorldFlowAI/everything-claude-code",
-      "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
-      "language": "JavaScript",
-      "language_color": "#f1e05a",
-      "stars": 4482,
-      "forks": 674,
-      "delta_stars": 1672,
-      "url": "https://github.com/WorldFlowAI/everything-claude-code"
-    },
-    {
-      "rank": 16,
-      "owner": "Neet-Nestor",
-      "name": "Telegram-Media-Downloader",
-      "full_name": "Neet-Nestor/Telegram-Media-Downloader",
-      "description": "A script allowing you to download images and videos from Telegram web even if the group restricts downloading.",
-      "language": "JavaScript",
-      "language_color": "#f1e05a",
-      "stars": 6028,
-      "forks": 592,
-      "delta_stars": 599,
-      "url": "https://github.com/Neet-Nestor/Telegram-Media-Downloader"
-    },
-    {
-      "rank": 17,
       "owner": "JoeanAmier",
       "name": "TikTokDownloader",
       "full_name": "JoeanAmier/TikTokDownloader",
       "description": "抖音 / TikTok 平台作品下载/数据采集工具",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 16696,
-      "forks": 2807,
-      "delta_stars": 949,
+      "stars": 16746,
+      "forks": 2816,
+      "delta_stars": 976,
       "url": "https://github.com/JoeanAmier/TikTokDownloader"
+    },
+    {
+      "rank": 16,
+      "owner": "WorldFlowAI",
+      "name": "everything-claude-code",
+      "full_name": "WorldFlowAI/everything-claude-code",
+      "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "stars": 4547,
+      "forks": 682,
+      "delta_stars": 1681,
+      "url": "https://github.com/WorldFlowAI/everything-claude-code"
+    },
+    {
+      "rank": 17,
+      "owner": "Neet-Nestor",
+      "name": "Telegram-Media-Downloader",
+      "full_name": "Neet-Nestor/Telegram-Media-Downloader",
+      "description": "A script allowing you to download images and videos from Telegram web even if the group restricts downloading.",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "stars": 6034,
+      "forks": 593,
+      "delta_stars": 596,
+      "url": "https://github.com/Neet-Nestor/Telegram-Media-Downloader"
     },
     {
       "rank": 18,
@@ -233,23 +233,10 @@
       "description": "Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 24927,
-      "forks": 967,
-      "delta_stars": 542,
+      "stars": 24961,
+      "forks": 971,
+      "delta_stars": 555,
       "url": "https://github.com/spicetify/cli"
-    },
-    {
-      "rank": 19,
-      "owner": "qist",
-      "name": "tvbox",
-      "full_name": "qist/tvbox",
-      "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
-      "language": "JavaScript",
-      "language_color": "#f1e05a",
-      "stars": 11873,
-      "forks": 4193,
-      "delta_stars": 711,
-      "url": "https://github.com/qist/tvbox"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T20:25:00.896Z",
+  "generated_at": "2026-10-12T23:05:45.536Z",
   "since": "monthly",
   "language": "ai",
   "count": 15,
@@ -12,22 +12,22 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 46136,
-      "forks": 3348,
-      "delta_stars": 23947,
+      "stars": 46532,
+      "forks": 3385,
+      "delta_stars": 24146,
       "url": "https://github.com/alibaba/open-code-review"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "owner": "paperclipai",
       "name": "paperclip",
       "full_name": "paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 100279,
-      "forks": 16898,
-      "delta_stars": 19499,
+      "stars": 100937,
+      "forks": 16974,
+      "delta_stars": 19987,
       "url": "https://github.com/paperclipai/paperclip"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 48372,
-      "forks": 6000,
-      "delta_stars": 24928,
+      "stars": 48831,
+      "forks": 6011,
+      "delta_stars": 25187,
       "url": "https://github.com/vectorize-io/hindsight"
     },
     {
@@ -51,9 +51,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 277104,
-      "forks": 41337,
-      "delta_stars": 22474,
+      "stars": 277874,
+      "forks": 41432,
+      "delta_stars": 22438,
       "url": "https://github.com/affaan-m/ECC"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 29089,
-      "forks": 3301,
-      "delta_stars": 4750,
+      "stars": 29343,
+      "forks": 3328,
+      "delta_stars": 5173,
       "url": "https://github.com/anthropics/knowledge-work-plugins"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 150205,
-      "forks": 26208,
-      "delta_stars": 6240,
+      "stars": 150427,
+      "forks": 26311,
+      "delta_stars": 6290,
       "url": "https://github.com/anthropics/claude-code"
     },
     {
@@ -90,36 +90,36 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 33180,
-      "forks": 4417,
-      "delta_stars": 11234,
+      "stars": 33521,
+      "forks": 4462,
+      "delta_stars": 11116,
       "url": "https://github.com/Tencent/WeKnora"
     },
     {
       "rank": 10,
-      "owner": "heygen-com",
-      "name": "hyperframes",
-      "full_name": "heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "language_color": "#3178c6",
-      "stars": 60852,
-      "forks": 5445,
-      "delta_stars": 11826,
-      "url": "https://github.com/heygen-com/hyperframes"
-    },
-    {
-      "rank": 11,
       "owner": "TencentCloud",
       "name": "Octop",
       "full_name": "TencentCloud/Octop",
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 8648,
-      "forks": 1059,
-      "delta_stars": 7002,
+      "stars": 8888,
+      "forks": 1092,
+      "delta_stars": 7118,
       "url": "https://github.com/TencentCloud/Octop"
+    },
+    {
+      "rank": 11,
+      "owner": "heygen-com",
+      "name": "hyperframes",
+      "full_name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "language_color": "#3178c6",
+      "stars": 61779,
+      "forks": 5528,
+      "delta_stars": 11993,
+      "url": "https://github.com/heygen-com/hyperframes"
     },
     {
       "rank": 12,
@@ -129,9 +129,9 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 4849,
-      "forks": 549,
-      "delta_stars": 2956,
+      "stars": 4964,
+      "forks": 556,
+      "delta_stars": 3014,
       "url": "https://github.com/agent-substrate/substrate"
     },
     {
@@ -142,10 +142,23 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 15818,
-      "forks": 1764,
-      "delta_stars": 7234,
+      "stars": 15977,
+      "forks": 1772,
+      "delta_stars": 7318,
       "url": "https://github.com/NVIDIA/OpenShell"
+    },
+    {
+      "rank": 15,
+      "owner": "tashfeenahmed",
+      "name": "freellmapi",
+      "full_name": "tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "language_color": "#3178c6",
+      "stars": 34062,
+      "forks": 4668,
+      "delta_stars": 7925,
+      "url": "https://github.com/tashfeenahmed/freellmapi"
     },
     {
       "rank": 16,
@@ -155,23 +168,10 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 104922,
-      "forks": 10950,
-      "delta_stars": 11706,
+      "stars": 105603,
+      "forks": 11014,
+      "delta_stars": 11891,
       "url": "https://github.com/addyosmani/agent-skills"
-    },
-    {
-      "rank": 17,
-      "owner": "tashfeenahmed",
-      "name": "freellmapi",
-      "full_name": "tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "language": "TypeScript",
-      "language_color": "#3178c6",
-      "stars": 33276,
-      "forks": 4599,
-      "delta_stars": 7700,
-      "url": "https://github.com/tashfeenahmed/freellmapi"
     },
     {
       "rank": 18,
@@ -181,23 +181,23 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 26641,
-      "forks": 1915,
-      "delta_stars": 4285,
+      "stars": 27241,
+      "forks": 1941,
+      "delta_stars": 4584,
       "url": "https://github.com/mksglu/context-mode"
     },
     {
       "rank": 22,
-      "owner": "Panniantong",
-      "name": "Agent-Reach",
-      "full_name": "Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 95928,
-      "forks": 8402,
-      "delta_stars": 16725,
-      "url": "https://github.com/Panniantong/Agent-Reach"
+      "stars": 68070,
+      "forks": 11925,
+      "delta_stars": 13378,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     }
   ]
 }
