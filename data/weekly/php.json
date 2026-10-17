@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T19:36:42.064Z",
+  "generated_at": "2026-10-17T18:37:24.421Z",
   "since": "weekly",
   "language": "php",
-  "count": 10,
+  "count": 11,
   "list": [
     {
       "rank": 1,
@@ -12,9 +12,9 @@
       "description": "Free and open-source webshop solution for hostings",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 2722,
-      "forks": 547,
-      "delta_stars": 294,
+      "stars": 2737,
+      "forks": 549,
+      "delta_stars": 308,
       "url": "https://github.com/Paymenter/Paymenter"
     },
     {
@@ -25,9 +25,9 @@
       "description": "个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 5836,
-      "forks": 1111,
-      "delta_stars": 81,
+      "stars": 5842,
+      "forks": 1112,
+      "delta_stars": 77,
       "url": "https://github.com/lizhipay/acg-faka"
     },
     {
@@ -39,8 +39,8 @@
       "language": "PHP",
       "language_color": "#4F5D95",
       "stars": 17280,
-      "forks": 2113,
-      "delta_stars": 16,
+      "forks": 2114,
+      "delta_stars": 15,
       "url": "https://github.com/koel/koel"
     },
     {
@@ -51,23 +51,23 @@
       "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 10595,
-      "forks": 1117,
-      "delta_stars": 39,
+      "stars": 10596,
+      "forks": 1118,
+      "delta_stars": 35,
       "url": "https://github.com/nextcloud/all-in-one"
     },
     {
       "rank": 5,
-      "owner": "sebastianbergmann",
-      "name": "phpunit",
-      "full_name": "sebastianbergmann/phpunit",
-      "description": "The PHP Unit Testing framework.",
+      "owner": "nextcloud",
+      "name": "server",
+      "full_name": "nextcloud/server",
+      "description": "☁️ Nextcloud server, a safe home for all your data",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 20064,
-      "forks": 2214,
-      "delta_stars": 9,
-      "url": "https://github.com/sebastianbergmann/phpunit"
+      "stars": 37161,
+      "forks": 5284,
+      "delta_stars": 118,
+      "url": "https://github.com/nextcloud/server"
     },
     {
       "rank": 6,
@@ -78,38 +78,51 @@
       "language": "PHP",
       "language_color": "#4F5D95",
       "stars": 34962,
-      "forks": 12016,
+      "forks": 12017,
       "delta_stars": 23,
       "url": "https://github.com/laravel/framework"
     },
     {
       "rank": 7,
-      "owner": "pterodactyl",
-      "name": "panel",
-      "full_name": "pterodactyl/panel",
-      "description": "Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
+      "owner": "flarum",
+      "name": "framework",
+      "full_name": "flarum/framework",
+      "description": "Simple forum software for building great communities.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 9340,
-      "forks": 2729,
-      "delta_stars": 56,
-      "url": "https://github.com/pterodactyl/panel"
+      "stars": 6759,
+      "forks": 887,
+      "delta_stars": 5,
+      "url": "https://github.com/flarum/framework"
     },
     {
       "rank": 8,
-      "owner": "php-fig",
-      "name": "http-message",
-      "full_name": "php-fig/http-message",
-      "description": "The purpose of this PSR is to provide a set of common interfaces for HTTP messages as described in RFC 7230 and RFC 7231",
+      "owner": "laravel",
+      "name": "prompts",
+      "full_name": "laravel/prompts",
+      "description": "Beautiful and user-friendly forms for your command-line PHP applications.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 7028,
-      "forks": 185,
+      "stars": 728,
+      "forks": 143,
       "delta_stars": 0,
-      "url": "https://github.com/php-fig/http-message"
+      "url": "https://github.com/laravel/prompts"
     },
     {
       "rank": 9,
+      "owner": "voku",
+      "name": "portable-ascii",
+      "full_name": "voku/portable-ascii",
+      "description": "🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP.",
+      "language": "PHP",
+      "language_color": "#4F5D95",
+      "stars": 580,
+      "forks": 51,
+      "delta_stars": 1,
+      "url": "https://github.com/voku/portable-ascii"
+    },
+    {
+      "rank": 10,
       "owner": "php-fig",
       "name": "container",
       "full_name": "php-fig/container",
@@ -122,17 +135,17 @@
       "url": "https://github.com/php-fig/container"
     },
     {
-      "rank": 10,
-      "owner": "voku",
-      "name": "portable-ascii",
-      "full_name": "voku/portable-ascii",
-      "description": "🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP.",
+      "rank": 11,
+      "owner": "staabm",
+      "name": "side-effects-detector",
+      "full_name": "staabm/side-effects-detector",
+      "description": "Analyzes php-code for side-effects.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 579,
-      "forks": 51,
-      "delta_stars": 1,
-      "url": "https://github.com/voku/portable-ascii"
+      "stars": 171,
+      "forks": 2,
+      "delta_stars": 0,
+      "url": "https://github.com/staabm/side-effects-detector"
     }
   ]
 }

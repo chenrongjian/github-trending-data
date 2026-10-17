@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T19:36:42.064Z",
+  "generated_at": "2026-10-17T18:37:24.421Z",
   "since": "monthly",
   "language": "javascript",
-  "count": 20,
+  "count": 19,
   "list": [
     {
       "rank": 1,
@@ -12,9 +12,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 30171,
-      "forks": 1871,
-      "delta_stars": 25242,
+      "stars": 30583,
+      "forks": 1913,
+      "delta_stars": 24844,
       "url": "https://github.com/cloudflare/security-audit-skill"
     },
     {
@@ -25,9 +25,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 281282,
-      "forks": 41823,
-      "delta_stars": 22953,
+      "stars": 282239,
+      "forks": 41958,
+      "delta_stars": 23005,
       "url": "https://github.com/affaan-m/ECC"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 107335,
-      "forks": 11170,
-      "delta_stars": 13095,
+      "stars": 107761,
+      "forks": 11227,
+      "delta_stars": 12847,
       "url": "https://github.com/addyosmani/agent-skills"
     },
     {
@@ -51,9 +51,9 @@
       "description": "The React Framework",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 143039,
+      "stars": 143053,
       "forks": 35156,
-      "delta_stars": 1811,
+      "delta_stars": 1728,
       "url": "https://github.com/vercel/next.js"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 32527,
-      "forks": 2840,
-      "delta_stars": 1348,
+      "stars": 32559,
+      "forks": 2842,
+      "delta_stars": 1368,
       "url": "https://github.com/vercel-labs/agent-skills"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 12822,
-      "forks": 1568,
-      "delta_stars": 11434,
+      "stars": 13102,
+      "forks": 1616,
+      "delta_stars": 11937,
       "url": "https://github.com/DuarteSantos8/openGym"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 2655,
-      "forks": 237,
-      "delta_stars": 2111,
+      "stars": 2745,
+      "forks": 255,
+      "delta_stars": 2229,
       "url": "https://github.com/michael-denyer/pstack-claude"
     },
     {
@@ -103,9 +103,9 @@
       "description": "List of Permanent Free LLM API (API Keys)",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 10403,
-      "forks": 1140,
-      "delta_stars": 2732,
+      "stars": 10495,
+      "forks": 1157,
+      "delta_stars": 2781,
       "url": "https://github.com/mnfst/awesome-free-llm-apis"
     },
     {
@@ -116,62 +116,62 @@
       "description": "A novel-writing tool created by a novelist.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 1474,
-      "forks": 196,
-      "delta_stars": 1033,
+      "stars": 1489,
+      "forks": 198,
+      "delta_stars": 1042,
       "url": "https://github.com/hughhowey/neo"
     },
     {
       "rank": 10,
-      "owner": "byoungd",
-      "name": "up",
-      "full_name": "byoungd/up",
-      "description": "韩先凯的人生进阶指南 人生进阶指南 AI时代生存指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。",
-      "language": "JavaScript",
-      "language_color": "#f1e05a",
-      "stars": 68798,
-      "forks": 6843,
-      "delta_stars": 6292,
-      "url": "https://github.com/byoungd/up"
-    },
-    {
-      "rank": 11,
       "owner": "laoma528",
       "name": "awesome-zhuiju-free",
       "full_name": "laoma528/awesome-zhuiju-free",
       "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 12382,
-      "forks": 855,
-      "delta_stars": 3986,
+      "stars": 12525,
+      "forks": 870,
+      "delta_stars": 4001,
       "url": "https://github.com/laoma528/awesome-zhuiju-free"
     },
     {
+      "rank": 11,
+      "owner": "byoungd",
+      "name": "up",
+      "full_name": "byoungd/up",
+      "description": "韩先凯的人生进阶指南 人生进阶指南 AI时代生存指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "stars": 68852,
+      "forks": 6845,
+      "delta_stars": 6301,
+      "url": "https://github.com/byoungd/up"
+    },
+    {
       "rank": 12,
+      "owner": "hmjz100",
+      "name": "LinkSwift",
+      "full_name": "hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "stars": 24350,
+      "forks": 1488,
+      "delta_stars": 3270,
+      "url": "https://github.com/hmjz100/LinkSwift"
+    },
+    {
+      "rank": 13,
       "owner": "WebKit",
       "name": "WebKit",
       "full_name": "WebKit/WebKit",
       "description": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 10247,
-      "forks": 2264,
-      "delta_stars": 164,
+      "stars": 10250,
+      "forks": 2266,
+      "delta_stars": 161,
       "url": "https://github.com/WebKit/WebKit"
-    },
-    {
-      "rank": 13,
-      "owner": "bilawalsidhu",
-      "name": "gods-eye-view",
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "language_color": "#f1e05a",
-      "stars": 57186,
-      "forks": 11142,
-      "delta_stars": 22632,
-      "url": "https://github.com/bilawalsidhu/gods-eye-view"
     },
     {
       "rank": 14,
@@ -181,23 +181,23 @@
       "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 14259,
-      "forks": 806,
-      "delta_stars": 967,
+      "stars": 14303,
+      "forks": 812,
+      "delta_stars": 968,
       "url": "https://github.com/microsoft/playwright-cli"
     },
     {
       "rank": 15,
-      "owner": "hmjz100",
-      "name": "LinkSwift",
-      "full_name": "hmjz100/LinkSwift",
-      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "owner": "mrdoob",
+      "name": "three.js",
+      "full_name": "mrdoob/three.js",
+      "description": "JavaScript 3D Library.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 23583,
-      "forks": 1431,
-      "delta_stars": 2886,
-      "url": "https://github.com/hmjz100/LinkSwift"
+      "stars": 116541,
+      "forks": 36659,
+      "delta_stars": 1243,
+      "url": "https://github.com/mrdoob/three.js"
     },
     {
       "rank": 16,
@@ -207,23 +207,23 @@
       "description": "Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 25044,
-      "forks": 979,
-      "delta_stars": 600,
+      "stars": 25057,
+      "forks": 983,
+      "delta_stars": 611,
       "url": "https://github.com/spicetify/cli"
     },
     {
       "rank": 17,
-      "owner": "mrdoob",
-      "name": "three.js",
-      "full_name": "mrdoob/three.js",
-      "description": "JavaScript 3D Library.",
+      "owner": "qist",
+      "name": "tvbox",
+      "full_name": "qist/tvbox",
+      "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 116503,
-      "forks": 36654,
-      "delta_stars": 1239,
-      "url": "https://github.com/mrdoob/three.js"
+      "stars": 12057,
+      "forks": 4253,
+      "delta_stars": 775,
+      "url": "https://github.com/qist/tvbox"
     },
     {
       "rank": 18,
@@ -233,9 +233,9 @@
       "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 4828,
-      "forks": 719,
-      "delta_stars": 1811,
+      "stars": 4880,
+      "forks": 729,
+      "delta_stars": 1870,
       "url": "https://github.com/WorldFlowAI/everything-claude-code"
     },
     {
@@ -246,23 +246,10 @@
       "description": "A script allowing you to download images and videos from Telegram web even if the group restricts downloading.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 6056,
-      "forks": 595,
-      "delta_stars": 589,
+      "stars": 6060,
+      "forks": 596,
+      "delta_stars": 583,
       "url": "https://github.com/Neet-Nestor/Telegram-Media-Downloader"
-    },
-    {
-      "rank": 20,
-      "owner": "DietrichGebert",
-      "name": "ponytail",
-      "full_name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "language_color": "#f1e05a",
-      "stars": 165120,
-      "forks": 8917,
-      "delta_stars": 26164,
-      "url": "https://github.com/DietrichGebert/ponytail"
     }
   ]
 }
