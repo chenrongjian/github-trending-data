@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T18:43:50.732Z",
+  "generated_at": "2026-10-19T21:10:18.373Z",
   "since": "weekly",
   "language": "rust",
   "count": 5,
@@ -12,9 +12,9 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 32531,
-      "forks": 5161,
-      "delta_stars": 18479,
+      "stars": 33636,
+      "forks": 5324,
+      "delta_stars": 16379,
       "url": "https://github.com/storytold/artcraft"
     },
     {
@@ -25,49 +25,49 @@
       "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 8297,
-      "forks": 443,
-      "delta_stars": 4277,
+      "stars": 10448,
+      "forks": 547,
+      "delta_stars": 4925,
       "url": "https://github.com/xerj-org/xerj"
     },
     {
       "rank": 3,
+      "owner": "akitaonrails",
+      "name": "ai-memory",
+      "full_name": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "language_color": "#dea584",
+      "stars": 11244,
+      "forks": 795,
+      "delta_stars": 1684,
+      "url": "https://github.com/akitaonrails/ai-memory"
+    },
+    {
+      "rank": 4,
       "owner": "trymirai",
       "name": "uzu",
       "full_name": "trymirai/uzu",
       "description": "A high-performance inference engine for AI models",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 2390,
-      "forks": 148,
-      "delta_stars": 242,
+      "stars": 2405,
+      "forks": 153,
+      "delta_stars": 227,
       "url": "https://github.com/trymirai/uzu"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "owner": "HakanSeven12",
       "name": "OpenCADStudio",
       "full_name": "HakanSeven12/OpenCADStudio",
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 3260,
-      "forks": 378,
-      "delta_stars": 471,
+      "stars": 3316,
+      "forks": 384,
+      "delta_stars": 482,
       "url": "https://github.com/HakanSeven12/OpenCADStudio"
-    },
-    {
-      "rank": 5,
-      "owner": "koharu-rs",
-      "name": "koharu",
-      "full_name": "koharu-rs/koharu",
-      "description": "ML-powered manga translator, written in Rust.",
-      "language": "Rust",
-      "language_color": "#dea584",
-      "stars": 6390,
-      "forks": 458,
-      "delta_stars": 407,
-      "url": "https://github.com/koharu-rs/koharu"
     }
   ]
 }
