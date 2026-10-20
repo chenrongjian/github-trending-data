@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T21:10:18.373Z",
+  "generated_at": "2026-10-20T20:02:51.741Z",
   "since": "monthly",
   "language": "python",
-  "count": 19,
+  "count": 18,
   "list": [
     {
       "rank": 1,
@@ -12,9 +12,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 77342,
-      "forks": 8467,
-      "delta_stars": 42036,
+      "stars": 78746,
+      "forks": 8647,
+      "delta_stars": 44161,
       "url": "https://github.com/debpalash/VoiceStudio"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 51632,
-      "forks": 6167,
-      "delta_stars": 27550,
+      "stars": 51988,
+      "forks": 6185,
+      "delta_stars": 27932,
       "url": "https://github.com/vectorize-io/hindsight"
     },
     {
@@ -38,9 +38,9 @@
       "description": "",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 40411,
-      "forks": 5657,
-      "delta_stars": 5498,
+      "stars": 40531,
+      "forks": 5661,
+      "delta_stars": 5573,
       "url": "https://github.com/anthropics/financial-services"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 30478,
-      "forks": 3440,
-      "delta_stars": 5493,
+      "stars": 30731,
+      "forks": 3463,
+      "delta_stars": 5489,
       "url": "https://github.com/anthropics/knowledge-work-plugins"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 43155,
-      "forks": 4563,
-      "delta_stars": 6015,
+      "stars": 43365,
+      "forks": 4583,
+      "delta_stars": 6772,
       "url": "https://github.com/anthropics/claude-plugins-official"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 71417,
-      "forks": 12565,
-      "delta_stars": 16300,
+      "stars": 71746,
+      "forks": 12624,
+      "delta_stars": 16662,
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
@@ -90,9 +90,9 @@
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 10270,
-      "forks": 1301,
-      "delta_stars": 6138,
+      "stars": 10442,
+      "forks": 1308,
+      "delta_stars": 6077,
       "url": "https://github.com/TencentCloud/Octop"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 21709,
-      "forks": 2141,
-      "delta_stars": 5476,
+      "stars": 21957,
+      "forks": 2159,
+      "delta_stars": 5595,
       "url": "https://github.com/earthtojake/text-to-cad"
     },
     {
@@ -116,9 +116,9 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 55165,
-      "forks": 4976,
-      "delta_stars": 5051,
+      "stars": 55634,
+      "forks": 5014,
+      "delta_stars": 5545,
       "url": "https://github.com/HKUDS/CLI-Anything"
     },
     {
@@ -129,9 +129,9 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 39306,
-      "forks": 3416,
-      "delta_stars": 3678,
+      "stars": 39359,
+      "forks": 3419,
+      "delta_stars": 3696,
       "url": "https://github.com/VectifyAI/PageIndex"
     },
     {
@@ -142,49 +142,49 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 32767,
-      "forks": 3797,
-      "delta_stars": 2089,
+      "stars": 32785,
+      "forks": 3774,
+      "delta_stars": 2094,
       "url": "https://github.com/davila7/claude-code-templates"
     },
     {
       "rank": 12,
-      "owner": "Panniantong",
-      "name": "Agent-Reach",
-      "full_name": "Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "language_color": "#3572A5",
-      "stars": 99622,
-      "forks": 8799,
-      "delta_stars": 16509,
-      "url": "https://github.com/Panniantong/Agent-Reach"
-    },
-    {
-      "rank": 13,
-      "owner": "strands-agents",
-      "name": "harness-sdk",
-      "full_name": "strands-agents/harness-sdk",
-      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-      "language": "TypeScript",
-      "language_color": "#3178c6",
-      "stars": 8868,
-      "forks": 1399,
-      "delta_stars": 1545,
-      "url": "https://github.com/strands-agents/harness-sdk"
-    },
-    {
-      "rank": 14,
       "owner": "pytorch",
       "name": "pytorch",
       "full_name": "pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 104921,
-      "forks": 32917,
-      "delta_stars": 2391,
+      "stars": 104951,
+      "forks": 32454,
+      "delta_stars": 2466,
       "url": "https://github.com/pytorch/pytorch"
+    },
+    {
+      "rank": 13,
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "stars": 100235,
+      "forks": 8831,
+      "delta_stars": 16719,
+      "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "rank": 14,
+      "owner": "tile-ai",
+      "name": "tilelang",
+      "full_name": "tile-ai/tilelang",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "stars": 8687,
+      "forks": 905,
+      "delta_stars": 1248,
+      "url": "https://github.com/tile-ai/tilelang"
     },
     {
       "rank": 15,
@@ -194,62 +194,49 @@
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 5372,
-      "forks": 756,
-      "delta_stars": 1555,
+      "stars": 5384,
+      "forks": 760,
+      "delta_stars": 1563,
       "url": "https://github.com/NVIDIA/Model-Optimizer"
     },
     {
       "rank": 16,
-      "owner": "superdesigndev",
-      "name": "treg",
-      "full_name": "superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "language": "Python",
-      "language_color": "#3572A5",
-      "stars": 5832,
-      "forks": 488,
-      "delta_stars": 4127,
-      "url": "https://github.com/superdesigndev/treg"
-    },
-    {
-      "rank": 17,
-      "owner": "tile-ai",
-      "name": "tilelang",
-      "full_name": "tile-ai/tilelang",
-      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "language": "Python",
-      "language_color": "#3572A5",
-      "stars": 8656,
-      "forks": 903,
-      "delta_stars": 1242,
-      "url": "https://github.com/tile-ai/tilelang"
-    },
-    {
-      "rank": 18,
       "owner": "ahujasid",
       "name": "mcp-for-blender",
       "full_name": "ahujasid/mcp-for-blender",
       "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 31679,
-      "forks": 2982,
-      "delta_stars": 2658,
+      "stars": 31777,
+      "forks": 2920,
+      "delta_stars": 2740,
       "url": "https://github.com/ahujasid/mcp-for-blender"
     },
     {
-      "rank": 19,
-      "owner": "topoteretes",
-      "name": "cognee",
-      "full_name": "topoteretes/cognee",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free",
+      "rank": 17,
+      "owner": "superdesigndev",
+      "name": "treg",
+      "full_name": "superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 32550,
-      "forks": 3412,
-      "delta_stars": 1835,
-      "url": "https://github.com/topoteretes/cognee"
+      "stars": 5887,
+      "forks": 497,
+      "delta_stars": 4151,
+      "url": "https://github.com/superdesigndev/treg"
+    },
+    {
+      "rank": 18,
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "full_name": "MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "stars": 60154,
+      "forks": 18806,
+      "delta_stars": 15890,
+      "url": "https://github.com/MadsLorentzen/ai-job-search"
     }
   ]
 }
