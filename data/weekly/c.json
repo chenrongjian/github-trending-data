@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T20:02:51.741Z",
+  "generated_at": "2026-10-21T20:15:12.113Z",
   "since": "weekly",
   "language": "c",
   "count": 10,
@@ -12,9 +12,9 @@
       "description": "Static recompilation runtime libraries for PlayStation 3 titles.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 532,
-      "forks": 71,
-      "delta_stars": 132,
+      "stars": 544,
+      "forks": 73,
+      "delta_stars": 130,
       "url": "https://github.com/sp00nznet/ps3recomp"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Xbox 360 Recompilation Runtime and Toolkit",
       "language": "C",
       "language_color": "#555555",
-      "stars": 1135,
-      "forks": 217,
-      "delta_stars": 95,
+      "stars": 1143,
+      "forks": 219,
+      "delta_stars": 92,
       "url": "https://github.com/rexglue/rexglue-sdk"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 270,
-      "forks": 73,
-      "delta_stars": 87,
+      "stars": 276,
+      "forks": 78,
+      "delta_stars": 80,
       "url": "https://github.com/sp00nznet/xboxrecomp"
     },
     {
@@ -51,9 +51,9 @@
       "description": "An advanced Kernel based root solution for Android",
       "language": "C",
       "language_color": "#555555",
-      "stars": 4550,
-      "forks": 1202,
-      "delta_stars": 132,
+      "stars": 4570,
+      "forks": 1204,
+      "delta_stars": 129,
       "url": "https://github.com/KernelSU-Next/KernelSU-Next"
     },
     {
@@ -64,23 +64,23 @@
       "description": "A simple and easy-to-use library to enjoy videogames programming",
       "language": "C",
       "language_color": "#555555",
-      "stars": 35338,
+      "stars": 35355,
       "forks": 3349,
-      "delta_stars": 207,
+      "delta_stars": 201,
       "url": "https://github.com/raysan5/raylib"
     },
     {
       "rank": 6,
-      "owner": "arendst",
-      "name": "Tasmota",
-      "full_name": "arendst/Tasmota",
-      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "owner": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 24892,
-      "forks": 5202,
-      "delta_stars": 72,
-      "url": "https://github.com/arendst/Tasmota"
+      "stars": 4597,
+      "forks": 1632,
+      "delta_stars": 34,
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel"
     },
     {
       "rank": 7,
@@ -90,49 +90,49 @@
       "description": "An open and affordable mini quadruped robot based on ESP32.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 4760,
-      "forks": 644,
-      "delta_stars": 117,
+      "stars": 4777,
+      "forks": 646,
+      "delta_stars": 110,
       "url": "https://github.com/dorianborian/sesame-robot"
     },
     {
       "rank": 8,
-      "owner": "ventoy",
-      "name": "Ventoy",
-      "full_name": "ventoy/Ventoy",
-      "description": "A new bootable USB solution.",
+      "owner": "opa334",
+      "name": "Dopamine",
+      "full_name": "opa334/Dopamine",
+      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
       "language": "C",
       "language_color": "#555555",
-      "stars": 80228,
-      "forks": 5000,
-      "delta_stars": 271,
-      "url": "https://github.com/ventoy/Ventoy"
+      "stars": 7009,
+      "forks": 6340,
+      "delta_stars": 92,
+      "url": "https://github.com/opa334/Dopamine"
     },
     {
       "rank": 9,
-      "owner": "redis",
-      "name": "redis",
-      "full_name": "redis/redis",
-      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
-      "language": "C",
-      "language_color": "#555555",
-      "stars": 77044,
-      "forks": 24891,
-      "delta_stars": 393,
-      "url": "https://github.com/redis/redis"
-    },
-    {
-      "rank": 10,
       "owner": "Zelda64Recomp",
       "name": "Zelda64Recomp",
       "full_name": "Zelda64Recomp/Zelda64Recomp",
       "description": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)",
       "language": "C",
       "language_color": "#555555",
-      "stars": 7488,
+      "stars": 7496,
       "forks": 349,
-      "delta_stars": 93,
+      "delta_stars": 96,
       "url": "https://github.com/Zelda64Recomp/Zelda64Recomp"
+    },
+    {
+      "rank": 10,
+      "owner": "arendst",
+      "name": "Tasmota",
+      "full_name": "arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "language_color": "#555555",
+      "stars": 24896,
+      "forks": 5202,
+      "delta_stars": 61,
+      "url": "https://github.com/arendst/Tasmota"
     }
   ]
 }

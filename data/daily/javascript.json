@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T20:02:51.741Z",
+  "generated_at": "2026-10-21T20:15:12.113Z",
   "since": "daily",
   "language": "javascript",
-  "count": 7,
+  "count": 8,
   "list": [
     {
       "rank": 1,
@@ -12,9 +12,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 33828,
-      "forks": 2118,
-      "delta_stars": 1680,
+      "stars": 35760,
+      "forks": 2243,
+      "delta_stars": 1997,
       "url": "https://github.com/cloudflare/security-audit-skill"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 169372,
-      "forks": 9211,
-      "delta_stars": 1396,
+      "stars": 171331,
+      "forks": 9324,
+      "delta_stars": 2051,
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
@@ -38,62 +38,75 @@
       "description": "",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 6591,
-      "forks": 1056,
-      "delta_stars": 592,
+      "stars": 7010,
+      "forks": 1134,
+      "delta_stars": 418,
       "url": "https://github.com/withmarbleapp/os-taxonomy"
     },
     {
       "rank": 4,
-      "owner": "nodejs",
-      "name": "node",
-      "full_name": "nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "owner": "citrolabs",
+      "name": "ego-lite",
+      "full_name": "citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 122489,
-      "forks": 39860,
-      "delta_stars": 144,
-      "url": "https://github.com/nodejs/node"
+      "stars": 18505,
+      "forks": 1014,
+      "delta_stars": 427,
+      "url": "https://github.com/citrolabs/ego-lite"
     },
     {
       "rank": 5,
-      "owner": "datawhalechina",
-      "name": "easy-vibe",
-      "full_name": "datawhalechina/easy-vibe",
-      "description": "💻 Vibe Coding 101｜Your First Course For AI Product Builders.",
+      "owner": "NomaDamas",
+      "name": "CozyClay",
+      "full_name": "NomaDamas/CozyClay",
+      "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 20057,
-      "forks": 1939,
-      "delta_stars": 30,
-      "url": "https://github.com/datawhalechina/easy-vibe"
+      "stars": 884,
+      "forks": 101,
+      "delta_stars": 29,
+      "url": "https://github.com/NomaDamas/CozyClay"
     },
     {
       "rank": 6,
-      "owner": "hmjz100",
-      "name": "LinkSwift",
-      "full_name": "hmjz100/LinkSwift",
-      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "owner": "tt-a1i",
+      "name": "archify",
+      "full_name": "tt-a1i/archify",
+      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 26489,
-      "forks": 1739,
-      "delta_stars": 528,
-      "url": "https://github.com/hmjz100/LinkSwift"
+      "stars": 87011,
+      "forks": 5858,
+      "delta_stars": 726,
+      "url": "https://github.com/tt-a1i/archify"
     },
     {
       "rank": 7,
-      "owner": "WorldFlowAI",
-      "name": "everything-claude-code",
-      "full_name": "WorldFlowAI/everything-claude-code",
-      "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+      "owner": "xmanrui",
+      "name": "dsh-im",
+      "full_name": "xmanrui/dsh-im",
+      "description": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 5118,
-      "forks": 762,
-      "delta_stars": 95,
-      "url": "https://github.com/WorldFlowAI/everything-claude-code"
+      "stars": 2270,
+      "forks": 237,
+      "delta_stars": 49,
+      "url": "https://github.com/xmanrui/dsh-im"
+    },
+    {
+      "rank": 8,
+      "owner": "shaobeichen",
+      "name": "dsh-pocket",
+      "full_name": "shaobeichen/dsh-pocket",
+      "description": "把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring)",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "stars": 2180,
+      "forks": 96,
+      "delta_stars": 189,
+      "url": "https://github.com/shaobeichen/dsh-pocket"
     }
   ]
 }
