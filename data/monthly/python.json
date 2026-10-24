@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-23T19:59:33.721Z",
+  "generated_at": "2026-10-24T18:53:09.249Z",
   "since": "monthly",
   "language": "python",
-  "count": 19,
+  "count": 18,
   "list": [
     {
       "rank": 1,
@@ -12,36 +12,36 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 82980,
-      "forks": 9162,
-      "delta_stars": 47620,
+      "stars": 84630,
+      "forks": 9357,
+      "delta_stars": 48343,
       "url": "https://github.com/debpalash/VoiceStudio"
     },
     {
       "rank": 2,
-      "owner": "vectorize-io",
-      "name": "hindsight",
-      "full_name": "vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "language": "Python",
-      "language_color": "#3572A5",
-      "stars": 53096,
-      "forks": 6227,
-      "delta_stars": 28067,
-      "url": "https://github.com/vectorize-io/hindsight"
-    },
-    {
-      "rank": 3,
       "owner": "anthropics",
       "name": "knowledge-work-plugins",
       "full_name": "anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 32124,
-      "forks": 3565,
-      "delta_stars": 6026,
+      "stars": 32567,
+      "forks": 3599,
+      "delta_stars": 6635,
       "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "rank": 3,
+      "owner": "vectorize-io",
+      "name": "hindsight",
+      "full_name": "vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "stars": 53396,
+      "forks": 6236,
+      "delta_stars": 28115,
+      "url": "https://github.com/vectorize-io/hindsight"
     },
     {
       "rank": 4,
@@ -51,9 +51,9 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 44092,
-      "forks": 4637,
-      "delta_stars": 7380,
+      "stars": 44322,
+      "forks": 4651,
+      "delta_stars": 7614,
       "url": "https://github.com/anthropics/claude-plugins-official"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 22725,
-      "forks": 2217,
-      "delta_stars": 6334,
+      "stars": 22905,
+      "forks": 2229,
+      "delta_stars": 6519,
       "url": "https://github.com/earthtojake/text-to-cad"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 72763,
-      "forks": 12784,
-      "delta_stars": 17489,
+      "stars": 73203,
+      "forks": 12849,
+      "delta_stars": 17479,
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
@@ -90,9 +90,9 @@
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 10839,
-      "forks": 1386,
-      "delta_stars": 6233,
+      "stars": 10917,
+      "forks": 1407,
+      "delta_stars": 6225,
       "url": "https://github.com/TencentCloud/Octop"
     },
     {
@@ -103,9 +103,9 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 39559,
-      "forks": 3428,
-      "delta_stars": 3800,
+      "stars": 39616,
+      "forks": 3426,
+      "delta_stars": 3867,
       "url": "https://github.com/VectifyAI/PageIndex"
     },
     {
@@ -116,9 +116,9 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 56528,
-      "forks": 5074,
-      "delta_stars": 6636,
+      "stars": 56819,
+      "forks": 5092,
+      "delta_stars": 6906,
       "url": "https://github.com/HKUDS/CLI-Anything"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 101309,
-      "forks": 8934,
-      "delta_stars": 16831,
+      "stars": 101672,
+      "forks": 8975,
+      "delta_stars": 16814,
       "url": "https://github.com/Panniantong/Agent-Reach"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 41611,
-      "forks": 4410,
-      "delta_stars": 1804,
+      "stars": 41631,
+      "forks": 4412,
+      "delta_stars": 1821,
       "url": "https://github.com/wshobson/agents"
     },
     {
@@ -155,9 +155,9 @@
       "description": "TokenSpeed is a speed-of-light LLM inference engine.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 2774,
+      "stars": 2779,
       "forks": 374,
-      "delta_stars": 603,
+      "delta_stars": 617,
       "url": "https://github.com/lightseekorg/tokenspeed"
     },
     {
@@ -168,9 +168,9 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 71154,
-      "forks": 9205,
-      "delta_stars": 10373,
+      "stars": 71524,
+      "forks": 9267,
+      "delta_stars": 10478,
       "url": "https://github.com/calesthio/OpenMontage"
     },
     {
@@ -181,74 +181,61 @@
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 8754,
-      "forks": 920,
-      "delta_stars": 1306,
+      "stars": 8759,
+      "forks": 922,
+      "delta_stars": 1312,
       "url": "https://github.com/tile-ai/tilelang"
     },
     {
       "rank": 15,
-      "owner": "pytorch",
-      "name": "pytorch",
-      "full_name": "pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "language": "Python",
-      "language_color": "#3572A5",
-      "stars": 105010,
-      "forks": 32469,
-      "delta_stars": 2550,
-      "url": "https://github.com/pytorch/pytorch"
-    },
-    {
-      "rank": 16,
       "owner": "shiyu-coder",
       "name": "Kronos",
       "full_name": "shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 43441,
-      "forks": 7165,
-      "delta_stars": 4161,
+      "stars": 43550,
+      "forks": 7191,
+      "delta_stars": 4199,
       "url": "https://github.com/shiyu-coder/Kronos"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "owner": "fastapi",
       "name": "fastapi",
       "full_name": "fastapi/fastapi",
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 104060,
-      "forks": 10109,
-      "delta_stars": 1864,
+      "stars": 104082,
+      "forks": 10115,
+      "delta_stars": 1866,
       "url": "https://github.com/fastapi/fastapi"
     },
     {
-      "rank": 18,
-      "owner": "anthropics",
-      "name": "financial-services",
-      "full_name": "anthropics/financial-services",
-      "description": "",
+      "rank": 17,
+      "owner": "pytorch",
+      "name": "pytorch",
+      "full_name": "pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 40732,
-      "forks": 5684,
-      "delta_stars": 4692,
-      "url": "https://github.com/anthropics/financial-services"
+      "stars": 105039,
+      "forks": 32335,
+      "delta_stars": 2549,
+      "url": "https://github.com/pytorch/pytorch"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "owner": "ahujasid",
       "name": "mcp-for-blender",
       "full_name": "ahujasid/mcp-for-blender",
       "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 32129,
-      "forks": 2913,
-      "delta_stars": 2915,
+      "stars": 32230,
+      "forks": 2921,
+      "delta_stars": 2972,
       "url": "https://github.com/ahujasid/mcp-for-blender"
     }
   ]
