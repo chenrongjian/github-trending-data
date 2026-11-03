@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T23:37:59.750Z",
+  "generated_at": "2026-11-03T21:52:19.895Z",
   "since": "monthly",
   "language": "javascript",
   "count": 14,
@@ -12,9 +12,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 57367,
-      "forks": 3730,
-      "delta_stars": 32599,
+      "stars": 58125,
+      "forks": 3784,
+      "delta_stars": 33474,
       "url": "https://github.com/cloudflare/security-audit-skill"
     },
     {
@@ -25,36 +25,36 @@
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 108696,
-      "forks": 7318,
-      "delta_stars": 16333,
+      "stars": 109446,
+      "forks": 7361,
+      "delta_stars": 16952,
       "url": "https://github.com/Leonxlnx/taste-skill"
     },
     {
       "rank": 3,
-      "owner": "affaan-m",
-      "name": "ECC",
-      "full_name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "language_color": "#f1e05a",
-      "stars": 295640,
-      "forks": 43740,
-      "delta_stars": 25773,
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "rank": 4,
       "owner": "addyosmani",
       "name": "agent-skills",
       "full_name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 112825,
-      "forks": 11813,
-      "delta_stars": 12709,
+      "stars": 113034,
+      "forks": 11824,
+      "delta_stars": 12792,
       "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "rank": 4,
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "stars": 296493,
+      "forks": 43835,
+      "delta_stars": 26123,
+      "url": "https://github.com/affaan-m/ECC"
     },
     {
       "rank": 5,
@@ -64,9 +64,9 @@
       "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 18880,
-      "forks": 2492,
-      "delta_stars": 17036,
+      "stars": 19091,
+      "forks": 2532,
+      "delta_stars": 17321,
       "url": "https://github.com/DuarteSantos8/openGym"
     },
     {
@@ -77,9 +77,9 @@
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 37430,
-      "forks": 2672,
-      "delta_stars": 16433,
+      "stars": 37638,
+      "forks": 2690,
+      "delta_stars": 16662,
       "url": "https://github.com/hmjz100/LinkSwift"
     },
     {
@@ -90,9 +90,9 @@
       "description": "",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 7517,
-      "forks": 1217,
-      "delta_stars": 2956,
+      "stars": 7561,
+      "forks": 1230,
+      "delta_stars": 2975,
       "url": "https://github.com/withmarbleapp/os-taxonomy"
     },
     {
@@ -103,9 +103,9 @@
       "description": "List of Permanent Free LLM API (API Keys)",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 12004,
-      "forks": 1388,
-      "delta_stars": 3130,
+      "stars": 12089,
+      "forks": 1399,
+      "delta_stars": 3068,
       "url": "https://github.com/mnfst/awesome-free-llm-apis"
     },
     {
@@ -116,9 +116,9 @@
       "description": "JavaScript 3D Library.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 117445,
-      "forks": 36895,
-      "delta_stars": 1569,
+      "stars": 117503,
+      "forks": 36861,
+      "delta_stars": 1610,
       "url": "https://github.com/mrdoob/three.js"
     },
     {
@@ -129,9 +129,9 @@
       "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 49383,
-      "forks": 7649,
-      "delta_stars": 575,
+      "stars": 49389,
+      "forks": 7646,
+      "delta_stars": 588,
       "url": "https://github.com/algorithm-visualizer/algorithm-visualizer"
     },
     {
@@ -142,9 +142,9 @@
       "description": "web development for the rest of us",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 88538,
-      "forks": 6853,
-      "delta_stars": 733,
+      "stars": 88548,
+      "forks": 6818,
+      "delta_stars": 738,
       "url": "https://github.com/sveltejs/svelte"
     },
     {
@@ -155,9 +155,9 @@
       "description": "🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 4591,
-      "forks": 620,
-      "delta_stars": 1298,
+      "stars": 4624,
+      "forks": 621,
+      "delta_stars": 1357,
       "url": "https://github.com/PenglongHuang/chinese-novelist-skill"
     },
     {
@@ -168,9 +168,9 @@
       "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 12556,
-      "forks": 4379,
-      "delta_stars": 968,
+      "stars": 12586,
+      "forks": 4385,
+      "delta_stars": 988,
       "url": "https://github.com/qist/tvbox"
     },
     {
@@ -181,9 +181,9 @@
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 123202,
-      "forks": 38765,
-      "delta_stars": 2209,
+      "stars": 123211,
+      "forks": 38730,
+      "delta_stars": 2207,
       "url": "https://github.com/nodejs/node"
     }
   ]
