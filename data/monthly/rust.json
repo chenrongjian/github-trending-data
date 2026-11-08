@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T20:21:21.506Z",
+  "generated_at": "2026-11-08T20:38:35.267Z",
   "since": "monthly",
   "language": "rust",
   "count": 11,
@@ -12,9 +12,9 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 39518,
-      "forks": 6217,
-      "delta_stars": 36600,
+      "stars": 39857,
+      "forks": 6249,
+      "delta_stars": 35633,
       "url": "https://github.com/storytold/artcraft"
     },
     {
@@ -25,9 +25,9 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 105402,
-      "forks": 6265,
-      "delta_stars": 27610,
+      "stars": 106117,
+      "forks": 6305,
+      "delta_stars": 27680,
       "url": "https://github.com/pbakaus/impeccable"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 11931,
-      "forks": 463,
-      "delta_stars": 2918,
+      "stars": 12095,
+      "forks": 466,
+      "delta_stars": 3009,
       "url": "https://github.com/max-sixty/worktrunk"
     },
     {
@@ -51,36 +51,36 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 15325,
-      "forks": 1118,
-      "delta_stars": 6496,
+      "stars": 15397,
+      "forks": 1125,
+      "delta_stars": 6497,
       "url": "https://github.com/akitaonrails/ai-memory"
     },
     {
       "rank": 5,
+      "owner": "cjpais",
+      "name": "Handy",
+      "full_name": "cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "language": "Rust",
+      "language_color": "#dea584",
+      "stars": 38048,
+      "forks": 3587,
+      "delta_stars": 4926,
+      "url": "https://github.com/cjpais/Handy"
+    },
+    {
+      "rank": 6,
       "owner": "vercel-labs",
       "name": "agent-desktop",
       "full_name": "vercel-labs/agent-desktop",
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 18779,
-      "forks": 1371,
-      "delta_stars": 16218,
+      "stars": 19558,
+      "forks": 1448,
+      "delta_stars": 16924,
       "url": "https://github.com/vercel-labs/agent-desktop"
-    },
-    {
-      "rank": 6,
-      "owner": "NVIDIA",
-      "name": "OpenShell",
-      "full_name": "NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "language_color": "#dea584",
-      "stars": 21246,
-      "forks": 2081,
-      "delta_stars": 6250,
-      "url": "https://github.com/NVIDIA/OpenShell"
     },
     {
       "rank": 7,
@@ -90,23 +90,23 @@
       "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 18559,
-      "forks": 1363,
-      "delta_stars": 17437,
+      "stars": 18594,
+      "forks": 1354,
+      "delta_stars": 17208,
       "url": "https://github.com/xerj-org/xerj"
     },
     {
       "rank": 8,
-      "owner": "cjpais",
-      "name": "Handy",
-      "full_name": "cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "owner": "NVIDIA",
+      "name": "OpenShell",
+      "full_name": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 37925,
-      "forks": 3578,
-      "delta_stars": 4897,
-      "url": "https://github.com/cjpais/Handy"
+      "stars": 21284,
+      "forks": 2082,
+      "delta_stars": 6135,
+      "url": "https://github.com/NVIDIA/OpenShell"
     },
     {
       "rank": 9,
@@ -116,9 +116,9 @@
       "description": "Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 15193,
-      "forks": 1897,
-      "delta_stars": 10668,
+      "stars": 15684,
+      "forks": 1958,
+      "delta_stars": 11031,
       "url": "https://github.com/jub0t/Concat"
     },
     {
@@ -129,23 +129,23 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 96693,
-      "forks": 5271,
-      "delta_stars": 873,
+      "stars": 96709,
+      "forks": 5273,
+      "delta_stars": 963,
       "url": "https://github.com/oven-sh/bun"
     },
     {
       "rank": 11,
-      "owner": "bevyengine",
-      "name": "bevy",
-      "full_name": "bevyengine/bevy",
-      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "owner": "vercel-labs",
+      "name": "agent-browser",
+      "full_name": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 49601,
-      "forks": 5030,
-      "delta_stars": 1050,
-      "url": "https://github.com/bevyengine/bevy"
+      "stars": 47492,
+      "forks": 3253,
+      "delta_stars": 3710,
+      "url": "https://github.com/vercel-labs/agent-browser"
     }
   ]
 }
