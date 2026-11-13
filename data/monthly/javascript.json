@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T22:20:14.270Z",
+  "generated_at": "2026-11-13T22:03:03.120Z",
   "since": "monthly",
   "language": "javascript",
   "count": 11,
@@ -12,9 +12,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 71152,
-      "forks": 4729,
-      "delta_stars": 42138,
+      "stars": 71851,
+      "forks": 4787,
+      "delta_stars": 42602,
       "url": "https://github.com/cloudflare/security-audit-skill"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 114237,
-      "forks": 7688,
-      "delta_stars": 19310,
+      "stars": 114992,
+      "forks": 7714,
+      "delta_stars": 19580,
       "url": "https://github.com/Leonxlnx/taste-skill"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 21104,
-      "forks": 2852,
-      "delta_stars": 11418,
+      "stars": 21238,
+      "forks": 2867,
+      "delta_stars": 10913,
       "url": "https://github.com/DuarteSantos8/openGym"
     },
     {
@@ -51,9 +51,9 @@
       "description": "For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & telemetry blocker, replacement home screen, and custom screensavers. Runs on the TV itself. Includes an optional Home Assistant MQTT bridge for smart home control.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 2095,
-      "forks": 129,
-      "delta_stars": 1484,
+      "stars": 2114,
+      "forks": 132,
+      "delta_stars": 1486,
       "url": "https://github.com/rorygallagher2024/glasshouse"
     },
     {
@@ -64,9 +64,9 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 22669,
-      "forks": 1281,
-      "delta_stars": 5535,
+      "stars": 22785,
+      "forks": 1288,
+      "delta_stars": 5575,
       "url": "https://github.com/citrolabs/ego-lite"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 4262,
+      "stars": 4288,
       "forks": 392,
-      "delta_stars": 2456,
+      "delta_stars": 2430,
       "url": "https://github.com/michael-denyer/pstack-claude"
     },
     {
@@ -90,9 +90,9 @@
       "description": "JavaScript 3D Library.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 118246,
-      "forks": 36952,
-      "delta_stars": 2041,
+      "stars": 118318,
+      "forks": 36956,
+      "delta_stars": 2058,
       "url": "https://github.com/mrdoob/three.js"
     },
     {
@@ -103,49 +103,49 @@
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 39576,
-      "forks": 2851,
-      "delta_stars": 18324,
+      "stars": 39722,
+      "forks": 2865,
+      "delta_stars": 18459,
       "url": "https://github.com/hmjz100/LinkSwift"
     },
     {
       "rank": 9,
+      "owner": "withmarbleapp",
+      "name": "os-taxonomy",
+      "full_name": "withmarbleapp/os-taxonomy",
+      "description": "",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "stars": 7691,
+      "forks": 1251,
+      "delta_stars": 2909,
+      "url": "https://github.com/withmarbleapp/os-taxonomy"
+    },
+    {
+      "rank": 10,
       "owner": "jquery",
       "name": "jquery",
       "full_name": "jquery/jquery",
       "description": "jQuery JavaScript Library",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 59952,
-      "forks": 20704,
+      "stars": 59946,
+      "forks": 20705,
       "delta_stars": 446,
       "url": "https://github.com/jquery/jquery"
     },
     {
-      "rank": 10,
-      "owner": "affaan-m",
-      "name": "ECC",
-      "full_name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "language_color": "#f1e05a",
-      "stars": 301975,
-      "forks": 44551,
-      "delta_stars": 25666,
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
       "rank": 11,
-      "owner": "algorithm-visualizer",
-      "name": "algorithm-visualizer",
-      "full_name": "algorithm-visualizer/algorithm-visualizer",
-      "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 49487,
-      "forks": 7658,
-      "delta_stars": 673,
-      "url": "https://github.com/algorithm-visualizer/algorithm-visualizer"
+      "stars": 117117,
+      "forks": 12245,
+      "delta_stars": 11588,
+      "url": "https://github.com/addyosmani/agent-skills"
     }
   ]
 }
