@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T23:07:30.832Z",
+  "generated_at": "2026-11-20T22:42:59.053Z",
   "since": "daily",
   "language": "javascript",
   "count": 11,
@@ -12,9 +12,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 307261,
-      "forks": 45227,
-      "delta_stars": 957,
+      "stars": 307815,
+      "forks": 45316,
+      "delta_stars": 639,
       "url": "https://github.com/affaan-m/ECC"
     },
     {
@@ -25,9 +25,9 @@
       "description": "web development for the rest of us",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 89790,
-      "forks": 6214,
-      "delta_stars": 321,
+      "stars": 89834,
+      "forks": 6185,
+      "delta_stars": 105,
       "url": "https://github.com/sveltejs/svelte"
     },
     {
@@ -38,9 +38,9 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 10367,
-      "forks": 1300,
-      "delta_stars": 13,
+      "stars": 10378,
+      "forks": 1302,
+      "delta_stars": 10,
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 34548,
-      "forks": 3006,
-      "delta_stars": 70,
+      "stars": 34613,
+      "forks": 3011,
+      "delta_stars": 68,
       "url": "https://github.com/vercel-labs/agent-skills"
     },
     {
@@ -61,12 +61,12 @@
       "owner": "michael-denyer",
       "name": "pstack-claude",
       "full_name": "michael-denyer/pstack-claude",
-      "description": "Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "description": "Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, etc versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 4574,
-      "forks": 417,
-      "delta_stars": 65,
+      "stars": 4619,
+      "forks": 429,
+      "delta_stars": 49,
       "url": "https://github.com/michael-denyer/pstack-claude"
     },
     {
@@ -79,7 +79,7 @@
       "language_color": "#f1e05a",
       "stars": 1331,
       "forks": 212,
-      "delta_stars": 3,
+      "delta_stars": 0,
       "url": "https://github.com/micromatch/picomatch"
     },
     {
@@ -90,9 +90,9 @@
       "description": "WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 3283,
-      "forks": 357,
-      "delta_stars": 47,
+      "stars": 3305,
+      "forks": 360,
+      "delta_stars": 30,
       "url": "https://github.com/babygoton/WorkDaddy"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 194820,
-      "forks": 10975,
-      "delta_stars": 911,
+      "stars": 195573,
+      "forks": 11024,
+      "delta_stars": 750,
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 35297,
-      "forks": 2451,
-      "delta_stars": 38,
+      "stars": 35312,
+      "forks": 2454,
+      "delta_stars": 20,
       "url": "https://github.com/openai/codex-plugin-cc"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 2016,
+      "stars": 2020,
       "forks": 203,
-      "delta_stars": 32,
+      "delta_stars": 6,
       "url": "https://github.com/HaD0Yun/CozyClay"
     },
     {
@@ -142,9 +142,9 @@
       "description": "jQuery JavaScript Library",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 60105,
-      "forks": 20715,
-      "delta_stars": 173,
+      "stars": 60107,
+      "forks": 20697,
+      "delta_stars": 14,
       "url": "https://github.com/jquery/jquery"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T23:07:30.832Z",
+  "generated_at": "2026-11-20T22:42:59.053Z",
   "since": "weekly",
   "language": "all",
   "count": 13,
@@ -12,9 +12,9 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 13649,
-      "forks": 1381,
-      "delta_stars": 3290,
+      "stars": 13875,
+      "forks": 1397,
+      "delta_stars": 3468,
       "url": "https://github.com/backnotprop/plannotator"
     },
     {
@@ -25,9 +25,9 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 10697,
-      "forks": 1387,
-      "delta_stars": 1567,
+      "stars": 11001,
+      "forks": 1405,
+      "delta_stars": 1829,
       "url": "https://github.com/google-labs-code/stitch-skills"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 9102,
-      "forks": 753,
-      "delta_stars": 7257,
+      "stars": 9512,
+      "forks": 773,
+      "delta_stars": 6858,
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 54375,
-      "forks": 4500,
-      "delta_stars": 4383,
+      "stars": 54750,
+      "forks": 4527,
+      "delta_stars": 4492,
       "url": "https://github.com/alibaba/open-code-review"
     },
     {
@@ -64,9 +64,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 70762,
-      "forks": 6305,
-      "delta_stars": 2423,
+      "stars": 71402,
+      "forks": 6347,
+      "delta_stars": 3179,
       "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 58353,
-      "forks": 4873,
-      "delta_stars": 3143,
+      "stars": 58527,
+      "forks": 4886,
+      "delta_stars": 3229,
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 7236,
-      "forks": 1458,
-      "delta_stars": 3242,
+      "stars": 7422,
+      "forks": 1479,
+      "delta_stars": 3385,
       "url": "https://github.com/tradermonty/claude-trading-skills"
     },
     {
@@ -103,9 +103,9 @@
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 20624,
-      "forks": 2122,
-      "delta_stars": 3221,
+      "stars": 20804,
+      "forks": 2130,
+      "delta_stars": 3455,
       "url": "https://github.com/ag-ui-protocol/ag-ui"
     },
     {
@@ -116,9 +116,9 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 30937,
-      "forks": 2420,
-      "delta_stars": 6250,
+      "stars": 31328,
+      "forks": 2459,
+      "delta_stars": 4977,
       "url": "https://github.com/meta/astryx"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Enable Hermès Watch Faces on any Apple Watch devices",
       "language": "Objective-C",
       "language_color": "#438eff",
-      "stars": 2247,
-      "forks": 189,
-      "delta_stars": 1019,
+      "stars": 2298,
+      "forks": 192,
+      "delta_stars": 904,
       "url": "https://github.com/pookjw/HermesEnabler"
     },
     {
@@ -142,9 +142,9 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "language_color": "#701516",
-      "stars": 16702,
-      "forks": 1475,
-      "delta_stars": 3866,
+      "stars": 16898,
+      "forks": 1491,
+      "delta_stars": 3226,
       "url": "https://github.com/we-promise/sure"
     },
     {
@@ -155,9 +155,9 @@
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 30430,
-      "forks": 2755,
-      "delta_stars": 6840,
+      "stars": 30931,
+      "forks": 2825,
+      "delta_stars": 7248,
       "url": "https://github.com/dream-num/univer"
     },
     {
@@ -168,9 +168,9 @@
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 8332,
-      "forks": 775,
-      "delta_stars": 2894,
+      "stars": 8805,
+      "forks": 807,
+      "delta_stars": 2998,
       "url": "https://github.com/kajisho5/ffmpeg-skill"
     }
   ]
