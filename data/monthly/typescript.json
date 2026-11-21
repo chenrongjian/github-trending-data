@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T22:42:59.053Z",
+  "generated_at": "2026-11-21T21:44:24.862Z",
   "since": "monthly",
   "language": "typescript",
   "count": 22,
@@ -12,9 +12,9 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 26184,
-      "forks": 3733,
-      "delta_stars": 20640,
+      "stars": 26485,
+      "forks": 3775,
+      "delta_stars": 21024,
       "url": "https://github.com/milind-soni/OpenMausBot"
     },
     {
@@ -25,9 +25,9 @@
       "description": "The best way to control Claude Code, Codex and more from any computer or phone",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 67745,
-      "forks": 11709,
-      "delta_stars": 37642,
+      "stars": 69406,
+      "forks": 11877,
+      "delta_stars": 38744,
       "url": "https://github.com/pingdotgg/t3code"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 118629,
-      "forks": 10318,
-      "delta_stars": 17313,
+      "stars": 118824,
+      "forks": 10331,
+      "delta_stars": 17381,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -51,9 +51,9 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 13875,
-      "forks": 1397,
-      "delta_stars": 4143,
+      "stars": 14135,
+      "forks": 1408,
+      "delta_stars": 4344,
       "url": "https://github.com/backnotprop/plannotator"
     },
     {
@@ -64,9 +64,9 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 11001,
-      "forks": 1405,
-      "delta_stars": 2107,
+      "stars": 11375,
+      "forks": 1433,
+      "delta_stars": 2406,
       "url": "https://github.com/google-labs-code/stitch-skills"
     },
     {
@@ -77,9 +77,9 @@
       "description": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 87443,
-      "forks": 8137,
-      "delta_stars": 20032,
+      "stars": 87812,
+      "forks": 8175,
+      "delta_stars": 19612,
       "url": "https://github.com/heygen-com/hyperframes"
     },
     {
@@ -90,9 +90,9 @@
       "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 21809,
-      "forks": 2012,
-      "delta_stars": 9209,
+      "stars": 21959,
+      "forks": 2028,
+      "delta_stars": 9286,
       "url": "https://github.com/Vincentwei1021/video-shotcraft"
     },
     {
@@ -103,9 +103,9 @@
       "description": "ThinkRail is the agentic IDE that gets better every time you use it",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 8375,
+      "stars": 8384,
       "forks": 533,
-      "delta_stars": 7537,
+      "delta_stars": 7479,
       "url": "https://github.com/JetBrains/thinkrail"
     },
     {
@@ -116,9 +116,9 @@
       "description": "The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 13060,
-      "forks": 1631,
-      "delta_stars": 6364,
+      "stars": 13138,
+      "forks": 1642,
+      "delta_stars": 6425,
       "url": "https://github.com/CopilotKit/OpenBot"
     },
     {
@@ -129,9 +129,9 @@
       "description": "The open agent skills tool - npx skills",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 40219,
-      "forks": 3558,
-      "delta_stars": 4587,
+      "stars": 40338,
+      "forks": 3569,
+      "delta_stars": 4536,
       "url": "https://github.com/vercel-labs/skills"
     },
     {
@@ -142,9 +142,9 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 74571,
-      "forks": 6336,
-      "delta_stars": 9293,
+      "stars": 74752,
+      "forks": 6361,
+      "delta_stars": 9206,
       "url": "https://github.com/remotion-dev/remotion"
     },
     {
@@ -155,9 +155,9 @@
       "description": "10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 55692,
-      "forks": 7931,
-      "delta_stars": 18018,
+      "stars": 56133,
+      "forks": 8001,
+      "delta_stars": 17878,
       "url": "https://github.com/tashfeenahmed/freellmapi"
     },
     {
@@ -168,9 +168,9 @@
       "description": "📨 The ultimate agentic social media scheduling tool 🤖",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 42059,
-      "forks": 8034,
-      "delta_stars": 4732,
+      "stars": 42112,
+      "forks": 8047,
+      "delta_stars": 4750,
       "url": "https://github.com/gitroomhq/postiz-app"
     },
     {
@@ -181,9 +181,9 @@
       "description": "An open-source AI coding agent that lives in your terminal.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 30815,
-      "forks": 3567,
-      "delta_stars": 2371,
+      "stars": 30845,
+      "forks": 3571,
+      "delta_stars": 2376,
       "url": "https://github.com/QwenLM/qwen-code"
     },
     {
@@ -194,9 +194,9 @@
       "description": "一分钟搭建影视站，支持Docker等部署方式",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 25452,
-      "forks": 31537,
-      "delta_stars": 5711,
+      "stars": 25527,
+      "forks": 31563,
+      "delta_stars": 5382,
       "url": "https://github.com/LibreSpark/LibreTV"
     },
     {
@@ -207,9 +207,9 @@
       "description": "A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough), billion-context is all you need .",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 8028,
-      "forks": 647,
-      "delta_stars": 6034,
+      "stars": 8087,
+      "forks": 652,
+      "delta_stars": 6005,
       "url": "https://github.com/ranxianglei/billion-context"
     },
     {
@@ -220,9 +220,9 @@
       "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 85922,
-      "forks": 16352,
-      "delta_stars": 2774,
+      "stars": 85951,
+      "forks": 16340,
+      "delta_stars": 2807,
       "url": "https://github.com/lobehub/lobehub"
     },
     {
@@ -233,9 +233,9 @@
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 20804,
-      "forks": 2130,
-      "delta_stars": 3955,
+      "stars": 20996,
+      "forks": 2140,
+      "delta_stars": 4110,
       "url": "https://github.com/ag-ui-protocol/ag-ui"
     },
     {
@@ -246,9 +246,9 @@
       "description": "The open-source repo for docs.github.com",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 21524,
-      "forks": 69681,
-      "delta_stars": 788,
+      "stars": 21533,
+      "forks": 69705,
+      "delta_stars": 799,
       "url": "https://github.com/github/docs"
     },
     {
@@ -259,9 +259,9 @@
       "description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 7202,
-      "forks": 655,
-      "delta_stars": 1617,
+      "stars": 7212,
+      "forks": 657,
+      "delta_stars": 1613,
       "url": "https://github.com/anthropics/sandbox-runtime"
     },
     {
@@ -272,9 +272,9 @@
       "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 108959,
-      "forks": 14973,
-      "delta_stars": 2042,
+      "stars": 108974,
+      "forks": 14967,
+      "delta_stars": 2044,
       "url": "https://github.com/google-gemini/gemini-cli"
     },
     {
@@ -285,9 +285,9 @@
       "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 9320,
-      "forks": 1681,
-      "delta_stars": 4569,
+      "stars": 9401,
+      "forks": 1701,
+      "delta_stars": 4493,
       "url": "https://github.com/elie222/rakazo"
     }
   ]
