@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T21:44:24.862Z",
+  "generated_at": "2026-11-22T21:55:14.073Z",
   "since": "daily",
   "language": "php",
   "count": 21,
@@ -12,9 +12,9 @@
       "description": "A free open source IT asset/license management system",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 15220,
-      "forks": 4077,
-      "delta_stars": 8,
+      "stars": 15229,
+      "forks": 4079,
+      "delta_stars": 6,
       "url": "https://github.com/grokability/snipe-it"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Mautic: Open Source Marketing Automation Software.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 11070,
+      "stars": 11081,
       "forks": 3563,
-      "delta_stars": 9,
+      "delta_stars": 14,
       "url": "https://github.com/mautic/mautic"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Community-based GPL-licensed network monitoring system",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 5019,
-      "forks": 2880,
-      "delta_stars": 0,
+      "stars": 5024,
+      "forks": 2879,
+      "delta_stars": 5,
       "url": "https://github.com/librenms/librenms"
     },
     {
@@ -52,7 +52,7 @@
       "language": "PHP",
       "language_color": "#4F5D95",
       "stars": 12242,
-      "forks": 9355,
+      "forks": 9354,
       "delta_stars": 0,
       "url": "https://github.com/magento/magento2"
     },
@@ -64,9 +64,9 @@
       "description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 6688,
-      "forks": 1676,
-      "delta_stars": 4,
+      "stars": 6695,
+      "forks": 1677,
+      "delta_stars": 6,
       "url": "https://github.com/MISP/MISP"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 25823,
+      "stars": 25826,
       "forks": 2640,
-      "delta_stars": 7,
+      "delta_stars": 3,
       "url": "https://github.com/monicahq/monica"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 1859,
-      "forks": 908,
-      "delta_stars": 0,
+      "stars": 1860,
+      "forks": 910,
+      "delta_stars": 1,
       "url": "https://github.com/Automattic/jetpack"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 3476,
-      "forks": 1229,
-      "delta_stars": 0,
+      "stars": 3478,
+      "forks": 1228,
+      "delta_stars": 2,
       "url": "https://github.com/shopware/shopware"
     },
     {
@@ -116,9 +116,9 @@
       "description": "PrestaShop is the universal open-source software platform to build your e-commerce solution.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 9260,
-      "forks": 5059,
-      "delta_stars": 3,
+      "stars": 9261,
+      "forks": 5061,
+      "delta_stars": 1,
       "url": "https://github.com/PrestaShop/PrestaShop"
     },
     {
@@ -129,8 +129,8 @@
       "description": "Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 24190,
-      "forks": 1692,
+      "stars": 24193,
+      "forks": 1693,
       "delta_stars": 5,
       "url": "https://github.com/krayin/laravel-crm"
     },
@@ -142,7 +142,7 @@
       "description": "Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️ If you find this project helpful, please consider giving us a star ⭐️",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 4198,
+      "stars": 4200,
       "forks": 759,
       "delta_stars": 2,
       "url": "https://github.com/HiEventsDev/Hi.Events"
@@ -155,9 +155,9 @@
       "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 22043,
-      "forks": 2943,
-      "delta_stars": 3,
+      "stars": 22046,
+      "forks": 2944,
+      "delta_stars": 4,
       "url": "https://github.com/matomo-org/matomo"
     },
     {
@@ -169,8 +169,8 @@
       "language": "PHP",
       "language_color": "#4F5D95",
       "stars": 3516,
-      "forks": 3783,
-      "delta_stars": 1,
+      "forks": 3782,
+      "delta_stars": 0,
       "url": "https://github.com/WordPress/wordpress-develop"
     },
     {
@@ -181,9 +181,9 @@
       "description": "Laravel is a web application framework with expressive, elegant syntax.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 35027,
-      "forks": 12044,
-      "delta_stars": 23,
+      "stars": 35049,
+      "forks": 12048,
+      "delta_stars": 26,
       "url": "https://github.com/laravel/framework"
     },
     {
@@ -194,9 +194,9 @@
       "description": "Open-source CRM your AI agents can read and update: companies, people, opportunities, tasks and notes. REST API, self-hosted or cloud.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 1916,
-      "forks": 239,
-      "delta_stars": 10,
+      "stars": 1921,
+      "forks": 241,
+      "delta_stars": 4,
       "url": "https://github.com/relaticle/relaticle"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Damn Vulnerable Web Application (DVWA)",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 14064,
+      "stars": 14069,
       "forks": 5278,
-      "delta_stars": 6,
+      "delta_stars": 5,
       "url": "https://github.com/digininja/DVWA"
     },
     {
@@ -220,9 +220,9 @@
       "description": "mailcow: dockerized - 🐮 + 🐋 = 💕",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 13856,
-      "forks": 1877,
-      "delta_stars": 2,
+      "stars": 13858,
+      "forks": 1880,
+      "delta_stars": 4,
       "url": "https://github.com/mailcow/mailcow-dockerized"
     },
     {
@@ -233,8 +233,8 @@
       "description": "A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 10607,
-      "forks": 10668,
+      "stars": 10609,
+      "forks": 10669,
       "delta_stars": 2,
       "url": "https://github.com/woocommerce/woocommerce"
     },
@@ -246,9 +246,9 @@
       "description": "Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 12131,
+      "stars": 12133,
       "forks": 1186,
-      "delta_stars": 2,
+      "delta_stars": 4,
       "url": "https://github.com/Leantime/leantime"
     },
     {
@@ -259,9 +259,9 @@
       "description": "The most popular open source electronic health records and medical practice management solution.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 5615,
+      "stars": 5618,
       "forks": 3138,
-      "delta_stars": 3,
+      "delta_stars": 4,
       "url": "https://github.com/openemr/openemr"
     },
     {
@@ -272,9 +272,9 @@
       "description": "High-performance panel based on V2board secondary development supporting new protocols and new features",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 4881,
-      "forks": 1398,
-      "delta_stars": 3,
+      "stars": 4886,
+      "forks": 1396,
+      "delta_stars": 6,
       "url": "https://github.com/cedar2025/Xboard"
     }
   ]

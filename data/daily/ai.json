@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T21:44:24.862Z",
+  "generated_at": "2026-11-22T21:55:14.073Z",
   "since": "daily",
   "language": "ai",
   "count": 11,
@@ -12,9 +12,9 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 15859,
-      "forks": 1822,
-      "delta_stars": 1794,
+      "stars": 17608,
+      "forks": 1954,
+      "delta_stars": 1721,
       "url": "https://github.com/elementalsouls/Claude-BugHunter"
     },
     {
@@ -25,9 +25,9 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 62009,
-      "forks": 5618,
-      "delta_stars": 767,
+      "stars": 62715,
+      "forks": 5688,
+      "delta_stars": 687,
       "url": "https://github.com/HKUDS/CLI-Anything"
     },
     {
@@ -38,9 +38,9 @@
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 68109,
-      "forks": 8902,
-      "delta_stars": 488,
+      "stars": 68601,
+      "forks": 8972,
+      "delta_stars": 473,
       "url": "https://github.com/jingyaogong/minimind"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 206093,
-      "forks": 10774,
-      "delta_stars": 999,
+      "stars": 206952,
+      "forks": 10813,
+      "delta_stars": 910,
       "url": "https://github.com/firecrawl/firecrawl"
     },
     {
@@ -64,9 +64,9 @@
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 11912,
-      "forks": 3650,
-      "delta_stars": 202,
+      "stars": 12079,
+      "forks": 3657,
+      "delta_stars": 155,
       "url": "https://github.com/openvinotoolkit/openvino"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "language_color": "#e34c26",
-      "stars": 69753,
-      "forks": 4685,
-      "delta_stars": 582,
+      "stars": 70247,
+      "forks": 4713,
+      "delta_stars": 513,
       "url": "https://github.com/cathrynlavery/diagram-design"
     },
     {
@@ -90,9 +90,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 71930,
-      "forks": 6372,
-      "delta_stars": 566,
+      "stars": 72640,
+      "forks": 6418,
+      "delta_stars": 673,
       "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
@@ -103,9 +103,9 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 11374,
-      "forks": 1433,
-      "delta_stars": 324,
+      "stars": 11873,
+      "forks": 1473,
+      "delta_stars": 516,
       "url": "https://github.com/google-labs-code/stitch-skills"
     },
     {
@@ -113,12 +113,12 @@
       "owner": "mjmirza",
       "name": "app-store-compliance",
       "full_name": "mjmirza/app-store-compliance",
-      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 3321,
-      "forks": 207,
-      "delta_stars": 724,
+      "stars": 3918,
+      "forks": 236,
+      "delta_stars": 617,
       "url": "https://github.com/mjmirza/app-store-compliance"
     },
     {
@@ -129,9 +129,9 @@
       "description": "The open-source agent for CI/CD reliability.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 13944,
-      "forks": 1943,
-      "delta_stars": 450,
+      "stars": 14369,
+      "forks": 1964,
+      "delta_stars": 395,
       "url": "https://github.com/Tracer-Cloud/opensre"
     },
     {
@@ -142,9 +142,9 @@
       "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 12786,
-      "forks": 2070,
-      "delta_stars": 689,
+      "stars": 13378,
+      "forks": 2118,
+      "delta_stars": 640,
       "url": "https://github.com/zhouxiaoka/autoclip"
     }
   ]

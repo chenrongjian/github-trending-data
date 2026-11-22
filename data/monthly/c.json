@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T21:44:24.862Z",
+  "generated_at": "2026-11-22T21:55:14.073Z",
   "since": "monthly",
   "language": "c",
   "count": 19,
@@ -12,9 +12,9 @@
       "description": "The PHP Interpreter",
       "language": "C",
       "language_color": "#555555",
-      "stars": 41852,
-      "forks": 8529,
-      "delta_stars": 1507,
+      "stars": 41854,
+      "forks": 8531,
+      "delta_stars": 1401,
       "url": "https://github.com/php/php-src"
     },
     {
@@ -25,9 +25,9 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 12539,
-      "forks": 1940,
-      "delta_stars": 3449,
+      "stars": 12572,
+      "forks": 1948,
+      "delta_stars": 3471,
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
     },
     {
@@ -38,9 +38,9 @@
       "description": "General purpose TLS and crypto library",
       "language": "C",
       "language_color": "#555555",
-      "stars": 31507,
-      "forks": 11636,
-      "delta_stars": 618,
+      "stars": 31513,
+      "forks": 11639,
+      "delta_stars": 612,
       "url": "https://github.com/openssl/openssl"
     },
     {
@@ -51,9 +51,9 @@
       "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 52676,
-      "forks": 6382,
-      "delta_stars": 9623,
+      "stars": 52901,
+      "forks": 6413,
+      "delta_stars": 9677,
       "url": "https://github.com/JustVugg/colibri"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Extremely Fast Compression algorithm",
       "language": "C",
       "language_color": "#555555",
-      "stars": 12828,
-      "forks": 1667,
-      "delta_stars": 711,
+      "stars": 12831,
+      "forks": 1668,
+      "delta_stars": 721,
       "url": "https://github.com/lz4/lz4"
     },
     {
@@ -77,9 +77,9 @@
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "language_color": "#555555",
-      "stars": 79869,
-      "forks": 11321,
-      "delta_stars": 2550,
+      "stars": 80024,
+      "forks": 11334,
+      "delta_stars": 2535,
       "url": "https://github.com/obsproject/obs-studio"
     },
     {
@@ -90,9 +90,9 @@
       "description": "🎥 Command line media player",
       "language": "C",
       "language_color": "#555555",
-      "stars": 38237,
-      "forks": 3685,
-      "delta_stars": 832,
+      "stars": 38261,
+      "forks": 3690,
+      "delta_stars": 827,
       "url": "https://github.com/mpv-player/mpv"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Unofficial native Nuvio client for LG webOS 3+, Samsung Tizen 4+, GoogleTV 7+. C/SDL2/GLES2 on LG and on Samsung (native .tpk, Tizen 4.0-9), plus a WebAssembly .wgt for Tizen 5.5+. Install from the Homebrew Channel or the releases.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 596,
+      "stars": 603,
       "forks": 76,
-      "delta_stars": 330,
+      "delta_stars": 327,
       "url": "https://github.com/iqui27/nuvio-native-legacy"
     },
     {
@@ -116,9 +116,9 @@
       "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 77589,
-      "forks": 24988,
-      "delta_stars": 1186,
+      "stars": 77698,
+      "forks": 24991,
+      "delta_stars": 1177,
       "url": "https://github.com/redis/redis"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C",
       "language_color": "#555555",
-      "stars": 141265,
-      "forks": 8724,
-      "delta_stars": 2113,
+      "stars": 141308,
+      "forks": 8730,
+      "delta_stars": 2116,
       "url": "https://github.com/microsoft/PowerToys"
     },
     {
@@ -142,9 +142,9 @@
       "description": "An advanced Kernel based root solution for Android",
       "language": "C",
       "language_color": "#555555",
-      "stars": 4930,
-      "forks": 1299,
-      "delta_stars": 408,
+      "stars": 4941,
+      "forks": 1300,
+      "delta_stars": 414,
       "url": "https://github.com/KernelSU-Next/KernelSU-Next"
     },
     {
@@ -155,9 +155,9 @@
       "description": "",
       "language": "C",
       "language_color": "#555555",
-      "stars": 6139,
-      "forks": 1025,
-      "delta_stars": 465,
+      "stars": 6150,
+      "forks": 1024,
+      "delta_stars": 463,
       "url": "https://github.com/HarbourMasters/Shipwright"
     },
     {
@@ -168,8 +168,8 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 17153,
-      "forks": 10546,
+      "stars": 17166,
+      "forks": 10553,
       "delta_stars": 339,
       "url": "https://github.com/zephyrproject-rtos/zephyr"
     },
@@ -181,9 +181,9 @@
       "description": "The official NGINX Open Source repository.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 32713,
-      "forks": 8373,
-      "delta_stars": 686,
+      "stars": 32873,
+      "forks": 8381,
+      "delta_stars": 837,
       "url": "https://github.com/nginx/nginx"
     },
     {
@@ -194,9 +194,9 @@
       "description": "The systemd System and Service Manager",
       "language": "C",
       "language_color": "#555555",
-      "stars": 17058,
-      "forks": 4852,
-      "delta_stars": 228,
+      "stars": 17061,
+      "forks": 4853,
+      "delta_stars": 221,
       "url": "https://github.com/systemd/systemd"
     },
     {
@@ -207,7 +207,7 @@
       "description": "ClamAV - Documentation is here: https://docs.clamav.net",
       "language": "C",
       "language_color": "#555555",
-      "stars": 7697,
+      "stars": 7707,
       "forks": 987,
       "delta_stars": 301,
       "url": "https://github.com/Cisco-Talos/clamav"
@@ -220,9 +220,9 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "language_color": "#555555",
-      "stars": 43699,
-      "forks": 7504,
-      "delta_stars": 576,
+      "stars": 43673,
+      "forks": 7508,
+      "delta_stars": 581,
       "url": "https://github.com/curl/curl"
     },
     {
@@ -233,8 +233,8 @@
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
       "language_color": "#555555",
-      "stars": 29428,
-      "forks": 789,
+      "stars": 29470,
+      "forks": 790,
       "delta_stars": 1540,
       "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ"
     },
@@ -246,9 +246,9 @@
       "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 19564,
+      "stars": 19571,
       "forks": 8616,
-      "delta_stars": 287,
+      "delta_stars": 288,
       "url": "https://github.com/espressif/esp-idf"
     }
   ]

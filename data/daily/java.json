@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T21:44:24.862Z",
+  "generated_at": "2026-11-22T21:55:14.073Z",
   "since": "daily",
   "language": "java",
   "count": 18,
@@ -25,9 +25,9 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 37993,
+      "stars": 38003,
       "forks": 9236,
-      "delta_stars": 15,
+      "delta_stars": 7,
       "url": "https://github.com/keycloak/keycloak"
     },
     {
@@ -38,9 +38,9 @@
       "description": "🔎 Open source distributed and RESTful search engine.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 14043,
-      "forks": 3023,
-      "delta_stars": 3,
+      "stars": 14050,
+      "forks": 3024,
+      "delta_stars": 7,
       "url": "https://github.com/opensearch-project/OpenSearch"
     },
     {
@@ -51,8 +51,8 @@
       "description": "Free universal database tool and SQL client",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 52505,
-      "forks": 4465,
+      "stars": 52509,
+      "forks": 4466,
       "delta_stars": 7,
       "url": "https://github.com/dbeaver/dbeaver"
     },
@@ -64,9 +64,9 @@
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 10700,
+      "stars": 10702,
       "forks": 1535,
-      "delta_stars": 6,
+      "delta_stars": 3,
       "url": "https://github.com/microsoft/copilot-sdk"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 4498,
-      "forks": 866,
-      "delta_stars": 7,
+      "stars": 4499,
+      "forks": 870,
+      "delta_stars": 2,
       "url": "https://github.com/DependencyTrack/dependency-track"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Disable Player Chat Reporting and make user messages untrackable.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 1202,
-      "forks": 258,
-      "delta_stars": 25,
+      "stars": 1210,
+      "forks": 262,
+      "delta_stars": 13,
       "url": "https://github.com/Aizistral-Studios/No-Chat-Reports"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Dual pane Android file manager with focus on APKs",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 613,
-      "forks": 91,
-      "delta_stars": 8,
+      "stars": 664,
+      "forks": 90,
+      "delta_stars": 48,
       "url": "https://github.com/AbdurazaaqMohammed/MP-Manager"
     },
     {
@@ -116,8 +116,8 @@
       "description": "Apache Polaris, the interoperable, open source catalog for Apache Iceberg",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 2123,
-      "forks": 576,
+      "stars": 2124,
+      "forks": 578,
       "delta_stars": 0,
       "url": "https://github.com/apache/polaris"
     },
@@ -129,7 +129,7 @@
       "description": "APM, Application Performance Monitoring System",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 25018,
+      "stars": 25019,
       "forks": 6630,
       "delta_stars": 2,
       "url": "https://github.com/apache/skywalking"
@@ -144,7 +144,7 @@
       "language_color": "#b07219",
       "stars": 5982,
       "forks": 1574,
-      "delta_stars": 1,
+      "delta_stars": 0,
       "url": "https://github.com/strimzi/strimzi-kafka-operator"
     },
     {
@@ -155,9 +155,9 @@
       "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 13430,
-      "forks": 2694,
-      "delta_stars": 4,
+      "stars": 13433,
+      "forks": 2696,
+      "delta_stars": 8,
       "url": "https://github.com/langchain4j/langchain4j"
     },
     {
@@ -168,9 +168,9 @@
       "description": "SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 9823,
+      "stars": 9824,
       "forks": 2476,
-      "delta_stars": 2,
+      "delta_stars": 3,
       "url": "https://github.com/apache/seatunnel"
     },
     {
@@ -181,9 +181,9 @@
       "description": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 12278,
-      "forks": 2689,
-      "delta_stars": 5,
+      "stars": 12279,
+      "forks": 2690,
+      "delta_stars": 1,
       "url": "https://github.com/StarRocks/starrocks"
     },
     {
@@ -194,9 +194,9 @@
       "description": "Apache NiFi",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 6332,
+      "stars": 6331,
       "forks": 3013,
-      "delta_stars": 3,
+      "delta_stars": 0,
       "url": "https://github.com/apache/nifi"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 30306,
-      "forks": 3548,
-      "delta_stars": 13,
+      "stars": 30318,
+      "forks": 3547,
+      "delta_stars": 12,
       "url": "https://github.com/kestra-io/kestra"
     },
     {
@@ -220,9 +220,9 @@
       "description": "Apache Fineract",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 2639,
-      "forks": 3000,
-      "delta_stars": 2,
+      "stars": 2641,
+      "forks": 3006,
+      "delta_stars": 3,
       "url": "https://github.com/apache/fineract"
     },
     {
@@ -234,8 +234,8 @@
       "language": "Java",
       "language_color": "#b07219",
       "stars": 1706,
-      "forks": 876,
-      "delta_stars": 1,
+      "forks": 877,
+      "delta_stars": 0,
       "url": "https://github.com/apache/solr"
     }
   ]

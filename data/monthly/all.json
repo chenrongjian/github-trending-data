@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T21:44:24.862Z",
+  "generated_at": "2026-11-22T21:55:14.073Z",
   "since": "monthly",
   "language": "all",
   "count": 17,
@@ -12,9 +12,9 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "language_color": "#663399",
-      "stars": 59026,
-      "forks": 3226,
-      "delta_stars": 28266,
+      "stars": 59486,
+      "forks": 3255,
+      "delta_stars": 28684,
       "url": "https://github.com/Nutlope/hallmark"
     },
     {
@@ -25,9 +25,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 76656,
-      "forks": 5166,
-      "delta_stars": 43310,
+      "stars": 77062,
+      "forks": 5194,
+      "delta_stars": 41810,
       "url": "https://github.com/cloudflare/security-audit-skill"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 26485,
-      "forks": 3775,
-      "delta_stars": 21024,
+      "stars": 26816,
+      "forks": 3825,
+      "delta_stars": 21249,
       "url": "https://github.com/milind-soni/OpenMausBot"
     },
     {
@@ -51,9 +51,9 @@
       "description": "The best way to control Claude Code, Codex and more from any computer or phone",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 69406,
-      "forks": 11877,
-      "delta_stars": 38744,
+      "stars": 71448,
+      "forks": 12100,
+      "delta_stars": 40025,
       "url": "https://github.com/pingdotgg/t3code"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 198438,
-      "forks": 23222,
-      "delta_stars": 16149,
+      "stars": 198956,
+      "forks": 23287,
+      "delta_stars": 16259,
       "url": "https://github.com/anthropics/skills"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 118824,
-      "forks": 10331,
-      "delta_stars": 17381,
+      "stars": 119062,
+      "forks": 10349,
+      "delta_stars": 17400,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 7940,
-      "forks": 1468,
-      "delta_stars": 5504,
+      "stars": 8260,
+      "forks": 1515,
+      "delta_stars": 5612,
       "url": "https://github.com/Jakeschincariol/instagram-agent-skill"
     },
     {
@@ -103,9 +103,9 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 14135,
-      "forks": 1408,
-      "delta_stars": 4344,
+      "stars": 14397,
+      "forks": 1428,
+      "delta_stars": 4563,
       "url": "https://github.com/backnotprop/plannotator"
     },
     {
@@ -116,9 +116,9 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 61336,
-      "forks": 7404,
-      "delta_stars": 19469,
+      "stars": 61585,
+      "forks": 7429,
+      "delta_stars": 19602,
       "url": "https://github.com/HKUDS/DeepTutor"
     },
     {
@@ -129,9 +129,9 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 114494,
-      "forks": 6811,
-      "delta_stars": 30831,
+      "stars": 114976,
+      "forks": 6850,
+      "delta_stars": 30698,
       "url": "https://github.com/pbakaus/impeccable"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 115448,
-      "forks": 13220,
-      "delta_stars": 20748,
+      "stars": 115831,
+      "forks": 13246,
+      "delta_stars": 21093,
       "url": "https://github.com/sherlock-project/sherlock"
     },
     {
@@ -155,9 +155,9 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 31375,
-      "forks": 3878,
-      "delta_stars": 11786,
+      "stars": 31622,
+      "forks": 3898,
+      "delta_stars": 11925,
       "url": "https://github.com/AgriciDaniel/claude-seo"
     },
     {
@@ -168,9 +168,9 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 11375,
-      "forks": 1433,
-      "delta_stars": 2406,
+      "stars": 11873,
+      "forks": 1473,
+      "delta_stars": 2713,
       "url": "https://github.com/google-labs-code/stitch-skills"
     },
     {
@@ -181,9 +181,9 @@
       "description": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 87812,
-      "forks": 8175,
-      "delta_stars": 19612,
+      "stars": 88242,
+      "forks": 8213,
+      "delta_stars": 19243,
       "url": "https://github.com/heygen-com/hyperframes"
     },
     {
@@ -194,9 +194,9 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 15861,
-      "forks": 1822,
-      "delta_stars": 8329,
+      "stars": 17609,
+      "forks": 1954,
+      "delta_stars": 10053,
       "url": "https://github.com/elementalsouls/Claude-BugHunter"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 9235,
-      "forks": 835,
-      "delta_stars": 6641,
+      "stars": 9670,
+      "forks": 863,
+      "delta_stars": 7107,
       "url": "https://github.com/kajisho5/ffmpeg-skill"
     },
     {
@@ -220,9 +220,9 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 53219,
-      "forks": 3724,
-      "delta_stars": 8855,
+      "stars": 53404,
+      "forks": 3737,
+      "delta_stars": 8977,
       "url": "https://github.com/vercel-labs/agent-browser"
     }
   ]
