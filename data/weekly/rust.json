@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:55:14.073Z",
+  "generated_at": "2026-11-24T02:58:19.465Z",
   "since": "weekly",
   "language": "rust",
   "count": 7,
@@ -12,9 +12,9 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 53404,
-      "forks": 3737,
-      "delta_stars": 2193,
+      "stars": 53638,
+      "forks": 3763,
+      "delta_stars": 1737,
       "url": "https://github.com/vercel-labs/agent-browser"
     },
     {
@@ -25,9 +25,9 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 37663,
-      "forks": 4959,
-      "delta_stars": 240,
+      "stars": 37709,
+      "forks": 4967,
+      "delta_stars": 205,
       "url": "https://github.com/block/buzz"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Object-storage native graph database with branching and typed ontology",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 3209,
-      "forks": 348,
-      "delta_stars": 800,
+      "stars": 3239,
+      "forks": 346,
+      "delta_stars": 473,
       "url": "https://github.com/ModernRelay/omnigraph"
     },
     {
@@ -51,9 +51,9 @@
       "description": "A WiFi security auditing software",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 6870,
-      "forks": 1121,
-      "delta_stars": 1188,
+      "stars": 6970,
+      "forks": 1126,
+      "delta_stars": 517,
       "url": "https://github.com/martin-olivier/airgorah"
     },
     {
@@ -64,9 +64,9 @@
       "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 4930,
-      "forks": 505,
-      "delta_stars": 406,
+      "stars": 4996,
+      "forks": 512,
+      "delta_stars": 382,
       "url": "https://github.com/crmne/zapfast"
     },
     {
@@ -77,9 +77,9 @@
       "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 36373,
-      "forks": 1688,
-      "delta_stars": 282,
+      "stars": 36438,
+      "forks": 1686,
+      "delta_stars": 285,
       "url": "https://github.com/rustfs/rustfs"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 1717,
-      "forks": 177,
-      "delta_stars": 371,
+      "stars": 1745,
+      "forks": 184,
+      "delta_stars": 395,
       "url": "https://github.com/ViceVerse-cz/Serein"
     }
   ]

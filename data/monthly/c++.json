@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:55:14.073Z",
+  "generated_at": "2026-11-24T02:58:19.465Z",
   "since": "monthly",
   "language": "c++",
   "count": 18,
@@ -12,9 +12,9 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 120593,
-      "forks": 27603,
-      "delta_stars": 2046,
+      "stars": 120651,
+      "forks": 27617,
+      "delta_stars": 1993,
       "url": "https://github.com/godotengine/godot"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 40754,
-      "forks": 2204,
-      "delta_stars": 1958,
+      "stars": 40766,
+      "forks": 2205,
+      "delta_stars": 1971,
       "url": "https://github.com/hyprwm/Hyprland"
     },
     {
@@ -38,9 +38,9 @@
       "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 33609,
-      "forks": 8043,
-      "delta_stars": 1968,
+      "stars": 33677,
+      "forks": 8090,
+      "delta_stars": 1931,
       "url": "https://github.com/78/xiaozhi-esp32"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 5401,
-      "forks": 369,
-      "delta_stars": 4237,
+      "stars": 5699,
+      "forks": 388,
+      "delta_stars": 4848,
       "url": "https://github.com/Likely7/Veyra-NRVideo"
     },
     {
@@ -64,9 +64,9 @@
       "description": "The Goose Programming Language",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 3799,
-      "forks": 190,
-      "delta_stars": 3048,
+      "stars": 3831,
+      "forks": 192,
+      "delta_stars": 2571,
       "url": "https://github.com/aardappel/goose"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 124057,
-      "forks": 17899,
-      "delta_stars": 789,
+      "stars": 124061,
+      "forks": 17895,
+      "delta_stars": 774,
       "url": "https://github.com/electron/electron"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 18393,
-      "forks": 2223,
-      "delta_stars": 2624,
+      "stars": 18439,
+      "forks": 2232,
+      "delta_stars": 2644,
       "url": "https://github.com/google-deepmind/mujoco"
     },
     {
@@ -103,9 +103,9 @@
       "description": "The ultimate Geometry Dash modding framework",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 3349,
-      "forks": 654,
-      "delta_stars": 311,
+      "stars": 3355,
+      "forks": 657,
+      "delta_stars": 304,
       "url": "https://github.com/geode-sdk/geode"
     },
     {
@@ -116,9 +116,9 @@
       "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 12377,
-      "forks": 1051,
-      "delta_stars": 638,
+      "stars": 12405,
+      "forks": 1061,
+      "delta_stars": 654,
       "url": "https://github.com/jrouwe/JoltPhysics"
     },
     {
@@ -129,9 +129,9 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 136114,
-      "forks": 25930,
-      "delta_stars": 4915,
+      "stars": 136093,
+      "forks": 25991,
+      "delta_stars": 5076,
       "url": "https://github.com/ggml-org/llama.cpp"
     },
     {
@@ -142,9 +142,9 @@
       "description": "A library for efficient similarity search and clustering of dense vectors.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 41857,
-      "forks": 4661,
-      "delta_stars": 711,
+      "stars": 41895,
+      "forks": 4665,
+      "delta_stars": 736,
       "url": "https://github.com/facebookresearch/faiss"
     },
     {
@@ -155,9 +155,9 @@
       "description": "OpenToonz - An open-source full-featured 2D animation creation software",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 8340,
-      "forks": 967,
-      "delta_stars": 499,
+      "stars": 8358,
+      "forks": 968,
+      "delta_stars": 515,
       "url": "https://github.com/opentoonz/opentoonz"
     },
     {
@@ -168,9 +168,9 @@
       "description": "Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 7311,
-      "forks": 485,
-      "delta_stars": 1251,
+      "stars": 7391,
+      "forks": 499,
+      "delta_stars": 1233,
       "url": "https://github.com/mg-chao/snow-shot"
     },
     {
@@ -181,9 +181,9 @@
       "description": "DLSS Multi Frame Generation Unlock and controls for any supported MFG title on RTX series GPUs",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 2824,
+      "stars": 2851,
       "forks": 89,
-      "delta_stars": 1255,
+      "delta_stars": 1238,
       "url": "https://github.com/dashdogy/MFG-Unlocker"
     },
     {
@@ -194,9 +194,9 @@
       "description": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 12149,
-      "forks": 5834,
-      "delta_stars": 229,
+      "stars": 12156,
+      "forks": 5838,
+      "delta_stars": 222,
       "url": "https://github.com/esphome/esphome"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 35695,
-      "forks": 6447,
-      "delta_stars": 1128,
+      "stars": 35729,
+      "forks": 6459,
+      "delta_stars": 1102,
       "url": "https://github.com/FreeCAD/FreeCAD"
     },
     {
@@ -220,9 +220,9 @@
       "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 16605,
-      "forks": 3533,
-      "delta_stars": 556,
+      "stars": 16622,
+      "forks": 3537,
+      "delta_stars": 557,
       "url": "https://github.com/OrcaSlicer/OrcaSlicer"
     },
     {
@@ -233,9 +233,9 @@
       "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 30098,
-      "forks": 2063,
-      "delta_stars": 825,
+      "stars": 30120,
+      "forks": 2067,
+      "delta_stars": 780,
       "url": "https://github.com/keepassxreboot/keepassxc"
     }
   ]

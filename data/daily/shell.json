@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:55:14.073Z",
+  "generated_at": "2026-11-24T02:58:19.465Z",
   "since": "daily",
   "language": "shell",
   "count": 16,
@@ -12,9 +12,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 324100,
-      "forks": 28757,
-      "delta_stars": 785,
+      "stars": 325165,
+      "forks": 28840,
+      "delta_stars": 840,
       "url": "https://github.com/obra/superpowers"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 3919,
-      "forks": 236,
-      "delta_stars": 617,
+      "stars": 5047,
+      "forks": 320,
+      "delta_stars": 761,
       "url": "https://github.com/mjmirza/app-store-compliance"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 96369,
-      "forks": 10730,
-      "delta_stars": 32,
+      "stars": 96278,
+      "forks": 10712,
+      "delta_stars": 55,
       "url": "https://github.com/nvm-sh/nvm"
     },
     {
@@ -51,8 +51,8 @@
       "description": "Open-Box 一体化透明代理：OpenWrt / Debian / Ubuntu / Docker；自有程序闭源，第三方组件遵守原许可。",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 2857,
-      "forks": 531,
+      "stars": 2873,
+      "forks": 534,
       "delta_stars": 16,
       "url": "https://github.com/liandu2024/Open-Box"
     },
@@ -64,9 +64,9 @@
       "description": "",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 744,
-      "forks": 58,
-      "delta_stars": 4,
+      "stars": 750,
+      "forks": 59,
+      "delta_stars": 5,
       "url": "https://github.com/itsnotkubrick/3X-UI_KIT"
     },
     {
@@ -77,8 +77,8 @@
       "description": "Official agent plugin providing skills and MCP server configurations for Azure scenarios.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 1667,
-      "forks": 272,
+      "stars": 1669,
+      "forks": 275,
       "delta_stars": 3,
       "url": "https://github.com/microsoft/azure-skills"
     },
@@ -92,7 +92,7 @@
       "language_color": "#89e051",
       "stars": 29917,
       "forks": 16502,
-      "delta_stars": 7,
+      "delta_stars": 6,
       "url": "https://github.com/233boy/v2ray"
     },
     {
@@ -103,8 +103,8 @@
       "description": "Skills for teaching agents how to build on Cloudflare.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 3429,
-      "forks": 361,
+      "stars": 3440,
+      "forks": 365,
       "delta_stars": 10,
       "url": "https://github.com/cloudflare/skills"
     },
@@ -116,9 +116,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 330426,
-      "forks": 27768,
-      "delta_stars": 875,
+      "stars": 331473,
+      "forks": 27854,
+      "delta_stars": 1000,
       "url": "https://github.com/mattpocock/skills"
     },
     {
@@ -129,9 +129,9 @@
       "description": "",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 12021,
-      "forks": 1583,
-      "delta_stars": 7,
+      "stars": 12032,
+      "forks": 1585,
+      "delta_stars": 11,
       "url": "https://github.com/FFmpeg-Builds/FFmpeg-Builds"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Универсальный менеджер для обхода блокировок на OpenWrt",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 2299,
+      "stars": 2300,
       "forks": 108,
-      "delta_stars": 8,
+      "delta_stars": 4,
       "url": "https://github.com/StressOzz/Zapret-Manager"
     },
     {
@@ -155,9 +155,9 @@
       "description": "A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 11548,
-      "forks": 1129,
-      "delta_stars": 3,
+      "stars": 11553,
+      "forks": 1131,
+      "delta_stars": 5,
       "url": "https://github.com/edoardottt/awesome-hacker-search-engines"
     },
     {
@@ -168,9 +168,9 @@
       "description": "OSS-Fuzz - continuous fuzzing for open source software.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 12976,
-      "forks": 3010,
-      "delta_stars": 1,
+      "stars": 12982,
+      "forks": 3014,
+      "delta_stars": 7,
       "url": "https://github.com/google/oss-fuzz"
     },
     {
@@ -181,9 +181,9 @@
       "description": "n8n skillset for Claude Code to build flawless n8n workflows",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 6693,
-      "forks": 1084,
-      "delta_stars": 5,
+      "stars": 6703,
+      "forks": 1086,
+      "delta_stars": 9,
       "url": "https://github.com/czlonkowski/n8n-skills"
     },
     {
@@ -194,9 +194,9 @@
       "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 4215,
-      "forks": 279,
-      "delta_stars": 8,
+      "stars": 4224,
+      "forks": 280,
+      "delta_stars": 10,
       "url": "https://github.com/expo/skills"
     },
     {
@@ -207,9 +207,9 @@
       "description": "🧰 The official Apps repository for Home Assistant",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 2272,
+      "stars": 2274,
       "forks": 1876,
-      "delta_stars": 3,
+      "delta_stars": 1,
       "url": "https://github.com/home-assistant/apps"
     }
   ]

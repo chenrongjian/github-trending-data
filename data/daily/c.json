@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:55:14.073Z",
+  "generated_at": "2026-11-24T02:58:19.465Z",
   "since": "daily",
   "language": "c",
   "count": 16,
@@ -12,9 +12,9 @@
       "description": "The official NGINX Open Source repository.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 32873,
-      "forks": 8381,
-      "delta_stars": 168,
+      "stars": 33071,
+      "forks": 8395,
+      "delta_stars": 174,
       "url": "https://github.com/nginx/nginx"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 17166,
-      "forks": 10553,
-      "delta_stars": 12,
+      "stars": 17175,
+      "forks": 10558,
+      "delta_stars": 7,
       "url": "https://github.com/zephyrproject-rtos/zephyr"
     },
     {
@@ -38,9 +38,9 @@
       "description": "The PHP Interpreter",
       "language": "C",
       "language_color": "#555555",
-      "stars": 41854,
-      "forks": 8531,
-      "delta_stars": 5,
+      "stars": 41858,
+      "forks": 8532,
+      "delta_stars": 10,
       "url": "https://github.com/php/php-src"
     },
     {
@@ -51,9 +51,9 @@
       "description": "A free Windows-compatible Operating System",
       "language": "C",
       "language_color": "#555555",
-      "stars": 1966,
-      "forks": 70,
-      "delta_stars": 146,
+      "stars": 2101,
+      "forks": 81,
+      "delta_stars": 138,
       "url": "https://github.com/LiberNT/LiberNT"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
       "language_color": "#555555",
-      "stars": 28287,
-      "forks": 2703,
-      "delta_stars": 9,
+      "stars": 28300,
+      "forks": 2707,
+      "delta_stars": 6,
       "url": "https://github.com/meta/zstd"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 17891,
-      "forks": 1203,
-      "delta_stars": 13,
+      "stars": 17913,
+      "forks": 1208,
+      "delta_stars": 23,
       "url": "https://github.com/semgrep/semgrep"
     },
     {
@@ -90,9 +90,9 @@
       "description": "A massively spiffy yet delicately unobtrusive compression library.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 7244,
-      "forks": 2915,
-      "delta_stars": 2,
+      "stars": 7249,
+      "forks": 2913,
+      "delta_stars": 3,
       "url": "https://github.com/madler/zlib"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 19571,
+      "stars": 19576,
       "forks": 8616,
-      "delta_stars": 10,
+      "delta_stars": 5,
       "url": "https://github.com/espressif/esp-idf"
     },
     {
@@ -116,9 +116,9 @@
       "description": "A project aimed at providing a better PC VR mode for BotW using the Cemu emulator",
       "language": "C",
       "language_color": "#555555",
-      "stars": 1702,
+      "stars": 1703,
       "forks": 219,
-      "delta_stars": 5,
+      "delta_stars": 2,
       "url": "https://github.com/Crementif/BotW-BetterVR"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Open-source vector similarity search for Postgres",
       "language": "C",
       "language_color": "#555555",
-      "stars": 23781,
-      "forks": 1402,
-      "delta_stars": 14,
+      "stars": 23793,
+      "forks": 1405,
+      "delta_stars": 12,
       "url": "https://github.com/pgvector/pgvector"
     },
     {
@@ -142,8 +142,8 @@
       "description": "General purpose TLS and crypto library",
       "language": "C",
       "language_color": "#555555",
-      "stars": 31513,
-      "forks": 11639,
+      "stars": 31520,
+      "forks": 11643,
       "delta_stars": 10,
       "url": "https://github.com/openssl/openssl"
     },
@@ -155,9 +155,9 @@
       "description": "An open source cross-platform USB stack for embedded system",
       "language": "C",
       "language_color": "#555555",
-      "stars": 7294,
+      "stars": 7298,
       "forks": 1588,
-      "delta_stars": 3,
+      "delta_stars": 5,
       "url": "https://github.com/hathach/tinyusb"
     },
     {
@@ -168,9 +168,9 @@
       "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 14678,
-      "forks": 2394,
-      "delta_stars": 8,
+      "stars": 14690,
+      "forks": 2397,
+      "delta_stars": 13,
       "url": "https://github.com/libretro/RetroArch"
     },
     {
@@ -181,9 +181,9 @@
       "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 17915,
-      "forks": 1714,
-      "delta_stars": 6,
+      "stars": 17922,
+      "forks": 1712,
+      "delta_stars": 11,
       "url": "https://github.com/ImageMagick/ImageMagick"
     },
     {
@@ -194,9 +194,9 @@
       "description": "Simple DirectMedia Layer",
       "language": "C",
       "language_color": "#555555",
-      "stars": 17053,
-      "forks": 3180,
-      "delta_stars": 8,
+      "stars": 17056,
+      "forks": 3182,
+      "delta_stars": 6,
       "url": "https://github.com/libsdl-org/SDL"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Flipper Zero firmware source code",
       "language": "C",
       "language_color": "#555555",
-      "stars": 16961,
+      "stars": 16970,
       "forks": 3547,
-      "delta_stars": 11,
+      "delta_stars": 9,
       "url": "https://github.com/flipperdevices/flipperzero-firmware"
     }
   ]

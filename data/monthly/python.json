@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-22T21:55:14.073Z",
+  "generated_at": "2026-11-24T02:58:19.465Z",
   "since": "monthly",
   "language": "python",
-  "count": 16,
+  "count": 17,
   "list": [
     {
       "rank": 1,
@@ -12,9 +12,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 198956,
-      "forks": 23287,
-      "delta_stars": 16259,
+      "stars": 199524,
+      "forks": 23350,
+      "delta_stars": 16727,
       "url": "https://github.com/anthropics/skills"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 8260,
-      "forks": 1515,
-      "delta_stars": 5612,
+      "stars": 8678,
+      "forks": 1552,
+      "delta_stars": 6023,
       "url": "https://github.com/Jakeschincariol/instagram-agent-skill"
     },
     {
@@ -38,9 +38,9 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 61585,
-      "forks": 7429,
-      "delta_stars": 19602,
+      "stars": 61977,
+      "forks": 7460,
+      "delta_stars": 19919,
       "url": "https://github.com/HKUDS/DeepTutor"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 115831,
-      "forks": 13246,
-      "delta_stars": 21093,
+      "stars": 116374,
+      "forks": 13289,
+      "delta_stars": 21780,
       "url": "https://github.com/sherlock-project/sherlock"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 31622,
-      "forks": 3898,
-      "delta_stars": 11925,
+      "stars": 31950,
+      "forks": 3919,
+      "delta_stars": 12148,
       "url": "https://github.com/AgriciDaniel/claude-seo"
     },
     {
@@ -74,12 +74,12 @@
       "owner": "elementalsouls",
       "name": "Claude-BugHunter",
       "full_name": "elementalsouls/Claude-BugHunter",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 17609,
-      "forks": 1954,
-      "delta_stars": 10053,
+      "stars": 19923,
+      "forks": 2112,
+      "delta_stars": 13817,
       "url": "https://github.com/elementalsouls/Claude-BugHunter"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 9670,
-      "forks": 863,
-      "delta_stars": 7107,
+      "stars": 10270,
+      "forks": 897,
+      "delta_stars": 8031,
       "url": "https://github.com/kajisho5/ffmpeg-skill"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 36692,
-      "forks": 4051,
-      "delta_stars": 5670,
+      "stars": 36738,
+      "forks": 4059,
+      "delta_stars": 4772,
       "url": "https://github.com/anthropics/knowledge-work-plugins"
     },
     {
@@ -116,9 +116,9 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 123499,
-      "forks": 23655,
-      "delta_stars": 11317,
+      "stars": 123618,
+      "forks": 23675,
+      "delta_stars": 10724,
       "url": "https://github.com/TauricResearch/TradingAgents"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 27296,
-      "forks": 2424,
-      "delta_stars": 6447,
+      "stars": 27444,
+      "forks": 2445,
+      "delta_stars": 6423,
       "url": "https://github.com/NVIDIA/SkillSpector"
     },
     {
@@ -142,9 +142,9 @@
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 105005,
-      "forks": 10984,
-      "delta_stars": 16244,
+      "stars": 105320,
+      "forks": 11023,
+      "delta_stars": 16398,
       "url": "https://github.com/D4Vinci/Scrapling"
     },
     {
@@ -155,9 +155,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 72640,
-      "forks": 6418,
-      "delta_stars": 7125,
+      "stars": 73500,
+      "forks": 6482,
+      "delta_stars": 8382,
       "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
@@ -168,9 +168,9 @@
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 47348,
-      "forks": 3652,
-      "delta_stars": 4975,
+      "stars": 47406,
+      "forks": 3663,
+      "delta_stars": 4689,
       "url": "https://github.com/AstrBotDevs/AstrBot"
     },
     {
@@ -181,9 +181,9 @@
       "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 16567,
-      "forks": 2239,
-      "delta_stars": 3061,
+      "stars": 16603,
+      "forks": 2241,
+      "delta_stars": 3097,
       "url": "https://github.com/The-PR-Agent/pr-agent"
     },
     {
@@ -194,22 +194,35 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 145084,
-      "forks": 23333,
-      "delta_stars": 11924,
+      "stars": 145259,
+      "forks": 23367,
+      "delta_stars": 11379,
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
       "rank": 16,
+      "owner": "blader",
+      "name": "humanizer",
+      "full_name": "blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "stars": 72772,
+      "forks": 5709,
+      "delta_stars": 13016,
+      "url": "https://github.com/blader/humanizer"
+    },
+    {
+      "rank": 17,
       "owner": "fastapi",
       "name": "fastapi",
       "full_name": "fastapi/fastapi",
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 105054,
-      "forks": 10367,
-      "delta_stars": 3059,
+      "stars": 104943,
+      "forks": 10360,
+      "delta_stars": 2471,
       "url": "https://github.com/fastapi/fastapi"
     }
   ]

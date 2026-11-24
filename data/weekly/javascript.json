@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:55:14.073Z",
+  "generated_at": "2026-11-24T02:58:19.465Z",
   "since": "weekly",
   "language": "javascript",
   "count": 11,
@@ -9,12 +9,12 @@
       "owner": "Anil-matcha",
       "name": "Open-Generative-AI",
       "full_name": "Anil-matcha/Open-Generative-AI",
-      "description": "Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "description": "Uncensored AI Image & Video Generator — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 35733,
-      "forks": 6863,
-      "delta_stars": 1018,
+      "stars": 36005,
+      "forks": 6906,
+      "delta_stars": 993,
       "url": "https://github.com/Anil-matcha/Open-Generative-AI"
     },
     {
@@ -25,9 +25,9 @@
       "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 8783,
-      "forks": 1085,
-      "delta_stars": 2805,
+      "stars": 9000,
+      "forks": 1116,
+      "delta_stars": 2311,
       "url": "https://github.com/DeanChensj/jiangshan-map"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 62052,
-      "forks": 9061,
-      "delta_stars": 1601,
+      "stars": 62279,
+      "forks": 9100,
+      "delta_stars": 1510,
       "url": "https://github.com/coreyhaines31/marketingskills"
     },
     {
@@ -51,9 +51,9 @@
       "description": "jQuery JavaScript Library",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 60202,
-      "forks": 20643,
-      "delta_stars": 526,
+      "stars": 60117,
+      "forks": 20637,
+      "delta_stars": 624,
       "url": "https://github.com/jquery/jquery"
     },
     {
@@ -64,9 +64,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 308959,
-      "forks": 45456,
-      "delta_stars": 5685,
+      "stars": 309622,
+      "forks": 45547,
+      "delta_stars": 5283,
       "url": "https://github.com/affaan-m/ECC"
     },
     {
@@ -77,9 +77,9 @@
       "description": "web development for the rest of us",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 89915,
-      "forks": 6133,
-      "delta_stars": 1740,
+      "stars": 89812,
+      "forks": 6112,
+      "delta_stars": 1773,
       "url": "https://github.com/sveltejs/svelte"
     },
     {
@@ -90,9 +90,9 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 94772,
-      "forks": 8873,
-      "delta_stars": 619,
+      "stars": 94803,
+      "forks": 8868,
+      "delta_stars": 364,
       "url": "https://github.com/louislam/uptime-kuma"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 119752,
-      "forks": 12449,
-      "delta_stars": 2147,
+      "stars": 120017,
+      "forks": 12473,
+      "delta_stars": 1764,
       "url": "https://github.com/addyosmani/agent-skills"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 34738,
-      "forks": 3026,
-      "delta_stars": 630,
+      "stars": 34817,
+      "forks": 3034,
+      "delta_stars": 636,
       "url": "https://github.com/vercel-labs/agent-skills"
     },
     {
@@ -129,9 +129,9 @@
       "description": "🌼 🌼 🌼 🌼 🌼 The most popular, free and open-source Tailwind CSS component library",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 42933,
-      "forks": 1725,
-      "delta_stars": 111,
+      "stars": 42954,
+      "forks": 1726,
+      "delta_stars": 119,
       "url": "https://github.com/saadeghi/daisyui"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Automated auditing, performance metrics, and best practices for the web.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 31189,
-      "forks": 9801,
-      "delta_stars": 108,
+      "stars": 31195,
+      "forks": 9804,
+      "delta_stars": 78,
       "url": "https://github.com/GoogleChrome/lighthouse"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:55:14.073Z",
+  "generated_at": "2026-11-24T02:58:19.465Z",
   "since": "monthly",
   "language": "javascript",
   "count": 13,
@@ -12,9 +12,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 77062,
-      "forks": 5194,
-      "delta_stars": 41810,
+      "stars": 77588,
+      "forks": 5231,
+      "delta_stars": 36869,
       "url": "https://github.com/cloudflare/security-audit-skill"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 120080,
-      "forks": 8048,
-      "delta_stars": 19755,
+      "stars": 120714,
+      "forks": 8103,
+      "delta_stars": 19622,
       "url": "https://github.com/Leonxlnx/taste-skill"
     },
     {
@@ -38,9 +38,9 @@
       "description": "For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & telemetry blocker, replacement home screen, and custom screensavers. Runs on the TV itself. Includes an optional Home Assistant MQTT bridge for smart home control.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 2322,
+      "stars": 2335,
       "forks": 152,
-      "delta_stars": 1429,
+      "delta_stars": 1351,
       "url": "https://github.com/rorygallagher2024/glasshouse"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 23282,
-      "forks": 3117,
-      "delta_stars": 8844,
+      "stars": 23721,
+      "forks": 3178,
+      "delta_stars": 8612,
       "url": "https://github.com/DuarteSantos8/openGym"
     },
     {
@@ -64,9 +64,9 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 24029,
-      "forks": 1365,
-      "delta_stars": 5563,
+      "stars": 24206,
+      "forks": 1377,
+      "delta_stars": 5272,
       "url": "https://github.com/citrolabs/ego-lite"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 62052,
-      "forks": 9061,
-      "delta_stars": 6244,
+      "stars": 62279,
+      "forks": 9100,
+      "delta_stars": 6220,
       "url": "https://github.com/coreyhaines31/marketingskills"
     },
     {
@@ -90,9 +90,9 @@
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 15656,
-      "forks": 1773,
-      "delta_stars": 2596,
+      "stars": 15707,
+      "forks": 1776,
+      "delta_stars": 2570,
       "url": "https://github.com/ConardLi/garden-skills"
     },
     {
@@ -103,9 +103,9 @@
       "description": "JavaScript 3D Library.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 119162,
-      "forks": 37006,
-      "delta_stars": 2478,
+      "stars": 119241,
+      "forks": 37011,
+      "delta_stars": 2520,
       "url": "https://github.com/mrdoob/three.js"
     },
     {
@@ -116,9 +116,9 @@
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 40939,
-      "forks": 2943,
-      "delta_stars": 14363,
+      "stars": 41073,
+      "forks": 2953,
+      "delta_stars": 14117,
       "url": "https://github.com/hmjz100/LinkSwift"
     },
     {
@@ -129,9 +129,9 @@
       "description": "jQuery JavaScript Library",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 60202,
-      "forks": 20643,
-      "delta_stars": 724,
+      "stars": 60117,
+      "forks": 20637,
+      "delta_stars": 858,
       "url": "https://github.com/jquery/jquery"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 41448,
-      "forks": 5411,
-      "delta_stars": 1311,
+      "stars": 41493,
+      "forks": 5425,
+      "delta_stars": 1294,
       "url": "https://github.com/github/awesome-copilot"
     },
     {
@@ -155,9 +155,9 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 34738,
-      "forks": 3026,
-      "delta_stars": 2010,
+      "stars": 34817,
+      "forks": 3034,
+      "delta_stars": 2036,
       "url": "https://github.com/vercel-labs/agent-skills"
     },
     {
@@ -168,9 +168,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 119752,
-      "forks": 12449,
-      "delta_stars": 10774,
+      "stars": 120017,
+      "forks": 12473,
+      "delta_stars": 10572,
       "url": "https://github.com/addyosmani/agent-skills"
     }
   ]

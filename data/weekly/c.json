@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:55:14.073Z",
+  "generated_at": "2026-11-24T02:58:19.465Z",
   "since": "weekly",
   "language": "c",
   "count": 10,
@@ -12,9 +12,9 @@
       "description": "Turn Amazon Echos (Echo Dot 3, Echo Dot 2, Echo 2) into local Home Assistant voice satellites. Keeps Amazon's mic processing and wake word engine, replaces Alexa with a small C daemon speaking ESPHome or Wyoming. Multiroom music via Music Assistant, Bluetooth speaker and proxy, no cloud.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 1444,
-      "forks": 124,
-      "delta_stars": 261,
+      "stars": 1478,
+      "forks": 126,
+      "delta_stars": 252,
       "url": "https://github.com/Gamer92000/echo-dot-assist"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 17891,
-      "forks": 1203,
-      "delta_stars": 205,
+      "stars": 17913,
+      "forks": 1208,
+      "delta_stars": 185,
       "url": "https://github.com/semgrep/semgrep"
     },
     {
@@ -38,9 +38,9 @@
       "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 52901,
-      "forks": 6413,
-      "delta_stars": 1637,
+      "stars": 53169,
+      "forks": 6436,
+      "delta_stars": 1615,
       "url": "https://github.com/JustVugg/colibri"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Display and control your Android device",
       "language": "C",
       "language_color": "#555555",
-      "stars": 155412,
-      "forks": 14257,
-      "delta_stars": 591,
+      "stars": 155508,
+      "forks": 14267,
+      "delta_stars": 574,
       "url": "https://github.com/Genymobile/scrcpy"
     },
     {
@@ -64,9 +64,9 @@
       "description": "ClamAV - Documentation is here: https://docs.clamav.net",
       "language": "C",
       "language_color": "#555555",
-      "stars": 7707,
-      "forks": 987,
-      "delta_stars": 127,
+      "stars": 7712,
+      "forks": 988,
+      "delta_stars": 110,
       "url": "https://github.com/Cisco-Talos/clamav"
     },
     {
@@ -77,9 +77,9 @@
       "description": "A new bootable USB solution.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 81131,
-      "forks": 5087,
-      "delta_stars": 509,
+      "stars": 81090,
+      "forks": 5085,
+      "delta_stars": 614,
       "url": "https://github.com/ventoy/Ventoy"
     },
     {
@@ -90,9 +90,9 @@
       "description": "stb single-file public domain libraries for C/C++",
       "language": "C",
       "language_color": "#555555",
-      "stars": 35110,
-      "forks": 8127,
-      "delta_stars": 49,
+      "stars": 35089,
+      "forks": 8128,
+      "delta_stars": 137,
       "url": "https://github.com/nothings/stb"
     },
     {
@@ -103,9 +103,9 @@
       "description": "The official NGINX Open Source repository.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 32873,
-      "forks": 8381,
-      "delta_stars": 580,
+      "stars": 33071,
+      "forks": 8395,
+      "delta_stars": 902,
       "url": "https://github.com/nginx/nginx"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Eclipse Mosquitto - An open source MQTT broker",
       "language": "C",
       "language_color": "#555555",
-      "stars": 11484,
-      "forks": 2676,
-      "delta_stars": 116,
+      "stars": 11489,
+      "forks": 2677,
+      "delta_stars": 45,
       "url": "https://github.com/eclipse-mosquitto/mosquitto"
     },
     {
@@ -129,9 +129,9 @@
       "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
       "language": "C",
       "language_color": "#555555",
-      "stars": 4124,
-      "forks": 1641,
-      "delta_stars": 55,
+      "stars": 4133,
+      "forks": 1649,
+      "delta_stars": 62,
       "url": "https://github.com/meshcore-dev/MeshCore"
     }
   ]
