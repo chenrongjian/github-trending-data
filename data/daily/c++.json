@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T02:58:19.465Z",
+  "generated_at": "2026-11-25T00:55:58.046Z",
   "since": "daily",
   "language": "c++",
   "count": 12,
@@ -12,9 +12,9 @@
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 12303,
-      "forks": 3680,
-      "delta_stars": 184,
+      "stars": 12466,
+      "forks": 3693,
+      "delta_stars": 185,
       "url": "https://github.com/openvinotoolkit/openvino"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 61041,
-      "forks": 5930,
-      "delta_stars": 792,
+      "stars": 61304,
+      "forks": 5951,
+      "delta_stars": 469,
       "url": "https://github.com/boykopovar/AnyPS5"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Official inference framework for 1-bit LLMs",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 42448,
-      "forks": 4009,
-      "delta_stars": 33,
+      "stars": 42462,
+      "forks": 4010,
+      "delta_stars": 19,
       "url": "https://github.com/microsoft/BitNet"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Open-source simulator for autonomous driving research.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 14693,
-      "forks": 4753,
-      "delta_stars": 16,
+      "stars": 14699,
+      "forks": 4754,
+      "delta_stars": 8,
       "url": "https://github.com/carla-simulator/carla"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Intrinsic Core™ provides an open, local runtime, SDK, and hardware agnostic, real-time control framework for industrial robotics.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 784,
-      "forks": 100,
-      "delta_stars": 5,
+      "stars": 792,
+      "forks": 101,
+      "delta_stars": 7,
       "url": "https://github.com/intrinsic-ai/intrinsic-core"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 16177,
-      "forks": 1914,
-      "delta_stars": 70,
+      "stars": 16205,
+      "forks": 1916,
+      "delta_stars": 33,
       "url": "https://github.com/k2-fsa/sherpa-onnx"
     },
     {
@@ -90,7 +90,7 @@
       "description": "Fast C++ logging library.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 29804,
+      "stars": 29816,
       "forks": 5334,
       "delta_stars": 9,
       "url": "https://github.com/gabime/spdlog"
@@ -103,9 +103,9 @@
       "description": "A local inference engine for Apple silicon, built around the model.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 2686,
-      "forks": 254,
-      "delta_stars": 47,
+      "stars": 2744,
+      "forks": 262,
+      "delta_stars": 57,
       "url": "https://github.com/incoai/splash"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, CAN capture, steering mode + more. Works via OBD-II or X179 connector.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 1369,
+      "stars": 1378,
       "forks": 446,
-      "delta_stars": 24,
+      "delta_stars": 14,
       "url": "https://github.com/hypery11/flipper-tesla-fsd"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 7120,
-      "forks": 1522,
-      "delta_stars": 12,
+      "stars": 7125,
+      "forks": 1526,
+      "delta_stars": 5,
       "url": "https://github.com/kvcache-ai/Mooncake"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 6827,
+      "stars": 6831,
       "forks": 961,
-      "delta_stars": 8,
+      "delta_stars": 5,
       "url": "https://github.com/google/perfetto"
     },
     {
@@ -155,9 +155,9 @@
       "description": "JSON for Modern C++",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 50966,
-      "forks": 7569,
-      "delta_stars": 16,
+      "stars": 50980,
+      "forks": 7573,
+      "delta_stars": 11,
       "url": "https://github.com/nlohmann/json"
     }
   ]

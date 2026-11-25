@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T02:58:19.465Z",
+  "generated_at": "2026-11-25T00:55:58.046Z",
   "since": "weekly",
   "language": "php",
   "count": 17,
@@ -12,9 +12,9 @@
       "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 6652,
-      "forks": 1949,
-      "delta_stars": 32,
+      "stars": 6656,
+      "forks": 1950,
+      "delta_stars": 30,
       "url": "https://github.com/glpi-project/glpi"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Own the flow: one open-source AI platform for your knowledge, models and channels – web, WhatsApp, email, Outlook, Nextcloud & ownCloud. Local and cloud models side by side, with the cost on every answer.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 1187,
-      "forks": 130,
-      "delta_stars": 296,
+      "stars": 1243,
+      "forks": 134,
+      "delta_stars": 328,
       "url": "https://github.com/metadist/synaplan"
     },
     {
@@ -38,7 +38,7 @@
       "description": "EspoCRM – Open Source CRM Application",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 3657,
+      "stars": 3665,
       "forks": 1059,
       "delta_stars": 37,
       "url": "https://github.com/espocrm/espocrm"
@@ -51,9 +51,9 @@
       "description": "A free open source IT asset/license management system",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 15242,
-      "forks": 4080,
-      "delta_stars": 55,
+      "stars": 15250,
+      "forks": 4082,
+      "delta_stars": 63,
       "url": "https://github.com/grokability/snipe-it"
     },
     {
@@ -64,9 +64,9 @@
       "description": "mailcow: dockerized - 🐮 + 🐋 = 💕",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 13862,
-      "forks": 1877,
-      "delta_stars": 39,
+      "stars": 13867,
+      "forks": 1875,
+      "delta_stars": 35,
       "url": "https://github.com/mailcow/mailcow-dockerized"
     },
     {
@@ -78,8 +78,8 @@
       "language": "PHP",
       "language_color": "#4F5D95",
       "stars": 5934,
-      "forks": 737,
-      "delta_stars": 6,
+      "forks": 738,
+      "delta_stars": 7,
       "url": "https://github.com/vimeo/psalm"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Free and Open Source ERP software",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 12283,
+      "stars": 12289,
       "forks": 632,
-      "delta_stars": 44,
+      "delta_stars": 43,
       "url": "https://github.com/aureuserp/aureuserp"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Damn Vulnerable Web Application (DVWA)",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 14076,
-      "forks": 5277,
-      "delta_stars": 43,
+      "stars": 14080,
+      "forks": 5279,
+      "delta_stars": 41,
       "url": "https://github.com/digininja/DVWA"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 5176,
-      "forks": 894,
-      "delta_stars": 15,
+      "stars": 5178,
+      "forks": 895,
+      "delta_stars": 13,
       "url": "https://github.com/kimai/kimai"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 24202,
-      "forks": 1696,
-      "delta_stars": 39,
+      "stars": 24205,
+      "forks": 1698,
+      "delta_stars": 37,
       "url": "https://github.com/krayin/laravel-crm"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Firefly III: a personal finances manager",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 25326,
+      "stars": 25333,
       "forks": 2412,
-      "delta_stars": 77,
+      "delta_stars": 78,
       "url": "https://github.com/firefly-iii/firefly-iii"
     },
     {
@@ -155,9 +155,9 @@
       "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 74914,
-      "forks": 25185,
-      "delta_stars": 130,
+      "stars": 74937,
+      "forks": 25187,
+      "delta_stars": 132,
       "url": "https://github.com/danielmiessler/SecLists"
     },
     {
@@ -168,9 +168,9 @@
       "description": "☁️ Nextcloud server, a safe home for all your data",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 37619,
+      "stars": 37628,
       "forks": 5383,
-      "delta_stars": 101,
+      "delta_stars": 107,
       "url": "https://github.com/nextcloud/server"
     },
     {
@@ -181,9 +181,9 @@
       "description": "wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 13068,
+      "stars": 13066,
       "forks": 921,
-      "delta_stars": 14,
+      "delta_stars": 13,
       "url": "https://github.com/wallabag/wallabag"
     },
     {
@@ -194,9 +194,9 @@
       "description": "An open-source framework for building polished, maintainable business software with Laravel.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 32547,
-      "forks": 4254,
-      "delta_stars": 52,
+      "stars": 32562,
+      "forks": 4259,
+      "delta_stars": 60,
       "url": "https://github.com/filamentphp/filament"
     },
     {
@@ -207,8 +207,8 @@
       "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 22046,
-      "forks": 2942,
+      "stars": 22049,
+      "forks": 2944,
       "delta_stars": 22,
       "url": "https://github.com/matomo-org/matomo"
     },
@@ -220,9 +220,9 @@
       "description": "The most popular open source electronic health records and medical practice management solution.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 5620,
-      "forks": 3141,
-      "delta_stars": 18,
+      "stars": 5626,
+      "forks": 3143,
+      "delta_stars": 23,
       "url": "https://github.com/openemr/openemr"
     }
   ]

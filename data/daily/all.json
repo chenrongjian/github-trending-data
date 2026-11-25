@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T02:58:19.465Z",
+  "generated_at": "2026-11-25T00:55:58.046Z",
   "since": "daily",
   "language": "all",
   "count": 16,
@@ -12,9 +12,9 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 19923,
-      "forks": 2112,
-      "delta_stars": 2029,
+      "stars": 21478,
+      "forks": 2232,
+      "delta_stars": 1826,
       "url": "https://github.com/elementalsouls/Claude-BugHunter"
     },
     {
@@ -25,9 +25,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 325165,
-      "forks": 28840,
-      "delta_stars": 840,
+      "stars": 325813,
+      "forks": 28908,
+      "delta_stars": 1003,
       "url": "https://github.com/obra/superpowers"
     },
     {
@@ -38,9 +38,9 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 63765,
-      "forks": 5796,
-      "delta_stars": 790,
+      "stars": 64780,
+      "forks": 5908,
+      "delta_stars": 1074,
       "url": "https://github.com/HKUDS/CLI-Anything"
     },
     {
@@ -51,9 +51,9 @@
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 69552,
-      "forks": 9080,
-      "delta_stars": 828,
+      "stars": 70194,
+      "forks": 9137,
+      "delta_stars": 727,
       "url": "https://github.com/jingyaogong/minimind"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 18850,
-      "forks": 2046,
-      "delta_stars": 397,
+      "stars": 19224,
+      "forks": 2078,
+      "delta_stars": 360,
       "url": "https://github.com/cursor/plugins"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 208016,
-      "forks": 10868,
-      "delta_stars": 924,
+      "stars": 208940,
+      "forks": 10917,
+      "delta_stars": 991,
       "url": "https://github.com/firecrawl/firecrawl"
     },
     {
@@ -90,9 +90,9 @@
       "description": "The official NGINX Open Source repository.",
       "language": "C",
       "language_color": "#555555",
-      "stars": 33071,
-      "forks": 8395,
-      "delta_stars": 174,
+      "stars": 33221,
+      "forks": 8394,
+      "delta_stars": 158,
       "url": "https://github.com/nginx/nginx"
     },
     {
@@ -103,9 +103,9 @@
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 12303,
-      "forks": 3680,
-      "delta_stars": 184,
+      "stars": 12465,
+      "forks": 3693,
+      "delta_stars": 185,
       "url": "https://github.com/openvinotoolkit/openvino"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "language_color": "#e34c26",
-      "stars": 71056,
-      "forks": 4752,
-      "delta_stars": 620,
+      "stars": 72033,
+      "forks": 4807,
+      "delta_stars": 802,
       "url": "https://github.com/cathrynlavery/diagram-design"
     },
     {
@@ -129,9 +129,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 73499,
-      "forks": 6482,
-      "delta_stars": 797,
+      "stars": 74217,
+      "forks": 6542,
+      "delta_stars": 703,
       "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
@@ -142,9 +142,9 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 12340,
-      "forks": 1515,
-      "delta_stars": 422,
+      "stars": 12655,
+      "forks": 1525,
+      "delta_stars": 403,
       "url": "https://github.com/google-labs-code/stitch-skills"
     },
     {
@@ -155,9 +155,9 @@
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 5047,
-      "forks": 320,
-      "delta_stars": 761,
+      "stars": 5851,
+      "forks": 378,
+      "delta_stars": 928,
       "url": "https://github.com/mjmirza/app-store-compliance"
     },
     {
@@ -168,9 +168,9 @@
       "description": "The open-source agent for CI/CD reliability.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 14865,
-      "forks": 1992,
-      "delta_stars": 436,
+      "stars": 15193,
+      "forks": 2011,
+      "delta_stars": 398,
       "url": "https://github.com/Tracer-Cloud/opensre"
     },
     {
@@ -181,9 +181,9 @@
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 77442,
-      "forks": 5665,
-      "delta_stars": 595,
+      "stars": 77991,
+      "forks": 5697,
+      "delta_stars": 584,
       "url": "https://github.com/toeverything/AFFiNE"
     },
     {
@@ -194,9 +194,9 @@
       "description": "The only downloader you need. 下载器的集大成者。",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 16427,
-      "forks": 990,
-      "delta_stars": 1087,
+      "stars": 17332,
+      "forks": 1051,
+      "delta_stars": 1092,
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3"
     },
     {
@@ -207,9 +207,9 @@
       "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 14524,
-      "forks": 2216,
-      "delta_stars": 907,
+      "stars": 15333,
+      "forks": 2266,
+      "delta_stars": 980,
       "url": "https://github.com/zhouxiaoka/autoclip"
     }
   ]

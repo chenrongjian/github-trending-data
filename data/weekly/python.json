@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T02:58:19.465Z",
+  "generated_at": "2026-11-25T00:55:58.046Z",
   "since": "weekly",
   "language": "python",
   "count": 15,
@@ -12,9 +12,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 73499,
-      "forks": 6482,
-      "delta_stars": 5448,
+      "stars": 74217,
+      "forks": 6542,
+      "delta_stars": 5369,
       "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 8087,
-      "forks": 1513,
-      "delta_stars": 1903,
+      "stars": 8302,
+      "forks": 1540,
+      "delta_stars": 1504,
       "url": "https://github.com/tradermonty/claude-trading-skills"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 10270,
-      "forks": 897,
-      "delta_stars": 3891,
+      "stars": 10681,
+      "forks": 918,
+      "delta_stars": 2993,
       "url": "https://github.com/kajisho5/ffmpeg-skill"
     },
     {
@@ -51,9 +51,9 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 74029,
-      "forks": 58245,
-      "delta_stars": 1283,
+      "stars": 74327,
+      "forks": 58447,
+      "delta_stars": 1321,
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
     },
     {
@@ -64,9 +64,9 @@
       "description": "",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 19560,
-      "forks": 2803,
-      "delta_stars": 177,
+      "stars": 19580,
+      "forks": 2805,
+      "delta_stars": 168,
       "url": "https://github.com/andrewyng/openworker"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 199524,
-      "forks": 23350,
-      "delta_stars": 3660,
+      "stars": 199977,
+      "forks": 23394,
+      "delta_stars": 3411,
       "url": "https://github.com/anthropics/skills"
     },
     {
@@ -90,9 +90,9 @@
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 69553,
-      "forks": 9080,
-      "delta_stars": 3904,
+      "stars": 70197,
+      "forks": 9137,
+      "delta_stars": 4353,
       "url": "https://github.com/jingyaogong/minimind"
     },
     {
@@ -103,9 +103,9 @@
       "description": "An open-source OpusClip alternative",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 4134,
-      "forks": 985,
-      "delta_stars": 837,
+      "stars": 4170,
+      "forks": 994,
+      "delta_stars": 784,
       "url": "https://github.com/FujiwaraChoki/supoclip"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 34147,
-      "forks": 4106,
-      "delta_stars": 303,
+      "stars": 34182,
+      "forks": 4115,
+      "delta_stars": 283,
       "url": "https://github.com/davila7/claude-code-templates"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Open-source AI red teaming toolkit from Microsoft. Test generative AI systems with automated scans, adaptive multi-turn attacks, and a web UI.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 5039,
-      "forks": 1117,
-      "delta_stars": 164,
+      "stars": 5057,
+      "forks": 1122,
+      "delta_stars": 141,
       "url": "https://github.com/microsoft/PyRIT"
     },
     {
@@ -142,9 +142,9 @@
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 41212,
-      "forks": 3334,
-      "delta_stars": 424,
+      "stars": 41242,
+      "forks": 3338,
+      "delta_stars": 411,
       "url": "https://github.com/soxoj/maigret"
     },
     {
@@ -155,9 +155,9 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 19923,
-      "forks": 2112,
-      "delta_stars": 12335,
+      "stars": 21479,
+      "forks": 2232,
+      "delta_stars": 12581,
       "url": "https://github.com/elementalsouls/Claude-BugHunter"
     },
     {
@@ -168,9 +168,9 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 80186,
-      "forks": 9846,
-      "delta_stars": 565,
+      "stars": 80253,
+      "forks": 9861,
+      "delta_stars": 570,
       "url": "https://github.com/ComposioHQ/awesome-claude-skills"
     },
     {
@@ -181,9 +181,9 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 41053,
-      "forks": 3723,
-      "delta_stars": 255,
+      "stars": 41091,
+      "forks": 3722,
+      "delta_stars": 264,
       "url": "https://github.com/PostHog/posthog"
     },
     {
@@ -194,9 +194,9 @@
       "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 14524,
-      "forks": 2216,
-      "delta_stars": 3727,
+      "stars": 15333,
+      "forks": 2266,
+      "delta_stars": 4558,
       "url": "https://github.com/zhouxiaoka/autoclip"
     }
   ]

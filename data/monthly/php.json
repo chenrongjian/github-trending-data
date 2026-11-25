@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T02:58:19.465Z",
+  "generated_at": "2026-11-25T00:55:58.046Z",
   "since": "monthly",
   "language": "php",
   "count": 20,
@@ -12,9 +12,9 @@
       "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 66401,
-      "forks": 6011,
-      "delta_stars": 3038,
+      "stars": 66443,
+      "forks": 6016,
+      "delta_stars": 2907,
       "url": "https://github.com/coollabsio/coolify"
     },
     {
@@ -25,9 +25,9 @@
       "description": "The Symfony PHP framework",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 31452,
-      "forks": 9958,
-      "delta_stars": 531,
+      "stars": 31454,
+      "forks": 9959,
+      "delta_stars": 532,
       "url": "https://github.com/symfony/symfony"
     },
     {
@@ -38,9 +38,9 @@
       "description": "☁️ Nextcloud server, a safe home for all your data",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 37619,
+      "stars": 37628,
       "forks": 5383,
-      "delta_stars": 446,
+      "delta_stars": 436,
       "url": "https://github.com/nextcloud/server"
     },
     {
@@ -51,9 +51,9 @@
       "description": "mailcow: dockerized - 🐮 + 🐋 = 💕",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 13862,
-      "forks": 1877,
-      "delta_stars": 219,
+      "stars": 13867,
+      "forks": 1875,
+      "delta_stars": 207,
       "url": "https://github.com/mailcow/mailcow-dockerized"
     },
     {
@@ -65,8 +65,8 @@
       "language": "PHP",
       "language_color": "#4F5D95",
       "stars": 7297,
-      "forks": 1821,
-      "delta_stars": 67,
+      "forks": 1820,
+      "delta_stars": 66,
       "url": "https://github.com/roundcube/roundcubemail"
     },
     {
@@ -78,8 +78,8 @@
       "language": "PHP",
       "language_color": "#4F5D95",
       "stars": 10610,
-      "forks": 10671,
-      "delta_stars": 67,
+      "forks": 10669,
+      "delta_stars": 66,
       "url": "https://github.com/woocommerce/woocommerce"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Laravel is a web application framework with expressive, elegant syntax.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 35088,
-      "forks": 12072,
-      "delta_stars": 157,
+      "stars": 35114,
+      "forks": 12075,
+      "delta_stars": 190,
       "url": "https://github.com/laravel/framework"
     },
     {
@@ -103,9 +103,9 @@
       "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 10890,
+      "stars": 10896,
       "forks": 1135,
-      "delta_stars": 226,
+      "delta_stars": 223,
       "url": "https://github.com/nextcloud/all-in-one"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Dependency Manager for PHP",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 29591,
-      "forks": 4868,
-      "delta_stars": 59,
+      "stars": 29590,
+      "forks": 4867,
+      "delta_stars": 58,
       "url": "https://github.com/composer/composer"
     },
     {
@@ -129,7 +129,7 @@
       "description": "openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 7106,
+      "stars": 7111,
       "forks": 623,
       "delta_stars": 103,
       "url": "https://github.com/openmediavault/openmediavault"
@@ -142,9 +142,9 @@
       "description": "Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 5176,
-      "forks": 894,
-      "delta_stars": 92,
+      "stars": 5178,
+      "forks": 895,
+      "delta_stars": 93,
       "url": "https://github.com/kimai/kimai"
     },
     {
@@ -157,7 +157,7 @@
       "language_color": "#4F5D95",
       "stars": 22346,
       "forks": 9760,
-      "delta_stars": 69,
+      "delta_stars": 66,
       "url": "https://github.com/PHPMailer/PHPMailer"
     },
     {
@@ -168,9 +168,9 @@
       "description": "A free open source IT asset/license management system",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 15242,
-      "forks": 4080,
-      "delta_stars": 185,
+      "stars": 15250,
+      "forks": 4082,
+      "delta_stars": 184,
       "url": "https://github.com/grokability/snipe-it"
     },
     {
@@ -181,8 +181,8 @@
       "description": "Guzzle, an extensible PHP HTTP client",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 23441,
-      "forks": 2394,
+      "stars": 23440,
+      "forks": 2395,
       "delta_stars": 20,
       "url": "https://github.com/guzzle/guzzle"
     },
@@ -194,9 +194,9 @@
       "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 23596,
+      "stars": 23598,
       "forks": 1766,
-      "delta_stars": 34,
+      "delta_stars": 36,
       "url": "https://github.com/livewire/livewire"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Own the flow: one open-source AI platform for your knowledge, models and channels – web, WhatsApp, email, Outlook, Nextcloud & ownCloud. Local and cloud models side by side, with the cost on every answer.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 1187,
-      "forks": 130,
-      "delta_stars": 1278,
+      "stars": 1243,
+      "forks": 134,
+      "delta_stars": 1330,
       "url": "https://github.com/metadist/synaplan"
     },
     {
@@ -222,7 +222,7 @@
       "language_color": "#4F5D95",
       "stars": 10616,
       "forks": 2818,
-      "delta_stars": 318,
+      "delta_stars": 319,
       "url": "https://github.com/invoiceninja/invoiceninja"
     },
     {
@@ -233,9 +233,9 @@
       "description": "SuiteCRM - Open source CRM for the world",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 5876,
-      "forks": 2444,
-      "delta_stars": 77,
+      "stars": 5877,
+      "forks": 2446,
+      "delta_stars": 80,
       "url": "https://github.com/SuiteCRM/SuiteCRM"
     },
     {
@@ -246,7 +246,7 @@
       "description": "The PHP Unit Testing framework.",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 20078,
+      "stars": 20077,
       "forks": 2213,
       "delta_stars": 30,
       "url": "https://github.com/sebastianbergmann/phpunit"
@@ -259,9 +259,9 @@
       "description": "A web interface for MySQL and MariaDB",
       "language": "PHP",
       "language_color": "#4F5D95",
-      "stars": 7978,
+      "stars": 7979,
       "forks": 3625,
-      "delta_stars": 38,
+      "delta_stars": 39,
       "url": "https://github.com/phpmyadmin/phpmyadmin"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T02:58:19.465Z",
+  "generated_at": "2026-11-25T00:55:58.046Z",
   "since": "weekly",
   "language": "java",
   "count": 17,
@@ -12,8 +12,8 @@
       "description": "JDK main-line development https://openjdk.org/projects/jdk",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 23567,
-      "forks": 6559,
+      "stars": 23575,
+      "forks": 6561,
       "delta_stars": 44,
       "url": "https://github.com/openjdk/jdk"
     },
@@ -25,9 +25,9 @@
       "description": "一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 48598,
+      "stars": 48611,
       "forks": 16217,
-      "delta_stars": 111,
+      "delta_stars": 122,
       "url": "https://github.com/jeecgboot/JeecgBoot"
     },
     {
@@ -38,9 +38,9 @@
       "description": "A browser automation framework and ecosystem.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 34610,
-      "forks": 8737,
-      "delta_stars": 30,
+      "stars": 34609,
+      "forks": 8735,
+      "delta_stars": 25,
       "url": "https://github.com/SeleniumHQ/selenium"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 1438,
-      "forks": 88,
-      "delta_stars": 68,
+      "stars": 1440,
+      "forks": 89,
+      "delta_stars": 56,
       "url": "https://github.com/jean-voila/FeurStagram"
     },
     {
@@ -64,9 +64,9 @@
       "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 6245,
-      "forks": 1208,
-      "delta_stars": 47,
+      "stars": 6248,
+      "forks": 1209,
+      "delta_stars": 46,
       "url": "https://github.com/TGX-Android/Telegram-X"
     },
     {
@@ -77,9 +77,9 @@
       "description": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 12280,
-      "forks": 2690,
-      "delta_stars": 26,
+      "stars": 12284,
+      "forks": 2691,
+      "delta_stars": 24,
       "url": "https://github.com/StarRocks/starrocks"
     },
     {
@@ -90,8 +90,8 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 40897,
-      "forks": 4024,
+      "stars": 40919,
+      "forks": 4030,
       "delta_stars": 158,
       "url": "https://github.com/TeamNewPipe/NewPipe"
     },
@@ -103,9 +103,9 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 38017,
-      "forks": 9236,
-      "delta_stars": 139,
+      "stars": 38037,
+      "forks": 9241,
+      "delta_stars": 138,
       "url": "https://github.com/keycloak/keycloak"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Apache NiFi",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 6332,
+      "stars": 6334,
       "forks": 3013,
-      "delta_stars": 13,
+      "delta_stars": 11,
       "url": "https://github.com/apache/nifi"
     },
     {
@@ -129,9 +129,9 @@
       "description": "轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。",
       "language": "Kotlin",
       "language_color": "#A97BFF",
-      "stars": 3702,
-      "forks": 497,
-      "delta_stars": 123,
+      "stars": 3713,
+      "forks": 498,
+      "delta_stars": 125,
       "url": "https://github.com/MewX/light-novel-library_Wenku8_Android"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 78719,
+      "stars": 78765,
       "forks": 26147,
-      "delta_stars": 453,
+      "delta_stars": 313,
       "url": "https://github.com/elastic/elasticsearch"
     },
     {
@@ -155,9 +155,9 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 65568,
-      "forks": 8415,
-      "delta_stars": 584,
+      "stars": 65633,
+      "forks": 8433,
+      "delta_stars": 570,
       "url": "https://github.com/termux/termux-app"
     },
     {
@@ -181,9 +181,9 @@
       "description": "LeviLauncher for Android",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 733,
-      "forks": 211,
-      "delta_stars": 14,
+      "stars": 738,
+      "forks": 213,
+      "delta_stars": 15,
       "url": "https://github.com/LiteLDev/LeviLauncher-Android"
     },
     {
@@ -194,9 +194,9 @@
       "description": "LSPosed Framework",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 25620,
+      "stars": 25632,
       "forks": 3596,
-      "delta_stars": 123,
+      "delta_stars": 118,
       "url": "https://github.com/LSPosed/LSPosed"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Apache Iceberg",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 9452,
-      "forks": 3706,
-      "delta_stars": 18,
+      "stars": 9453,
+      "forks": 3707,
+      "delta_stars": 14,
       "url": "https://github.com/apache/iceberg"
     },
     {
@@ -220,9 +220,9 @@
       "description": "Model-rocketry aerodynamics and trajectory simulation software",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 3275,
-      "forks": 723,
-      "delta_stars": 37,
+      "stars": 3278,
+      "forks": 725,
+      "delta_stars": 31,
       "url": "https://github.com/openrocket/openrocket"
     }
   ]

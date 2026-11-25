@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T02:58:19.465Z",
+  "generated_at": "2026-11-25T00:55:58.046Z",
   "since": "weekly",
   "language": "c++",
   "count": 21,
@@ -12,9 +12,9 @@
       "description": "A library for efficient similarity search and clustering of dense vectors.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 41895,
-      "forks": 4665,
-      "delta_stars": 163,
+      "stars": 41911,
+      "forks": 4667,
+      "delta_stars": 146,
       "url": "https://github.com/facebookresearch/faiss"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 5699,
-      "forks": 388,
-      "delta_stars": 2655,
+      "stars": 5879,
+      "forks": 414,
+      "delta_stars": 2675,
       "url": "https://github.com/Likely7/Veyra-NRVideo"
     },
     {
@@ -38,9 +38,9 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 136093,
-      "forks": 25991,
-      "delta_stars": 1455,
+      "stars": 136150,
+      "forks": 26043,
+      "delta_stars": 1265,
       "url": "https://github.com/ggml-org/llama.cpp"
     },
     {
@@ -51,9 +51,9 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 39771,
-      "forks": 11000,
-      "delta_stars": 38,
+      "stars": 39779,
+      "forks": 11001,
+      "delta_stars": 41,
       "url": "https://github.com/google/googletest"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Tensor library for machine learning",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 16173,
-      "forks": 2091,
-      "delta_stars": 96,
+      "stars": 16189,
+      "forks": 2093,
+      "delta_stars": 90,
       "url": "https://github.com/ggml-org/ggml"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Official inference framework for 1-bit LLMs",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 42448,
-      "forks": 4009,
-      "delta_stars": 874,
+      "stars": 42462,
+      "forks": 4010,
+      "delta_stars": 881,
       "url": "https://github.com/microsoft/BitNet"
     },
     {
@@ -90,9 +90,9 @@
       "description": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 16609,
+      "stars": 16616,
       "forks": 2546,
-      "delta_stars": 67,
+      "delta_stars": 65,
       "url": "https://github.com/alibaba/MNN"
     },
     {
@@ -103,9 +103,9 @@
       "description": "",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 735,
-      "forks": 78,
-      "delta_stars": 71,
+      "stars": 752,
+      "forks": 79,
+      "delta_stars": 62,
       "url": "https://github.com/dariulone/cyberpunk-vr-port"
     },
     {
@@ -116,9 +116,9 @@
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 12303,
-      "forks": 3680,
-      "delta_stars": 1088,
+      "stars": 12466,
+      "forks": 3693,
+      "delta_stars": 1236,
       "url": "https://github.com/openvinotoolkit/openvino"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Predatory ESP32 Firmware",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 7371,
-      "forks": 2505,
-      "delta_stars": 98,
+      "stars": 7387,
+      "forks": 2515,
+      "delta_stars": 100,
       "url": "https://github.com/BruceDevices/firmware"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Share a single keyboard and mouse between multiple computers.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 31630,
-      "forks": 5188,
-      "delta_stars": 378,
+      "stars": 31670,
+      "forks": 5192,
+      "delta_stars": 364,
       "url": "https://github.com/deskflow/deskflow"
     },
     {
@@ -155,9 +155,9 @@
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 18439,
-      "forks": 2232,
-      "delta_stars": 281,
+      "stars": 18464,
+      "forks": 2233,
+      "delta_stars": 234,
       "url": "https://github.com/google-deepmind/mujoco"
     },
     {
@@ -168,9 +168,9 @@
       "description": "Port of OpenAI's Whisper model in C/C++",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 55459,
-      "forks": 6345,
-      "delta_stars": 229,
+      "stars": 55493,
+      "forks": 6350,
+      "delta_stars": 246,
       "url": "https://github.com/ggml-org/whisper.cpp"
     },
     {
@@ -181,9 +181,9 @@
       "description": "Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, CAN capture, steering mode + more. Works via OBD-II or X179 connector.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 1369,
+      "stars": 1378,
       "forks": 446,
-      "delta_stars": 85,
+      "delta_stars": 87,
       "url": "https://github.com/hypery11/flipper-tesla-fsd"
     },
     {
@@ -194,9 +194,9 @@
       "description": "qBittorrent BitTorrent client",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 41851,
-      "forks": 5005,
-      "delta_stars": 195,
+      "stars": 41889,
+      "forks": 5012,
+      "delta_stars": 196,
       "url": "https://github.com/qbittorrent/qBittorrent"
     },
     {
@@ -207,8 +207,8 @@
       "description": "Open-source simulator for autonomous driving research.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 14693,
-      "forks": 4753,
+      "stars": 14699,
+      "forks": 4754,
       "delta_stars": 81,
       "url": "https://github.com/carla-simulator/carla"
     },
@@ -220,9 +220,9 @@
       "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 51086,
-      "forks": 9311,
-      "delta_stars": 141,
+      "stars": 51112,
+      "forks": 9319,
+      "delta_stars": 152,
       "url": "https://github.com/ClickHouse/ClickHouse"
     },
     {
@@ -233,9 +233,9 @@
       "description": "An open-source 3DS emulator project based on Citra.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 8770,
-      "forks": 867,
-      "delta_stars": 76,
+      "stars": 8780,
+      "forks": 868,
+      "delta_stars": 73,
       "url": "https://github.com/azahar-emu/azahar"
     },
     {
@@ -246,9 +246,9 @@
       "description": "An unofficial PC port of the Xbox 360 version of Sonic the Hedgehog (2006) created through the process of static recompilation",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 989,
-      "forks": 229,
-      "delta_stars": 78,
+      "stars": 995,
+      "forks": 232,
+      "delta_stars": 56,
       "url": "https://github.com/sonicnext-dev/MarathonRecomp"
     },
     {
@@ -259,9 +259,9 @@
       "description": "🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 16106,
-      "forks": 1732,
-      "delta_stars": 114,
+      "stars": 16122,
+      "forks": 1738,
+      "delta_stars": 115,
       "url": "https://github.com/organicmaps/organicmaps"
     },
     {
@@ -272,9 +272,9 @@
       "description": "Fast and minimalist 3D viewer.",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 5096,
-      "forks": 486,
-      "delta_stars": 26,
+      "stars": 5100,
+      "forks": 487,
+      "delta_stars": 31,
       "url": "https://github.com/f3d-app/f3d"
     }
   ]
