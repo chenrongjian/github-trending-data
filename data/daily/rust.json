@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T00:55:58.046Z",
+  "generated_at": "2026-11-26T00:33:00.419Z",
   "since": "daily",
   "language": "rust",
   "count": 14,
@@ -12,9 +12,9 @@
       "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 46086,
-      "forks": 3258,
-      "delta_stars": 34,
+      "stars": 46146,
+      "forks": 3266,
+      "delta_stars": 45,
       "url": "https://github.com/janhq/jan"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 6052,
-      "forks": 248,
-      "delta_stars": 20,
+      "stars": 6077,
+      "forks": 249,
+      "delta_stars": 28,
       "url": "https://github.com/malisper/pgrust"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Extremely fast Query Engine for DataFrames, written in Rust",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 40487,
-      "forks": 3263,
-      "delta_stars": 25,
+      "stars": 40509,
+      "forks": 3268,
+      "delta_stars": 30,
       "url": "https://github.com/pola-rs/polars"
     },
     {
@@ -51,9 +51,9 @@
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 31323,
-      "forks": 2848,
-      "delta_stars": 108,
+      "stars": 31432,
+      "forks": 2855,
+      "delta_stars": 101,
       "url": "https://github.com/t8y2/dbx"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 45896,
-      "forks": 6701,
-      "delta_stars": 18,
+      "stars": 45916,
+      "forks": 6703,
+      "delta_stars": 25,
       "url": "https://github.com/juspay/hyperswitch"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 33905,
-      "forks": 3586,
-      "delta_stars": 128,
+      "stars": 34041,
+      "forks": 3604,
+      "delta_stars": 135,
       "url": "https://github.com/lbjlaq/Antigravity-Manager"
     },
     {
@@ -90,9 +90,9 @@
       "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 5573,
-      "forks": 383,
-      "delta_stars": 7,
+      "stars": 5582,
+      "forks": 385,
+      "delta_stars": 8,
       "url": "https://github.com/SaladDay/cc-switch-cli"
     },
     {
@@ -103,8 +103,8 @@
       "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 9254,
-      "forks": 1030,
+      "stars": 9266,
+      "forks": 1031,
       "delta_stars": 14,
       "url": "https://github.com/0xPlaygrounds/rig"
     },
@@ -116,9 +116,9 @@
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 87718,
-      "forks": 5631,
-      "delta_stars": 131,
+      "stars": 87846,
+      "forks": 5638,
+      "delta_stars": 125,
       "url": "https://github.com/rtk-ai/rtk"
     },
     {
@@ -129,9 +129,9 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 131281,
-      "forks": 21208,
-      "delta_stars": 269,
+      "stars": 131478,
+      "forks": 21247,
+      "delta_stars": 246,
       "url": "https://github.com/rustdesk/rustdesk"
     },
     {
@@ -142,9 +142,9 @@
       "description": "A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 11760,
-      "forks": 1382,
-      "delta_stars": 28,
+      "stars": 11779,
+      "forks": 1386,
+      "delta_stars": 22,
       "url": "https://github.com/perspective-dev/perspective"
     },
     {
@@ -155,9 +155,9 @@
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 18820,
-      "forks": 1596,
-      "delta_stars": 17,
+      "stars": 18837,
+      "forks": 1599,
+      "delta_stars": 13,
       "url": "https://github.com/louis-e/arnis"
     },
     {
@@ -168,9 +168,9 @@
       "description": "A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 9744,
-      "forks": 851,
-      "delta_stars": 18,
+      "stars": 9764,
+      "forks": 854,
+      "delta_stars": 17,
       "url": "https://github.com/wealthfolio/wealthfolio"
     },
     {
@@ -181,9 +181,9 @@
       "description": "A Flash Player emulator written in Rust",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 18942,
-      "forks": 1202,
-      "delta_stars": 12,
+      "stars": 18954,
+      "forks": 1204,
+      "delta_stars": 13,
       "url": "https://github.com/ruffle-rs/ruffle"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T00:55:58.046Z",
+  "generated_at": "2026-11-26T00:33:00.419Z",
   "since": "monthly",
   "language": "go",
   "count": 21,
@@ -12,9 +12,9 @@
       "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 41016,
-      "forks": 3752,
-      "delta_stars": 20773,
+      "stars": 41478,
+      "forks": 3810,
+      "delta_stars": 20593,
       "url": "https://github.com/yetone/magpie"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 188018,
-      "forks": 19176,
-      "delta_stars": 4293,
+      "stars": 188138,
+      "forks": 19208,
+      "delta_stars": 4284,
       "url": "https://github.com/ollama/ollama"
     },
     {
@@ -38,9 +38,9 @@
       "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 67840,
-      "forks": 11035,
-      "delta_stars": 1540,
+      "stars": 67895,
+      "forks": 11040,
+      "delta_stars": 1569,
       "url": "https://github.com/prometheus/prometheus"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Define and run multi-container applications with Docker",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 39033,
-      "forks": 6049,
-      "delta_stars": 1394,
+      "stars": 39103,
+      "forks": 6050,
+      "delta_stars": 1472,
       "url": "https://github.com/docker/compose"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Modern Docker Management, Designed for Everyone",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 10401,
-      "forks": 590,
-      "delta_stars": 2387,
+      "stars": 10486,
+      "forks": 598,
+      "delta_stars": 2449,
       "url": "https://github.com/getarcaneapp/arcane"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 39698,
-      "forks": 934,
-      "delta_stars": 1060,
+      "stars": 39748,
+      "forks": 941,
+      "delta_stars": 1080,
       "url": "https://github.com/aquasecurity/trivy"
     },
     {
@@ -90,9 +90,9 @@
       "description": "freehire — the open-source search engine for job seekers",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 3684,
+      "stars": 3727,
       "forks": 404,
-      "delta_stars": 944,
+      "delta_stars": 922,
       "url": "https://github.com/strelov1/freehire"
     },
     {
@@ -103,9 +103,9 @@
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 72314,
-      "forks": 19341,
-      "delta_stars": 454,
+      "stars": 72319,
+      "forks": 19343,
+      "delta_stars": 456,
       "url": "https://github.com/moby/moby"
     },
     {
@@ -116,9 +116,9 @@
       "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 31262,
-      "forks": 1883,
-      "delta_stars": 1151,
+      "stars": 31283,
+      "forks": 1886,
+      "delta_stars": 1140,
       "url": "https://github.com/netbirdio/netbird"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Declarative Continuous Deployment for Kubernetes",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 24685,
-      "forks": 8119,
-      "delta_stars": 262,
+      "stars": 24696,
+      "forks": 8123,
+      "delta_stars": 266,
       "url": "https://github.com/argoproj/argo-cd"
     },
     {
@@ -142,9 +142,9 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 47184,
-      "forks": 9442,
-      "delta_stars": 575,
+      "stars": 47211,
+      "forks": 9457,
+      "delta_stars": 588,
       "url": "https://github.com/cli/cli"
     },
     {
@@ -155,9 +155,9 @@
       "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 94661,
-      "forks": 11390,
-      "delta_stars": 2062,
+      "stars": 94712,
+      "forks": 11403,
+      "delta_stars": 2083,
       "url": "https://github.com/infiniflow/ragflow"
     },
     {
@@ -168,9 +168,9 @@
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 17887,
-      "forks": 1728,
-      "delta_stars": 1798,
+      "stars": 17926,
+      "forks": 1732,
+      "delta_stars": 1808,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     {
@@ -181,9 +181,9 @@
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 8395,
-      "forks": 1330,
-      "delta_stars": 1599,
+      "stars": 8417,
+      "forks": 1336,
+      "delta_stars": 1595,
       "url": "https://github.com/gosom/google-maps-scraper"
     },
     {
@@ -194,9 +194,9 @@
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 59242,
-      "forks": 7423,
-      "delta_stars": 696,
+      "stars": 59260,
+      "forks": 7428,
+      "delta_stars": 708,
       "url": "https://github.com/go-gitea/gitea"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 57745,
-      "forks": 7588,
-      "delta_stars": 4237,
+      "stars": 57924,
+      "forks": 7616,
+      "delta_stars": 4371,
       "url": "https://github.com/multica-ai/multica"
     },
     {
@@ -220,9 +220,9 @@
       "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 61243,
-      "forks": 5734,
-      "delta_stars": 869,
+      "stars": 61277,
+      "forks": 5742,
+      "delta_stars": 865,
       "url": "https://github.com/rclone/rclone"
     },
     {
@@ -233,8 +233,8 @@
       "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 11618,
-      "forks": 861,
+      "stars": 11630,
+      "forks": 864,
       "delta_stars": 376,
       "url": "https://github.com/google/osv-scanner"
     },
@@ -246,9 +246,9 @@
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 52649,
-      "forks": 10626,
-      "delta_stars": 508,
+      "stars": 52652,
+      "forks": 10633,
+      "delta_stars": 509,
       "url": "https://github.com/etcd-io/etcd"
     },
     {
@@ -259,9 +259,9 @@
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 39570,
-      "forks": 3541,
-      "delta_stars": 1647,
+      "stars": 39621,
+      "forks": 3551,
+      "delta_stars": 1654,
       "url": "https://github.com/tailscale/tailscale"
     },
     {
@@ -272,9 +272,9 @@
       "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 18186,
-      "forks": 1816,
-      "delta_stars": 319,
+      "stars": 18205,
+      "forks": 1817,
+      "delta_stars": 334,
       "url": "https://github.com/VictoriaMetrics/VictoriaMetrics"
     }
   ]

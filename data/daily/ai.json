@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T00:55:58.046Z",
+  "generated_at": "2026-11-26T00:33:00.419Z",
   "since": "daily",
   "language": "ai",
   "count": 11,
@@ -9,12 +9,12 @@
       "owner": "elementalsouls",
       "name": "Claude-BugHunter",
       "full_name": "elementalsouls/Claude-BugHunter",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 21478,
-      "forks": 2232,
-      "delta_stars": 1826,
+      "stars": 22987,
+      "forks": 2349,
+      "delta_stars": 1652,
       "url": "https://github.com/elementalsouls/Claude-BugHunter"
     },
     {
@@ -25,9 +25,9 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 64780,
-      "forks": 5908,
-      "delta_stars": 1074,
+      "stars": 65669,
+      "forks": 5976,
+      "delta_stars": 1106,
       "url": "https://github.com/HKUDS/CLI-Anything"
     },
     {
@@ -38,9 +38,9 @@
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 70194,
-      "forks": 9137,
-      "delta_stars": 727,
+      "stars": 70935,
+      "forks": 9223,
+      "delta_stars": 826,
       "url": "https://github.com/jingyaogong/minimind"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 208940,
-      "forks": 10917,
-      "delta_stars": 991,
+      "stars": 210025,
+      "forks": 10987,
+      "delta_stars": 1135,
       "url": "https://github.com/firecrawl/firecrawl"
     },
     {
@@ -64,9 +64,9 @@
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
       "language_color": "#f34b7d",
-      "stars": 12465,
-      "forks": 3693,
-      "delta_stars": 185,
+      "stars": 12651,
+      "forks": 3714,
+      "delta_stars": 191,
       "url": "https://github.com/openvinotoolkit/openvino"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "language_color": "#e34c26",
-      "stars": 72033,
-      "forks": 4807,
-      "delta_stars": 802,
+      "stars": 73019,
+      "forks": 4859,
+      "delta_stars": 1141,
       "url": "https://github.com/cathrynlavery/diagram-design"
     },
     {
@@ -90,9 +90,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 74217,
-      "forks": 6542,
-      "delta_stars": 703,
+      "stars": 75103,
+      "forks": 6623,
+      "delta_stars": 945,
       "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
@@ -103,9 +103,9 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 12655,
-      "forks": 1525,
-      "delta_stars": 403,
+      "stars": 12977,
+      "forks": 1538,
+      "delta_stars": 355,
       "url": "https://github.com/google-labs-code/stitch-skills"
     },
     {
@@ -113,12 +113,12 @@
       "owner": "mjmirza",
       "name": "app-store-compliance",
       "full_name": "mjmirza/app-store-compliance",
-      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 5851,
-      "forks": 378,
-      "delta_stars": 928,
+      "stars": 6469,
+      "forks": 419,
+      "delta_stars": 858,
       "url": "https://github.com/mjmirza/app-store-compliance"
     },
     {
@@ -129,9 +129,9 @@
       "description": "The open-source agent for CI/CD reliability.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 15193,
-      "forks": 2011,
-      "delta_stars": 398,
+      "stars": 15513,
+      "forks": 2030,
+      "delta_stars": 348,
       "url": "https://github.com/Tracer-Cloud/opensre"
     },
     {
@@ -142,9 +142,9 @@
       "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 15333,
-      "forks": 2266,
-      "delta_stars": 980,
+      "stars": 16142,
+      "forks": 2330,
+      "delta_stars": 880,
       "url": "https://github.com/zhouxiaoka/autoclip"
     }
   ]

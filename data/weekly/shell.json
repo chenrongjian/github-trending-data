@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T00:55:58.046Z",
+  "generated_at": "2026-11-26T00:33:00.419Z",
   "since": "weekly",
   "language": "shell",
   "count": 13,
@@ -12,9 +12,9 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 96292,
-      "forks": 10719,
-      "delta_stars": 461,
+      "stars": 96321,
+      "forks": 10720,
+      "delta_stars": 371,
       "url": "https://github.com/nvm-sh/nvm"
     },
     {
@@ -25,9 +25,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 325813,
-      "forks": 28908,
-      "delta_stars": 7279,
+      "stars": 326607,
+      "forks": 28984,
+      "delta_stars": 6046,
       "url": "https://github.com/obra/superpowers"
     },
     {
@@ -38,9 +38,9 @@
       "description": "",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 752,
+      "stars": 755,
       "forks": 61,
-      "delta_stars": 48,
+      "delta_stars": 33,
       "url": "https://github.com/itsnotkubrick/3X-UI_KIT"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Open-Box 一体化透明代理：OpenWrt / Debian / Ubuntu / Docker；自有程序闭源，第三方组件遵守原许可。",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 2887,
-      "forks": 536,
-      "delta_stars": 119,
+      "stars": 2899,
+      "forks": 541,
+      "delta_stars": 110,
       "url": "https://github.com/liandu2024/Open-Box"
     },
     {
@@ -64,9 +64,9 @@
       "description": "A black hole for Internet advertisements",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 62208,
-      "forks": 3398,
-      "delta_stars": 137,
+      "stars": 62228,
+      "forks": 3402,
+      "delta_stars": 129,
       "url": "https://github.com/pi-hole/pi-hole"
     },
     {
@@ -77,9 +77,9 @@
       "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 190830,
-      "forks": 27125,
-      "delta_stars": 448,
+      "stars": 190892,
+      "forks": 27129,
+      "delta_stars": 449,
       "url": "https://github.com/ohmyzsh/ohmyzsh"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 22496,
-      "forks": 5566,
-      "delta_stars": 74,
+      "stars": 22503,
+      "forks": 5563,
+      "delta_stars": 71,
       "url": "https://github.com/mack-a/v2ray-agent"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 332184,
-      "forks": 27923,
-      "delta_stars": 5677,
+      "stars": 332885,
+      "forks": 27993,
+      "delta_stars": 5670,
       "url": "https://github.com/mattpocock/skills"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Official agent plugin providing skills and MCP server configurations for Azure scenarios.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 1673,
+      "stars": 1675,
       "forks": 275,
-      "delta_stars": 22,
+      "delta_stars": 20,
       "url": "https://github.com/microsoft/azure-skills"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Универсальный менеджер для обхода блокировок на OpenWrt",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 2305,
+      "stars": 2313,
       "forks": 108,
-      "delta_stars": 52,
+      "delta_stars": 56,
       "url": "https://github.com/StressOzz/Zapret-Manager"
     },
     {
@@ -142,9 +142,9 @@
       "description": "A package build system for Termux.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 17442,
-      "forks": 4586,
-      "delta_stars": 53,
+      "stars": 17448,
+      "forks": 4589,
+      "delta_stars": 47,
       "url": "https://github.com/termux/termux-packages"
     },
     {
@@ -155,9 +155,9 @@
       "description": "最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 Hysteria2 协议；支持 TUIC，Trojan，REALITY 等所有常见的协议",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 5671,
-      "forks": 1916,
-      "delta_stars": 152,
+      "stars": 5686,
+      "forks": 1918,
+      "delta_stars": 144,
       "url": "https://github.com/233boy/sing-box"
     },
     {
@@ -168,9 +168,9 @@
       "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 26676,
-      "forks": 2716,
-      "delta_stars": 118,
+      "stars": 26691,
+      "forks": 2718,
+      "delta_stars": 111,
       "url": "https://github.com/a2aproject/A2A"
     }
   ]

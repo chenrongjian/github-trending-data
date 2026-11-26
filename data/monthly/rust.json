@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T00:55:58.046Z",
+  "generated_at": "2026-11-26T00:33:00.419Z",
   "since": "monthly",
   "language": "rust",
   "count": 21,
@@ -12,9 +12,9 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 116297,
-      "forks": 6941,
-      "delta_stars": 30688,
+      "stars": 116892,
+      "forks": 6992,
+      "delta_stars": 30151,
       "url": "https://github.com/pbakaus/impeccable"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 53801,
+      "stars": 53984,
       "forks": 3770,
-      "delta_stars": 9395,
+      "delta_stars": 9541,
       "url": "https://github.com/vercel-labs/agent-browser"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 12738,
-      "forks": 512,
-      "delta_stars": 3335,
+      "stars": 12747,
+      "forks": 513,
+      "delta_stars": 3325,
       "url": "https://github.com/max-sixty/worktrunk"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 95662,
-      "forks": 11831,
-      "delta_stars": 4040,
+      "stars": 95746,
+      "forks": 11847,
+      "delta_stars": 4105,
       "url": "https://github.com/zed-industries/zed"
     },
     {
@@ -64,9 +64,9 @@
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 40083,
-      "forks": 3785,
-      "delta_stars": 5623,
+      "stars": 40238,
+      "forks": 3800,
+      "delta_stars": 5714,
       "url": "https://github.com/cjpais/Handy"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 6408,
-      "forks": 1130,
-      "delta_stars": 876,
+      "stars": 6433,
+      "forks": 1133,
+      "delta_stars": 872,
       "url": "https://github.com/agentgateway/agentgateway"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 26507,
-      "forks": 1991,
-      "delta_stars": 24824,
+      "stars": 26690,
+      "forks": 2006,
+      "delta_stars": 24956,
       "url": "https://github.com/vercel-labs/agent-desktop"
     },
     {
@@ -103,9 +103,9 @@
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 51464,
-      "forks": 2779,
-      "delta_stars": 2103,
+      "stars": 51541,
+      "forks": 2782,
+      "delta_stars": 2190,
       "url": "https://github.com/astral-sh/ruff"
     },
     {
@@ -116,9 +116,9 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 105069,
-      "forks": 13623,
-      "delta_stars": 6023,
+      "stars": 105191,
+      "forks": 13647,
+      "delta_stars": 5987,
       "url": "https://github.com/ruvnet/RuView"
     },
     {
@@ -129,9 +129,9 @@
       "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 21359,
-      "forks": 1329,
-      "delta_stars": 9168,
+      "stars": 21511,
+      "forks": 1332,
+      "delta_stars": 9075,
       "url": "https://github.com/xerj-org/xerj"
     },
     {
@@ -142,8 +142,8 @@
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 6472,
-      "forks": 606,
+      "stars": 6513,
+      "forks": 611,
       "delta_stars": 1608,
       "url": "https://github.com/macro-inc/macro"
     },
@@ -155,9 +155,9 @@
       "description": "Object-storage native graph database with branching and typed ontology",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 3263,
+      "stars": 3283,
       "forks": 345,
-      "delta_stars": 1535,
+      "delta_stars": 1539,
       "url": "https://github.com/ModernRelay/omnigraph"
     },
     {
@@ -165,12 +165,12 @@
       "owner": "jub0t",
       "name": "Concat",
       "full_name": "jub0t/Concat",
-      "description": "Beta: The open-source CapCut alternative. Scriptable through a JSON-RPC API & MCP.",
+      "description": "The open-source CapCut alternative.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 20005,
-      "forks": 2450,
-      "delta_stars": 8858,
+      "stars": 20193,
+      "forks": 2465,
+      "delta_stars": 8819,
       "url": "https://github.com/jub0t/Concat"
     },
     {
@@ -181,9 +181,9 @@
       "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 5046,
-      "forks": 518,
-      "delta_stars": 2884,
+      "stars": 5076,
+      "forks": 524,
+      "delta_stars": 2896,
       "url": "https://github.com/crmne/zapfast"
     },
     {
@@ -194,9 +194,9 @@
       "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 4217,
-      "forks": 534,
-      "delta_stars": 685,
+      "stars": 4225,
+      "forks": 536,
+      "delta_stars": 690,
       "url": "https://github.com/Mesh-LLM/mesh-llm"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 113117,
-      "forks": 4232,
-      "delta_stars": 1726,
+      "stars": 113172,
+      "forks": 4234,
+      "delta_stars": 1754,
       "url": "https://github.com/tauri-apps/tauri"
     },
     {
@@ -220,9 +220,9 @@
       "description": "A modern runtime for JavaScript and TypeScript.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 108993,
-      "forks": 6587,
-      "delta_stars": 1073,
+      "stars": 109028,
+      "forks": 6594,
+      "delta_stars": 1126,
       "url": "https://github.com/denoland/deno"
     },
     {
@@ -233,9 +233,9 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 96924,
-      "forks": 5223,
-      "delta_stars": 929,
+      "stars": 96975,
+      "forks": 5224,
+      "delta_stars": 1009,
       "url": "https://github.com/oven-sh/bun"
     },
     {
@@ -246,9 +246,9 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 16356,
-      "forks": 1240,
-      "delta_stars": 3229,
+      "stars": 16413,
+      "forks": 1250,
+      "delta_stars": 3048,
       "url": "https://github.com/akitaonrails/ai-memory"
     },
     {
@@ -259,9 +259,9 @@
       "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 25545,
-      "forks": 2433,
-      "delta_stars": 1923,
+      "stars": 25595,
+      "forks": 2442,
+      "delta_stars": 1906,
       "url": "https://github.com/CapSoftware/Cap"
     },
     {
@@ -272,9 +272,9 @@
       "description": "The Rust package manager",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 15792,
-      "forks": 3251,
-      "delta_stars": 195,
+      "stars": 15800,
+      "forks": 3252,
+      "delta_stars": 197,
       "url": "https://github.com/rust-lang/cargo"
     }
   ]

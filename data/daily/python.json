@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-25T00:55:58.046Z",
+  "generated_at": "2026-11-26T00:33:00.419Z",
   "since": "daily",
   "language": "python",
-  "count": 23,
+  "count": 24,
   "list": [
     {
       "rank": 1,
       "owner": "elementalsouls",
       "name": "Claude-BugHunter",
       "full_name": "elementalsouls/Claude-BugHunter",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 21478,
-      "forks": 2232,
-      "delta_stars": 1826,
+      "stars": 22987,
+      "forks": 2349,
+      "delta_stars": 1652,
       "url": "https://github.com/elementalsouls/Claude-BugHunter"
     },
     {
@@ -25,9 +25,9 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 64780,
-      "forks": 5908,
-      "delta_stars": 1074,
+      "stars": 65669,
+      "forks": 5976,
+      "delta_stars": 1106,
       "url": "https://github.com/HKUDS/CLI-Anything"
     },
     {
@@ -38,9 +38,9 @@
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 70195,
-      "forks": 9137,
-      "delta_stars": 727,
+      "stars": 70935,
+      "forks": 9223,
+      "delta_stars": 826,
       "url": "https://github.com/jingyaogong/minimind"
     },
     {
@@ -51,9 +51,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 74217,
-      "forks": 6542,
-      "delta_stars": 703,
+      "stars": 75103,
+      "forks": 6623,
+      "delta_stars": 945,
       "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
@@ -64,9 +64,9 @@
       "description": "The open-source agent for CI/CD reliability.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 15193,
-      "forks": 2011,
-      "delta_stars": 398,
+      "stars": 15513,
+      "forks": 2030,
+      "delta_stars": 348,
       "url": "https://github.com/Tracer-Cloud/opensre"
     },
     {
@@ -77,9 +77,9 @@
       "description": "The only downloader you need. 下载器的集大成者。",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 17332,
-      "forks": 1051,
-      "delta_stars": 1092,
+      "stars": 18237,
+      "forks": 1087,
+      "delta_stars": 951,
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3"
     },
     {
@@ -90,9 +90,9 @@
       "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 15333,
-      "forks": 2266,
-      "delta_stars": 980,
+      "stars": 16142,
+      "forks": 2330,
+      "delta_stars": 880,
       "url": "https://github.com/zhouxiaoka/autoclip"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 58424,
-      "forks": 4459,
-      "delta_stars": 163,
+      "stars": 58556,
+      "forks": 4467,
+      "delta_stars": 153,
       "url": "https://github.com/Imbad0202/academic-research-skills"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 42870,
-      "forks": 4538,
-      "delta_stars": 33,
+      "stars": 42894,
+      "forks": 4542,
+      "delta_stars": 26,
       "url": "https://github.com/wshobson/agents"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 47657,
-      "forks": 18399,
-      "delta_stars": 29,
+      "stars": 47675,
+      "forks": 18403,
+      "delta_stars": 17,
       "url": "https://github.com/apache/airflow"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 198283,
-      "forks": 15039,
-      "delta_stars": 202,
+      "stars": 198472,
+      "forks": 15066,
+      "delta_stars": 207,
       "url": "https://github.com/microsoft/markitdown"
     },
     {
@@ -155,9 +155,9 @@
       "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 10052,
-      "forks": 1365,
-      "delta_stars": 43,
+      "stars": 10079,
+      "forks": 1366,
+      "delta_stars": 29,
       "url": "https://github.com/SWE-agent/mini-swe-agent"
     },
     {
@@ -168,9 +168,9 @@
       "description": "A PyTorch native platform for training generative AI models",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 5973,
+      "stars": 5979,
       "forks": 1103,
-      "delta_stars": 11,
+      "delta_stars": 5,
       "url": "https://github.com/pytorch/torchtitan"
     },
     {
@@ -181,9 +181,9 @@
       "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 1670,
+      "stars": 1681,
       "forks": 352,
-      "delta_stars": 23,
+      "delta_stars": 11,
       "url": "https://github.com/awslabs/cli-agent-orchestrator"
     },
     {
@@ -194,9 +194,9 @@
       "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 3143,
-      "forks": 2828,
-      "delta_stars": 10,
+      "stars": 3151,
+      "forks": 2843,
+      "delta_stars": 8,
       "url": "https://github.com/vllm-project/vllm-ascend"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 4898,
-      "forks": 686,
-      "delta_stars": 285,
+      "stars": 4986,
+      "forks": 695,
+      "delta_stars": 90,
       "url": "https://github.com/FlashML-org/FreeVideo"
     },
     {
@@ -220,9 +220,9 @@
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 8869,
-      "forks": 882,
-      "delta_stars": 72,
+      "stars": 9026,
+      "forks": 903,
+      "delta_stars": 48,
       "url": "https://github.com/superdesigndev/treg"
     },
     {
@@ -233,74 +233,87 @@
       "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 43037,
-      "forks": 5381,
-      "delta_stars": 207,
+      "stars": 43197,
+      "forks": 5420,
+      "delta_stars": 206,
       "url": "https://github.com/p-e-w/heretic"
     },
     {
       "rank": 19,
+      "owner": "samuelgursky",
+      "name": "davinci-resolve-mcp",
+      "full_name": "samuelgursky/davinci-resolve-mcp",
+      "description": "MCP server integration for DaVinci Resolve Studio",
+      "language": "Python",
+      "language_color": "#3572A5",
+      "stars": 4374,
+      "forks": 497,
+      "delta_stars": 27,
+      "url": "https://github.com/samuelgursky/davinci-resolve-mcp"
+    },
+    {
+      "rank": 20,
       "owner": "github",
       "name": "spec-kit",
       "full_name": "github/spec-kit",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 151283,
-      "forks": 13596,
-      "delta_stars": 145,
+      "stars": 151382,
+      "forks": 13610,
+      "delta_stars": 120,
       "url": "https://github.com/github/spec-kit"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "owner": "phone-harness",
       "name": "phone-harness",
       "full_name": "phone-harness/phone-harness",
       "description": "let your agent control your phone",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 5718,
-      "forks": 599,
-      "delta_stars": 91,
+      "stars": 5817,
+      "forks": 615,
+      "delta_stars": 113,
       "url": "https://github.com/phone-harness/phone-harness"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "owner": "odoo",
       "name": "odoo",
       "full_name": "odoo/odoo",
       "description": "Odoo. Open Source Apps To Grow Your Business.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 56078,
-      "forks": 34411,
-      "delta_stars": 31,
+      "stars": 56104,
+      "forks": 34422,
+      "delta_stars": 24,
       "url": "https://github.com/odoo/odoo"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "owner": "agentscope-ai",
       "name": "agentscope",
       "full_name": "agentscope-ai/agentscope",
       "description": "Build and run agents you can see, understand and trust.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 36655,
-      "forks": 3924,
-      "delta_stars": 91,
+      "stars": 36715,
+      "forks": 3934,
+      "delta_stars": 72,
       "url": "https://github.com/agentscope-ai/agentscope"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "owner": "google-research",
       "name": "paper-orchestra",
       "full_name": "google-research/paper-orchestra",
       "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 6304,
-      "forks": 815,
-      "delta_stars": 160,
+      "stars": 6423,
+      "forks": 832,
+      "delta_stars": 121,
       "url": "https://github.com/google-research/paper-orchestra"
     }
   ]

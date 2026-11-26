@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-25T00:55:58.046Z",
+  "generated_at": "2026-11-26T00:33:00.419Z",
   "since": "daily",
   "language": "javascript",
-  "count": 10,
+  "count": 11,
   "list": [
     {
       "rank": 1,
@@ -12,9 +12,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 310218,
-      "forks": 45597,
-      "delta_stars": 675,
+      "stars": 310732,
+      "forks": 45651,
+      "delta_stars": 573,
       "url": "https://github.com/affaan-m/ECC"
     },
     {
@@ -25,9 +25,9 @@
       "description": "web development for the rest of us",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 89844,
-      "forks": 6076,
-      "delta_stars": 38,
+      "stars": 89930,
+      "forks": 6079,
+      "delta_stars": 136,
       "url": "https://github.com/sveltejs/svelte"
     },
     {
@@ -38,8 +38,8 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 10410,
-      "forks": 1310,
+      "stars": 10419,
+      "forks": 1314,
       "delta_stars": 8,
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
     },
@@ -51,9 +51,9 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 34873,
-      "forks": 3041,
-      "delta_stars": 62,
+      "stars": 34924,
+      "forks": 3049,
+      "delta_stars": 56,
       "url": "https://github.com/vercel-labs/agent-skills"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Antigravity, Claude Code, Codex, Copilot, DeepSeek Harness, Gemini, Grok Build, Kimi Code, MiniMax Code, Muse, OMP, OpenCode, Pi, Prime Agent, etc versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 4832,
-      "forks": 448,
-      "delta_stars": 59,
+      "stars": 4882,
+      "forks": 453,
+      "delta_stars": 51,
       "url": "https://github.com/michael-denyer/pstack-claude"
     },
     {
@@ -90,9 +90,9 @@
       "description": "WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 3433,
-      "forks": 377,
-      "delta_stars": 42,
+      "stars": 3463,
+      "forks": 378,
+      "delta_stars": 31,
       "url": "https://github.com/babygoton/WorkDaddy"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 198070,
-      "forks": 11211,
-      "delta_stars": 586,
+      "stars": 198724,
+      "forks": 11273,
+      "delta_stars": 672,
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 35436,
-      "forks": 2468,
-      "delta_stars": 43,
+      "stars": 35453,
+      "forks": 2473,
+      "delta_stars": 20,
       "url": "https://github.com/openai/codex-plugin-cc"
     },
     {
@@ -129,10 +129,23 @@
       "description": "jQuery JavaScript Library",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 60133,
+      "stars": 60165,
       "forks": 20635,
-      "delta_stars": 4,
+      "delta_stars": 34,
       "url": "https://github.com/jquery/jquery"
+    },
+    {
+      "rank": 11,
+      "owner": "qqxpee",
+      "name": "antigravity2-cn",
+      "full_name": "qqxpee/antigravity2-cn",
+      "description": "🚀 Antigravity 2.0 Chinese Localization Suite & Injector. 专为 2.0 新版 Electron 架构量身定制的零依赖中文汉化包。基于 ASAR 物理层动态包注入机制，完美汉化界面、系统菜单、任务栏托盘及设置面板，支持一键极速安装与无痕还原。",
+      "language": "JavaScript",
+      "language_color": "#f1e05a",
+      "stars": 2472,
+      "forks": 121,
+      "delta_stars": 238,
+      "url": "https://github.com/qqxpee/antigravity2-cn"
     }
   ]
 }
