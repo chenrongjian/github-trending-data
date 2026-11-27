@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:33:00.419Z",
+  "generated_at": "2026-11-27T00:41:19.183Z",
   "since": "daily",
   "language": "shell",
   "count": 17,
@@ -12,9 +12,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 326607,
-      "forks": 28984,
-      "delta_stars": 903,
+      "stars": 327486,
+      "forks": 29053,
+      "delta_stars": 854,
       "url": "https://github.com/obra/superpowers"
     },
     {
@@ -22,12 +22,12 @@
       "owner": "mjmirza",
       "name": "app-store-compliance",
       "full_name": "mjmirza/app-store-compliance",
-      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 6469,
-      "forks": 419,
-      "delta_stars": 858,
+      "stars": 7029,
+      "forks": 470,
+      "delta_stars": 562,
       "url": "https://github.com/mjmirza/app-store-compliance"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 96321,
-      "forks": 10720,
-      "delta_stars": 30,
+      "stars": 96335,
+      "forks": 10714,
+      "delta_stars": 24,
       "url": "https://github.com/nvm-sh/nvm"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Open-Box 一体化透明代理：OpenWrt / Debian / Ubuntu / Docker；自有程序闭源，第三方组件遵守原许可。",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 2899,
-      "forks": 541,
-      "delta_stars": 14,
+      "stars": 2909,
+      "forks": 543,
+      "delta_stars": 13,
       "url": "https://github.com/liandu2024/Open-Box"
     },
     {
@@ -64,9 +64,9 @@
       "description": "",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 755,
+      "stars": 762,
       "forks": 61,
-      "delta_stars": 4,
+      "delta_stars": 8,
       "url": "https://github.com/itsnotkubrick/3X-UI_KIT"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Official agent plugin providing skills and MCP server configurations for Azure scenarios.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 1675,
+      "stars": 1679,
       "forks": 275,
-      "delta_stars": 2,
+      "delta_stars": 4,
       "url": "https://github.com/microsoft/azure-skills"
     },
     {
@@ -90,9 +90,9 @@
       "description": "最好用的 V2Ray 一键安装脚本 & 管理脚本",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 29928,
-      "forks": 16498,
-      "delta_stars": 12,
+      "stars": 29929,
+      "forks": 16496,
+      "delta_stars": 6,
       "url": "https://github.com/233boy/v2ray"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Skills for teaching agents how to build on Cloudflare.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 3460,
-      "forks": 368,
-      "delta_stars": 12,
+      "stars": 3466,
+      "forks": 370,
+      "delta_stars": 6,
       "url": "https://github.com/cloudflare/skills"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 332885,
-      "forks": 27993,
-      "delta_stars": 740,
+      "stars": 333600,
+      "forks": 28075,
+      "delta_stars": 756,
       "url": "https://github.com/mattpocock/skills"
     },
     {
@@ -129,7 +129,7 @@
       "description": "",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 12043,
+      "stars": 12046,
       "forks": 1587,
       "delta_stars": 4,
       "url": "https://github.com/FFmpeg-Builds/FFmpeg-Builds"
@@ -142,9 +142,9 @@
       "description": "Универсальный менеджер для обхода блокировок на OpenWrt",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 2313,
-      "forks": 108,
-      "delta_stars": 7,
+      "stars": 2324,
+      "forks": 109,
+      "delta_stars": 12,
       "url": "https://github.com/StressOzz/Zapret-Manager"
     },
     {
@@ -155,9 +155,9 @@
       "description": "A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 11566,
-      "forks": 1133,
-      "delta_stars": 8,
+      "stars": 11571,
+      "forks": 1134,
+      "delta_stars": 5,
       "url": "https://github.com/edoardottt/awesome-hacker-search-engines"
     },
     {
@@ -168,9 +168,9 @@
       "description": "OSS-Fuzz - continuous fuzzing for open source software.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 12988,
-      "forks": 3017,
-      "delta_stars": 4,
+      "stars": 12989,
+      "forks": 3018,
+      "delta_stars": 3,
       "url": "https://github.com/google/oss-fuzz"
     },
     {
@@ -181,9 +181,9 @@
       "description": "n8n skillset for Claude Code to build flawless n8n workflows",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 6711,
-      "forks": 1088,
-      "delta_stars": 5,
+      "stars": 6717,
+      "forks": 1091,
+      "delta_stars": 6,
       "url": "https://github.com/czlonkowski/n8n-skills"
     },
     {
@@ -194,9 +194,9 @@
       "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 4242,
-      "forks": 285,
-      "delta_stars": 15,
+      "stars": 4247,
+      "forks": 287,
+      "delta_stars": 5,
       "url": "https://github.com/expo/skills"
     },
     {
@@ -207,8 +207,8 @@
       "description": "Accountable long-running coding shifts for Cursor, Codex, and Claude Code. Safe autonomy, recovery, persistent state, and reviewable results: a clear view of what’s done, in progress, parked, or blocked—without scrolling a marathon chat.",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 599,
-      "forks": 28,
+      "stars": 604,
+      "forks": 30,
       "delta_stars": 11,
       "url": "https://github.com/orwa-mahmoud/nightshift"
     },
@@ -220,7 +220,7 @@
       "description": "🧰 The official Apps repository for Home Assistant",
       "language": "Shell",
       "language_color": "#89e051",
-      "stars": 2277,
+      "stars": 2279,
       "forks": 1875,
       "delta_stars": 2,
       "url": "https://github.com/home-assistant/apps"
