@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T00:41:19.183Z",
+  "generated_at": "2026-11-28T00:08:11.744Z",
   "since": "weekly",
   "language": "go",
   "count": 15,
@@ -12,9 +12,9 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 56644,
-      "forks": 4685,
-      "delta_stars": 2284,
+      "stars": 56891,
+      "forks": 4703,
+      "delta_stars": 2335,
       "url": "https://github.com/alibaba/open-code-review"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Modern Docker Management, Designed for Everyone",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 10583,
+      "stars": 10643,
       "forks": 599,
-      "delta_stars": 489,
+      "delta_stars": 470,
       "url": "https://github.com/getarcaneapp/arcane"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 8437,
-      "forks": 938,
-      "delta_stars": 656,
+      "stars": 8529,
+      "forks": 953,
+      "delta_stars": 535,
       "url": "https://github.com/agent-substrate/substrate"
     },
     {
@@ -51,9 +51,9 @@
       "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 3372,
-      "forks": 383,
-      "delta_stars": 130,
+      "stars": 3393,
+      "forks": 384,
+      "delta_stars": 133,
       "url": "https://github.com/runkids/skillshare"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 5994,
-      "forks": 857,
-      "delta_stars": 2175,
+      "stars": 6087,
+      "forks": 874,
+      "delta_stars": 1044,
       "url": "https://github.com/Tencent/LoopForge"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 17952,
-      "forks": 1739,
-      "delta_stars": 310,
+      "stars": 17982,
+      "forks": 1744,
+      "delta_stars": 274,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     {
@@ -90,9 +90,9 @@
       "description": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 123090,
-      "forks": 7201,
-      "delta_stars": 1683,
+      "stars": 123321,
+      "forks": 7219,
+      "delta_stars": 1674,
       "url": "https://github.com/JuliusBrussee/caveman"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 4549,
-      "forks": 946,
-      "delta_stars": 111,
+      "stars": 4564,
+      "forks": 949,
+      "delta_stars": 96,
       "url": "https://github.com/kagent-dev/kagent"
     },
     {
@@ -116,9 +116,9 @@
       "description": "The painless way to host your own Git service",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 48004,
-      "forks": 5078,
-      "delta_stars": 59,
+      "stars": 48009,
+      "forks": 5079,
+      "delta_stars": 56,
       "url": "https://github.com/gogs/gogs"
     },
     {
@@ -129,9 +129,9 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 47234,
-      "forks": 9460,
-      "delta_stars": 163,
+      "stars": 47276,
+      "forks": 9497,
+      "delta_stars": 176,
       "url": "https://github.com/cli/cli"
     },
     {
@@ -142,9 +142,9 @@
       "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 16484,
+      "stars": 16488,
       "forks": 1838,
-      "delta_stars": 62,
+      "delta_stars": 57,
       "url": "https://github.com/Billionmail/BillionMail"
     },
     {
@@ -155,9 +155,9 @@
       "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 11995,
-      "forks": 1131,
-      "delta_stars": 34,
+      "stars": 11998,
+      "forks": 1134,
+      "delta_stars": 35,
       "url": "https://github.com/kubescape/kubescape"
     },
     {
@@ -168,9 +168,9 @@
       "description": "Define and run multi-container applications with Docker",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 39131,
-      "forks": 6053,
-      "delta_stars": 427,
+      "stars": 39130,
+      "forks": 6077,
+      "delta_stars": 383,
       "url": "https://github.com/docker/compose"
     },
     {
@@ -181,9 +181,9 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 39801,
-      "forks": 954,
-      "delta_stars": 245,
+      "stars": 39832,
+      "forks": 960,
+      "delta_stars": 248,
       "url": "https://github.com/aquasecurity/trivy"
     },
     {
@@ -194,9 +194,9 @@
       "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 1507,
-      "forks": 373,
-      "delta_stars": 168,
+      "stars": 1539,
+      "forks": 378,
+      "delta_stars": 177,
       "url": "https://github.com/misakano7545/workbuddy2api-panel"
     }
   ]

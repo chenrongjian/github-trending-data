@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T00:41:19.183Z",
+  "generated_at": "2026-11-28T00:08:11.744Z",
   "since": "daily",
   "language": "go",
   "count": 13,
@@ -12,9 +12,9 @@
       "description": "OLake Go: open-source replication from databases, Kafka and S3 to Apache Iceberg and Parquet. Sources: Postgres, MySQL, MongoDB, Oracle, MSSQL, DB2, Kafka, S3. Formerly datazip-inc/olake. Table maintenance lives in datazip-inc/olake-fusion.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 2367,
-      "forks": 352,
-      "delta_stars": 16,
+      "stars": 2379,
+      "forks": 353,
+      "delta_stars": 12,
       "url": "https://github.com/datazip-inc/olake-go"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 35114,
-      "forks": 5643,
-      "delta_stars": 65,
+      "stars": 35178,
+      "forks": 5658,
+      "delta_stars": 77,
       "url": "https://github.com/vxcontrol/pentagi"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 5994,
-      "forks": 857,
-      "delta_stars": 97,
+      "stars": 6087,
+      "forks": 874,
+      "delta_stars": 95,
       "url": "https://github.com/Tencent/LoopForge"
     },
     {
@@ -51,9 +51,9 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 8437,
-      "forks": 938,
-      "delta_stars": 48,
+      "stars": 8529,
+      "forks": 953,
+      "delta_stars": 119,
       "url": "https://github.com/agent-substrate/substrate"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Modern Docker Management, Designed for Everyone",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 10583,
+      "stars": 10643,
       "forks": 599,
-      "delta_stars": 95,
+      "delta_stars": 77,
       "url": "https://github.com/getarcaneapp/arcane"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 58082,
-      "forks": 7638,
-      "delta_stars": 173,
+      "stars": 58200,
+      "forks": 7662,
+      "delta_stars": 132,
       "url": "https://github.com/multica-ai/multica"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 17952,
-      "forks": 1739,
-      "delta_stars": 29,
+      "stars": 17982,
+      "forks": 1744,
+      "delta_stars": 36,
       "url": "https://github.com/opensandbox-group/OpenSandbox"
     },
     {
@@ -103,9 +103,9 @@
       "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 21168,
-      "forks": 2064,
-      "delta_stars": 13,
+      "stars": 21188,
+      "forks": 2070,
+      "delta_stars": 27,
       "url": "https://github.com/nats-io/nats-server"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 29130,
-      "forks": 1962,
-      "delta_stars": 59,
+      "stars": 29165,
+      "forks": 1963,
+      "delta_stars": 43,
       "url": "https://github.com/gastownhall/beads"
     },
     {
@@ -129,9 +129,9 @@
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 13471,
-      "forks": 1249,
-      "delta_stars": 18,
+      "stars": 13480,
+      "forks": 1252,
+      "delta_stars": 13,
       "url": "https://github.com/TencentCloud/CubeSandbox"
     },
     {
@@ -142,9 +142,9 @@
       "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 2718,
-      "forks": 733,
-      "delta_stars": 25,
+      "stars": 2725,
+      "forks": 738,
+      "delta_stars": 14,
       "url": "https://github.com/Autumn-27/ScopeSentry"
     },
     {
@@ -155,9 +155,9 @@
       "description": "Develop desktop apps with native UI or web frontend in Go",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 6924,
-      "forks": 458,
-      "delta_stars": 54,
+      "stars": 7057,
+      "forks": 461,
+      "delta_stars": 133,
       "url": "https://github.com/egoist/mygo"
     },
     {
@@ -168,9 +168,9 @@
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 21589,
-      "forks": 2646,
-      "delta_stars": 38,
+      "stars": 21600,
+      "forks": 2648,
+      "delta_stars": 15,
       "url": "https://github.com/putyy/res-downloader"
     }
   ]

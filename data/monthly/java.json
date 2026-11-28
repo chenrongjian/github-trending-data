@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T00:41:19.183Z",
+  "generated_at": "2026-11-28T00:08:11.744Z",
   "since": "monthly",
   "language": "java",
   "count": 19,
@@ -12,9 +12,9 @@
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 78844,
-      "forks": 26152,
-      "delta_stars": 1101,
+      "stars": 78825,
+      "forks": 26153,
+      "delta_stars": 1108,
       "url": "https://github.com/elastic/elasticsearch"
     },
     {
@@ -25,9 +25,9 @@
       "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 32146,
-      "forks": 3578,
-      "delta_stars": 5084,
+      "stars": 32170,
+      "forks": 3584,
+      "delta_stars": 5082,
       "url": "https://github.com/floci-io/floci"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Morphe Patches",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 5197,
-      "forks": 429,
-      "delta_stars": 897,
+      "stars": 5218,
+      "forks": 436,
+      "delta_stars": 902,
       "url": "https://github.com/MorpheApp/morphe-patches"
     },
     {
@@ -51,9 +51,9 @@
       "description": "All Algorithms implemented in Java",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 67351,
+      "stars": 67354,
       "forks": 21534,
-      "delta_stars": 950,
+      "delta_stars": 853,
       "url": "https://github.com/TheAlgorithms/Java"
     },
     {
@@ -64,9 +64,9 @@
       "description": "A tool for reverse engineering Android apk files",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 27385,
-      "forks": 4276,
-      "delta_stars": 744,
+      "stars": 27396,
+      "forks": 4275,
+      "delta_stars": 724,
       "url": "https://github.com/iBotPeaches/Apktool"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Spring Framework",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 60333,
-      "forks": 38913,
-      "delta_stars": 115,
+      "stars": 60335,
+      "forks": 38914,
+      "delta_stars": 118,
       "url": "https://github.com/spring-projects/spring-framework"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی",
       "language": "Kotlin",
       "language_color": "#A97BFF",
-      "stars": 772,
-      "forks": 132,
-      "delta_stars": 237,
+      "stars": 773,
+      "forks": 133,
+      "delta_stars": 235,
       "url": "https://github.com/mlmvpn/mlmvpn_android"
     },
     {
@@ -103,9 +103,9 @@
       "description": "Mac.apk: Run Android apps natively on Apple Silicon Macs",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 4473,
-      "forks": 198,
-      "delta_stars": 1109,
+      "stars": 4491,
+      "forks": 201,
+      "delta_stars": 1030,
       "url": "https://github.com/kksimp/Mac.apk"
     },
     {
@@ -116,9 +116,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 101449,
-      "forks": 11551,
-      "delta_stars": 7096,
+      "stars": 101522,
+      "forks": 11567,
+      "delta_stars": 6796,
       "url": "https://github.com/NationalSecurityAgency/ghidra"
     },
     {
@@ -129,9 +129,9 @@
       "description": "JDK main-line development https://openjdk.org/projects/jdk",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 23583,
-      "forks": 6559,
-      "delta_stars": 158,
+      "stars": 23587,
+      "forks": 6557,
+      "delta_stars": 154,
       "url": "https://github.com/openjdk/jdk"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 4531,
-      "forks": 884,
-      "delta_stars": 189,
+      "stars": 4538,
+      "forks": 885,
+      "delta_stars": 184,
       "url": "https://github.com/DependencyTrack/dependency-track"
     },
     {
@@ -155,9 +155,9 @@
       "description": "LSPosed Framework",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 25667,
+      "stars": 25686,
       "forks": 3595,
-      "delta_stars": 581,
+      "delta_stars": 586,
       "url": "https://github.com/LSPosed/LSPosed"
     },
     {
@@ -168,9 +168,9 @@
       "description": "Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 677,
-      "forks": 148,
-      "delta_stars": 192,
+      "stars": 681,
+      "forks": 150,
+      "delta_stars": 195,
       "url": "https://github.com/appdevforall/CodeOnTheGo"
     },
     {
@@ -181,9 +181,9 @@
       "description": "轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。",
       "language": "Kotlin",
       "language_color": "#A97BFF",
-      "stars": 3746,
-      "forks": 500,
-      "delta_stars": 556,
+      "stars": 3771,
+      "forks": 503,
+      "delta_stars": 575,
       "url": "https://github.com/MewX/light-novel-library_Wenku8_Android"
     },
     {
@@ -194,9 +194,9 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 40968,
+      "stars": 40983,
       "forks": 4035,
-      "delta_stars": 787,
+      "delta_stars": 783,
       "url": "https://github.com/TeamNewPipe/NewPipe"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Open source GPS tracking platform - self-hosted or managed, 200+ device protocols",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 8197,
-      "forks": 3505,
-      "delta_stars": 282,
+      "stars": 8200,
+      "forks": 3511,
+      "delta_stars": 256,
       "url": "https://github.com/traccar/traccar"
     },
     {
@@ -220,9 +220,9 @@
       "description": "Automated mass refactoring of source code.",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 4018,
-      "forks": 612,
-      "delta_stars": 205,
+      "stars": 4020,
+      "forks": 613,
+      "delta_stars": 203,
       "url": "https://github.com/openrewrite/rewrite"
     },
     {
@@ -233,9 +233,9 @@
       "description": "Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 40414,
-      "forks": 10316,
-      "delta_stars": 477,
+      "stars": 40418,
+      "forks": 10315,
+      "delta_stars": 462,
       "url": "https://github.com/halo-dev/halo"
     },
     {
@@ -246,9 +246,9 @@
       "description": "Dual pane Android file manager with focus on APKs",
       "language": "Java",
       "language_color": "#b07219",
-      "stars": 706,
-      "forks": 94,
-      "delta_stars": 308,
+      "stars": 716,
+      "forks": 93,
+      "delta_stars": 295,
       "url": "https://github.com/AbdurazaaqMohammed/MP-Manager"
     }
   ]

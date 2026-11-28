@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T00:41:19.183Z",
+  "generated_at": "2026-11-28T00:08:11.744Z",
   "since": "monthly",
   "language": "all",
   "count": 19,
@@ -12,9 +12,9 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "language_color": "#663399",
-      "stars": 61647,
-      "forks": 3383,
-      "delta_stars": 26738,
+      "stars": 62081,
+      "forks": 3411,
+      "delta_stars": 24421,
       "url": "https://github.com/Nutlope/hallmark"
     },
     {
@@ -25,9 +25,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 78860,
-      "forks": 5345,
-      "delta_stars": 31165,
+      "stars": 79272,
+      "forks": 5374,
+      "delta_stars": 30171,
       "url": "https://github.com/cloudflare/security-audit-skill"
     },
     {
@@ -38,9 +38,9 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 28165,
-      "forks": 4018,
-      "delta_stars": 22590,
+      "stars": 28547,
+      "forks": 4060,
+      "delta_stars": 22900,
       "url": "https://github.com/milind-soni/OpenMausBot"
     },
     {
@@ -51,9 +51,9 @@
       "description": "The best way to control Claude Code, Codex and more from any computer or phone",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 80949,
-      "forks": 14289,
-      "delta_stars": 50354,
+      "stars": 82173,
+      "forks": 14477,
+      "delta_stars": 51428,
       "url": "https://github.com/pingdotgg/t3code"
     },
     {
@@ -64,9 +64,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 201045,
-      "forks": 23517,
-      "delta_stars": 17538,
+      "stars": 201510,
+      "forks": 23589,
+      "delta_stars": 17791,
       "url": "https://github.com/anthropics/skills"
     },
     {
@@ -77,9 +77,9 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 119994,
-      "forks": 10438,
-      "delta_stars": 17325,
+      "stars": 120212,
+      "forks": 10459,
+      "delta_stars": 17228,
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -90,9 +90,9 @@
       "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 9607,
-      "forks": 1634,
-      "delta_stars": 6511,
+      "stars": 9872,
+      "forks": 1653,
+      "delta_stars": 6548,
       "url": "https://github.com/Jakeschincariol/instagram-agent-skill"
     },
     {
@@ -103,9 +103,9 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 15259,
-      "forks": 1461,
-      "delta_stars": 5601,
+      "stars": 15424,
+      "forks": 1476,
+      "delta_stars": 5746,
       "url": "https://github.com/backnotprop/plannotator"
     },
     {
@@ -116,9 +116,9 @@
       "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "language": "JavaScript",
       "language_color": "#f1e05a",
-      "stars": 88175,
-      "forks": 2498,
-      "delta_stars": 46809,
+      "stars": 89106,
+      "forks": 2522,
+      "delta_stars": 45874,
       "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model"
     },
     {
@@ -129,9 +129,9 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 63283,
-      "forks": 7636,
-      "delta_stars": 20206,
+      "stars": 63794,
+      "forks": 7689,
+      "delta_stars": 19184,
       "url": "https://github.com/HKUDS/DeepTutor"
     },
     {
@@ -142,9 +142,9 @@
       "description": "Pool every plan you pay for — Claude, ChatGPT, Copilot, GLM Coding Plan, Kimi Code and more — and use them in any agent: Claude Code, Codex, Claude Desktop… When one runs out, the next takes over.",
       "language": "Go",
       "language_color": "#00ADD8",
-      "stars": 42024,
-      "forks": 3861,
-      "delta_stars": 20130,
+      "stars": 42526,
+      "forks": 3910,
+      "delta_stars": 19543,
       "url": "https://github.com/yetone/magpie"
     },
     {
@@ -155,9 +155,9 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 117536,
-      "forks": 7042,
-      "delta_stars": 29366,
+      "stars": 118051,
+      "forks": 7076,
+      "delta_stars": 28497,
       "url": "https://github.com/pbakaus/impeccable"
     },
     {
@@ -168,9 +168,9 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 118111,
-      "forks": 13477,
-      "delta_stars": 23328,
+      "stars": 118554,
+      "forks": 13518,
+      "delta_stars": 23807,
       "url": "https://github.com/sherlock-project/sherlock"
     },
     {
@@ -181,9 +181,9 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 32653,
-      "forks": 3968,
-      "delta_stars": 10958,
+      "stars": 32879,
+      "forks": 3988,
+      "delta_stars": 10462,
       "url": "https://github.com/AgriciDaniel/claude-seo"
     },
     {
@@ -194,9 +194,9 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 13290,
-      "forks": 1564,
-      "delta_stars": 4609,
+      "stars": 13589,
+      "forks": 1627,
+      "delta_stars": 4912,
       "url": "https://github.com/google-labs-code/stitch-skills"
     },
     {
@@ -207,9 +207,9 @@
       "description": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
       "language": "TypeScript",
       "language_color": "#3178c6",
-      "stars": 90878,
-      "forks": 8478,
-      "delta_stars": 18292,
+      "stars": 91519,
+      "forks": 8539,
+      "delta_stars": 18066,
       "url": "https://github.com/heygen-com/hyperframes"
     },
     {
@@ -220,9 +220,9 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 24575,
-      "forks": 2503,
-      "delta_stars": 18637,
+      "stars": 26054,
+      "forks": 2682,
+      "delta_stars": 20246,
       "url": "https://github.com/elementalsouls/Claude-BugHunter"
     },
     {
@@ -233,9 +233,9 @@
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "language": "Python",
       "language_color": "#3572A5",
-      "stars": 11530,
-      "forks": 962,
-      "delta_stars": 8408,
+      "stars": 11889,
+      "forks": 985,
+      "delta_stars": 8708,
       "url": "https://github.com/kajisho5/ffmpeg-skill"
     },
     {
@@ -246,9 +246,9 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "language_color": "#dea584",
-      "stars": 54155,
-      "forks": 3779,
-      "delta_stars": 9648,
+      "stars": 54327,
+      "forks": 3790,
+      "delta_stars": 9765,
       "url": "https://github.com/vercel-labs/agent-browser"
     }
   ]
